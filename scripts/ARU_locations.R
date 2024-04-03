@@ -73,7 +73,7 @@ tm_basemap(c('Esri.WorldImagery')) +
 
 # set seed
 
-set.seed(217)
+set.seed(651)
 
 aru_points <-
   polygons$aru %>% 
@@ -208,6 +208,11 @@ range(aru_nearest_neighbor$distance_m)
 
 rm(aru_points_dist)
 
+# to do next: 
+# set different shoreline buffer sizes across all sites: 40 m, 50 m, 100 m (combine 40 and 50 so have small and large island buffer sizes?)
+
+# use the following code to set minimum ARU distance of 250 m: https://www.jla-data.net/eng/creating-and-pruning-random-points-and-polygons/. Any need to use ARU polygons or just generate points in buffered site-level polygons?
+
 
 
 # export points to kml file for google earth. export a separate file (WGS 1984) to load gpx onto GPS
@@ -215,7 +220,7 @@ rm(aru_points_dist)
 
 # things to do/figure out:
 #   1) minimum distance that random points can be to each other
-#   2) is 40 meters an appropriate shoreline buffer? see Goodale MCHT report
+#   2) is 40 meters an appropriate shoreline buffer? see Goodale MCHT report and Zotero lit
   
 # need to make sure that for all ARU locations, the distance of detection radius entirely falls on land. If an ARU had a detection range partly in the ocean, we wouldn't be monitoring the same total area as a unit in the middle of the forest. -> compute distance matrix between points and the nearest point of the contiguous shoreline polygon
 
