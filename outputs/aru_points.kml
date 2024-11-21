@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>aru_points</name>
+  <Placemark>
+	<name>Great Wass 1</name>
+      <Point><coordinates>-67.5911400422856,44.4799377089475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Great Wass 2</name>
+      <Point><coordinates>-67.5830032948025,44.4720750877646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Great Wass 3</name>
+      <Point><coordinates>-67.5767230627088,44.4584348417713</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marshall 1</name>
+      <Point><coordinates>-68.5054875111095,44.1208547276918</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marshall 2</name>
+      <Point><coordinates>-68.5043665602352,44.1132691909026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marshall 3</name>
+      <Point><coordinates>-68.5154508854551,44.1094816416806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Penobscot 1</name>
+      <Point><coordinates>-68.8236299782185,44.0859569637642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Penobscot 2</name>
+      <Point><coordinates>-68.8185369234851,44.0909820661733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Penobscot 3</name>
+      <Point><coordinates>-68.8115343097607,44.0940909138514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western Head 1</name>
+      <Point><coordinates>-67.2015252888775,44.6483221929752</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western Head 2</name>
+      <Point><coordinates>-67.1979375260162,44.6452296070905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western Head 3</name>
+      <Point><coordinates>-67.2073377984782,44.6454562385338</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Flint 1</name>
+      <Point><coordinates>-67.7914430851021,44.4783753716981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Flint 2</name>
+      <Point><coordinates>-67.7877359835353,44.4741768903251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Turtle 1</name>
+      <Point><coordinates>-68.1019707645665,44.3628903830847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Turtle 2</name>
+      <Point><coordinates>-68.097831081232,44.3588791295393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pinkham 1</name>
+      <Point><coordinates>-67.8359748073251,44.5453846188512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pinkham 2</name>
+      <Point><coordinates>-67.8320693672656,44.5469274520838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lakeman 1</name>
+      <Point><coordinates>-67.4920759438036,44.576562816976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lakeman 2</name>
+      <Point><coordinates>-67.4885576760372,44.5785615411121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mark 1</name>
+      <Point><coordinates>-67.5325814601754,44.5318496828719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mark 2</name>
+      <Point><coordinates>-67.5356531407009,44.5309079655061</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Knight 1</name>
+      <Point><coordinates>-67.5396796248284,44.4790201336403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Big White 1</name>
+      <Point><coordinates>-68.9120075787062,44.0449201234372</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Big Garden 1</name>
+      <Point><coordinates>-68.9118191452335,44.0524224109981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Inner Sand 1</name>
+      <Point><coordinates>-67.6748438623263,44.4711182589559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Anguilla 1</name>
+      <Point><coordinates>-67.4718825732504,44.5682470414624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ned 1</name>
+      <Point><coordinates>-68.0906240545825,44.36623417917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Double Shot 1</name>
+      <Point><coordinates>-67.4809217745246,44.5633960856991</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Little Hardwood 1</name>
+      <Point><coordinates>-67.5564495687756,44.4974595347411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Double Head Shot 1</name>
+      <Point><coordinates>-67.2650272564754,44.6086570729468</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -2,7 +2,7 @@
 # ARU Locations Script
 # 
 # Date created: 10/27/2023
-# Date last modified: 4/2/2024
+# Date last modified: 4/5/2024
 # Created by: Elliot Johnston
 # 
 # Purpose: generate random coordinates for ARU deployment 
@@ -17,43 +17,54 @@
 library(sf)
 library(tmap)
 library(units)
+library(spsurvey)
 library(spatstat)
 library(tidyverse)
 
-# import site and ARU polygons. made polygons by hand in Google Earth and exported as .kml files
+# import site polygons. made polygons by hand in Google Earth and exported as .kml files
 
-polygons <-
+sites <-
   
-  # create list of files to read in
+  # read in file
   
-  list(
-    sites = st_read("data/raw/2024_site_polygons.kml"),
-    aru = st_read("data/raw/2024_ARU_polygons.kml")) %>% 
+  st_read("data/raw/2024_site_polygons.kml") %>% 
   
-  # map data cleaning steps
+  # remove Z coordinate (so just XY polygons)
   
-  purrr::map(
-    ~ .x %>% 
-      
-      # remove Z coordinate (so just XY polygons)
-      
-      st_zm() %>% 
-      
-      # transform CRS to projected UTM 19 N
-      
-      st_transform(crs = 32619) %>% 
-      
-      # set columns name to lower case and drop unnessary columns 
-      
-      set_names(
-        names(.) %>% 
-          tolower()) %>% 
-      select(-description))
+  st_zm() %>% 
+  
+  # transform CRS to projected UTM 19 N
+  
+  st_transform(crs = 32619) %>% 
+  
+  # set columns name to lower case and drop unnecessary columns 
+  
+  set_names(
+    names(.) %>% 
+      tolower()) %>% 
+  select(-description) %>% 
+  
+  # calculate site area and sort
+  
+  mutate(area = st_area(.) %>% 
+           units::set_units('ha')) %>% 
+  arrange(desc(area)) %>% 
+  
+  # classify sites into small (1 ARU), medium (2 ARU), large (3 ARU) sites
+  
+  mutate(size_class = 
+           case_when(
+             st_area(.) < set_units(10, ha) ~ 'small',
+             st_area(.) < set_units(80, ha) ~ 'medium',
+             .default = 'large') %>% 
+           as.factor(),
+         name = name %>% 
+           as.factor())
 
 
-# look at ARU object details
+# look at object details
 
-polygons$aru 
+sites
 
 
 # look at object on interactive map
@@ -61,42 +72,84 @@ polygons$aru
 tmap_mode("view")
 
 tm_basemap(c('Esri.WorldImagery')) +
-  polygons$aru %>% 
-  tm_shape(name = 'ARU Polygons') +
-  tm_polygons(alpha = 0.3)
+  sites %>% 
+  tm_shape(name = 'Sites') +
+  tm_polygons(alpha = 0.5)
+
+
+# import stratified ARU blocks (1, 2, and 3 blocks for small, medium, and large sites, respectively)
+
+aru_blocks <-
+  st_read("data/raw/2024_aru_polygons.kml") %>% 
+  st_zm() %>% 
+  st_transform(crs = 32619) %>% 
+  set_names(
+    names(.) %>% 
+      tolower()) %>% 
+  select(-description) %>% 
+  mutate(area = st_area(.) %>% 
+           units::set_units('ha')) %>% 
+  arrange(desc(area))
 
 
 
 # generate random ARU points ----------------------------------------------
 
-# can use shoreline buffer to also ensure that points in consecutive island polygons can't be too close to each other
+# buffer aru blocks from shoreline and each other. for larger blocks (> 10 ha) buffer is 100 m and for smaller islands (< 10 ha) buffer is 40 m
+
+aru_blocks_buffered <-
+  aru_blocks %>%
+  st_buffer(dist =
+              case_when(
+                st_area(.) > set_units(10, ha) ~ -100,
+                .default = -40))
+
+
+# generate random points (ARU locations)
+
+# see: https://cran.r-project.org/web/packages/spsurvey/vignettes/sampling.html 
 
 # set seed
 
-set.seed(651)
+set.seed(9382)
+
 
 aru_points <-
-  polygons$aru %>% 
+  aru_blocks_buffered %>% 
   
-  # set buffer (units in meters)
+  # generate random points. specify number of points to be generated within each polygon and minimum distance from each other 
   
-  st_buffer(dist = -40) %>%
+  grts(n_base = c('Great Wass 1' = 1, 'Great Wass 2' = 1, 'Great Wass 3' = 1,
+                  'Marshall 1' = 1, 'Marshall 2' = 1, 'Marshall 3' = 1,
+                  'Penobscot 1' = 1, 'Penobscot 2' = 1, 'Penobscot 3' = 1,
+                  'Western Head 1' = 1, 'Western Head 2' = 1, 'Western Head 3' = 1,
+                  'Flint 1' = 1, 'Flint 2' = 1,
+                  'Turtle 1' = 1, 'Turtle 2' = 1,
+                  'Pinkham 1' = 1, 'Pinkham 2' = 1,         
+                  'Lakeman 1' = 1, 'Lakeman 2' = 1,
+                  'Mark 1' = 1, 'Mark 2' = 1,
+                  'Knight 1' = 1,
+                  'Big White 1' = 1,
+                  'Big Garden 1' = 1,
+                  'Inner Sand 1' = 1,
+                  'Anguilla 1' = 1,        
+                  'Ned 1' = 1,
+                  'Double Shot 1' = 1,
+                  'Little Hardwood 1' = 1,
+                  'Double Head Shot 1' = 1),
+       stratum_var = "name",
+       mindis = 250,
+       maxtry = 100)
   
-  # generate random points 
-  
-  st_sample(size = c(1, 1),
-            type = "random") %>% 
-  
-  # join attributes from polygons to points
-  
-  st_sf() %>% 
-  st_join(polygons$aru)
 
-
-# view points in tmap
+# view points and aru blocks in tmap
 
 tm_basemap(c('Esri.WorldImagery')) +
-  aru_points %>% 
+  aru_blocks_buffered %>% 
+  tm_shape(name = 'ARU Blocks (Buffered)') +
+  tm_polygons(alpha = 0.5) +
+
+  aru_points$sites_base %>% 
   tm_shape(name = 'ARU Points') +
   tm_dots(col = "white")
 
@@ -109,17 +162,36 @@ tm_basemap(c('Esri.WorldImagery')) +
 # matrix of distances between points and sites
 
 dist_to_edge <-
-  st_geometry(polygons$sites) %>% 
+  st_geometry(sites) %>% 
   
   # change from polygon to linestring
   
   st_cast(to = 'LINESTRING') %>% 
-  st_distance(y = aru_points)
+  st_distance(y = aru_points$sites_base)
 
 # set row and column names
 
-rownames(dist_to_edge) <- polygons$sites$name
-colnames(dist_to_edge) <- aru_points$name
+rownames(dist_to_edge) <- sites$name
+
+colnames(dist_to_edge) <-
+  c("Great Wass 1", "Great Wass 2", "Great Wass 3", 
+    "Marshall 1", "Marshall 2", "Marshall 3", 
+    "Penobscot 1", "Penobscot 2", "Penobscot 3", 
+    "Western Head 1", "Western Head 2", "Western Head 3",
+    "Flint 1", "Flint 2", 
+    "Turtle 1", "Turtle 2",
+    "Pinkham 1", "Pinkham 2",
+    "Lakeman 1", "Lakeman 2",
+    "Mark 1", "Mark 2", 
+    "Knight 1", 
+    "Big White 1", 
+    "Big Garden 1", 
+    "Inner Sand 1",
+    "Anguilla 1", 
+    "Ned 1", 
+    "Double Shot 1", 
+    "Little Hardwood 1", 
+    "Double Head Shot 1")
 
 # extract minimum distances between points and site boundaries
 
@@ -137,7 +209,7 @@ dist_to_edge_min <-
   
   # pivot from wide to long format
   
-  pivot_longer(cols = 'Western Head 1':'Turtle 3',
+  pivot_longer(cols = 'Great Wass 1':'Double Head Shot 1',
                names_to = "aru", 
                values_to = "dist_to_edge") %>% 
  
@@ -159,13 +231,50 @@ rm(dist_to_edge)
 # create distance matrix
 
 aru_points_dist <-
-  aru_points %>% 
-  st_distance(y = aru_points)
+  aru_points$sites_base %>% 
+  st_distance(y = aru_points$sites_base)
 
 # set row and column names
 
-rownames(aru_points_dist) <- aru_points$name
-colnames(aru_points_dist) <- aru_points$name
+rownames(aru_points_dist) <-
+  c("Great Wass 1", "Great Wass 2", "Great Wass 3", 
+    "Marshall 1", "Marshall 2", "Marshall 3", 
+    "Penobscot 1", "Penobscot 2", "Penobscot 3", 
+    "Western Head 1", "Western Head 2", "Western Head 3",
+    "Flint 1", "Flint 2", 
+    "Turtle 1", "Turtle 2",
+    "Pinkham 1", "Pinkham 2",
+    "Lakeman 1", "Lakeman 2",
+    "Mark 1", "Mark 2", 
+    "Knight 1", 
+    "Big White 1", 
+    "Big Garden 1", 
+    "Inner Sand 1",
+    "Anguilla 1", 
+    "Ned 1", 
+    "Double Shot 1", 
+    "Little Hardwood 1", 
+    "Double Head Shot 1")
+
+colnames(aru_points_dist) <-
+  c("Great Wass 1", "Great Wass 2", "Great Wass 3", 
+    "Marshall 1", "Marshall 2", "Marshall 3", 
+    "Penobscot 1", "Penobscot 2", "Penobscot 3", 
+    "Western Head 1", "Western Head 2", "Western Head 3",
+    "Flint 1", "Flint 2", 
+    "Turtle 1", "Turtle 2",
+    "Pinkham 1", "Pinkham 2",
+    "Lakeman 1", "Lakeman 2",
+    "Mark 1", "Mark 2", 
+    "Knight 1", 
+    "Big White 1", 
+    "Big Garden 1", 
+    "Inner Sand 1",
+    "Anguilla 1", 
+    "Ned 1", 
+    "Double Shot 1", 
+    "Little Hardwood 1", 
+    "Double Head Shot 1")
 
 # extract nearest neighbor distances
 
@@ -176,23 +285,29 @@ aru_nearest_neighbor <-
   
   drop_units() %>% 
   
-  # conver to tibble and keep row names
+  # convert to tibble and keep row names
   
   as_tibble(rownames = NA) %>% 
   rownames_to_column("aru_1") %>% 
   
   # pivot from wide to long format
   
-  pivot_longer(cols = 'Western Head 1':'Turtle 3',
+  pivot_longer(cols = 'Great Wass 1':'Double Head Shot 1',
                names_to = "aru_2", 
                values_to = "distance") %>% 
   
   # filter out distances between same point and islands with only one ARU
   
   filter(distance > 0,
-         ! aru_1 %in% c("Little Hardwood 1", 
-                    "Double Shot 1",
-                    "Double Head Shot 1")) %>% 
+         ! aru_1 %in% c("Knight 1", 
+                        "Big White 1", 
+                        "Big Garden 1", 
+                        "Inner Sand 1",
+                        "Anguilla 1", 
+                        "Ned 1", 
+                        "Double Shot 1", 
+                        "Little Hardwood 1", 
+                        "Double Head Shot 1")) %>% 
   
   # extract nearest neighbor distance
   
@@ -206,23 +321,50 @@ mean(aru_nearest_neighbor$distance_m)
 sd(aru_nearest_neighbor$distance_m)
 range(aru_nearest_neighbor$distance_m)
 
+# all ARUs at least 250 m apart
+
 rm(aru_points_dist)
 
-# to do next: 
-# set different shoreline buffer sizes across all sites: 40 m, 50 m, 100 m (combine 40 and 50 so have small and large island buffer sizes?)
 
-# use the following code to set minimum ARU distance of 250 m: https://www.jla-data.net/eng/creating-and-pruning-random-points-and-polygons/. Any need to use ARU polygons or just generate points in buffered site-level polygons?
+# name aru points 
 
-
-
-# export points to kml file for google earth. export a separate file (WGS 1984) to load gpx onto GPS
-
-
-# things to do/figure out:
-#   1) minimum distance that random points can be to each other
-#   2) is 40 meters an appropriate shoreline buffer? see Goodale MCHT report and Zotero lit
+aru_points$sites_base$siteID <-
+  c("Great Wass 1", "Great Wass 2", "Great Wass 3", 
+    "Marshall 1", "Marshall 2", "Marshall 3", 
+    "Penobscot 1", "Penobscot 2", "Penobscot 3", 
+    "Western Head 1", "Western Head 2", "Western Head 3",
+    "Flint 1", "Flint 2", 
+    "Turtle 1", "Turtle 2",
+    "Pinkham 1", "Pinkham 2",
+    "Lakeman 1", "Lakeman 2",
+    "Mark 1", "Mark 2", 
+    "Knight 1", 
+    "Big White 1", 
+    "Big Garden 1", 
+    "Inner Sand 1",
+    "Anguilla 1", 
+    "Ned 1", 
+    "Double Shot 1", 
+    "Little Hardwood 1", 
+    "Double Head Shot 1")
   
-# need to make sure that for all ARU locations, the distance of detection radius entirely falls on land. If an ARU had a detection range partly in the ocean, we wouldn't be monitoring the same total area as a unit in the middle of the forest. -> compute distance matrix between points and the nearest point of the contiguous shoreline polygon
+
+# export aru points -------------------------------------------------------
+
+
+# export points to kml file for google earth
+
+aru_points$sites_base %>% 
+  select(Name = siteID) %>% 
+  st_transform(4326) %>% 
+  st_write(dsn = "outputs/aru_points.kml", 
+           driver = "kml")
+
+# In Google Earth moved:
+# Marshall 1 235 m SE so at least 250 m from old air strip
+# Great Wass 2 400 m SE so not in what looks to be a bog/open wetland 
+
+# when ground truthing points, will need to make sure that Western Head 1 and Great Wass 1 are at least 250 m from trails
 
   
   
