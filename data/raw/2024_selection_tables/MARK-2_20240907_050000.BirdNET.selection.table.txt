@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1071.0	1074.0	0	12000.0	Yellow-bellied Sapsucker	yebsap	0.1203	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240907_050000.wav	1071.0
+2	Spectrogram 1	1	1482.0	1485.0	0	12000.0	Northern Flicker	norfli	0.1592	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240907_050000.wav	1482.0
+3	Spectrogram 1	1	1482.0	1485.0	0	12000.0	Yellow-bellied Sapsucker	yebsap	0.1464	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240907_050000.wav	1482.0
+4	Spectrogram 1	1	2871.0	2874.0	0	12000.0	White-throated Sparrow	whtspa	0.4848	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240907_050000.wav	2871.0
+5	Spectrogram 1	1	2949.0	2952.0	0	12000.0	White-throated Sparrow	whtspa	0.1064	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240907_050000.wav	2949.0

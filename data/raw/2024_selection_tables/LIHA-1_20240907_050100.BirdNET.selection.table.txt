@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	387.0	390.0	0	12000.0	Pine Siskin	pinsis	0.1484	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240907_050100.wav	387.0
+2	Spectrogram 1	1	2286.0	2289.0	0	12000.0	Pine Siskin	pinsis	0.6104	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240907_050100.wav	2286.0
+3	Spectrogram 1	1	2442.0	2445.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.2420	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240907_050100.wav	2442.0
+4	Spectrogram 1	1	3048.0	3051.0	0	12000.0	Pine Siskin	pinsis	0.8383	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240907_050100.wav	3048.0
+5	Spectrogram 1	1	3285.0	3288.0	0	12000.0	American Crow	amecro	0.1240	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240907_050100.wav	3285.0

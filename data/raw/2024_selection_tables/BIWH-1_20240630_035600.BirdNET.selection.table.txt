@@ -1,0 +1,110 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1557.0	1560.0	0	12000.0	Swainson's Thrush	swathr	0.3271	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	1557.0
+2	Spectrogram 1	1	1704.0	1707.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1045	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	1704.0
+3	Spectrogram 1	1	1851.0	1854.0	0	12000.0	Veery	veery	0.1080	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	1851.0
+4	Spectrogram 1	1	1869.0	1872.0	0	12000.0	Swainson's Thrush	swathr	0.2453	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	1869.0
+5	Spectrogram 1	1	1890.0	1893.0	0	12000.0	Swainson's Thrush	swathr	0.1316	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	1890.0
+6	Spectrogram 1	1	2028.0	2031.0	0	12000.0	Swainson's Thrush	swathr	0.3429	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2028.0
+7	Spectrogram 1	1	2040.0	2043.0	0	12000.0	Swainson's Thrush	swathr	0.1900	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2040.0
+8	Spectrogram 1	1	2046.0	2049.0	0	12000.0	Swainson's Thrush	swathr	0.1911	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2046.0
+9	Spectrogram 1	1	2082.0	2085.0	0	12000.0	Swainson's Thrush	swathr	0.3681	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2082.0
+10	Spectrogram 1	1	2094.0	2097.0	0	12000.0	Swainson's Thrush	swathr	0.2495	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2094.0
+11	Spectrogram 1	1	2169.0	2172.0	0	12000.0	Swainson's Thrush	swathr	0.1258	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2169.0
+12	Spectrogram 1	1	2196.0	2199.0	0	12000.0	Swainson's Thrush	swathr	0.3160	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2196.0
+13	Spectrogram 1	1	2232.0	2235.0	0	12000.0	Swainson's Thrush	swathr	0.5636	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2232.0
+14	Spectrogram 1	1	2235.0	2238.0	0	12000.0	Swainson's Thrush	swathr	0.9626	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2235.0
+15	Spectrogram 1	1	2235.0	2238.0	0	12000.0	Olive-sided Flycatcher	olsfly	0.1731	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2235.0
+16	Spectrogram 1	1	2238.0	2241.0	0	12000.0	Swainson's Thrush	swathr	0.6059	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2238.0
+17	Spectrogram 1	1	2241.0	2244.0	0	12000.0	Swainson's Thrush	swathr	0.9375	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2241.0
+18	Spectrogram 1	1	2244.0	2247.0	0	12000.0	Swainson's Thrush	swathr	0.5888	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2244.0
+19	Spectrogram 1	1	2247.0	2250.0	0	12000.0	Swainson's Thrush	swathr	0.9539	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2247.0
+20	Spectrogram 1	1	2250.0	2253.0	0	12000.0	Swainson's Thrush	swathr	0.6058	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2250.0
+21	Spectrogram 1	1	2253.0	2256.0	0	12000.0	Swainson's Thrush	swathr	0.3166	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2253.0
+22	Spectrogram 1	1	2256.0	2259.0	0	12000.0	Swainson's Thrush	swathr	0.6512	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2256.0
+23	Spectrogram 1	1	2259.0	2262.0	0	12000.0	Swainson's Thrush	swathr	0.6292	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2259.0
+24	Spectrogram 1	1	2262.0	2265.0	0	12000.0	Swainson's Thrush	swathr	0.9523	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2262.0
+25	Spectrogram 1	1	2265.0	2268.0	0	12000.0	Swainson's Thrush	swathr	0.6929	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2265.0
+26	Spectrogram 1	1	2265.0	2268.0	0	12000.0	Olive-sided Flycatcher	olsfly	0.1626	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2265.0
+27	Spectrogram 1	1	2268.0	2271.0	0	12000.0	Swainson's Thrush	swathr	0.8012	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2268.0
+28	Spectrogram 1	1	2271.0	2274.0	0	12000.0	Swainson's Thrush	swathr	0.9475	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2271.0
+29	Spectrogram 1	1	2274.0	2277.0	0	12000.0	Swainson's Thrush	swathr	0.9778	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2274.0
+30	Spectrogram 1	1	2277.0	2280.0	0	12000.0	Swainson's Thrush	swathr	0.9894	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2277.0
+31	Spectrogram 1	1	2280.0	2283.0	0	12000.0	Swainson's Thrush	swathr	0.9482	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2280.0
+32	Spectrogram 1	1	2283.0	2286.0	0	12000.0	Swainson's Thrush	swathr	0.9629	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2283.0
+33	Spectrogram 1	1	2289.0	2292.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3696	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2289.0
+34	Spectrogram 1	1	2292.0	2295.0	0	12000.0	Swainson's Thrush	swathr	0.2430	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2292.0
+35	Spectrogram 1	1	2313.0	2316.0	0	12000.0	Swainson's Thrush	swathr	0.2648	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2313.0
+36	Spectrogram 1	1	2355.0	2358.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1721	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2355.0
+37	Spectrogram 1	1	2361.0	2364.0	0	12000.0	Swainson's Thrush	swathr	0.2105	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2361.0
+38	Spectrogram 1	1	2364.0	2367.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1163	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2364.0
+39	Spectrogram 1	1	2370.0	2373.0	0	12000.0	Swainson's Thrush	swathr	0.1121	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2370.0
+40	Spectrogram 1	1	2448.0	2451.0	0	12000.0	Swainson's Thrush	swathr	0.2658	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2448.0
+41	Spectrogram 1	1	2463.0	2466.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2941	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2463.0
+42	Spectrogram 1	1	2505.0	2508.0	0	12000.0	Swainson's Thrush	swathr	0.1120	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2505.0
+43	Spectrogram 1	1	2508.0	2511.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1054	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2508.0
+44	Spectrogram 1	1	2517.0	2520.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1894	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2517.0
+45	Spectrogram 1	1	2526.0	2529.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1344	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2526.0
+46	Spectrogram 1	1	2526.0	2529.0	0	12000.0	Swainson's Thrush	swathr	0.1037	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2526.0
+47	Spectrogram 1	1	2535.0	2538.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1347	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2535.0
+48	Spectrogram 1	1	2547.0	2550.0	0	12000.0	Swainson's Thrush	swathr	0.5028	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2547.0
+49	Spectrogram 1	1	2550.0	2553.0	0	12000.0	Veery	veery	0.1281	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2550.0
+50	Spectrogram 1	1	2553.0	2556.0	0	12000.0	Swainson's Thrush	swathr	0.1916	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2553.0
+51	Spectrogram 1	1	2556.0	2559.0	0	12000.0	Swainson's Thrush	swathr	0.7755	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2556.0
+52	Spectrogram 1	1	2559.0	2562.0	0	12000.0	Swainson's Thrush	swathr	0.8593	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2559.0
+53	Spectrogram 1	1	2559.0	2562.0	0	12000.0	Olive-sided Flycatcher	olsfly	0.1364	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2559.0
+54	Spectrogram 1	1	2562.0	2565.0	0	12000.0	Swainson's Thrush	swathr	0.7684	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2562.0
+55	Spectrogram 1	1	2565.0	2568.0	0	12000.0	Swainson's Thrush	swathr	0.1706	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2565.0
+56	Spectrogram 1	1	2568.0	2571.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1435	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2568.0
+57	Spectrogram 1	1	2604.0	2607.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1319	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2604.0
+58	Spectrogram 1	1	2619.0	2622.0	0	12000.0	Swainson's Thrush	swathr	0.1590	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2619.0
+59	Spectrogram 1	1	2625.0	2628.0	0	12000.0	Swainson's Thrush	swathr	0.1782	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2625.0
+60	Spectrogram 1	1	2628.0	2631.0	0	12000.0	Swainson's Thrush	swathr	0.4771	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2628.0
+61	Spectrogram 1	1	2643.0	2646.0	0	12000.0	Swainson's Thrush	swathr	0.7862	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2643.0
+62	Spectrogram 1	1	2646.0	2649.0	0	12000.0	Swainson's Thrush	swathr	0.6160	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2646.0
+63	Spectrogram 1	1	2739.0	2742.0	0	12000.0	Spruce Grouse	sprgro	0.1169	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2739.0
+64	Spectrogram 1	1	2739.0	2742.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1107	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2739.0
+65	Spectrogram 1	1	2775.0	2778.0	0	12000.0	Winter Wren	winwre3	0.3039	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2775.0
+66	Spectrogram 1	1	2811.0	2814.0	0	12000.0	Winter Wren	winwre3	0.2699	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2811.0
+67	Spectrogram 1	1	2814.0	2817.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1297	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2814.0
+68	Spectrogram 1	1	2820.0	2823.0	0	12000.0	Swainson's Thrush	swathr	0.2423	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2820.0
+69	Spectrogram 1	1	2820.0	2823.0	0	12000.0	Winter Wren	winwre3	0.2310	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2820.0
+70	Spectrogram 1	1	2823.0	2826.0	0	12000.0	Winter Wren	winwre3	0.1387	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2823.0
+71	Spectrogram 1	1	2829.0	2832.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1239	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2829.0
+72	Spectrogram 1	1	2889.0	2892.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1293	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2889.0
+73	Spectrogram 1	1	2889.0	2892.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1053	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2889.0
+74	Spectrogram 1	1	2901.0	2904.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1229	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2901.0
+75	Spectrogram 1	1	2907.0	2910.0	0	12000.0	Winter Wren	winwre3	0.5448	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2907.0
+76	Spectrogram 1	1	2925.0	2928.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2264	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2925.0
+77	Spectrogram 1	1	2943.0	2946.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1430	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2943.0
+78	Spectrogram 1	1	2949.0	2952.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2190	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2949.0
+79	Spectrogram 1	1	2952.0	2955.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1057	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2952.0
+80	Spectrogram 1	1	2973.0	2976.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5789	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2973.0
+81	Spectrogram 1	1	2976.0	2979.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1639	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2976.0
+82	Spectrogram 1	1	2997.0	3000.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4493	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	2997.0
+83	Spectrogram 1	1	3009.0	3012.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4921	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	3009.0
+84	Spectrogram 1	1	3012.0	3015.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2460	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	3012.0
+85	Spectrogram 1	1	3063.0	3066.0	0	12000.0	Swainson's Thrush	swathr	0.4806	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	3063.0
+86	Spectrogram 1	1	3069.0	3072.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1485	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	3069.0
+87	Spectrogram 1	1	3072.0	3075.0	0	12000.0	Nashville Warbler	naswar	0.1013	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	3072.0
+88	Spectrogram 1	1	3075.0	3078.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1451	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	3075.0
+89	Spectrogram 1	1	3087.0	3090.0	0	12000.0	Magnolia Warbler	magwar	0.1015	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	3087.0
+90	Spectrogram 1	1	3138.0	3141.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3057	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	3138.0
+91	Spectrogram 1	1	3177.0	3180.0	0	12000.0	Swainson's Thrush	swathr	0.1855	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	3177.0
+92	Spectrogram 1	1	3225.0	3228.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2347	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	3225.0
+93	Spectrogram 1	1	3231.0	3234.0	0	12000.0	Winter Wren	winwre3	0.3435	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	3231.0
+94	Spectrogram 1	1	3240.0	3243.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6222	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	3240.0
+95	Spectrogram 1	1	3240.0	3243.0	0	12000.0	Boreal Chickadee	borchi2	0.2151	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	3240.0
+96	Spectrogram 1	1	3261.0	3264.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2311	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	3261.0
+97	Spectrogram 1	1	3276.0	3279.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1118	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	3276.0
+98	Spectrogram 1	1	3288.0	3291.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5589	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	3288.0
+99	Spectrogram 1	1	3357.0	3360.0	0	12000.0	American Redstart	amered	0.1119	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	3357.0
+100	Spectrogram 1	1	3360.0	3363.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1481	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	3360.0
+101	Spectrogram 1	1	3432.0	3435.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5158	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	3432.0
+102	Spectrogram 1	1	3444.0	3447.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2950	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	3444.0
+103	Spectrogram 1	1	3462.0	3465.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7357	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	3462.0
+104	Spectrogram 1	1	3471.0	3474.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2600	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	3471.0
+105	Spectrogram 1	1	3510.0	3513.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2460	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	3510.0
+106	Spectrogram 1	1	3522.0	3525.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2016	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	3522.0
+107	Spectrogram 1	1	3543.0	3546.0	0	12000.0	Winter Wren	winwre3	0.1211	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	3543.0
+108	Spectrogram 1	1	3549.0	3552.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1376	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	3549.0
+109	Spectrogram 1	1	3558.0	3561.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1883	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240630_035600.wav	3558.0

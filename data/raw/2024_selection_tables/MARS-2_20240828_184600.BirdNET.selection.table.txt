@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	210.0	213.0	0	12000.0	Cedar Waxwing	cedwax	0.2641	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240828_184600.wav	210.0
+2	Spectrogram 1	1	213.0	216.0	0	12000.0	Cedar Waxwing	cedwax	0.5397	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240828_184600.wav	213.0
+3	Spectrogram 1	1	516.0	519.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.3544	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240828_184600.wav	516.0
+4	Spectrogram 1	1	639.0	642.0	0	12000.0	Cedar Waxwing	cedwax	0.4306	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240828_184600.wav	639.0
+5	Spectrogram 1	1	678.0	681.0	0	12000.0	Cedar Waxwing	cedwax	0.7008	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240828_184600.wav	678.0
+6	Spectrogram 1	1	681.0	684.0	0	12000.0	Cedar Waxwing	cedwax	0.2666	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240828_184600.wav	681.0
+7	Spectrogram 1	1	693.0	696.0	0	12000.0	Cedar Waxwing	cedwax	0.1004	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240828_184600.wav	693.0
+8	Spectrogram 1	1	1143.0	1146.0	0	12000.0	Common Raven	comrav	0.1449	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240828_184600.wav	1143.0
+9	Spectrogram 1	1	1158.0	1161.0	0	12000.0	Common Raven	comrav	0.5894	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240828_184600.wav	1158.0
+10	Spectrogram 1	1	1890.0	1893.0	0	12000.0	Dark-eyed Junco	daejun	0.2948	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240828_184600.wav	1890.0
+11	Spectrogram 1	1	1896.0	1899.0	0	12000.0	Dark-eyed Junco	daejun	0.3271	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240828_184600.wav	1896.0
+12	Spectrogram 1	1	1905.0	1908.0	0	12000.0	Dark-eyed Junco	daejun	0.1047	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240828_184600.wav	1905.0
+13	Spectrogram 1	1	1935.0	1938.0	0	12000.0	Dark-eyed Junco	daejun	0.1053	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240828_184600.wav	1935.0

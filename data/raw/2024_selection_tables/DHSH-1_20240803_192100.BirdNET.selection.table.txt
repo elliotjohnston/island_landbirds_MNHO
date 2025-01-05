@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1173.0	1176.0	0	12000.0	Song Sparrow	sonspa	0.7922	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240803_192100.wav	1173.0
+2	Spectrogram 1	1	1434.0	1437.0	0	12000.0	Song Sparrow	sonspa	0.2387	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240803_192100.wav	1434.0
+3	Spectrogram 1	1	1530.0	1533.0	0	12000.0	Song Sparrow	sonspa	0.4899	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240803_192100.wav	1530.0
+4	Spectrogram 1	1	2082.0	2085.0	0	12000.0	Chimney Swift	chiswi	0.1088	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240803_192100.wav	2082.0
+5	Spectrogram 1	1	2085.0	2088.0	0	12000.0	Song Sparrow	sonspa	0.5262	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240803_192100.wav	2085.0
+6	Spectrogram 1	1	2094.0	2097.0	0	12000.0	Palm Warbler	palwar	0.1823	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240803_192100.wav	2094.0
+7	Spectrogram 1	1	2874.0	2877.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.1945	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240803_192100.wav	2874.0

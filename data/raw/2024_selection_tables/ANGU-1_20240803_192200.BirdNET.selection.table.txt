@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	21.0	24.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3565	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240803_192200.wav	21.0
+2	Spectrogram 1	1	33.0	36.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7961	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240803_192200.wav	33.0
+3	Spectrogram 1	1	54.0	57.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2824	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240803_192200.wav	54.0
+4	Spectrogram 1	1	54.0	57.0	0	12000.0	Brown Creeper	brncre	0.1596	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240803_192200.wav	54.0
+5	Spectrogram 1	1	57.0	60.0	0	12000.0	Brown Creeper	brncre	0.6189	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240803_192200.wav	57.0
+6	Spectrogram 1	1	57.0	60.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5671	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240803_192200.wav	57.0
+7	Spectrogram 1	1	72.0	75.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9482	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240803_192200.wav	72.0
+8	Spectrogram 1	1	933.0	936.0	0	12000.0	American Crow	amecro	0.3480	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240803_192200.wav	933.0
+9	Spectrogram 1	1	2835.0	2838.0	0	12000.0	Swainson's Thrush	swathr	0.1350	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240803_192200.wav	2835.0

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	384.0	387.0	0	12000.0	Black-capped Chickadee	bkcchi	0.1318	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240729_193300.wav	384.0
+2	Spectrogram 1	1	633.0	636.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1385	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240729_193300.wav	633.0
+3	Spectrogram 1	1	1176.0	1179.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7392	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240729_193300.wav	1176.0

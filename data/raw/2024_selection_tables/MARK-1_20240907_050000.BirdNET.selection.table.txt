@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2916.0	2919.0	0	12000.0	American Crow	amecro	0.5438	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240907_050000.wav	2916.0
+2	Spectrogram 1	1	2922.0	2925.0	0	12000.0	American Crow	amecro	0.1550	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240907_050000.wav	2922.0
+3	Spectrogram 1	1	2925.0	2928.0	0	12000.0	American Crow	amecro	0.3284	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240907_050000.wav	2925.0
+4	Spectrogram 1	1	2988.0	2991.0	0	12000.0	Common Raven	comrav	0.4657	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240907_050000.wav	2988.0
+5	Spectrogram 1	1	3000.0	3003.0	0	12000.0	Common Raven	comrav	0.2040	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240907_050000.wav	3000.0
+6	Spectrogram 1	1	3354.0	3357.0	0	12000.0	Brown Creeper	brncre	0.2540	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240907_050000.wav	3354.0
+7	Spectrogram 1	1	3354.0	3357.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1061	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240907_050000.wav	3354.0
+8	Spectrogram 1	1	3399.0	3402.0	0	12000.0	Common Raven	comrav	0.8778	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240907_050000.wav	3399.0

@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1704.0	1707.0	0	12000.0	American Crow	amecro	0.4034	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240926_174900.wav	1704.0

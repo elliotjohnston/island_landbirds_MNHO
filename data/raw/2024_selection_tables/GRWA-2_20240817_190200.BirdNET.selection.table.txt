@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	150.0	153.0	0	12000.0	Palm Warbler	palwar	0.2174	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240817_190200.wav	150.0
+2	Spectrogram 1	1	273.0	276.0	0	12000.0	White-throated Sparrow	whtspa	0.1024	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240817_190200.wav	273.0
+3	Spectrogram 1	1	558.0	561.0	0	12000.0	Cedar Waxwing	cedwax	0.2724	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240817_190200.wav	558.0
+4	Spectrogram 1	1	804.0	807.0	0	12000.0	Cedar Waxwing	cedwax	0.3064	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240817_190200.wav	804.0
+5	Spectrogram 1	1	810.0	813.0	0	12000.0	Cedar Waxwing	cedwax	0.2367	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240817_190200.wav	810.0
+6	Spectrogram 1	1	819.0	822.0	0	12000.0	Cedar Waxwing	cedwax	0.2071	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240817_190200.wav	819.0
+7	Spectrogram 1	1	828.0	831.0	0	12000.0	Brown Creeper	brncre	0.1929	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240817_190200.wav	828.0
+8	Spectrogram 1	1	828.0	831.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1450	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240817_190200.wav	828.0
+9	Spectrogram 1	1	1896.0	1899.0	0	12000.0	Cedar Waxwing	cedwax	0.5074	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240817_190200.wav	1896.0
+10	Spectrogram 1	1	2265.0	2268.0	0	12000.0	Dark-eyed Junco	daejun	0.3189	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240817_190200.wav	2265.0
+11	Spectrogram 1	1	2781.0	2784.0	0	12000.0	Hermit Thrush	herthr	0.3607	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240817_190200.wav	2781.0
+12	Spectrogram 1	1	2787.0	2790.0	0	12000.0	Hermit Thrush	herthr	0.1134	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240817_190200.wav	2787.0
+13	Spectrogram 1	1	2829.0	2832.0	0	12000.0	Hermit Thrush	herthr	0.3120	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240817_190200.wav	2829.0
+14	Spectrogram 1	1	3570.0	3573.0	0	12000.0	Hermit Thrush	herthr	0.1960	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240817_190200.wav	3570.0

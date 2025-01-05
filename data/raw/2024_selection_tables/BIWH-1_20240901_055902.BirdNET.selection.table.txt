@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1293.0	1296.0	0	12000.0	White-winged Crossbill	whwcro	0.1290	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240901_055902.wav	1293.0
+2	Spectrogram 1	1	1680.0	1683.0	0	12000.0	Black-capped Chickadee	bkcchi	0.1019	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240901_055902.wav	1680.0
+3	Spectrogram 1	1	1686.0	1689.0	0	12000.0	Black-capped Chickadee	bkcchi	0.1509	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240901_055902.wav	1686.0
+4	Spectrogram 1	1	1692.0	1695.0	0	12000.0	Black-capped Chickadee	bkcchi	0.2376	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240901_055902.wav	1692.0
+5	Spectrogram 1	1	1833.0	1836.0	0	12000.0	Black-capped Chickadee	bkcchi	0.1091	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240901_055902.wav	1833.0
+6	Spectrogram 1	1	1902.0	1905.0	0	12000.0	Black-capped Chickadee	bkcchi	0.1421	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240901_055902.wav	1902.0

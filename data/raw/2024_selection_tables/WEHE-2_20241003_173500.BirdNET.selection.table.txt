@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1110.0	1113.0	0	12000.0	Common Raven	comrav	0.3989	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241003_173500.wav	1110.0
+2	Spectrogram 1	1	1113.0	1116.0	0	12000.0	Common Raven	comrav	0.1208	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241003_173500.wav	1113.0
+3	Spectrogram 1	1	1293.0	1296.0	0	12000.0	Swainson's Thrush	swathr	0.2194	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241003_173500.wav	1293.0
+4	Spectrogram 1	1	1404.0	1407.0	0	12000.0	Nashville Warbler	naswar	0.1719	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241003_173500.wav	1404.0
+5	Spectrogram 1	1	1485.0	1488.0	0	12000.0	Dark-eyed Junco	daejun	0.6220	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241003_173500.wav	1485.0
+6	Spectrogram 1	1	1491.0	1494.0	0	12000.0	Dark-eyed Junco	daejun	0.9535	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241003_173500.wav	1491.0
+7	Spectrogram 1	1	1644.0	1647.0	0	12000.0	Brown Creeper	brncre	0.5948	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241003_173500.wav	1644.0
+8	Spectrogram 1	1	1728.0	1731.0	0	12000.0	Dark-eyed Junco	daejun	0.3890	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241003_173500.wav	1728.0
+9	Spectrogram 1	1	1920.0	1923.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1078	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241003_173500.wav	1920.0
+10	Spectrogram 1	1	1923.0	1926.0	0	12000.0	Brown Creeper	brncre	0.1219	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241003_173500.wav	1923.0
+11	Spectrogram 1	1	1983.0	1986.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2104	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241003_173500.wav	1983.0
+12	Spectrogram 1	1	1983.0	1986.0	0	12000.0	Cape May Warbler	camwar	0.1053	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241003_173500.wav	1983.0
+13	Spectrogram 1	1	1989.0	1992.0	0	12000.0	Cape May Warbler	camwar	0.1655	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241003_173500.wav	1989.0
+14	Spectrogram 1	1	2763.0	2766.0	0	12000.0	Dark-eyed Junco	daejun	0.1891	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241003_173500.wav	2763.0
+15	Spectrogram 1	1	2847.0	2850.0	0	12000.0	Swainson's Thrush	swathr	0.1333	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241003_173500.wav	2847.0

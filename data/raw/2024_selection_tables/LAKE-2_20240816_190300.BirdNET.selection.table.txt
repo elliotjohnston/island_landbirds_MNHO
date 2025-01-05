@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	9.0	12.0	0	12000.0	Common Raven	comrav	0.8680	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240816_190300.wav	9.0
+2	Spectrogram 1	1	84.0	87.0	0	12000.0	Common Raven	comrav	0.1928	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240816_190300.wav	84.0
+3	Spectrogram 1	1	123.0	126.0	0	12000.0	Common Raven	comrav	0.5072	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240816_190300.wav	123.0
+4	Spectrogram 1	1	126.0	129.0	0	12000.0	Common Raven	comrav	0.2929	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240816_190300.wav	126.0
+5	Spectrogram 1	1	228.0	231.0	0	12000.0	Brown Creeper	brncre	0.7415	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240816_190300.wav	228.0
+6	Spectrogram 1	1	264.0	267.0	0	12000.0	Common Raven	comrav	0.6399	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240816_190300.wav	264.0
+7	Spectrogram 1	1	276.0	279.0	0	12000.0	Yellow-bellied Sapsucker	yebsap	0.1020	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240816_190300.wav	276.0
+8	Spectrogram 1	1	348.0	351.0	0	12000.0	Brown Creeper	brncre	0.5057	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240816_190300.wav	348.0
+9	Spectrogram 1	1	366.0	369.0	0	12000.0	Brown Creeper	brncre	0.3078	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240816_190300.wav	366.0
+10	Spectrogram 1	1	732.0	735.0	0	12000.0	Brown Creeper	brncre	0.4166	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240816_190300.wav	732.0
+11	Spectrogram 1	1	744.0	747.0	0	12000.0	Brown Creeper	brncre	0.6320	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240816_190300.wav	744.0
+12	Spectrogram 1	1	750.0	753.0	0	12000.0	Brown Creeper	brncre	0.5541	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240816_190300.wav	750.0

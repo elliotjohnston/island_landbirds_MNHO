@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	648.0	651.0	0	12000.0	Eastern Bluebird	easblu	0.4692	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240827_044600.wav	648.0
+2	Spectrogram 1	1	879.0	882.0	0	12000.0	Swainson's Thrush	swathr	0.2950	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240827_044600.wav	879.0
+3	Spectrogram 1	1	888.0	891.0	0	12000.0	Great Crested Flycatcher	grcfly	0.6530	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240827_044600.wav	888.0
+4	Spectrogram 1	1	894.0	897.0	0	12000.0	Swainson's Thrush	swathr	0.6048	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240827_044600.wav	894.0
+5	Spectrogram 1	1	903.0	906.0	0	12000.0	Swainson's Thrush	swathr	0.1338	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240827_044600.wav	903.0
+6	Spectrogram 1	1	912.0	915.0	0	12000.0	Great Crested Flycatcher	grcfly	0.5062	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240827_044600.wav	912.0
+7	Spectrogram 1	1	3396.0	3399.0	0	12000.0	Dark-eyed Junco	daejun	0.1187	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240827_044600.wav	3396.0
+8	Spectrogram 1	1	3399.0	3402.0	0	12000.0	Dark-eyed Junco	daejun	0.8493	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240827_044600.wav	3399.0
+9	Spectrogram 1	1	3414.0	3417.0	0	12000.0	Dark-eyed Junco	daejun	0.3790	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240827_044600.wav	3414.0
+10	Spectrogram 1	1	3441.0	3444.0	0	12000.0	Dark-eyed Junco	daejun	0.7122	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240827_044600.wav	3441.0
+11	Spectrogram 1	1	3444.0	3447.0	0	12000.0	Dark-eyed Junco	daejun	0.3100	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240827_044600.wav	3444.0
+12	Spectrogram 1	1	3456.0	3459.0	0	12000.0	Dark-eyed Junco	daejun	0.6482	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240827_044600.wav	3456.0
+13	Spectrogram 1	1	3498.0	3501.0	0	12000.0	Dark-eyed Junco	daejun	0.8616	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240827_044600.wav	3498.0

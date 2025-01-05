@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	3.0	6.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1076	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240723_193700.wav	3.0
+2	Spectrogram 1	1	6.0	9.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3680	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240723_193700.wav	6.0
+3	Spectrogram 1	1	156.0	159.0	0	12000.0	Brown Creeper	brncre	0.1341	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240723_193700.wav	156.0
+4	Spectrogram 1	1	174.0	177.0	0	12000.0	Brown Creeper	brncre	0.1406	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240723_193700.wav	174.0
+5	Spectrogram 1	1	210.0	213.0	0	12000.0	Brown Creeper	brncre	0.2284	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240723_193700.wav	210.0
+6	Spectrogram 1	1	210.0	213.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1212	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240723_193700.wav	210.0
+7	Spectrogram 1	1	447.0	450.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1043	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240723_193700.wav	447.0
+8	Spectrogram 1	1	1557.0	1560.0	0	12000.0	Scarlet Tanager	scatan	0.1206	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240723_193700.wav	1557.0
+9	Spectrogram 1	1	2718.0	2721.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1606	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240723_193700.wav	2718.0
+10	Spectrogram 1	1	3351.0	3354.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1253	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240723_193700.wav	3351.0

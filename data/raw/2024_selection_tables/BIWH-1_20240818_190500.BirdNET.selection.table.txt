@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	144.0	147.0	0	12000.0	Nashville Warbler	naswar	0.1223	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240818_190500.wav	144.0
+2	Spectrogram 1	1	309.0	312.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1172	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240818_190500.wav	309.0
+3	Spectrogram 1	1	333.0	336.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1748	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240818_190500.wav	333.0
+4	Spectrogram 1	1	384.0	387.0	0	12000.0	American Redstart	amered	0.2073	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240818_190500.wav	384.0
+5	Spectrogram 1	1	387.0	390.0	0	12000.0	American Redstart	amered	0.2672	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240818_190500.wav	387.0
+6	Spectrogram 1	1	390.0	393.0	0	12000.0	American Redstart	amered	0.1161	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240818_190500.wav	390.0
+7	Spectrogram 1	1	429.0	432.0	0	12000.0	American Redstart	amered	0.2563	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240818_190500.wav	429.0
+8	Spectrogram 1	1	441.0	444.0	0	12000.0	American Redstart	amered	0.1241	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240818_190500.wav	441.0

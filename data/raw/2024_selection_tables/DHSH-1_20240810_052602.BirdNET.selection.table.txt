@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	108.0	111.0	0	12000.0	Common Raven	comrav	0.2354	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240810_052602.wav	108.0

@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	279.0	282.0	0	12000.0	Hermit Thrush	herthr	0.4093	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240801_052202.wav	279.0
+2	Spectrogram 1	1	315.0	318.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2379	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240801_052202.wav	315.0
+3	Spectrogram 1	1	315.0	318.0	0	12000.0	Brown Creeper	brncre	0.1533	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240801_052202.wav	315.0
+4	Spectrogram 1	1	852.0	855.0	0	12000.0	Pileated Woodpecker	pilwoo	0.1082	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240801_052202.wav	852.0
+5	Spectrogram 1	1	897.0	900.0	0	12000.0	Brown Creeper	brncre	0.1660	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240801_052202.wav	897.0
+6	Spectrogram 1	1	897.0	900.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1479	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240801_052202.wav	897.0
+7	Spectrogram 1	1	951.0	954.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1108	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240801_052202.wav	951.0
+8	Spectrogram 1	1	951.0	954.0	0	12000.0	Brown Creeper	brncre	0.1005	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240801_052202.wav	951.0
+9	Spectrogram 1	1	1062.0	1065.0	0	12000.0	Pileated Woodpecker	pilwoo	0.7604	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240801_052202.wav	1062.0
+10	Spectrogram 1	1	1167.0	1170.0	0	12000.0	Pileated Woodpecker	pilwoo	0.8736	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240801_052202.wav	1167.0
+11	Spectrogram 1	1	1170.0	1173.0	0	12000.0	Pileated Woodpecker	pilwoo	0.8853	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240801_052202.wav	1170.0
+12	Spectrogram 1	1	1221.0	1224.0	0	12000.0	Pileated Woodpecker	pilwoo	0.9266	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240801_052202.wav	1221.0
+13	Spectrogram 1	1	1224.0	1227.0	0	12000.0	Pileated Woodpecker	pilwoo	0.6038	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240801_052202.wav	1224.0
+14	Spectrogram 1	1	1725.0	1728.0	0	12000.0	Dark-eyed Junco	daejun	0.1327	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240801_052202.wav	1725.0
+15	Spectrogram 1	1	2430.0	2433.0	0	12000.0	Dark-eyed Junco	daejun	0.1380	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240801_052202.wav	2430.0
+16	Spectrogram 1	1	2835.0	2838.0	0	12000.0	Cedar Waxwing	cedwax	0.4465	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240801_052202.wav	2835.0
+17	Spectrogram 1	1	2838.0	2841.0	0	12000.0	Cedar Waxwing	cedwax	0.8303	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240801_052202.wav	2838.0
+18	Spectrogram 1	1	2841.0	2844.0	0	12000.0	Cedar Waxwing	cedwax	0.9072	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240801_052202.wav	2841.0
+19	Spectrogram 1	1	2844.0	2847.0	0	12000.0	Cedar Waxwing	cedwax	0.6904	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240801_052202.wav	2844.0
+20	Spectrogram 1	1	2847.0	2850.0	0	12000.0	Cedar Waxwing	cedwax	0.6776	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240801_052202.wav	2847.0

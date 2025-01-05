@@ -1,0 +1,37 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	33.0	36.0	0	12000.0	Common Raven	comrav	0.1192	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	33.0
+2	Spectrogram 1	1	54.0	57.0	0	12000.0	Brown Creeper	brncre	0.3557	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	54.0
+3	Spectrogram 1	1	93.0	96.0	0	12000.0	Common Raven	comrav	0.1621	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	93.0
+4	Spectrogram 1	1	216.0	219.0	0	12000.0	Blue Jay	blujay	0.2043	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	216.0
+5	Spectrogram 1	1	219.0	222.0	0	12000.0	Blue Jay	blujay	0.1127	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	219.0
+6	Spectrogram 1	1	222.0	225.0	0	12000.0	Wood Thrush	woothr	0.2282	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	222.0
+7	Spectrogram 1	1	249.0	252.0	0	12000.0	Wood Thrush	woothr	0.3127	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	249.0
+8	Spectrogram 1	1	342.0	345.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.5957	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	342.0
+9	Spectrogram 1	1	408.0	411.0	0	12000.0	Common Raven	comrav	0.1220	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	408.0
+10	Spectrogram 1	1	504.0	507.0	0	12000.0	American Crow	amecro	0.1549	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	504.0
+11	Spectrogram 1	1	522.0	525.0	0	12000.0	American Crow	amecro	0.3449	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	522.0
+12	Spectrogram 1	1	528.0	531.0	0	12000.0	Common Raven	comrav	0.2021	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	528.0
+13	Spectrogram 1	1	531.0	534.0	0	12000.0	American Crow	amecro	0.2529	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	531.0
+14	Spectrogram 1	1	534.0	537.0	0	12000.0	American Crow	amecro	0.2414	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	534.0
+15	Spectrogram 1	1	861.0	864.0	0	12000.0	Eastern Bluebird	easblu	0.1774	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	861.0
+16	Spectrogram 1	1	897.0	900.0	0	12000.0	Common Raven	comrav	0.5065	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	897.0
+17	Spectrogram 1	1	903.0	906.0	0	12000.0	Brown Creeper	brncre	0.7735	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	903.0
+18	Spectrogram 1	1	915.0	918.0	0	12000.0	Common Raven	comrav	0.1432	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	915.0
+19	Spectrogram 1	1	930.0	933.0	0	12000.0	Common Raven	comrav	0.1309	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	930.0
+20	Spectrogram 1	1	933.0	936.0	0	12000.0	Common Raven	comrav	0.1456	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	933.0
+21	Spectrogram 1	1	945.0	948.0	0	12000.0	American Crow	amecro	0.1921	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	945.0
+22	Spectrogram 1	1	969.0	972.0	0	12000.0	Common Raven	comrav	0.3210	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	969.0
+23	Spectrogram 1	1	978.0	981.0	0	12000.0	Common Raven	comrav	0.1392	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	978.0
+24	Spectrogram 1	1	993.0	996.0	0	12000.0	American Crow	amecro	0.1195	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	993.0
+25	Spectrogram 1	1	1071.0	1074.0	0	12000.0	Brown Creeper	brncre	0.1584	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	1071.0
+26	Spectrogram 1	1	1074.0	1077.0	0	12000.0	Brown Creeper	brncre	0.5173	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	1074.0
+27	Spectrogram 1	1	1077.0	1080.0	0	12000.0	Brown Creeper	brncre	0.6731	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	1077.0
+28	Spectrogram 1	1	1089.0	1092.0	0	12000.0	Winter Wren	winwre3	0.5722	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	1089.0
+29	Spectrogram 1	1	1089.0	1092.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4224	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	1089.0
+30	Spectrogram 1	1	1098.0	1101.0	0	12000.0	Brown Creeper	brncre	0.1249	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	1098.0
+31	Spectrogram 1	1	1098.0	1101.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1071	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	1098.0
+32	Spectrogram 1	1	2463.0	2466.0	0	12000.0	Common Raven	comrav	0.1309	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	2463.0
+33	Spectrogram 1	1	2517.0	2520.0	0	12000.0	Pine Grosbeak	pingro	0.2200	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	2517.0
+34	Spectrogram 1	1	3213.0	3216.0	0	12000.0	Black-capped Chickadee	bkcchi	0.3398	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	3213.0
+35	Spectrogram 1	1	3216.0	3219.0	0	12000.0	Black-capped Chickadee	bkcchi	0.1620	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	3216.0
+36	Spectrogram 1	1	3222.0	3225.0	0	12000.0	Black-capped Chickadee	bkcchi	0.1215	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_054602.wav	3222.0

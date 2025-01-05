@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	759.0	762.0	0	12000.0	Brown Creeper	brncre	0.2647	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240823_185100.wav	759.0
+2	Spectrogram 1	1	762.0	765.0	0	12000.0	Brown Creeper	brncre	0.4737	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240823_185100.wav	762.0
+3	Spectrogram 1	1	1479.0	1482.0	0	12000.0	Common Grackle	comgra	0.1121	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240823_185100.wav	1479.0
+4	Spectrogram 1	1	2034.0	2037.0	0	12000.0	Downy Woodpecker	dowwoo	0.1826	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240823_185100.wav	2034.0
+5	Spectrogram 1	1	2139.0	2142.0	0	12000.0	Alder Flycatcher	aldfly	0.2866	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240823_185100.wav	2139.0
+6	Spectrogram 1	1	2439.0	2442.0	0	12000.0	Yellow-bellied Sapsucker	yebsap	0.1050	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240823_185100.wav	2439.0
+7	Spectrogram 1	1	3411.0	3414.0	0	12000.0	Evening Grosbeak	evegro	0.1093	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240823_185100.wav	3411.0

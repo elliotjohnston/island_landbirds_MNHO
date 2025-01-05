@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	51.0	54.0	0	12000.0	White-throated Sparrow	whtspa	0.6701	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240508_191300.wav	51.0
+2	Spectrogram 1	1	51.0	54.0	0	12000.0	Spruce Grouse	sprgro	0.1072	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240508_191300.wav	51.0
+3	Spectrogram 1	1	54.0	57.0	0	12000.0	White-throated Sparrow	whtspa	0.4934	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240508_191300.wav	54.0
+4	Spectrogram 1	1	741.0	744.0	0	12000.0	White-throated Sparrow	whtspa	0.7131	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240508_191300.wav	741.0
+5	Spectrogram 1	1	741.0	744.0	0	12000.0	Spruce Grouse	sprgro	0.1632	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240508_191300.wav	741.0
+6	Spectrogram 1	1	744.0	747.0	0	12000.0	White-throated Sparrow	whtspa	0.1409	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240508_191300.wav	744.0
+7	Spectrogram 1	1	1368.0	1371.0	0	12000.0	White-throated Sparrow	whtspa	0.1727	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240508_191300.wav	1368.0
+8	Spectrogram 1	1	1374.0	1377.0	0	12000.0	White-throated Sparrow	whtspa	0.2419	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240508_191300.wav	1374.0
+9	Spectrogram 1	1	1374.0	1377.0	0	12000.0	Spruce Grouse	sprgro	0.1706	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240508_191300.wav	1374.0
+10	Spectrogram 1	1	1383.0	1386.0	0	12000.0	White-throated Sparrow	whtspa	0.1290	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240508_191300.wav	1383.0
+11	Spectrogram 1	1	1383.0	1386.0	0	12000.0	Spruce Grouse	sprgro	0.1240	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240508_191300.wav	1383.0
+12	Spectrogram 1	1	1689.0	1692.0	0	12000.0	White-throated Sparrow	whtspa	0.3289	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240508_191300.wav	1689.0
+13	Spectrogram 1	1	2157.0	2160.0	0	12000.0	White-throated Sparrow	whtspa	0.1003	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240508_191300.wav	2157.0

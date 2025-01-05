@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2118.0	2121.0	0	12000.0	White-throated Sparrow	whtspa	0.1865	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_043800.wav	2118.0
+2	Spectrogram 1	1	2268.0	2271.0	0	12000.0	White-throated Sparrow	whtspa	0.1925	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_043800.wav	2268.0
+3	Spectrogram 1	1	2355.0	2358.0	0	12000.0	Wilson's Warbler	wlswar	0.3195	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_043800.wav	2355.0
+4	Spectrogram 1	1	2757.0	2760.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2652	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_043800.wav	2757.0
+5	Spectrogram 1	1	2799.0	2802.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7749	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_043800.wav	2799.0
+6	Spectrogram 1	1	2802.0	2805.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3879	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_043800.wav	2802.0
+7	Spectrogram 1	1	2847.0	2850.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6055	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_043800.wav	2847.0
+8	Spectrogram 1	1	2877.0	2880.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2197	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_043800.wav	2877.0
+9	Spectrogram 1	1	3219.0	3222.0	0	12000.0	Brown Creeper	brncre	0.1232	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_043800.wav	3219.0
+10	Spectrogram 1	1	3231.0	3234.0	0	12000.0	White-throated Sparrow	whtspa	0.1235	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_043800.wav	3231.0
+11	Spectrogram 1	1	3234.0	3237.0	0	12000.0	White-throated Sparrow	whtspa	0.2331	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_043800.wav	3234.0
+12	Spectrogram 1	1	3237.0	3240.0	0	12000.0	White-throated Sparrow	whtspa	0.2690	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_043800.wav	3237.0
+13	Spectrogram 1	1	3327.0	3330.0	0	12000.0	Brown Creeper	brncre	0.1132	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_043800.wav	3327.0
+14	Spectrogram 1	1	3339.0	3342.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1629	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_043800.wav	3339.0

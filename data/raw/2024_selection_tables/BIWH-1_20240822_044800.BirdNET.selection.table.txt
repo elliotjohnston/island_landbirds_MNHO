@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2178.0	2181.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1142	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240822_044800.wav	2178.0
+2	Spectrogram 1	1	2658.0	2661.0	0	12000.0	American Crow	amecro	0.1536	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240822_044800.wav	2658.0
+3	Spectrogram 1	1	2688.0	2691.0	0	12000.0	American Crow	amecro	0.2354	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240822_044800.wav	2688.0
+4	Spectrogram 1	1	2703.0	2706.0	0	12000.0	American Crow	amecro	0.3589	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240822_044800.wav	2703.0
+5	Spectrogram 1	1	2799.0	2802.0	0	12000.0	American Crow	amecro	0.1167	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240822_044800.wav	2799.0
+6	Spectrogram 1	1	3222.0	3225.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1201	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240822_044800.wav	3222.0
+7	Spectrogram 1	1	3225.0	3228.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3237	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240822_044800.wav	3225.0
+8	Spectrogram 1	1	3225.0	3228.0	0	12000.0	Brown Creeper	brncre	0.2138	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240822_044800.wav	3225.0
+9	Spectrogram 1	1	3225.0	3228.0	0	12000.0	Cape May Warbler	camwar	0.1487	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240822_044800.wav	3225.0
+10	Spectrogram 1	1	3288.0	3291.0	0	12000.0	Pileated Woodpecker	pilwoo	0.5399	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240822_044800.wav	3288.0
+11	Spectrogram 1	1	3456.0	3459.0	0	12000.0	Brown Creeper	brncre	0.3038	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240822_044800.wav	3456.0
+12	Spectrogram 1	1	3576.0	3579.0	0	12000.0	Rose-breasted Grosbeak	robgro	0.1207	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240822_044800.wav	3576.0

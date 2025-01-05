@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1596.0	1599.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1845	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240527_193700.wav	1596.0
+2	Spectrogram 1	1	1611.0	1614.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2611	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240527_193700.wav	1611.0
+3	Spectrogram 1	1	1995.0	1998.0	0	12000.0	White-throated Sparrow	whtspa	0.1570	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240527_193700.wav	1995.0

@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	786.0	789.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2675	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240711_194500.wav	786.0
+2	Spectrogram 1	1	813.0	816.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2205	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240711_194500.wav	813.0
+3	Spectrogram 1	1	837.0	840.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1282	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240711_194500.wav	837.0
+4	Spectrogram 1	1	864.0	867.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3881	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240711_194500.wav	864.0
+5	Spectrogram 1	1	969.0	972.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3092	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240711_194500.wav	969.0
+6	Spectrogram 1	1	975.0	978.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1688	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240711_194500.wav	975.0
+7	Spectrogram 1	1	2499.0	2502.0	0	12000.0	Evening Grosbeak	evegro	0.1326	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240711_194500.wav	2499.0
+8	Spectrogram 1	1	2949.0	2952.0	0	12000.0	Swainson's Thrush	swathr	0.7729	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240711_194500.wav	2949.0
+9	Spectrogram 1	1	2955.0	2958.0	0	12000.0	Swainson's Thrush	swathr	0.7473	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240711_194500.wav	2955.0
+10	Spectrogram 1	1	2958.0	2961.0	0	12000.0	Swainson's Thrush	swathr	0.9597	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240711_194500.wav	2958.0
+11	Spectrogram 1	1	2967.0	2970.0	0	12000.0	Swainson's Thrush	swathr	0.2759	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240711_194500.wav	2967.0
+12	Spectrogram 1	1	2970.0	2973.0	0	12000.0	Swainson's Thrush	swathr	0.7418	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240711_194500.wav	2970.0
+13	Spectrogram 1	1	2973.0	2976.0	0	12000.0	Swainson's Thrush	swathr	0.7353	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240711_194500.wav	2973.0
+14	Spectrogram 1	1	2976.0	2979.0	0	12000.0	Swainson's Thrush	swathr	0.8162	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240711_194500.wav	2976.0
+15	Spectrogram 1	1	2979.0	2982.0	0	12000.0	Swainson's Thrush	swathr	0.6562	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240711_194500.wav	2979.0
+16	Spectrogram 1	1	2982.0	2985.0	0	12000.0	Swainson's Thrush	swathr	0.4411	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240711_194500.wav	2982.0
+17	Spectrogram 1	1	2985.0	2988.0	0	12000.0	Swainson's Thrush	swathr	0.2116	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240711_194500.wav	2985.0
+18	Spectrogram 1	1	2991.0	2994.0	0	12000.0	Swainson's Thrush	swathr	0.7919	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240711_194500.wav	2991.0

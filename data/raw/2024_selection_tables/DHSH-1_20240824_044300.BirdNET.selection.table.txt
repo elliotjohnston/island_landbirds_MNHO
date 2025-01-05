@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2655.0	2658.0	0	12000.0	Cedar Waxwing	cedwax	0.4435	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240824_044300.wav	2655.0
+2	Spectrogram 1	1	2658.0	2661.0	0	12000.0	Cedar Waxwing	cedwax	0.4803	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240824_044300.wav	2658.0
+3	Spectrogram 1	1	2664.0	2667.0	0	12000.0	Cedar Waxwing	cedwax	0.2175	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240824_044300.wav	2664.0
+4	Spectrogram 1	1	2676.0	2679.0	0	12000.0	Cedar Waxwing	cedwax	0.4117	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240824_044300.wav	2676.0
+5	Spectrogram 1	1	2679.0	2682.0	0	12000.0	Cedar Waxwing	cedwax	0.1586	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240824_044300.wav	2679.0
+6	Spectrogram 1	1	2685.0	2688.0	0	12000.0	Cedar Waxwing	cedwax	0.2320	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240824_044300.wav	2685.0
+7	Spectrogram 1	1	2931.0	2934.0	0	12000.0	Cedar Waxwing	cedwax	0.8674	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240824_044300.wav	2931.0
+8	Spectrogram 1	1	2934.0	2937.0	0	12000.0	Cedar Waxwing	cedwax	0.9781	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240824_044300.wav	2934.0
+9	Spectrogram 1	1	2937.0	2940.0	0	12000.0	Cedar Waxwing	cedwax	0.9837	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240824_044300.wav	2937.0
+10	Spectrogram 1	1	2940.0	2943.0	0	12000.0	Cedar Waxwing	cedwax	0.9923	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240824_044300.wav	2940.0
+11	Spectrogram 1	1	2943.0	2946.0	0	12000.0	Cedar Waxwing	cedwax	0.7787	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240824_044300.wav	2943.0
+12	Spectrogram 1	1	2946.0	2949.0	0	12000.0	Cedar Waxwing	cedwax	0.7896	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240824_044300.wav	2946.0
+13	Spectrogram 1	1	2949.0	2952.0	0	12000.0	Cedar Waxwing	cedwax	0.9642	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240824_044300.wav	2949.0
+14	Spectrogram 1	1	2952.0	2955.0	0	12000.0	Cedar Waxwing	cedwax	0.6014	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240824_044300.wav	2952.0
+15	Spectrogram 1	1	2955.0	2958.0	0	12000.0	Cedar Waxwing	cedwax	0.9007	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240824_044300.wav	2955.0
+16	Spectrogram 1	1	2958.0	2961.0	0	12000.0	Cedar Waxwing	cedwax	0.5519	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240824_044300.wav	2958.0
+17	Spectrogram 1	1	2961.0	2964.0	0	12000.0	Cedar Waxwing	cedwax	0.7166	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240824_044300.wav	2961.0
+18	Spectrogram 1	1	3147.0	3150.0	0	12000.0	American Redstart	amered	0.1028	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240824_044300.wav	3147.0
+19	Spectrogram 1	1	3150.0	3153.0	0	12000.0	American Redstart	amered	0.2264	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240824_044300.wav	3150.0
+20	Spectrogram 1	1	3159.0	3162.0	0	12000.0	American Redstart	amered	0.1159	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240824_044300.wav	3159.0
+21	Spectrogram 1	1	3165.0	3168.0	0	12000.0	American Redstart	amered	0.2837	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240824_044300.wav	3165.0
+22	Spectrogram 1	1	3264.0	3267.0	0	12000.0	White-crowned Sparrow	whcspa	0.1049	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240824_044300.wav	3264.0

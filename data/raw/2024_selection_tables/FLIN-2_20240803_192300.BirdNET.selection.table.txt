@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	972.0	975.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1187	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240803_192300.wav	972.0

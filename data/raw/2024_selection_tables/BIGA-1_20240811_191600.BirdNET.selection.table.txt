@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	267.0	270.0	0	12000.0	Pine Warbler	pinwar	0.1047	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240811_191600.wav	267.0
+2	Spectrogram 1	1	444.0	447.0	0	12000.0	Brown Creeper	brncre	0.1902	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240811_191600.wav	444.0
+3	Spectrogram 1	1	447.0	450.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1687	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240811_191600.wav	447.0
+4	Spectrogram 1	1	459.0	462.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1984	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240811_191600.wav	459.0
+5	Spectrogram 1	1	468.0	471.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1291	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240811_191600.wav	468.0
+6	Spectrogram 1	1	480.0	483.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1423	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240811_191600.wav	480.0
+7	Spectrogram 1	1	516.0	519.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3668	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240811_191600.wav	516.0
+8	Spectrogram 1	1	522.0	525.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7247	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240811_191600.wav	522.0
+9	Spectrogram 1	1	525.0	528.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4660	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240811_191600.wav	525.0
+10	Spectrogram 1	1	534.0	537.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2222	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240811_191600.wav	534.0
+11	Spectrogram 1	1	738.0	741.0	0	12000.0	Pine Warbler	pinwar	0.1978	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240811_191600.wav	738.0
+12	Spectrogram 1	1	897.0	900.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.2798	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240811_191600.wav	897.0
+13	Spectrogram 1	1	1593.0	1596.0	0	12000.0	Pine Warbler	pinwar	0.2795	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240811_191600.wav	1593.0
+14	Spectrogram 1	1	3162.0	3165.0	0	12000.0	Common Nighthawk	comnig	0.9512	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240811_191600.wav	3162.0

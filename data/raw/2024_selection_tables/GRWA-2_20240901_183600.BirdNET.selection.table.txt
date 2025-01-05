@@ -1,0 +1,3 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2226.0	2229.0	0	12000.0	Wilson's Warbler	wlswar	0.2414	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240901_183600.wav	2226.0
+2	Spectrogram 1	1	2451.0	2454.0	0	12000.0	Wilson's Warbler	wlswar	0.1147	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240901_183600.wav	2451.0

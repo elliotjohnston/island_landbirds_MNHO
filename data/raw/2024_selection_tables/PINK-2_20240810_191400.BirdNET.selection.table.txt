@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	15.0	18.0	0	12000.0	Common Raven	comrav	0.1005	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240810_191400.wav	15.0
+2	Spectrogram 1	1	33.0	36.0	0	12000.0	Common Raven	comrav	0.2485	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240810_191400.wav	33.0
+3	Spectrogram 1	1	102.0	105.0	0	12000.0	Hairy Woodpecker	haiwoo	0.2824	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240810_191400.wav	102.0
+4	Spectrogram 1	1	444.0	447.0	0	12000.0	Common Raven	comrav	0.4344	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240810_191400.wav	444.0

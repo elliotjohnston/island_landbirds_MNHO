@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	15.0	18.0	0	12000.0	White-crowned Sparrow	whcspa	0.2213	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_054502.wav	15.0
+2	Spectrogram 1	1	309.0	312.0	0	12000.0	White-throated Sparrow	whtspa	0.2292	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_054502.wav	309.0
+3	Spectrogram 1	1	1674.0	1677.0	0	12000.0	White-crowned Sparrow	whcspa	0.1278	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_054502.wav	1674.0
+4	Spectrogram 1	1	1773.0	1776.0	0	12000.0	White-crowned Sparrow	whcspa	0.3177	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_054502.wav	1773.0
+5	Spectrogram 1	1	1902.0	1905.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.7018	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_054502.wav	1902.0
+6	Spectrogram 1	1	1989.0	1992.0	0	12000.0	White-crowned Sparrow	whcspa	0.1307	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_054502.wav	1989.0
+7	Spectrogram 1	1	2022.0	2025.0	0	12000.0	White-crowned Sparrow	whcspa	0.1147	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_054502.wav	2022.0
+8	Spectrogram 1	1	2352.0	2355.0	0	12000.0	Pine Siskin	pinsis	0.1769	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_054502.wav	2352.0
+9	Spectrogram 1	1	2352.0	2355.0	0	12000.0	American Goldfinch	amegfi	0.1393	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_054502.wav	2352.0
+10	Spectrogram 1	1	2823.0	2826.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.1324	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_054502.wav	2823.0
+11	Spectrogram 1	1	2850.0	2853.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.1780	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_054502.wav	2850.0
+12	Spectrogram 1	1	3408.0	3411.0	0	12000.0	White-crowned Sparrow	whcspa	0.1804	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_054502.wav	3408.0

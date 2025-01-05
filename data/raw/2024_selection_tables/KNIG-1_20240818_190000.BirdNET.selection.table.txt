@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	423.0	426.0	0	12000.0	American Crow	amecro	0.6904	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240818_190000.wav	423.0
+2	Spectrogram 1	1	426.0	429.0	0	12000.0	American Crow	amecro	0.8505	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240818_190000.wav	426.0
+3	Spectrogram 1	1	456.0	459.0	0	12000.0	Hairy Woodpecker	haiwoo	0.1423	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240818_190000.wav	456.0
+4	Spectrogram 1	1	1050.0	1053.0	0	12000.0	Cedar Waxwing	cedwax	0.1819	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240818_190000.wav	1050.0
+5	Spectrogram 1	1	1053.0	1056.0	0	12000.0	Cedar Waxwing	cedwax	0.1303	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240818_190000.wav	1053.0
+6	Spectrogram 1	1	1173.0	1176.0	0	12000.0	Brown Creeper	brncre	0.1354	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240818_190000.wav	1173.0
+7	Spectrogram 1	1	1179.0	1182.0	0	12000.0	Brown Creeper	brncre	0.1064	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240818_190000.wav	1179.0

@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2592.0	2595.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1210	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240819_043700.wav	2592.0
+2	Spectrogram 1	1	2844.0	2847.0	0	12000.0	Black-capped Chickadee	bkcchi	0.3591	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240819_043700.wav	2844.0
+3	Spectrogram 1	1	3228.0	3231.0	0	12000.0	Cedar Waxwing	cedwax	0.2254	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240819_043700.wav	3228.0
+4	Spectrogram 1	1	3363.0	3366.0	0	12000.0	Cedar Waxwing	cedwax	0.1004	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240819_043700.wav	3363.0

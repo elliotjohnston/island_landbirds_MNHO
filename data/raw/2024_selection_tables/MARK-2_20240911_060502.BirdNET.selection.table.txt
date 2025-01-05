@@ -1,0 +1,381 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	9.0	12.0	0	12000.0	Dark-eyed Junco	daejun	0.1436	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	9.0
+2	Spectrogram 1	1	24.0	27.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1017	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	24.0
+3	Spectrogram 1	1	27.0	30.0	0	12000.0	White-throated Sparrow	whtspa	0.6144	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	27.0
+4	Spectrogram 1	1	39.0	42.0	0	12000.0	Dark-eyed Junco	daejun	0.1175	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	39.0
+5	Spectrogram 1	1	42.0	45.0	0	12000.0	White-throated Sparrow	whtspa	0.1691	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	42.0
+6	Spectrogram 1	1	45.0	48.0	0	12000.0	White-throated Sparrow	whtspa	0.3067	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	45.0
+7	Spectrogram 1	1	48.0	51.0	0	12000.0	White-throated Sparrow	whtspa	0.3193	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	48.0
+8	Spectrogram 1	1	54.0	57.0	0	12000.0	White-throated Sparrow	whtspa	0.2222	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	54.0
+9	Spectrogram 1	1	81.0	84.0	0	12000.0	White-throated Sparrow	whtspa	0.8083	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	81.0
+10	Spectrogram 1	1	81.0	84.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1336	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	81.0
+11	Spectrogram 1	1	111.0	114.0	0	12000.0	Dark-eyed Junco	daejun	0.1783	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	111.0
+12	Spectrogram 1	1	111.0	114.0	0	12000.0	White-throated Sparrow	whtspa	0.1709	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	111.0
+13	Spectrogram 1	1	129.0	132.0	0	12000.0	Dark-eyed Junco	daejun	0.1240	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	129.0
+14	Spectrogram 1	1	138.0	141.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2315	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	138.0
+15	Spectrogram 1	1	147.0	150.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4066	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	147.0
+16	Spectrogram 1	1	150.0	153.0	0	12000.0	Dark-eyed Junco	daejun	0.1023	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	150.0
+17	Spectrogram 1	1	162.0	165.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1474	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	162.0
+18	Spectrogram 1	1	165.0	168.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1143	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	165.0
+19	Spectrogram 1	1	171.0	174.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1134	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	171.0
+20	Spectrogram 1	1	189.0	192.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1298	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	189.0
+21	Spectrogram 1	1	198.0	201.0	0	12000.0	Dark-eyed Junco	daejun	0.1357	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	198.0
+22	Spectrogram 1	1	201.0	204.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1054	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	201.0
+23	Spectrogram 1	1	204.0	207.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1298	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	204.0
+24	Spectrogram 1	1	210.0	213.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2161	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	210.0
+25	Spectrogram 1	1	216.0	219.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1315	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	216.0
+26	Spectrogram 1	1	222.0	225.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2139	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	222.0
+27	Spectrogram 1	1	231.0	234.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1091	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	231.0
+28	Spectrogram 1	1	234.0	237.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2803	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	234.0
+29	Spectrogram 1	1	237.0	240.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2073	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	237.0
+30	Spectrogram 1	1	240.0	243.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2079	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	240.0
+31	Spectrogram 1	1	246.0	249.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8190	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	246.0
+32	Spectrogram 1	1	249.0	252.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6483	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	249.0
+33	Spectrogram 1	1	252.0	255.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6731	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	252.0
+34	Spectrogram 1	1	258.0	261.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6464	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	258.0
+35	Spectrogram 1	1	267.0	270.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1126	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	267.0
+36	Spectrogram 1	1	270.0	273.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2824	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	270.0
+37	Spectrogram 1	1	273.0	276.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3240	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	273.0
+38	Spectrogram 1	1	276.0	279.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2015	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	276.0
+39	Spectrogram 1	1	279.0	282.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5493	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	279.0
+40	Spectrogram 1	1	282.0	285.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6415	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	282.0
+41	Spectrogram 1	1	285.0	288.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5241	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	285.0
+42	Spectrogram 1	1	288.0	291.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2814	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	288.0
+43	Spectrogram 1	1	291.0	294.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8794	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	291.0
+44	Spectrogram 1	1	291.0	294.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1497	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	291.0
+45	Spectrogram 1	1	291.0	294.0	0	12000.0	Chipping Sparrow	chispa	0.1376	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	291.0
+46	Spectrogram 1	1	294.0	297.0	0	12000.0	Dark-eyed Junco	daejun	0.2280	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	294.0
+47	Spectrogram 1	1	303.0	306.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5051	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	303.0
+48	Spectrogram 1	1	306.0	309.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2156	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	306.0
+49	Spectrogram 1	1	312.0	315.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3378	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	312.0
+50	Spectrogram 1	1	315.0	318.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2730	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	315.0
+51	Spectrogram 1	1	318.0	321.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2311	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	318.0
+52	Spectrogram 1	1	354.0	357.0	0	12000.0	White-throated Sparrow	whtspa	0.1180	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	354.0
+53	Spectrogram 1	1	357.0	360.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2073	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	357.0
+54	Spectrogram 1	1	372.0	375.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3098	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	372.0
+55	Spectrogram 1	1	372.0	375.0	0	12000.0	White-throated Sparrow	whtspa	0.1954	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	372.0
+56	Spectrogram 1	1	408.0	411.0	0	12000.0	Winter Wren	winwre3	0.1508	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	408.0
+57	Spectrogram 1	1	411.0	414.0	0	12000.0	Winter Wren	winwre3	0.1096	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	411.0
+58	Spectrogram 1	1	414.0	417.0	0	12000.0	Song Sparrow	sonspa	0.3253	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	414.0
+59	Spectrogram 1	1	423.0	426.0	0	12000.0	Winter Wren	winwre3	0.1078	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	423.0
+60	Spectrogram 1	1	426.0	429.0	0	12000.0	Song Sparrow	sonspa	0.2466	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	426.0
+61	Spectrogram 1	1	435.0	438.0	0	12000.0	Song Sparrow	sonspa	0.1234	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	435.0
+62	Spectrogram 1	1	444.0	447.0	0	12000.0	Song Sparrow	sonspa	0.2123	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	444.0
+63	Spectrogram 1	1	447.0	450.0	0	12000.0	Song Sparrow	sonspa	0.4746	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	447.0
+64	Spectrogram 1	1	450.0	453.0	0	12000.0	Song Sparrow	sonspa	0.2267	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	450.0
+65	Spectrogram 1	1	453.0	456.0	0	12000.0	Song Sparrow	sonspa	0.1756	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	453.0
+66	Spectrogram 1	1	462.0	465.0	0	12000.0	Song Sparrow	sonspa	0.1987	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	462.0
+67	Spectrogram 1	1	465.0	468.0	0	12000.0	Song Sparrow	sonspa	0.5898	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	465.0
+68	Spectrogram 1	1	468.0	471.0	0	12000.0	Song Sparrow	sonspa	0.5689	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	468.0
+69	Spectrogram 1	1	471.0	474.0	0	12000.0	Song Sparrow	sonspa	0.7216	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	471.0
+70	Spectrogram 1	1	474.0	477.0	0	12000.0	Song Sparrow	sonspa	0.1541	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	474.0
+71	Spectrogram 1	1	477.0	480.0	0	12000.0	Song Sparrow	sonspa	0.2108	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	477.0
+72	Spectrogram 1	1	486.0	489.0	0	12000.0	Song Sparrow	sonspa	0.1020	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	486.0
+73	Spectrogram 1	1	489.0	492.0	0	12000.0	Song Sparrow	sonspa	0.2114	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	489.0
+74	Spectrogram 1	1	492.0	495.0	0	12000.0	Song Sparrow	sonspa	0.1620	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	492.0
+75	Spectrogram 1	1	498.0	501.0	0	12000.0	Song Sparrow	sonspa	0.1360	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	498.0
+76	Spectrogram 1	1	513.0	516.0	0	12000.0	Song Sparrow	sonspa	0.1078	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	513.0
+77	Spectrogram 1	1	516.0	519.0	0	12000.0	Song Sparrow	sonspa	0.1937	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	516.0
+78	Spectrogram 1	1	519.0	522.0	0	12000.0	Song Sparrow	sonspa	0.2551	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	519.0
+79	Spectrogram 1	1	522.0	525.0	0	12000.0	Song Sparrow	sonspa	0.3627	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	522.0
+80	Spectrogram 1	1	525.0	528.0	0	12000.0	White-throated Sparrow	whtspa	0.5772	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	525.0
+81	Spectrogram 1	1	534.0	537.0	0	12000.0	Song Sparrow	sonspa	0.3835	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	534.0
+82	Spectrogram 1	1	543.0	546.0	0	12000.0	Song Sparrow	sonspa	0.1899	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	543.0
+83	Spectrogram 1	1	549.0	552.0	0	12000.0	Dark-eyed Junco	daejun	0.1794	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	549.0
+84	Spectrogram 1	1	567.0	570.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1609	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	567.0
+85	Spectrogram 1	1	588.0	591.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1218	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	588.0
+86	Spectrogram 1	1	591.0	594.0	0	12000.0	Dark-eyed Junco	daejun	0.1266	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	591.0
+87	Spectrogram 1	1	597.0	600.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5366	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	597.0
+88	Spectrogram 1	1	606.0	609.0	0	12000.0	Song Sparrow	sonspa	0.2629	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	606.0
+89	Spectrogram 1	1	621.0	624.0	0	12000.0	White-throated Sparrow	whtspa	0.1413	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	621.0
+90	Spectrogram 1	1	627.0	630.0	0	12000.0	Song Sparrow	sonspa	0.1151	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	627.0
+91	Spectrogram 1	1	630.0	633.0	0	12000.0	Song Sparrow	sonspa	0.3409	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	630.0
+92	Spectrogram 1	1	633.0	636.0	0	12000.0	Song Sparrow	sonspa	0.5927	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	633.0
+93	Spectrogram 1	1	672.0	675.0	0	12000.0	Winter Wren	winwre3	0.2316	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	672.0
+94	Spectrogram 1	1	702.0	705.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1676	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	702.0
+95	Spectrogram 1	1	708.0	711.0	0	12000.0	Brown Creeper	brncre	0.1731	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	708.0
+96	Spectrogram 1	1	735.0	738.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3705	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	735.0
+97	Spectrogram 1	1	735.0	738.0	0	12000.0	Brown Creeper	brncre	0.1141	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	735.0
+98	Spectrogram 1	1	753.0	756.0	0	12000.0	Brown Creeper	brncre	0.1654	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	753.0
+99	Spectrogram 1	1	786.0	789.0	0	12000.0	Brown Creeper	brncre	0.1186	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	786.0
+100	Spectrogram 1	1	786.0	789.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1013	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	786.0
+101	Spectrogram 1	1	801.0	804.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4941	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	801.0
+102	Spectrogram 1	1	804.0	807.0	0	12000.0	Brown Creeper	brncre	0.1441	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	804.0
+103	Spectrogram 1	1	804.0	807.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1201	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	804.0
+104	Spectrogram 1	1	807.0	810.0	0	12000.0	White-throated Sparrow	whtspa	0.3392	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	807.0
+105	Spectrogram 1	1	807.0	810.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1198	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	807.0
+106	Spectrogram 1	1	822.0	825.0	0	12000.0	White-throated Sparrow	whtspa	0.7242	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	822.0
+107	Spectrogram 1	1	858.0	861.0	0	12000.0	White-throated Sparrow	whtspa	0.1096	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	858.0
+108	Spectrogram 1	1	873.0	876.0	0	12000.0	Cape May Warbler	camwar	0.2067	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	873.0
+109	Spectrogram 1	1	873.0	876.0	0	12000.0	Brown Creeper	brncre	0.1919	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	873.0
+110	Spectrogram 1	1	936.0	939.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3486	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	936.0
+111	Spectrogram 1	1	960.0	963.0	0	12000.0	Brown Creeper	brncre	0.1690	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	960.0
+112	Spectrogram 1	1	993.0	996.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1251	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	993.0
+113	Spectrogram 1	1	996.0	999.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1625	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	996.0
+114	Spectrogram 1	1	1044.0	1047.0	0	12000.0	Mourning Dove	moudov	0.1192	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1044.0
+115	Spectrogram 1	1	1068.0	1071.0	0	12000.0	White-throated Sparrow	whtspa	0.8223	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1068.0
+116	Spectrogram 1	1	1074.0	1077.0	0	12000.0	Brown Creeper	brncre	0.1083	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1074.0
+117	Spectrogram 1	1	1083.0	1086.0	0	12000.0	White-throated Sparrow	whtspa	0.5398	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1083.0
+118	Spectrogram 1	1	1089.0	1092.0	0	12000.0	White-throated Sparrow	whtspa	0.2779	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1089.0
+119	Spectrogram 1	1	1104.0	1107.0	0	12000.0	White-throated Sparrow	whtspa	0.6029	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1104.0
+120	Spectrogram 1	1	1110.0	1113.0	0	12000.0	White-throated Sparrow	whtspa	0.1059	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1110.0
+121	Spectrogram 1	1	1116.0	1119.0	0	12000.0	American Crow	amecro	0.1140	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1116.0
+122	Spectrogram 1	1	1119.0	1122.0	0	12000.0	American Crow	amecro	0.3085	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1119.0
+123	Spectrogram 1	1	1122.0	1125.0	0	12000.0	American Crow	amecro	0.3543	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1122.0
+124	Spectrogram 1	1	1125.0	1128.0	0	12000.0	American Crow	amecro	0.7881	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1125.0
+125	Spectrogram 1	1	1125.0	1128.0	0	12000.0	Common Raven	comrav	0.2307	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1125.0
+126	Spectrogram 1	1	1128.0	1131.0	0	12000.0	American Crow	amecro	0.7687	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1128.0
+127	Spectrogram 1	1	1128.0	1131.0	0	12000.0	Common Raven	comrav	0.1238	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1128.0
+128	Spectrogram 1	1	1131.0	1134.0	0	12000.0	American Crow	amecro	0.4454	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1131.0
+129	Spectrogram 1	1	1131.0	1134.0	0	12000.0	Common Raven	comrav	0.3821	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1131.0
+130	Spectrogram 1	1	1134.0	1137.0	0	12000.0	American Crow	amecro	0.4687	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1134.0
+131	Spectrogram 1	1	1134.0	1137.0	0	12000.0	Common Raven	comrav	0.3817	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1134.0
+132	Spectrogram 1	1	1137.0	1140.0	0	12000.0	American Crow	amecro	0.4153	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1137.0
+133	Spectrogram 1	1	1158.0	1161.0	0	12000.0	White-throated Sparrow	whtspa	0.6738	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1158.0
+134	Spectrogram 1	1	1161.0	1164.0	0	12000.0	White-throated Sparrow	whtspa	0.3388	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1161.0
+135	Spectrogram 1	1	1164.0	1167.0	0	12000.0	White-throated Sparrow	whtspa	0.9216	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1164.0
+136	Spectrogram 1	1	1167.0	1170.0	0	12000.0	White-throated Sparrow	whtspa	0.9258	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1167.0
+137	Spectrogram 1	1	1170.0	1173.0	0	12000.0	White-throated Sparrow	whtspa	0.1309	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1170.0
+138	Spectrogram 1	1	1173.0	1176.0	0	12000.0	White-throated Sparrow	whtspa	0.2878	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1173.0
+139	Spectrogram 1	1	1176.0	1179.0	0	12000.0	White-throated Sparrow	whtspa	0.7541	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1176.0
+140	Spectrogram 1	1	1179.0	1182.0	0	12000.0	White-throated Sparrow	whtspa	0.2054	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1179.0
+141	Spectrogram 1	1	1185.0	1188.0	0	12000.0	White-throated Sparrow	whtspa	0.3556	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1185.0
+142	Spectrogram 1	1	1188.0	1191.0	0	12000.0	White-throated Sparrow	whtspa	0.1219	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1188.0
+143	Spectrogram 1	1	1191.0	1194.0	0	12000.0	American Crow	amecro	0.3970	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1191.0
+144	Spectrogram 1	1	1194.0	1197.0	0	12000.0	American Crow	amecro	0.4178	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1194.0
+145	Spectrogram 1	1	1194.0	1197.0	0	12000.0	Common Raven	comrav	0.1317	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1194.0
+146	Spectrogram 1	1	1197.0	1200.0	0	12000.0	White-throated Sparrow	whtspa	0.4426	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1197.0
+147	Spectrogram 1	1	1200.0	1203.0	0	12000.0	White-throated Sparrow	whtspa	0.5367	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1200.0
+148	Spectrogram 1	1	1203.0	1206.0	0	12000.0	White-throated Sparrow	whtspa	0.1410	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1203.0
+149	Spectrogram 1	1	1206.0	1209.0	0	12000.0	American Crow	amecro	0.4963	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1206.0
+150	Spectrogram 1	1	1206.0	1209.0	0	12000.0	Common Raven	comrav	0.2582	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1206.0
+151	Spectrogram 1	1	1209.0	1212.0	0	12000.0	White-throated Sparrow	whtspa	0.2905	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1209.0
+152	Spectrogram 1	1	1215.0	1218.0	0	12000.0	White-throated Sparrow	whtspa	0.3623	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1215.0
+153	Spectrogram 1	1	1218.0	1221.0	0	12000.0	White-throated Sparrow	whtspa	0.9585	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1218.0
+154	Spectrogram 1	1	1221.0	1224.0	0	12000.0	White-throated Sparrow	whtspa	0.9629	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1221.0
+155	Spectrogram 1	1	1224.0	1227.0	0	12000.0	White-throated Sparrow	whtspa	0.1647	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1224.0
+156	Spectrogram 1	1	1227.0	1230.0	0	12000.0	American Crow	amecro	0.7664	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1227.0
+157	Spectrogram 1	1	1227.0	1230.0	0	12000.0	Common Raven	comrav	0.1500	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1227.0
+158	Spectrogram 1	1	1230.0	1233.0	0	12000.0	White-throated Sparrow	whtspa	0.9129	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1230.0
+159	Spectrogram 1	1	1233.0	1236.0	0	12000.0	American Crow	amecro	0.7552	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1233.0
+160	Spectrogram 1	1	1233.0	1236.0	0	12000.0	White-throated Sparrow	whtspa	0.3088	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1233.0
+161	Spectrogram 1	1	1236.0	1239.0	0	12000.0	American Crow	amecro	0.9817	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1236.0
+162	Spectrogram 1	1	1239.0	1242.0	0	12000.0	American Crow	amecro	0.9766	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1239.0
+163	Spectrogram 1	1	1242.0	1245.0	0	12000.0	White-throated Sparrow	whtspa	0.7377	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1242.0
+164	Spectrogram 1	1	1245.0	1248.0	0	12000.0	White-throated Sparrow	whtspa	0.7980	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1245.0
+165	Spectrogram 1	1	1248.0	1251.0	0	12000.0	White-throated Sparrow	whtspa	0.3924	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1248.0
+166	Spectrogram 1	1	1251.0	1254.0	0	12000.0	American Crow	amecro	0.6892	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1251.0
+167	Spectrogram 1	1	1254.0	1257.0	0	12000.0	Common Raven	comrav	0.7099	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1254.0
+168	Spectrogram 1	1	1254.0	1257.0	0	12000.0	White-throated Sparrow	whtspa	0.2208	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1254.0
+169	Spectrogram 1	1	1257.0	1260.0	0	12000.0	American Crow	amecro	0.9475	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1257.0
+170	Spectrogram 1	1	1260.0	1263.0	0	12000.0	American Crow	amecro	0.9549	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1260.0
+171	Spectrogram 1	1	1263.0	1266.0	0	12000.0	American Crow	amecro	0.3391	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1263.0
+172	Spectrogram 1	1	1263.0	1266.0	0	12000.0	White-throated Sparrow	whtspa	0.3325	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1263.0
+173	Spectrogram 1	1	1269.0	1272.0	0	12000.0	White-throated Sparrow	whtspa	0.2064	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1269.0
+174	Spectrogram 1	1	1272.0	1275.0	0	12000.0	White-throated Sparrow	whtspa	0.9159	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1272.0
+175	Spectrogram 1	1	1275.0	1278.0	0	12000.0	White-throated Sparrow	whtspa	0.9080	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1275.0
+176	Spectrogram 1	1	1278.0	1281.0	0	12000.0	White-throated Sparrow	whtspa	0.8402	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1278.0
+177	Spectrogram 1	1	1281.0	1284.0	0	12000.0	White-throated Sparrow	whtspa	0.5801	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1281.0
+178	Spectrogram 1	1	1284.0	1287.0	0	12000.0	White-throated Sparrow	whtspa	0.9701	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1284.0
+179	Spectrogram 1	1	1287.0	1290.0	0	12000.0	White-throated Sparrow	whtspa	0.8286	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1287.0
+180	Spectrogram 1	1	1290.0	1293.0	0	12000.0	White-throated Sparrow	whtspa	0.9831	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1290.0
+181	Spectrogram 1	1	1293.0	1296.0	0	12000.0	White-throated Sparrow	whtspa	0.9299	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1293.0
+182	Spectrogram 1	1	1296.0	1299.0	0	12000.0	White-throated Sparrow	whtspa	0.9520	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1296.0
+183	Spectrogram 1	1	1299.0	1302.0	0	12000.0	White-throated Sparrow	whtspa	0.9836	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1299.0
+184	Spectrogram 1	1	1302.0	1305.0	0	12000.0	White-throated Sparrow	whtspa	0.9296	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1302.0
+185	Spectrogram 1	1	1305.0	1308.0	0	12000.0	White-throated Sparrow	whtspa	0.9435	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1305.0
+186	Spectrogram 1	1	1308.0	1311.0	0	12000.0	White-throated Sparrow	whtspa	0.9596	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1308.0
+187	Spectrogram 1	1	1311.0	1314.0	0	12000.0	White-throated Sparrow	whtspa	0.8836	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1311.0
+188	Spectrogram 1	1	1314.0	1317.0	0	12000.0	White-throated Sparrow	whtspa	0.8947	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1314.0
+189	Spectrogram 1	1	1317.0	1320.0	0	12000.0	White-throated Sparrow	whtspa	0.9338	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1317.0
+190	Spectrogram 1	1	1320.0	1323.0	0	12000.0	White-throated Sparrow	whtspa	0.5868	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1320.0
+191	Spectrogram 1	1	1329.0	1332.0	0	12000.0	White-throated Sparrow	whtspa	0.7305	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1329.0
+192	Spectrogram 1	1	1332.0	1335.0	0	12000.0	White-throated Sparrow	whtspa	0.1778	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1332.0
+193	Spectrogram 1	1	1335.0	1338.0	0	12000.0	White-throated Sparrow	whtspa	0.5787	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1335.0
+194	Spectrogram 1	1	1338.0	1341.0	0	12000.0	White-throated Sparrow	whtspa	0.3147	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1338.0
+195	Spectrogram 1	1	1341.0	1344.0	0	12000.0	White-throated Sparrow	whtspa	0.4199	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1341.0
+196	Spectrogram 1	1	1344.0	1347.0	0	12000.0	White-throated Sparrow	whtspa	0.7240	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1344.0
+197	Spectrogram 1	1	1347.0	1350.0	0	12000.0	White-throated Sparrow	whtspa	0.6574	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1347.0
+198	Spectrogram 1	1	1350.0	1353.0	0	12000.0	White-throated Sparrow	whtspa	0.4330	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1350.0
+199	Spectrogram 1	1	1353.0	1356.0	0	12000.0	White-throated Sparrow	whtspa	0.7904	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1353.0
+200	Spectrogram 1	1	1356.0	1359.0	0	12000.0	White-throated Sparrow	whtspa	0.9108	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1356.0
+201	Spectrogram 1	1	1359.0	1362.0	0	12000.0	White-throated Sparrow	whtspa	0.9421	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1359.0
+202	Spectrogram 1	1	1362.0	1365.0	0	12000.0	White-throated Sparrow	whtspa	0.9601	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1362.0
+203	Spectrogram 1	1	1365.0	1368.0	0	12000.0	White-throated Sparrow	whtspa	0.7563	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1365.0
+204	Spectrogram 1	1	1368.0	1371.0	0	12000.0	White-throated Sparrow	whtspa	0.8655	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1368.0
+205	Spectrogram 1	1	1371.0	1374.0	0	12000.0	White-throated Sparrow	whtspa	0.7338	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1371.0
+206	Spectrogram 1	1	1374.0	1377.0	0	12000.0	White-throated Sparrow	whtspa	0.8411	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1374.0
+207	Spectrogram 1	1	1377.0	1380.0	0	12000.0	White-throated Sparrow	whtspa	0.9182	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1377.0
+208	Spectrogram 1	1	1380.0	1383.0	0	12000.0	White-throated Sparrow	whtspa	0.9295	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1380.0
+209	Spectrogram 1	1	1386.0	1389.0	0	12000.0	White-throated Sparrow	whtspa	0.8206	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1386.0
+210	Spectrogram 1	1	1389.0	1392.0	0	12000.0	White-throated Sparrow	whtspa	0.8932	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1389.0
+211	Spectrogram 1	1	1392.0	1395.0	0	12000.0	White-throated Sparrow	whtspa	0.3616	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1392.0
+212	Spectrogram 1	1	1404.0	1407.0	0	12000.0	White-throated Sparrow	whtspa	0.3458	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1404.0
+213	Spectrogram 1	1	1407.0	1410.0	0	12000.0	White-throated Sparrow	whtspa	0.1190	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1407.0
+214	Spectrogram 1	1	1422.0	1425.0	0	12000.0	Rose-breasted Grosbeak	robgro	0.3056	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1422.0
+215	Spectrogram 1	1	1434.0	1437.0	0	12000.0	Rose-breasted Grosbeak	robgro	0.7205	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1434.0
+216	Spectrogram 1	1	1437.0	1440.0	0	12000.0	Rose-breasted Grosbeak	robgro	0.4426	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1437.0
+217	Spectrogram 1	1	1458.0	1461.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9688	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1458.0
+218	Spectrogram 1	1	1461.0	1464.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.8940	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1461.0
+219	Spectrogram 1	1	1467.0	1470.0	0	12000.0	White-throated Sparrow	whtspa	0.1954	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1467.0
+220	Spectrogram 1	1	1479.0	1482.0	0	12000.0	American Crow	amecro	0.4500	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1479.0
+221	Spectrogram 1	1	1494.0	1497.0	0	12000.0	American Crow	amecro	0.3452	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1494.0
+222	Spectrogram 1	1	1533.0	1536.0	0	12000.0	Common Raven	comrav	0.1410	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1533.0
+223	Spectrogram 1	1	1551.0	1554.0	0	12000.0	Common Raven	comrav	0.1180	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1551.0
+224	Spectrogram 1	1	1578.0	1581.0	0	12000.0	American Crow	amecro	0.1256	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1578.0
+225	Spectrogram 1	1	1584.0	1587.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1787	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1584.0
+226	Spectrogram 1	1	1584.0	1587.0	0	12000.0	Dark-eyed Junco	daejun	0.1257	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1584.0
+227	Spectrogram 1	1	1611.0	1614.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1188	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1611.0
+228	Spectrogram 1	1	1614.0	1617.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1506	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1614.0
+229	Spectrogram 1	1	1617.0	1620.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1926	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1617.0
+230	Spectrogram 1	1	1626.0	1629.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2119	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1626.0
+231	Spectrogram 1	1	1629.0	1632.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3610	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1629.0
+232	Spectrogram 1	1	1641.0	1644.0	0	12000.0	White-throated Sparrow	whtspa	0.2566	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1641.0
+233	Spectrogram 1	1	1656.0	1659.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1579	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1656.0
+234	Spectrogram 1	1	1656.0	1659.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1526	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1656.0
+235	Spectrogram 1	1	1659.0	1662.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1684	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1659.0
+236	Spectrogram 1	1	1707.0	1710.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2433	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1707.0
+237	Spectrogram 1	1	1710.0	1713.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1537	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1710.0
+238	Spectrogram 1	1	1734.0	1737.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3534	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1734.0
+239	Spectrogram 1	1	1755.0	1758.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1939	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1755.0
+240	Spectrogram 1	1	1761.0	1764.0	0	12000.0	White-throated Sparrow	whtspa	0.1013	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1761.0
+241	Spectrogram 1	1	1767.0	1770.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1190	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1767.0
+242	Spectrogram 1	1	1770.0	1773.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2637	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1770.0
+243	Spectrogram 1	1	1776.0	1779.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2179	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1776.0
+244	Spectrogram 1	1	1791.0	1794.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1150	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1791.0
+245	Spectrogram 1	1	1809.0	1812.0	0	12000.0	Brown Creeper	brncre	0.1885	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1809.0
+246	Spectrogram 1	1	1809.0	1812.0	0	12000.0	White-throated Sparrow	whtspa	0.1729	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1809.0
+247	Spectrogram 1	1	1833.0	1836.0	0	12000.0	White-throated Sparrow	whtspa	0.2439	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1833.0
+248	Spectrogram 1	1	1845.0	1848.0	0	12000.0	White-throated Sparrow	whtspa	0.4065	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1845.0
+249	Spectrogram 1	1	1863.0	1866.0	0	12000.0	White-throated Sparrow	whtspa	0.1609	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1863.0
+250	Spectrogram 1	1	1869.0	1872.0	0	12000.0	Northern Flicker	norfli	0.5442	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1869.0
+251	Spectrogram 1	1	1878.0	1881.0	0	12000.0	Northern Flicker	norfli	0.7516	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1878.0
+252	Spectrogram 1	1	1884.0	1887.0	0	12000.0	White-throated Sparrow	whtspa	0.1245	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1884.0
+253	Spectrogram 1	1	1893.0	1896.0	0	12000.0	Northern Flicker	norfli	0.6867	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1893.0
+254	Spectrogram 1	1	1917.0	1920.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2456	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1917.0
+255	Spectrogram 1	1	1917.0	1920.0	0	12000.0	Brown Creeper	brncre	0.1006	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1917.0
+256	Spectrogram 1	1	1944.0	1947.0	0	12000.0	White-throated Sparrow	whtspa	0.4667	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1944.0
+257	Spectrogram 1	1	1974.0	1977.0	0	12000.0	White-throated Sparrow	whtspa	0.2624	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1974.0
+258	Spectrogram 1	1	1989.0	1992.0	0	12000.0	White-throated Sparrow	whtspa	0.2885	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1989.0
+259	Spectrogram 1	1	1998.0	2001.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2513	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	1998.0
+260	Spectrogram 1	1	2001.0	2004.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2113	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2001.0
+261	Spectrogram 1	1	2007.0	2010.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3524	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2007.0
+262	Spectrogram 1	1	2013.0	2016.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2724	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2013.0
+263	Spectrogram 1	1	2016.0	2019.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4048	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2016.0
+264	Spectrogram 1	1	2019.0	2022.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2198	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2019.0
+265	Spectrogram 1	1	2022.0	2025.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3803	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2022.0
+266	Spectrogram 1	1	2025.0	2028.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4548	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2025.0
+267	Spectrogram 1	1	2028.0	2031.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3581	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2028.0
+268	Spectrogram 1	1	2037.0	2040.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3728	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2037.0
+269	Spectrogram 1	1	2040.0	2043.0	0	12000.0	White-throated Sparrow	whtspa	0.1145	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2040.0
+270	Spectrogram 1	1	2043.0	2046.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1793	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2043.0
+271	Spectrogram 1	1	2115.0	2118.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1137	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2115.0
+272	Spectrogram 1	1	2118.0	2121.0	0	12000.0	White-throated Sparrow	whtspa	0.4311	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2118.0
+273	Spectrogram 1	1	2169.0	2172.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1367	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2169.0
+274	Spectrogram 1	1	2172.0	2175.0	0	12000.0	Dark-eyed Junco	daejun	0.1038	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2172.0
+275	Spectrogram 1	1	2178.0	2181.0	0	12000.0	Blackburnian Warbler	bkbwar	0.3964	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2178.0
+276	Spectrogram 1	1	2178.0	2181.0	0	12000.0	Cape May Warbler	camwar	0.1109	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2178.0
+277	Spectrogram 1	1	2199.0	2202.0	0	12000.0	Brown Creeper	brncre	0.1433	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2199.0
+278	Spectrogram 1	1	2199.0	2202.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1125	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2199.0
+279	Spectrogram 1	1	2202.0	2205.0	0	12000.0	Dark-eyed Junco	daejun	0.1117	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2202.0
+280	Spectrogram 1	1	2217.0	2220.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1407	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2217.0
+281	Spectrogram 1	1	2220.0	2223.0	0	12000.0	White-throated Sparrow	whtspa	0.6340	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2220.0
+282	Spectrogram 1	1	2235.0	2238.0	0	12000.0	White-throated Sparrow	whtspa	0.2890	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2235.0
+283	Spectrogram 1	1	2253.0	2256.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3558	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2253.0
+284	Spectrogram 1	1	2274.0	2277.0	0	12000.0	White-throated Sparrow	whtspa	0.1048	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2274.0
+285	Spectrogram 1	1	2307.0	2310.0	0	12000.0	White-throated Sparrow	whtspa	0.4117	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2307.0
+286	Spectrogram 1	1	2313.0	2316.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2656	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2313.0
+287	Spectrogram 1	1	2319.0	2322.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2194	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2319.0
+288	Spectrogram 1	1	2322.0	2325.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1643	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2322.0
+289	Spectrogram 1	1	2337.0	2340.0	0	12000.0	White-throated Sparrow	whtspa	0.2681	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2337.0
+290	Spectrogram 1	1	2337.0	2340.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1518	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2337.0
+291	Spectrogram 1	1	2343.0	2346.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3965	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2343.0
+292	Spectrogram 1	1	2346.0	2349.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3903	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2346.0
+293	Spectrogram 1	1	2355.0	2358.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2270	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2355.0
+294	Spectrogram 1	1	2361.0	2364.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1662	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2361.0
+295	Spectrogram 1	1	2364.0	2367.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1422	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2364.0
+296	Spectrogram 1	1	2373.0	2376.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3739	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2373.0
+297	Spectrogram 1	1	2379.0	2382.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1908	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2379.0
+298	Spectrogram 1	1	2382.0	2385.0	0	12000.0	White-throated Sparrow	whtspa	0.2786	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2382.0
+299	Spectrogram 1	1	2382.0	2385.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1373	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2382.0
+300	Spectrogram 1	1	2388.0	2391.0	0	12000.0	White-throated Sparrow	whtspa	0.3591	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2388.0
+301	Spectrogram 1	1	2391.0	2394.0	0	12000.0	Northern Flicker	norfli	0.5774	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2391.0
+302	Spectrogram 1	1	2394.0	2397.0	0	12000.0	Northern Flicker	norfli	0.5861	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2394.0
+303	Spectrogram 1	1	2397.0	2400.0	0	12000.0	White-throated Sparrow	whtspa	0.2095	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2397.0
+304	Spectrogram 1	1	2397.0	2400.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1020	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2397.0
+305	Spectrogram 1	1	2400.0	2403.0	0	12000.0	Northern Flicker	norfli	0.3203	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2400.0
+306	Spectrogram 1	1	2403.0	2406.0	0	12000.0	Northern Flicker	norfli	0.7994	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2403.0
+307	Spectrogram 1	1	2412.0	2415.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1658	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2412.0
+308	Spectrogram 1	1	2415.0	2418.0	0	12000.0	Northern Flicker	norfli	0.3893	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2415.0
+309	Spectrogram 1	1	2421.0	2424.0	0	12000.0	Northern Flicker	norfli	0.2504	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2421.0
+310	Spectrogram 1	1	2424.0	2427.0	0	12000.0	Brown Creeper	brncre	0.1779	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2424.0
+311	Spectrogram 1	1	2427.0	2430.0	0	12000.0	Northern Flicker	norfli	0.4345	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2427.0
+312	Spectrogram 1	1	2439.0	2442.0	0	12000.0	Northern Flicker	norfli	0.8484	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2439.0
+313	Spectrogram 1	1	2448.0	2451.0	0	12000.0	White-throated Sparrow	whtspa	0.5666	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2448.0
+314	Spectrogram 1	1	2469.0	2472.0	0	12000.0	Northern Flicker	norfli	0.8459	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2469.0
+315	Spectrogram 1	1	2472.0	2475.0	0	12000.0	Northern Flicker	norfli	0.8187	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2472.0
+316	Spectrogram 1	1	2475.0	2478.0	0	12000.0	White-throated Sparrow	whtspa	0.5228	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2475.0
+317	Spectrogram 1	1	2478.0	2481.0	0	12000.0	Winter Wren	winwre3	0.5458	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2478.0
+318	Spectrogram 1	1	2481.0	2484.0	0	12000.0	Northern Flicker	norfli	0.6707	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2481.0
+319	Spectrogram 1	1	2493.0	2496.0	0	12000.0	Northern Flicker	norfli	0.7742	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2493.0
+320	Spectrogram 1	1	2499.0	2502.0	0	12000.0	Northern Flicker	norfli	0.3973	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2499.0
+321	Spectrogram 1	1	2502.0	2505.0	0	12000.0	White-throated Sparrow	whtspa	0.1053	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2502.0
+322	Spectrogram 1	1	2505.0	2508.0	0	12000.0	Northern Flicker	norfli	0.4800	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2505.0
+323	Spectrogram 1	1	2511.0	2514.0	0	12000.0	Northern Flicker	norfli	0.7629	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2511.0
+324	Spectrogram 1	1	2520.0	2523.0	0	12000.0	Northern Flicker	norfli	0.7062	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2520.0
+325	Spectrogram 1	1	2526.0	2529.0	0	12000.0	White-throated Sparrow	whtspa	0.6240	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2526.0
+326	Spectrogram 1	1	2538.0	2541.0	0	12000.0	American Crow	amecro	0.2735	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2538.0
+327	Spectrogram 1	1	2541.0	2544.0	0	12000.0	White-throated Sparrow	whtspa	0.3654	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2541.0
+328	Spectrogram 1	1	2556.0	2559.0	0	12000.0	White-throated Sparrow	whtspa	0.4017	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2556.0
+329	Spectrogram 1	1	2562.0	2565.0	0	12000.0	White-throated Sparrow	whtspa	0.6015	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2562.0
+330	Spectrogram 1	1	2574.0	2577.0	0	12000.0	White-throated Sparrow	whtspa	0.7579	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2574.0
+331	Spectrogram 1	1	2577.0	2580.0	0	12000.0	White-throated Sparrow	whtspa	0.8295	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2577.0
+332	Spectrogram 1	1	2580.0	2583.0	0	12000.0	White-throated Sparrow	whtspa	0.2980	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2580.0
+333	Spectrogram 1	1	2580.0	2583.0	0	12000.0	American Crow	amecro	0.1092	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2580.0
+334	Spectrogram 1	1	2583.0	2586.0	0	12000.0	American Crow	amecro	0.3016	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2583.0
+335	Spectrogram 1	1	2586.0	2589.0	0	12000.0	White-throated Sparrow	whtspa	0.1934	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2586.0
+336	Spectrogram 1	1	2592.0	2595.0	0	12000.0	White-throated Sparrow	whtspa	0.3976	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2592.0
+337	Spectrogram 1	1	2607.0	2610.0	0	12000.0	White-throated Sparrow	whtspa	0.3237	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2607.0
+338	Spectrogram 1	1	2610.0	2613.0	0	12000.0	Brown Creeper	brncre	0.1099	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2610.0
+339	Spectrogram 1	1	2628.0	2631.0	0	12000.0	White-throated Sparrow	whtspa	0.5884	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2628.0
+340	Spectrogram 1	1	2646.0	2649.0	0	12000.0	White-throated Sparrow	whtspa	0.5002	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2646.0
+341	Spectrogram 1	1	2655.0	2658.0	0	12000.0	White-throated Sparrow	whtspa	0.3251	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2655.0
+342	Spectrogram 1	1	2655.0	2658.0	0	12000.0	Brown Creeper	brncre	0.1442	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2655.0
+343	Spectrogram 1	1	2661.0	2664.0	0	12000.0	Cape May Warbler	camwar	0.1231	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2661.0
+344	Spectrogram 1	1	2664.0	2667.0	0	12000.0	White-throated Sparrow	whtspa	0.4500	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2664.0
+345	Spectrogram 1	1	2667.0	2670.0	0	12000.0	White-throated Sparrow	whtspa	0.8572	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2667.0
+346	Spectrogram 1	1	2670.0	2673.0	0	12000.0	White-throated Sparrow	whtspa	0.9880	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2670.0
+347	Spectrogram 1	1	2673.0	2676.0	0	12000.0	White-throated Sparrow	whtspa	0.9755	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2673.0
+348	Spectrogram 1	1	2679.0	2682.0	0	12000.0	White-throated Sparrow	whtspa	0.7113	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2679.0
+349	Spectrogram 1	1	2682.0	2685.0	0	12000.0	White-throated Sparrow	whtspa	0.5623	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2682.0
+350	Spectrogram 1	1	2685.0	2688.0	0	12000.0	White-throated Sparrow	whtspa	0.9002	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2685.0
+351	Spectrogram 1	1	2688.0	2691.0	0	12000.0	White-throated Sparrow	whtspa	0.6495	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2688.0
+352	Spectrogram 1	1	2691.0	2694.0	0	12000.0	White-throated Sparrow	whtspa	0.6264	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2691.0
+353	Spectrogram 1	1	2697.0	2700.0	0	12000.0	Winter Wren	winwre3	0.1559	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2697.0
+354	Spectrogram 1	1	2703.0	2706.0	0	12000.0	White-throated Sparrow	whtspa	0.4091	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2703.0
+355	Spectrogram 1	1	2712.0	2715.0	0	12000.0	White-throated Sparrow	whtspa	0.3568	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2712.0
+356	Spectrogram 1	1	2718.0	2721.0	0	12000.0	White-throated Sparrow	whtspa	0.8050	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2718.0
+357	Spectrogram 1	1	2724.0	2727.0	0	12000.0	White-throated Sparrow	whtspa	0.2016	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2724.0
+358	Spectrogram 1	1	2727.0	2730.0	0	12000.0	White-throated Sparrow	whtspa	0.8594	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2727.0
+359	Spectrogram 1	1	2736.0	2739.0	0	12000.0	White-throated Sparrow	whtspa	0.3753	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2736.0
+360	Spectrogram 1	1	2736.0	2739.0	0	12000.0	Brown Creeper	brncre	0.1114	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2736.0
+361	Spectrogram 1	1	2742.0	2745.0	0	12000.0	White-throated Sparrow	whtspa	0.2560	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2742.0
+362	Spectrogram 1	1	2751.0	2754.0	0	12000.0	White-throated Sparrow	whtspa	0.5505	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2751.0
+363	Spectrogram 1	1	2769.0	2772.0	0	12000.0	White-throated Sparrow	whtspa	0.5687	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2769.0
+364	Spectrogram 1	1	2775.0	2778.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1322	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2775.0
+365	Spectrogram 1	1	2781.0	2784.0	0	12000.0	White-throated Sparrow	whtspa	0.2270	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2781.0
+366	Spectrogram 1	1	2901.0	2904.0	0	12000.0	White-throated Sparrow	whtspa	0.4455	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2901.0
+367	Spectrogram 1	1	2910.0	2913.0	0	12000.0	White-throated Sparrow	whtspa	0.3357	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2910.0
+368	Spectrogram 1	1	2910.0	2913.0	0	12000.0	Brown Creeper	brncre	0.1416	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2910.0
+369	Spectrogram 1	1	2976.0	2979.0	0	12000.0	White-throated Sparrow	whtspa	0.6814	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	2976.0
+370	Spectrogram 1	1	3117.0	3120.0	0	12000.0	Dark-eyed Junco	daejun	0.1435	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	3117.0
+371	Spectrogram 1	1	3135.0	3138.0	0	12000.0	Evening Grosbeak	evegro	0.4222	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	3135.0
+372	Spectrogram 1	1	3255.0	3258.0	0	12000.0	White-throated Sparrow	whtspa	0.3395	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	3255.0
+373	Spectrogram 1	1	3282.0	3285.0	0	12000.0	White-throated Sparrow	whtspa	0.2676	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	3282.0
+374	Spectrogram 1	1	3291.0	3294.0	0	12000.0	White-throated Sparrow	whtspa	0.2051	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	3291.0
+375	Spectrogram 1	1	3324.0	3327.0	0	12000.0	Tufted Titmouse	tuftit	0.1200	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	3324.0
+376	Spectrogram 1	1	3411.0	3414.0	0	12000.0	Purple Finch	purfin	0.1077	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	3411.0
+377	Spectrogram 1	1	3417.0	3420.0	0	12000.0	White-throated Sparrow	whtspa	0.6152	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	3417.0
+378	Spectrogram 1	1	3435.0	3438.0	0	12000.0	Nashville Warbler	naswar	0.1255	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	3435.0
+379	Spectrogram 1	1	3489.0	3492.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1668	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	3489.0
+380	Spectrogram 1	1	3501.0	3504.0	0	12000.0	White-throated Sparrow	whtspa	0.4461	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240911_060502.wav	3501.0

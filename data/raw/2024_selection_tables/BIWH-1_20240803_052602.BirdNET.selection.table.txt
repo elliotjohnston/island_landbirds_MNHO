@@ -1,0 +1,36 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	12.0	15.0	0	12000.0	American Crow	amecro	0.1139	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	12.0
+2	Spectrogram 1	1	24.0	27.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.1050	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	24.0
+3	Spectrogram 1	1	42.0	45.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.1475	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	42.0
+4	Spectrogram 1	1	42.0	45.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.1194	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	42.0
+5	Spectrogram 1	1	45.0	48.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.2275	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	45.0
+6	Spectrogram 1	1	54.0	57.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.1168	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	54.0
+7	Spectrogram 1	1	78.0	81.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.4940	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	78.0
+8	Spectrogram 1	1	81.0	84.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.1272	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	81.0
+9	Spectrogram 1	1	105.0	108.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.1209	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	105.0
+10	Spectrogram 1	1	117.0	120.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.2976	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	117.0
+11	Spectrogram 1	1	117.0	120.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.1088	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	117.0
+12	Spectrogram 1	1	120.0	123.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.1206	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	120.0
+13	Spectrogram 1	1	165.0	168.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.3793	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	165.0
+14	Spectrogram 1	1	183.0	186.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.1380	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	183.0
+15	Spectrogram 1	1	210.0	213.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.3440	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	210.0
+16	Spectrogram 1	1	258.0	261.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.1718	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	258.0
+17	Spectrogram 1	1	327.0	330.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.2621	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	327.0
+18	Spectrogram 1	1	357.0	360.0	0	12000.0	White-crowned Sparrow	whcspa	0.1136	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	357.0
+19	Spectrogram 1	1	411.0	414.0	0	12000.0	Dark-eyed Junco	daejun	0.3161	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	411.0
+20	Spectrogram 1	1	519.0	522.0	0	12000.0	Yellow-bellied Sapsucker	yebsap	0.2132	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	519.0
+21	Spectrogram 1	1	630.0	633.0	0	12000.0	Dark-eyed Junco	daejun	0.3093	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	630.0
+22	Spectrogram 1	1	636.0	639.0	0	12000.0	Dark-eyed Junco	daejun	0.1028	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	636.0
+23	Spectrogram 1	1	744.0	747.0	0	12000.0	Dark-eyed Junco	daejun	0.1566	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	744.0
+24	Spectrogram 1	1	744.0	747.0	0	12000.0	Chipping Sparrow	chispa	0.1294	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	744.0
+25	Spectrogram 1	1	768.0	771.0	0	12000.0	American Crow	amecro	0.1076	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	768.0
+26	Spectrogram 1	1	888.0	891.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1083	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	888.0
+27	Spectrogram 1	1	1125.0	1128.0	0	12000.0	American Crow	amecro	0.1615	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	1125.0
+28	Spectrogram 1	1	1398.0	1401.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1231	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	1398.0
+29	Spectrogram 1	1	1401.0	1404.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1180	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	1401.0
+30	Spectrogram 1	1	1404.0	1407.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1506	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	1404.0
+31	Spectrogram 1	1	1425.0	1428.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2657	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	1425.0
+32	Spectrogram 1	1	1614.0	1617.0	0	12000.0	Cedar Waxwing	cedwax	0.7250	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	1614.0
+33	Spectrogram 1	1	1812.0	1815.0	0	12000.0	American Crow	amecro	0.1295	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	1812.0
+34	Spectrogram 1	1	1821.0	1824.0	0	12000.0	American Crow	amecro	0.1308	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	1821.0
+35	Spectrogram 1	1	1845.0	1848.0	0	12000.0	American Crow	amecro	0.1232	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240803_052602.wav	1845.0

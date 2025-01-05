@@ -1,0 +1,47 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	36.0	39.0	0	12000.0	Yellow Warbler	yelwar	0.1175	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	36.0
+2	Spectrogram 1	1	66.0	69.0	0	12000.0	Ovenbird	ovenbi1	0.3516	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	66.0
+3	Spectrogram 1	1	66.0	69.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1501	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	66.0
+4	Spectrogram 1	1	66.0	69.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1021	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	66.0
+5	Spectrogram 1	1	69.0	72.0	0	12000.0	Ovenbird	ovenbi1	0.5561	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	69.0
+6	Spectrogram 1	1	87.0	90.0	0	12000.0	Ovenbird	ovenbi1	0.3613	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	87.0
+7	Spectrogram 1	1	87.0	90.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1609	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	87.0
+8	Spectrogram 1	1	90.0	93.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.2150	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	90.0
+9	Spectrogram 1	1	90.0	93.0	0	12000.0	Ovenbird	ovenbi1	0.1770	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	90.0
+10	Spectrogram 1	1	90.0	93.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1129	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	90.0
+11	Spectrogram 1	1	120.0	123.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1777	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	120.0
+12	Spectrogram 1	1	120.0	123.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1192	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	120.0
+13	Spectrogram 1	1	159.0	162.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2214	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	159.0
+14	Spectrogram 1	1	189.0	192.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3685	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	189.0
+15	Spectrogram 1	1	192.0	195.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3116	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	192.0
+16	Spectrogram 1	1	195.0	198.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2216	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	195.0
+17	Spectrogram 1	1	198.0	201.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2511	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	198.0
+18	Spectrogram 1	1	213.0	216.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2145	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	213.0
+19	Spectrogram 1	1	225.0	228.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1364	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	225.0
+20	Spectrogram 1	1	267.0	270.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7474	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	267.0
+21	Spectrogram 1	1	273.0	276.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1008	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	273.0
+22	Spectrogram 1	1	288.0	291.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1893	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	288.0
+23	Spectrogram 1	1	291.0	294.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6438	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	291.0
+24	Spectrogram 1	1	294.0	297.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3220	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	294.0
+25	Spectrogram 1	1	297.0	300.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5489	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	297.0
+26	Spectrogram 1	1	417.0	420.0	0	12000.0	Ovenbird	ovenbi1	0.2058	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	417.0
+27	Spectrogram 1	1	417.0	420.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1390	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	417.0
+28	Spectrogram 1	1	450.0	453.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7482	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	450.0
+29	Spectrogram 1	1	480.0	483.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3671	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	480.0
+30	Spectrogram 1	1	1152.0	1155.0	0	12000.0	Bay-breasted Warbler	babwar	0.4477	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	1152.0
+31	Spectrogram 1	1	1152.0	1155.0	0	12000.0	Blackburnian Warbler	bkbwar	0.2826	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	1152.0
+32	Spectrogram 1	1	1152.0	1155.0	0	12000.0	Cape May Warbler	camwar	0.1395	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	1152.0
+33	Spectrogram 1	1	1293.0	1296.0	0	12000.0	Hermit Thrush	herthr	0.5825	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	1293.0
+34	Spectrogram 1	1	1296.0	1299.0	0	12000.0	Hermit Thrush	herthr	0.8608	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	1296.0
+35	Spectrogram 1	1	1299.0	1302.0	0	12000.0	Hermit Thrush	herthr	0.7067	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	1299.0
+36	Spectrogram 1	1	1311.0	1314.0	0	12000.0	Hermit Thrush	herthr	0.1132	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	1311.0
+37	Spectrogram 1	1	1338.0	1341.0	0	12000.0	Ovenbird	ovenbi1	0.1727	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	1338.0
+38	Spectrogram 1	1	1446.0	1449.0	0	12000.0	Hermit Thrush	herthr	0.8094	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	1446.0
+39	Spectrogram 1	1	1455.0	1458.0	0	12000.0	Hermit Thrush	herthr	0.5414	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	1455.0
+40	Spectrogram 1	1	1458.0	1461.0	0	12000.0	Hermit Thrush	herthr	0.6946	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	1458.0
+41	Spectrogram 1	1	2364.0	2367.0	0	12000.0	Hermit Thrush	herthr	0.2934	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	2364.0
+42	Spectrogram 1	1	2367.0	2370.0	0	12000.0	Hermit Thrush	herthr	0.1474	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	2367.0
+43	Spectrogram 1	1	2370.0	2373.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1246	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	2370.0
+44	Spectrogram 1	1	2373.0	2376.0	0	12000.0	White-throated Sparrow	whtspa	0.3423	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	2373.0
+45	Spectrogram 1	1	2376.0	2379.0	0	12000.0	White-throated Sparrow	whtspa	0.7853	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	2376.0
+46	Spectrogram 1	1	2379.0	2382.0	0	12000.0	White-throated Sparrow	whtspa	0.2888	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240527_193700.wav	2379.0

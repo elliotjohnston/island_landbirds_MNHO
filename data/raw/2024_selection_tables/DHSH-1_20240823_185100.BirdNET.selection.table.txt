@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	687.0	690.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.1237	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240823_185100.wav	687.0
+2	Spectrogram 1	1	840.0	843.0	0	12000.0	Black-capped Chickadee	bkcchi	0.3042	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240823_185100.wav	840.0
+3	Spectrogram 1	1	1155.0	1158.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.1572	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240823_185100.wav	1155.0
+4	Spectrogram 1	1	1323.0	1326.0	0	12000.0	Black-capped Chickadee	bkcchi	0.1077	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240823_185100.wav	1323.0

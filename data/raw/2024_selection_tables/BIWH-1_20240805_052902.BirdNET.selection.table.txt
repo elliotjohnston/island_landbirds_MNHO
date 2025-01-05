@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2820.0	2823.0	0	12000.0	American Crow	amecro	0.2662	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240805_052902.wav	2820.0

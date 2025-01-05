@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	135.0	138.0	0	12000.0	Swainson's Thrush	swathr	0.2463	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240823_044100.wav	135.0
+2	Spectrogram 1	1	2025.0	2028.0	0	12000.0	Brown Creeper	brncre	0.1928	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240823_044100.wav	2025.0
+3	Spectrogram 1	1	2034.0	2037.0	0	12000.0	White-throated Sparrow	whtspa	0.4735	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240823_044100.wav	2034.0
+4	Spectrogram 1	1	2034.0	2037.0	0	12000.0	Brown Creeper	brncre	0.1323	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240823_044100.wav	2034.0
+5	Spectrogram 1	1	2034.0	2037.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1032	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240823_044100.wav	2034.0
+6	Spectrogram 1	1	3069.0	3072.0	0	12000.0	Cedar Waxwing	cedwax	0.2567	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240823_044100.wav	3069.0
+7	Spectrogram 1	1	3072.0	3075.0	0	12000.0	Cedar Waxwing	cedwax	0.7537	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240823_044100.wav	3072.0
+8	Spectrogram 1	1	3078.0	3081.0	0	12000.0	Cedar Waxwing	cedwax	0.4325	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240823_044100.wav	3078.0
+9	Spectrogram 1	1	3285.0	3288.0	0	12000.0	Brown Creeper	brncre	0.2832	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240823_044100.wav	3285.0
+10	Spectrogram 1	1	3291.0	3294.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3912	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240823_044100.wav	3291.0
+11	Spectrogram 1	1	3291.0	3294.0	0	12000.0	Brown Creeper	brncre	0.1072	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240823_044100.wav	3291.0
+12	Spectrogram 1	1	3294.0	3297.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1514	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240823_044100.wav	3294.0
+13	Spectrogram 1	1	3297.0	3300.0	0	12000.0	Brown Creeper	brncre	0.3326	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240823_044100.wav	3297.0
+14	Spectrogram 1	1	3297.0	3300.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2089	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240823_044100.wav	3297.0
+15	Spectrogram 1	1	3300.0	3303.0	0	12000.0	Brown Creeper	brncre	0.1320	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240823_044100.wav	3300.0
+16	Spectrogram 1	1	3306.0	3309.0	0	12000.0	Brown Creeper	brncre	0.3393	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240823_044100.wav	3306.0
+17	Spectrogram 1	1	3306.0	3309.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1294	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240823_044100.wav	3306.0
+18	Spectrogram 1	1	3312.0	3315.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2994	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240823_044100.wav	3312.0

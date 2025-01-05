@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1515.0	1518.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.7256	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240805_042900.wav	1515.0

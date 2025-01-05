@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	45.0	48.0	0	12000.0	Dark-eyed Junco	daejun	0.1943	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240826_185000.wav	45.0
+2	Spectrogram 1	1	51.0	54.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1044	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240826_185000.wav	51.0
+3	Spectrogram 1	1	63.0	66.0	0	12000.0	Dark-eyed Junco	daejun	0.1480	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240826_185000.wav	63.0
+4	Spectrogram 1	1	117.0	120.0	0	12000.0	Cedar Waxwing	cedwax	0.3631	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240826_185000.wav	117.0
+5	Spectrogram 1	1	120.0	123.0	0	12000.0	Cedar Waxwing	cedwax	0.7029	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240826_185000.wav	120.0
+6	Spectrogram 1	1	123.0	126.0	0	12000.0	Cedar Waxwing	cedwax	0.5370	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240826_185000.wav	123.0
+7	Spectrogram 1	1	132.0	135.0	0	12000.0	Cedar Waxwing	cedwax	0.1845	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240826_185000.wav	132.0
+8	Spectrogram 1	1	198.0	201.0	0	12000.0	Brown Creeper	brncre	0.1680	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240826_185000.wav	198.0
+9	Spectrogram 1	1	702.0	705.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1078	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240826_185000.wav	702.0
+10	Spectrogram 1	1	723.0	726.0	0	12000.0	Common Raven	comrav	0.1294	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240826_185000.wav	723.0
+11	Spectrogram 1	1	756.0	759.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1300	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240826_185000.wav	756.0
+12	Spectrogram 1	1	2322.0	2325.0	0	12000.0	Black-and-white Warbler	bawwar	0.1533	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240826_185000.wav	2322.0

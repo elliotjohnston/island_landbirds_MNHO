@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	3039.0	3042.0	0	12000.0	American Redstart	amered	0.1637	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240820_044600.wav	3039.0
+2	Spectrogram 1	1	3045.0	3048.0	0	12000.0	American Redstart	amered	0.2110	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240820_044600.wav	3045.0
+3	Spectrogram 1	1	3048.0	3051.0	0	12000.0	American Redstart	amered	0.3193	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240820_044600.wav	3048.0
+4	Spectrogram 1	1	3054.0	3057.0	0	12000.0	American Redstart	amered	0.2455	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240820_044600.wav	3054.0
+5	Spectrogram 1	1	3060.0	3063.0	0	12000.0	American Redstart	amered	0.1140	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240820_044600.wav	3060.0
+6	Spectrogram 1	1	3063.0	3066.0	0	12000.0	American Redstart	amered	0.1583	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240820_044600.wav	3063.0

@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2601.0	2604.0	0	12000.0	American Crow	amecro	0.1681	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240820_043800.wav	2601.0
+2	Spectrogram 1	1	2712.0	2715.0	0	12000.0	American Crow	amecro	0.4862	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240820_043800.wav	2712.0
+3	Spectrogram 1	1	2715.0	2718.0	0	12000.0	American Crow	amecro	0.4436	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240820_043800.wav	2715.0
+4	Spectrogram 1	1	2742.0	2745.0	0	12000.0	American Crow	amecro	0.3748	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240820_043800.wav	2742.0
+5	Spectrogram 1	1	2769.0	2772.0	0	12000.0	American Crow	amecro	0.2657	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240820_043800.wav	2769.0
+6	Spectrogram 1	1	2781.0	2784.0	0	12000.0	American Crow	amecro	0.1431	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240820_043800.wav	2781.0
+7	Spectrogram 1	1	2802.0	2805.0	0	12000.0	American Crow	amecro	0.5585	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240820_043800.wav	2802.0
+8	Spectrogram 1	1	2805.0	2808.0	0	12000.0	American Crow	amecro	0.6706	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240820_043800.wav	2805.0
+9	Spectrogram 1	1	3078.0	3081.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1012	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240820_043800.wav	3078.0
+10	Spectrogram 1	1	3114.0	3117.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1188	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240820_043800.wav	3114.0
+11	Spectrogram 1	1	3348.0	3351.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1330	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240820_043800.wav	3348.0
+12	Spectrogram 1	1	3366.0	3369.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2795	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240820_043800.wav	3366.0
+13	Spectrogram 1	1	3366.0	3369.0	0	12000.0	American Crow	amecro	0.1285	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240820_043800.wav	3366.0
+14	Spectrogram 1	1	3369.0	3372.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2252	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240820_043800.wav	3369.0
+15	Spectrogram 1	1	3378.0	3381.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1185	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240820_043800.wav	3378.0
+16	Spectrogram 1	1	3462.0	3465.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1269	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240820_043800.wav	3462.0
+17	Spectrogram 1	1	3495.0	3498.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2033	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240820_043800.wav	3495.0
+18	Spectrogram 1	1	3507.0	3510.0	0	12000.0	American Crow	amecro	0.1306	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240820_043800.wav	3507.0
+19	Spectrogram 1	1	3594.0	3597.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1781	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240820_043800.wav	3594.0
+20	Spectrogram 1	1	3597.0	3600.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3660	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240820_043800.wav	3597.0

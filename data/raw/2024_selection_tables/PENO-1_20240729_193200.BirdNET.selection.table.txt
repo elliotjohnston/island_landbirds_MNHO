@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	315.0	318.0	0	12000.0	Dark-eyed Junco	daejun	0.1074	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240729_193200.wav	315.0
+2	Spectrogram 1	1	321.0	324.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1697	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240729_193200.wav	321.0
+3	Spectrogram 1	1	324.0	327.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1146	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240729_193200.wav	324.0
+4	Spectrogram 1	1	1983.0	1986.0	0	12000.0	Hermit Thrush	herthr	0.4278	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240729_193200.wav	1983.0
+5	Spectrogram 1	1	2235.0	2238.0	0	12000.0	Hairy Woodpecker	haiwoo	0.4059	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240729_193200.wav	2235.0

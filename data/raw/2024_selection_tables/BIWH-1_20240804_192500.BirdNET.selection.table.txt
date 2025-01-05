@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1944.0	1947.0	0	12000.0	Brown Creeper	brncre	0.2230	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240804_192500.wav	1944.0
+2	Spectrogram 1	1	2937.0	2940.0	0	12000.0	Swainson's Thrush	swathr	0.4251	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240804_192500.wav	2937.0
+3	Spectrogram 1	1	2955.0	2958.0	0	12000.0	Swainson's Thrush	swathr	0.4935	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240804_192500.wav	2955.0
+4	Spectrogram 1	1	2958.0	2961.0	0	12000.0	Swainson's Thrush	swathr	0.2859	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240804_192500.wav	2958.0
+5	Spectrogram 1	1	2970.0	2973.0	0	12000.0	Swainson's Thrush	swathr	0.2003	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240804_192500.wav	2970.0

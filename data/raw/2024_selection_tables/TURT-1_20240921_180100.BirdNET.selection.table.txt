@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	105.0	108.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1092	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240921_180100.wav	105.0
+2	Spectrogram 1	1	135.0	138.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1487	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240921_180100.wav	135.0
+3	Spectrogram 1	1	219.0	222.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6214	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240921_180100.wav	219.0
+4	Spectrogram 1	1	228.0	231.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1364	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240921_180100.wav	228.0
+5	Spectrogram 1	1	411.0	414.0	0	12000.0	Brown Creeper	brncre	0.3402	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240921_180100.wav	411.0
+6	Spectrogram 1	1	441.0	444.0	0	12000.0	Brown Creeper	brncre	0.2945	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240921_180100.wav	441.0
+7	Spectrogram 1	1	444.0	447.0	0	12000.0	Brown Creeper	brncre	0.1550	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240921_180100.wav	444.0
+8	Spectrogram 1	1	456.0	459.0	0	12000.0	Brown Creeper	brncre	0.1713	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240921_180100.wav	456.0
+9	Spectrogram 1	1	498.0	501.0	0	12000.0	Brown Creeper	brncre	0.3409	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240921_180100.wav	498.0
+10	Spectrogram 1	1	510.0	513.0	0	12000.0	Brown Creeper	brncre	0.3699	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240921_180100.wav	510.0
+11	Spectrogram 1	1	513.0	516.0	0	12000.0	Brown Creeper	brncre	0.1570	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240921_180100.wav	513.0
+12	Spectrogram 1	1	519.0	522.0	0	12000.0	Brown Creeper	brncre	0.1212	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240921_180100.wav	519.0
+13	Spectrogram 1	1	534.0	537.0	0	12000.0	Brown Creeper	brncre	0.2820	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240921_180100.wav	534.0
+14	Spectrogram 1	1	567.0	570.0	0	12000.0	Dark-eyed Junco	daejun	0.1598	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240921_180100.wav	567.0
+15	Spectrogram 1	1	570.0	573.0	0	12000.0	Dark-eyed Junco	daejun	0.8288	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240921_180100.wav	570.0
+16	Spectrogram 1	1	573.0	576.0	0	12000.0	Dark-eyed Junco	daejun	0.8384	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240921_180100.wav	573.0
+17	Spectrogram 1	1	576.0	579.0	0	12000.0	Dark-eyed Junco	daejun	0.4713	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240921_180100.wav	576.0
+18	Spectrogram 1	1	579.0	582.0	0	12000.0	Dark-eyed Junco	daejun	0.3010	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240921_180100.wav	579.0
+19	Spectrogram 1	1	585.0	588.0	0	12000.0	Dark-eyed Junco	daejun	0.7852	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240921_180100.wav	585.0
+20	Spectrogram 1	1	588.0	591.0	0	12000.0	Dark-eyed Junco	daejun	0.8517	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240921_180100.wav	588.0
+21	Spectrogram 1	1	600.0	603.0	0	12000.0	Dark-eyed Junco	daejun	0.7248	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240921_180100.wav	600.0
+22	Spectrogram 1	1	603.0	606.0	0	12000.0	Dark-eyed Junco	daejun	0.5746	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240921_180100.wav	603.0
+23	Spectrogram 1	1	714.0	717.0	0	12000.0	Brown Creeper	brncre	0.4519	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240921_180100.wav	714.0
+24	Spectrogram 1	1	1707.0	1710.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3659	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240921_180100.wav	1707.0
+25	Spectrogram 1	1	1737.0	1740.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1343	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240921_180100.wav	1737.0

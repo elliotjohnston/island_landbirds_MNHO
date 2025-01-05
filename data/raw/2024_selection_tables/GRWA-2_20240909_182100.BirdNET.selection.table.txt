@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	618.0	621.0	0	12000.0	White-throated Sparrow	whtspa	0.2214	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240909_182100.wav	618.0
+2	Spectrogram 1	1	1653.0	1656.0	0	12000.0	White-throated Sparrow	whtspa	0.6308	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240909_182100.wav	1653.0
+3	Spectrogram 1	1	1659.0	1662.0	0	12000.0	White-throated Sparrow	whtspa	0.4976	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240909_182100.wav	1659.0
+4	Spectrogram 1	1	1665.0	1668.0	0	12000.0	White-throated Sparrow	whtspa	0.2597	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240909_182100.wav	1665.0
+5	Spectrogram 1	1	3222.0	3225.0	0	12000.0	Hermit Thrush	herthr	0.1046	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240909_182100.wav	3222.0
+6	Spectrogram 1	1	3252.0	3255.0	0	12000.0	Hermit Thrush	herthr	0.1435	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240909_182100.wav	3252.0
+7	Spectrogram 1	1	3291.0	3294.0	0	12000.0	Hermit Thrush	herthr	0.2020	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240909_182100.wav	3291.0
+8	Spectrogram 1	1	3300.0	3303.0	0	12000.0	Hermit Thrush	herthr	0.1498	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240909_182100.wav	3300.0
+9	Spectrogram 1	1	3321.0	3324.0	0	12000.0	Hermit Thrush	herthr	0.1082	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240909_182100.wav	3321.0

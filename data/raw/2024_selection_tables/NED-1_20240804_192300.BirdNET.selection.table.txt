@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	135.0	138.0	0	12000.0	Brown Creeper	brncre	0.1784	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240804_192300.wav	135.0
+2	Spectrogram 1	1	135.0	138.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1181	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240804_192300.wav	135.0
+3	Spectrogram 1	1	639.0	642.0	0	12000.0	Brown Creeper	brncre	0.5261	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240804_192300.wav	639.0
+4	Spectrogram 1	1	1650.0	1653.0	0	12000.0	Swainson's Thrush	swathr	0.1648	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240804_192300.wav	1650.0
+5	Spectrogram 1	1	1677.0	1680.0	0	12000.0	Swainson's Thrush	swathr	0.1475	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240804_192300.wav	1677.0
+6	Spectrogram 1	1	2853.0	2856.0	0	12000.0	Swainson's Thrush	swathr	0.2371	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240804_192300.wav	2853.0
+7	Spectrogram 1	1	2859.0	2862.0	0	12000.0	Swainson's Thrush	swathr	0.1303	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240804_192300.wav	2859.0

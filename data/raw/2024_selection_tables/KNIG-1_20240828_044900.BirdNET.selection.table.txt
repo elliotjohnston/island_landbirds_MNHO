@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	3033.0	3036.0	0	12000.0	American Crow	amecro	0.1438	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240828_044900.wav	3033.0
+2	Spectrogram 1	1	3081.0	3084.0	0	12000.0	American Crow	amecro	0.2549	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240828_044900.wav	3081.0
+3	Spectrogram 1	1	3090.0	3093.0	0	12000.0	American Crow	amecro	0.7829	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240828_044900.wav	3090.0
+4	Spectrogram 1	1	3093.0	3096.0	0	12000.0	American Crow	amecro	0.8166	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240828_044900.wav	3093.0
+5	Spectrogram 1	1	3096.0	3099.0	0	12000.0	American Crow	amecro	0.7631	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240828_044900.wav	3096.0
+6	Spectrogram 1	1	3099.0	3102.0	0	12000.0	American Crow	amecro	0.8061	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240828_044900.wav	3099.0
+7	Spectrogram 1	1	3108.0	3111.0	0	12000.0	American Crow	amecro	0.2886	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240828_044900.wav	3108.0
+8	Spectrogram 1	1	3111.0	3114.0	0	12000.0	American Crow	amecro	0.1947	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240828_044900.wav	3111.0
+9	Spectrogram 1	1	3120.0	3123.0	0	12000.0	American Crow	amecro	0.1199	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240828_044900.wav	3120.0
+10	Spectrogram 1	1	3123.0	3126.0	0	12000.0	American Crow	amecro	0.1919	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240828_044900.wav	3123.0
+11	Spectrogram 1	1	3165.0	3168.0	0	12000.0	American Crow	amecro	0.1813	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240828_044900.wav	3165.0
+12	Spectrogram 1	1	3501.0	3504.0	0	12000.0	Hermit Thrush	herthr	0.2188	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240828_044900.wav	3501.0

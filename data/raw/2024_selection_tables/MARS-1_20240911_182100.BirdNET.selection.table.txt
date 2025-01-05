@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	747.0	750.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4417	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240911_182100.wav	747.0
+2	Spectrogram 1	1	747.0	750.0	0	12000.0	Brown Creeper	brncre	0.1493	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240911_182100.wav	747.0
+3	Spectrogram 1	1	750.0	753.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1468	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240911_182100.wav	750.0
+4	Spectrogram 1	1	759.0	762.0	0	12000.0	Brown Creeper	brncre	0.1240	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240911_182100.wav	759.0
+5	Spectrogram 1	1	1218.0	1221.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1523	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240911_182100.wav	1218.0
+6	Spectrogram 1	1	1338.0	1341.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3142	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240911_182100.wav	1338.0
+7	Spectrogram 1	1	1356.0	1359.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1748	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240911_182100.wav	1356.0
+8	Spectrogram 1	1	1359.0	1362.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1231	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240911_182100.wav	1359.0
+9	Spectrogram 1	1	1371.0	1374.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1831	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240911_182100.wav	1371.0
+10	Spectrogram 1	1	1374.0	1377.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1979	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240911_182100.wav	1374.0
+11	Spectrogram 1	1	1383.0	1386.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2208	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240911_182100.wav	1383.0
+12	Spectrogram 1	1	1452.0	1455.0	0	12000.0	Brown Creeper	brncre	0.1178	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240911_182100.wav	1452.0
+13	Spectrogram 1	1	1455.0	1458.0	0	12000.0	Brown Creeper	brncre	0.1603	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240911_182100.wav	1455.0
+14	Spectrogram 1	1	1494.0	1497.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1247	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240911_182100.wav	1494.0
+15	Spectrogram 1	1	1527.0	1530.0	0	12000.0	Dark-eyed Junco	daejun	0.1930	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240911_182100.wav	1527.0
+16	Spectrogram 1	1	1542.0	1545.0	0	12000.0	Dark-eyed Junco	daejun	0.2200	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240911_182100.wav	1542.0
+17	Spectrogram 1	1	2853.0	2856.0	0	12000.0	Hermit Thrush	herthr	0.7281	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240911_182100.wav	2853.0
+18	Spectrogram 1	1	2856.0	2859.0	0	12000.0	Hermit Thrush	herthr	0.2015	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240911_182100.wav	2856.0

@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	138.0	141.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.4012	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240806_191900.wav	138.0
+2	Spectrogram 1	1	252.0	255.0	0	12000.0	European Starling	eursta	0.1344	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240806_191900.wav	252.0
+3	Spectrogram 1	1	291.0	294.0	0	12000.0	Common Nighthawk	comnig	0.1933	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240806_191900.wav	291.0
+4	Spectrogram 1	1	372.0	375.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4261	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240806_191900.wav	372.0
+5	Spectrogram 1	1	417.0	420.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3684	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240806_191900.wav	417.0
+6	Spectrogram 1	1	459.0	462.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.8558	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240806_191900.wav	459.0
+7	Spectrogram 1	1	516.0	519.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1481	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240806_191900.wav	516.0
+8	Spectrogram 1	1	519.0	522.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4036	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240806_191900.wav	519.0
+9	Spectrogram 1	1	534.0	537.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6895	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240806_191900.wav	534.0
+10	Spectrogram 1	1	1017.0	1020.0	0	12000.0	Cedar Waxwing	cedwax	0.3082	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240806_191900.wav	1017.0
+11	Spectrogram 1	1	1392.0	1395.0	0	12000.0	Swainson's Thrush	swathr	0.3361	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240806_191900.wav	1392.0
+12	Spectrogram 1	1	2190.0	2193.0	0	12000.0	Swainson's Thrush	swathr	0.1120	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240806_191900.wav	2190.0
+13	Spectrogram 1	1	2316.0	2319.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7960	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240806_191900.wav	2316.0
+14	Spectrogram 1	1	2328.0	2331.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8130	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240806_191900.wav	2328.0
+15	Spectrogram 1	1	2337.0	2340.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5288	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240806_191900.wav	2337.0
+16	Spectrogram 1	1	2340.0	2343.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4885	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240806_191900.wav	2340.0
+17	Spectrogram 1	1	2352.0	2355.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5419	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240806_191900.wav	2352.0
+18	Spectrogram 1	1	2358.0	2361.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5041	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240806_191900.wav	2358.0
+19	Spectrogram 1	1	2388.0	2391.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1002	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240806_191900.wav	2388.0

@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	9.0	12.0	0	12000.0	White-throated Sparrow	whtspa	0.1314	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240502_190500.wav	9.0
+2	Spectrogram 1	1	27.0	30.0	0	12000.0	White-throated Sparrow	whtspa	0.3914	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240502_190500.wav	27.0
+3	Spectrogram 1	1	321.0	324.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1509	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240502_190500.wav	321.0
+4	Spectrogram 1	1	327.0	330.0	0	12000.0	White-throated Sparrow	whtspa	0.1287	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240502_190500.wav	327.0
+5	Spectrogram 1	1	702.0	705.0	0	12000.0	Savannah Sparrow	savspa	0.1509	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240502_190500.wav	702.0
+6	Spectrogram 1	1	702.0	705.0	0	12000.0	White-throated Sparrow	whtspa	0.1311	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240502_190500.wav	702.0
+7	Spectrogram 1	1	1515.0	1518.0	0	12000.0	White-throated Sparrow	whtspa	0.1309	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240502_190500.wav	1515.0
+8	Spectrogram 1	1	1797.0	1800.0	0	12000.0	White-throated Sparrow	whtspa	0.1452	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240502_190500.wav	1797.0
+9	Spectrogram 1	1	1839.0	1842.0	0	12000.0	White-throated Sparrow	whtspa	0.1307	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240502_190500.wav	1839.0
+10	Spectrogram 1	1	1845.0	1848.0	0	12000.0	White-throated Sparrow	whtspa	0.1098	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240502_190500.wav	1845.0
+11	Spectrogram 1	1	1869.0	1872.0	0	12000.0	White-throated Sparrow	whtspa	0.2728	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240502_190500.wav	1869.0
+12	Spectrogram 1	1	1875.0	1878.0	0	12000.0	White-throated Sparrow	whtspa	0.2151	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240502_190500.wav	1875.0
+13	Spectrogram 1	1	1881.0	1884.0	0	12000.0	Lincoln's Sparrow	linspa	0.1600	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240502_190500.wav	1881.0
+14	Spectrogram 1	1	1890.0	1893.0	0	12000.0	White-throated Sparrow	whtspa	0.2024	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240502_190500.wav	1890.0

@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	264.0	267.0	0	12000.0	Winter Wren	winwre3	0.2701	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240508_191500.wav	264.0
+2	Spectrogram 1	1	438.0	441.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1031	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240508_191500.wav	438.0
+3	Spectrogram 1	1	444.0	447.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1455	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240508_191500.wav	444.0
+4	Spectrogram 1	1	672.0	675.0	0	12000.0	Winter Wren	winwre3	0.5271	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240508_191500.wav	672.0
+5	Spectrogram 1	1	675.0	678.0	0	12000.0	Winter Wren	winwre3	0.9865	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240508_191500.wav	675.0
+6	Spectrogram 1	1	711.0	714.0	0	12000.0	Winter Wren	winwre3	0.7628	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240508_191500.wav	711.0
+7	Spectrogram 1	1	2922.0	2925.0	0	12000.0	Hermit Thrush	herthr	0.1734	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240508_191500.wav	2922.0
+8	Spectrogram 1	1	2928.0	2931.0	0	12000.0	Hermit Thrush	herthr	0.1036	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240508_191500.wav	2928.0
+9	Spectrogram 1	1	2934.0	2937.0	0	12000.0	Hermit Thrush	herthr	0.3205	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240508_191500.wav	2934.0

@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1881.0	1884.0	0	12000.0	Common Yellowthroat	comyel	0.1056	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_044800.wav	1881.0
+2	Spectrogram 1	1	1911.0	1914.0	0	12000.0	Common Yellowthroat	comyel	0.1047	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_044800.wav	1911.0
+3	Spectrogram 1	1	1944.0	1947.0	0	12000.0	Common Yellowthroat	comyel	0.1300	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_044800.wav	1944.0
+4	Spectrogram 1	1	2367.0	2370.0	0	12000.0	Brown Creeper	brncre	0.1419	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_044800.wav	2367.0
+5	Spectrogram 1	1	2376.0	2379.0	0	12000.0	Brown Creeper	brncre	0.3006	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_044800.wav	2376.0
+6	Spectrogram 1	1	2409.0	2412.0	0	12000.0	Hermit Thrush	herthr	0.1394	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_044800.wav	2409.0
+7	Spectrogram 1	1	2424.0	2427.0	0	12000.0	Hermit Thrush	herthr	0.1210	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_044800.wav	2424.0
+8	Spectrogram 1	1	2787.0	2790.0	0	12000.0	Brown Creeper	brncre	0.1792	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_044800.wav	2787.0
+9	Spectrogram 1	1	2790.0	2793.0	0	12000.0	Brown Creeper	brncre	0.1711	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_044800.wav	2790.0
+10	Spectrogram 1	1	2808.0	2811.0	0	12000.0	Brown Creeper	brncre	0.3535	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_044800.wav	2808.0
+11	Spectrogram 1	1	2823.0	2826.0	0	12000.0	Brown Creeper	brncre	0.1154	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_044800.wav	2823.0
+12	Spectrogram 1	1	2883.0	2886.0	0	12000.0	Brown Creeper	brncre	0.1254	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_044800.wav	2883.0
+13	Spectrogram 1	1	2901.0	2904.0	0	12000.0	Brown Creeper	brncre	0.1689	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_044800.wav	2901.0
+14	Spectrogram 1	1	2931.0	2934.0	0	12000.0	Brown Creeper	brncre	0.1048	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_044800.wav	2931.0
+15	Spectrogram 1	1	2964.0	2967.0	0	12000.0	Brown Creeper	brncre	0.1043	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_044800.wav	2964.0
+16	Spectrogram 1	1	2967.0	2970.0	0	12000.0	Brown Creeper	brncre	0.1943	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_044800.wav	2967.0
+17	Spectrogram 1	1	2970.0	2973.0	0	12000.0	Common Raven	comrav	0.1266	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_044800.wav	2970.0
+18	Spectrogram 1	1	3039.0	3042.0	0	12000.0	Brown Creeper	brncre	0.1231	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_044800.wav	3039.0
+19	Spectrogram 1	1	3042.0	3045.0	0	12000.0	Cedar Waxwing	cedwax	0.1091	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_044800.wav	3042.0
+20	Spectrogram 1	1	3144.0	3147.0	0	12000.0	Dark-eyed Junco	daejun	0.1138	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_044800.wav	3144.0
+21	Spectrogram 1	1	3156.0	3159.0	0	12000.0	Dark-eyed Junco	daejun	0.3987	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_044800.wav	3156.0

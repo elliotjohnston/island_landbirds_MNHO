@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1743.0	1746.0	0	12000.0	Brown Creeper	brncre	0.4723	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240828_055002.wav	1743.0
+2	Spectrogram 1	1	1743.0	1746.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1122	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240828_055002.wav	1743.0
+3	Spectrogram 1	1	1791.0	1794.0	0	12000.0	Great Crested Flycatcher	grcfly	0.3152	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240828_055002.wav	1791.0
+4	Spectrogram 1	1	1923.0	1926.0	0	12000.0	Great Crested Flycatcher	grcfly	0.1246	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240828_055002.wav	1923.0
+5	Spectrogram 1	1	1953.0	1956.0	0	12000.0	Great Crested Flycatcher	grcfly	0.2184	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240828_055002.wav	1953.0
+6	Spectrogram 1	1	2103.0	2106.0	0	12000.0	Great Crested Flycatcher	grcfly	0.1280	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240828_055002.wav	2103.0
+7	Spectrogram 1	1	2379.0	2382.0	0	12000.0	Great Crested Flycatcher	grcfly	0.1236	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240828_055002.wav	2379.0
+8	Spectrogram 1	1	2727.0	2730.0	0	12000.0	Great Crested Flycatcher	grcfly	0.3644	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240828_055002.wav	2727.0
+9	Spectrogram 1	1	2739.0	2742.0	0	12000.0	Great Crested Flycatcher	grcfly	0.1266	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240828_055002.wav	2739.0
+10	Spectrogram 1	1	3207.0	3210.0	0	12000.0	Great Crested Flycatcher	grcfly	0.1998	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240828_055002.wav	3207.0
+11	Spectrogram 1	1	3273.0	3276.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9637	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240828_055002.wav	3273.0
+12	Spectrogram 1	1	3276.0	3279.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9897	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240828_055002.wav	3276.0
+13	Spectrogram 1	1	3279.0	3282.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9965	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240828_055002.wav	3279.0
+14	Spectrogram 1	1	3282.0	3285.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9747	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240828_055002.wav	3282.0
+15	Spectrogram 1	1	3285.0	3288.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9946	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240828_055002.wav	3285.0
+16	Spectrogram 1	1	3288.0	3291.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9920	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240828_055002.wav	3288.0
+17	Spectrogram 1	1	3291.0	3294.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9830	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240828_055002.wav	3291.0
+18	Spectrogram 1	1	3294.0	3297.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9755	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240828_055002.wav	3294.0
+19	Spectrogram 1	1	3297.0	3300.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.1379	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240828_055002.wav	3297.0
+20	Spectrogram 1	1	3300.0	3303.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.3748	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240828_055002.wav	3300.0
+21	Spectrogram 1	1	3351.0	3354.0	0	12000.0	Brown Creeper	brncre	0.4630	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240828_055002.wav	3351.0
+22	Spectrogram 1	1	3369.0	3372.0	0	12000.0	Downy Woodpecker	dowwoo	0.4066	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240828_055002.wav	3369.0

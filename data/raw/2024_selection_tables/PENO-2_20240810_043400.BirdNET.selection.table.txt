@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2553.0	2556.0	0	12000.0	Pileated Woodpecker	pilwoo	0.1348	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240810_043400.wav	2553.0

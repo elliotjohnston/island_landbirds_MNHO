@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1041.0	1044.0	0	12000.0	White-throated Sparrow	whtspa	0.3918	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240527_193600.wav	1041.0
+2	Spectrogram 1	1	1044.0	1047.0	0	12000.0	Swainson's Thrush	swathr	0.1090	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240527_193600.wav	1044.0
+3	Spectrogram 1	1	1062.0	1065.0	0	12000.0	Olive-sided Flycatcher	olsfly	0.1050	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240527_193600.wav	1062.0
+4	Spectrogram 1	1	1068.0	1071.0	0	12000.0	White-throated Sparrow	whtspa	0.9068	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240527_193600.wav	1068.0
+5	Spectrogram 1	1	1071.0	1074.0	0	12000.0	White-throated Sparrow	whtspa	0.8763	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240527_193600.wav	1071.0
+6	Spectrogram 1	1	1083.0	1086.0	0	12000.0	Hermit Thrush	herthr	0.2803	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240527_193600.wav	1083.0
+7	Spectrogram 1	1	1083.0	1086.0	0	12000.0	Swainson's Thrush	swathr	0.1844	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240527_193600.wav	1083.0
+8	Spectrogram 1	1	1086.0	1089.0	0	12000.0	White-throated Sparrow	whtspa	0.9433	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240527_193600.wav	1086.0
+9	Spectrogram 1	1	1089.0	1092.0	0	12000.0	White-throated Sparrow	whtspa	0.5810	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240527_193600.wav	1089.0
+10	Spectrogram 1	1	1107.0	1110.0	0	12000.0	Hermit Thrush	herthr	0.1634	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240527_193600.wav	1107.0
+11	Spectrogram 1	1	2640.0	2643.0	0	12000.0	Swainson's Thrush	swathr	0.1854	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240527_193600.wav	2640.0
+12	Spectrogram 1	1	2646.0	2649.0	0	12000.0	Swainson's Thrush	swathr	0.2480	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240527_193600.wav	2646.0

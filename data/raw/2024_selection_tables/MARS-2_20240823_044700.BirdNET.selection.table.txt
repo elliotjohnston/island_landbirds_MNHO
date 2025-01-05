@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	477.0	480.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.1353	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240823_044700.wav	477.0
+2	Spectrogram 1	1	477.0	480.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.1142	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240823_044700.wav	477.0
+3	Spectrogram 1	1	480.0	483.0	0	12000.0	Yellow-throated Vireo	yetvir	0.1075	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240823_044700.wav	480.0
+4	Spectrogram 1	1	1416.0	1419.0	0	12000.0	Hermit Thrush	herthr	0.7151	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240823_044700.wav	1416.0
+5	Spectrogram 1	1	1431.0	1434.0	0	12000.0	Hermit Thrush	herthr	0.8162	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240823_044700.wav	1431.0
+6	Spectrogram 1	1	1470.0	1473.0	0	12000.0	Hermit Thrush	herthr	0.5993	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240823_044700.wav	1470.0
+7	Spectrogram 1	1	2112.0	2115.0	0	12000.0	Yellow-billed Cuckoo	yebcuc	0.1518	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240823_044700.wav	2112.0
+8	Spectrogram 1	1	2217.0	2220.0	0	12000.0	Dark-eyed Junco	daejun	0.1439	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240823_044700.wav	2217.0
+9	Spectrogram 1	1	2283.0	2286.0	0	12000.0	American Crow	amecro	0.1109	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240823_044700.wav	2283.0
+10	Spectrogram 1	1	2556.0	2559.0	0	12000.0	Common Raven	comrav	0.1726	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240823_044700.wav	2556.0
+11	Spectrogram 1	1	2688.0	2691.0	0	12000.0	Common Raven	comrav	0.1028	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240823_044700.wav	2688.0
+12	Spectrogram 1	1	2709.0	2712.0	0	12000.0	Common Raven	comrav	0.2742	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240823_044700.wav	2709.0
+13	Spectrogram 1	1	2772.0	2775.0	0	12000.0	Common Raven	comrav	0.1722	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240823_044700.wav	2772.0
+14	Spectrogram 1	1	2787.0	2790.0	0	12000.0	Common Raven	comrav	0.2552	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240823_044700.wav	2787.0
+15	Spectrogram 1	1	3255.0	3258.0	0	12000.0	Cedar Waxwing	cedwax	0.3127	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240823_044700.wav	3255.0
+16	Spectrogram 1	1	3261.0	3264.0	0	12000.0	Cedar Waxwing	cedwax	0.1792	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240823_044700.wav	3261.0
+17	Spectrogram 1	1	3435.0	3438.0	0	12000.0	Common Raven	comrav	0.1407	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240823_044700.wav	3435.0
+18	Spectrogram 1	1	3591.0	3594.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.2029	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240823_044700.wav	3591.0
+19	Spectrogram 1	1	3591.0	3594.0	0	12000.0	Eastern Phoebe	easpho	0.1258	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240823_044700.wav	3591.0

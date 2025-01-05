@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1650.0	1653.0	0	12000.0	White-throated Sparrow	whtspa	0.9305	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240519_040300.wav	1650.0
+2	Spectrogram 1	1	1653.0	1656.0	0	12000.0	White-throated Sparrow	whtspa	0.1538	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240519_040300.wav	1653.0
+3	Spectrogram 1	1	2091.0	2094.0	0	12000.0	Hermit Thrush	herthr	0.8944	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240519_040300.wav	2091.0
+4	Spectrogram 1	1	2136.0	2139.0	0	12000.0	Hermit Thrush	herthr	0.4597	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240519_040300.wav	2136.0
+5	Spectrogram 1	1	3210.0	3213.0	0	12000.0	American Crow	amecro	0.3597	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240519_040300.wav	3210.0
+6	Spectrogram 1	1	3252.0	3255.0	0	12000.0	American Crow	amecro	0.2869	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240519_040300.wav	3252.0
+7	Spectrogram 1	1	3309.0	3312.0	0	12000.0	American Crow	amecro	0.2933	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240519_040300.wav	3309.0
+8	Spectrogram 1	1	3333.0	3336.0	0	12000.0	American Crow	amecro	0.6614	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240519_040300.wav	3333.0
+9	Spectrogram 1	1	3372.0	3375.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1527	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240519_040300.wav	3372.0
+10	Spectrogram 1	1	3408.0	3411.0	0	12000.0	Nashville Warbler	naswar	0.1353	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240519_040300.wav	3408.0
+11	Spectrogram 1	1	3426.0	3429.0	0	12000.0	Nashville Warbler	naswar	0.1056	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240519_040300.wav	3426.0
+12	Spectrogram 1	1	3441.0	3444.0	0	12000.0	Nashville Warbler	naswar	0.1461	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240519_040300.wav	3441.0
+13	Spectrogram 1	1	3453.0	3456.0	0	12000.0	Nashville Warbler	naswar	0.1473	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240519_040300.wav	3453.0
+14	Spectrogram 1	1	3459.0	3462.0	0	12000.0	Nashville Warbler	naswar	0.2459	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240519_040300.wav	3459.0
+15	Spectrogram 1	1	3459.0	3462.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1307	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240519_040300.wav	3459.0
+16	Spectrogram 1	1	3471.0	3474.0	0	12000.0	Nashville Warbler	naswar	0.4018	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240519_040300.wav	3471.0
+17	Spectrogram 1	1	3477.0	3480.0	0	12000.0	Nashville Warbler	naswar	0.2092	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240519_040300.wav	3477.0
+18	Spectrogram 1	1	3510.0	3513.0	0	12000.0	Nashville Warbler	naswar	0.2001	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240519_040300.wav	3510.0
+19	Spectrogram 1	1	3561.0	3564.0	0	12000.0	Blackburnian Warbler	bkbwar	0.2133	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240519_040300.wav	3561.0

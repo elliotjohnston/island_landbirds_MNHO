@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	27.0	30.0	0	12000.0	Dark-eyed Junco	daejun	0.5116	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240807_191600.wav	27.0
+2	Spectrogram 1	1	33.0	36.0	0	12000.0	Dark-eyed Junco	daejun	0.2960	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240807_191600.wav	33.0
+3	Spectrogram 1	1	45.0	48.0	0	12000.0	Dark-eyed Junco	daejun	0.1110	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240807_191600.wav	45.0
+4	Spectrogram 1	1	66.0	69.0	0	12000.0	Dark-eyed Junco	daejun	0.1786	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240807_191600.wav	66.0
+5	Spectrogram 1	1	84.0	87.0	0	12000.0	Dark-eyed Junco	daejun	0.1791	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240807_191600.wav	84.0
+6	Spectrogram 1	1	1350.0	1353.0	0	12000.0	Brown Creeper	brncre	0.5102	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240807_191600.wav	1350.0
+7	Spectrogram 1	1	1365.0	1368.0	0	12000.0	Brown Creeper	brncre	0.8775	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240807_191600.wav	1365.0
+8	Spectrogram 1	1	1395.0	1398.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3678	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240807_191600.wav	1395.0
+9	Spectrogram 1	1	1404.0	1407.0	0	12000.0	Brown Creeper	brncre	0.1933	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240807_191600.wav	1404.0
+10	Spectrogram 1	1	1404.0	1407.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1165	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240807_191600.wav	1404.0
+11	Spectrogram 1	1	2049.0	2052.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4425	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240807_191600.wav	2049.0
+12	Spectrogram 1	1	2076.0	2079.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1044	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240807_191600.wav	2076.0

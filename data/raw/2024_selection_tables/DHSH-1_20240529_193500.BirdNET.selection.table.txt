@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	135.0	138.0	0	12000.0	American Crow	amecro	0.2683	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240529_193500.wav	135.0
+2	Spectrogram 1	1	153.0	156.0	0	12000.0	American Crow	amecro	0.4947	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240529_193500.wav	153.0
+3	Spectrogram 1	1	156.0	159.0	0	12000.0	American Crow	amecro	0.1059	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240529_193500.wav	156.0
+4	Spectrogram 1	1	168.0	171.0	0	12000.0	American Crow	amecro	0.6132	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240529_193500.wav	168.0
+5	Spectrogram 1	1	171.0	174.0	0	12000.0	American Crow	amecro	0.5447	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240529_193500.wav	171.0
+6	Spectrogram 1	1	1158.0	1161.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1320	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240529_193500.wav	1158.0
+7	Spectrogram 1	1	1188.0	1191.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2225	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240529_193500.wav	1188.0
+8	Spectrogram 1	1	1317.0	1320.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3222	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240529_193500.wav	1317.0
+9	Spectrogram 1	1	1374.0	1377.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1976	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240529_193500.wav	1374.0
+10	Spectrogram 1	1	1398.0	1401.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1550	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240529_193500.wav	1398.0
+11	Spectrogram 1	1	2535.0	2538.0	0	12000.0	Warbling Vireo	warvir	0.1138	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240529_193500.wav	2535.0
+12	Spectrogram 1	1	2565.0	2568.0	0	12000.0	Blackpoll Warbler	bkpwar	0.9739	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240529_193500.wav	2565.0
+13	Spectrogram 1	1	2568.0	2571.0	0	12000.0	Winter Wren	winwre3	0.1126	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240529_193500.wav	2568.0

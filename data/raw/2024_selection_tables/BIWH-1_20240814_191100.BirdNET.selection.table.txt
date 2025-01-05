@@ -1,0 +1,48 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	234.0	237.0	0	12000.0	American Crow	amecro	0.1144	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	234.0
+2	Spectrogram 1	1	369.0	372.0	0	12000.0	Pileated Woodpecker	pilwoo	0.2600	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	369.0
+3	Spectrogram 1	1	390.0	393.0	0	12000.0	American Goldfinch	amegfi	0.1236	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	390.0
+4	Spectrogram 1	1	612.0	615.0	0	12000.0	American Crow	amecro	0.1801	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	612.0
+5	Spectrogram 1	1	885.0	888.0	0	12000.0	Dark-eyed Junco	daejun	0.1052	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	885.0
+6	Spectrogram 1	1	2733.0	2736.0	0	12000.0	Swainson's Thrush	swathr	0.1462	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2733.0
+7	Spectrogram 1	1	2805.0	2808.0	0	12000.0	Swainson's Thrush	swathr	0.1437	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2805.0
+8	Spectrogram 1	1	2808.0	2811.0	0	12000.0	Swainson's Thrush	swathr	0.2127	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2808.0
+9	Spectrogram 1	1	2808.0	2811.0	0	12000.0	Eastern Whip-poor-will	easwpw1	0.1073	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2808.0
+10	Spectrogram 1	1	2814.0	2817.0	0	12000.0	Swainson's Thrush	swathr	0.1362	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2814.0
+11	Spectrogram 1	1	2817.0	2820.0	0	12000.0	Swainson's Thrush	swathr	0.3511	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2817.0
+12	Spectrogram 1	1	2820.0	2823.0	0	12000.0	Swainson's Thrush	swathr	0.4447	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2820.0
+13	Spectrogram 1	1	2823.0	2826.0	0	12000.0	Swainson's Thrush	swathr	0.7926	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2823.0
+14	Spectrogram 1	1	2826.0	2829.0	0	12000.0	Swainson's Thrush	swathr	0.8672	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2826.0
+15	Spectrogram 1	1	2829.0	2832.0	0	12000.0	Swainson's Thrush	swathr	0.6233	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2829.0
+16	Spectrogram 1	1	2832.0	2835.0	0	12000.0	Swainson's Thrush	swathr	0.9236	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2832.0
+17	Spectrogram 1	1	2835.0	2838.0	0	12000.0	Swainson's Thrush	swathr	0.9377	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2835.0
+18	Spectrogram 1	1	2838.0	2841.0	0	12000.0	Swainson's Thrush	swathr	0.6735	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2838.0
+19	Spectrogram 1	1	2841.0	2844.0	0	12000.0	Swainson's Thrush	swathr	0.7147	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2841.0
+20	Spectrogram 1	1	2844.0	2847.0	0	12000.0	Swainson's Thrush	swathr	0.9525	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2844.0
+21	Spectrogram 1	1	2847.0	2850.0	0	12000.0	Swainson's Thrush	swathr	0.9293	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2847.0
+22	Spectrogram 1	1	2850.0	2853.0	0	12000.0	Swainson's Thrush	swathr	0.4114	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2850.0
+23	Spectrogram 1	1	2853.0	2856.0	0	12000.0	Swainson's Thrush	swathr	0.7987	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2853.0
+24	Spectrogram 1	1	2859.0	2862.0	0	12000.0	Swainson's Thrush	swathr	0.7284	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2859.0
+25	Spectrogram 1	1	2862.0	2865.0	0	12000.0	Swainson's Thrush	swathr	0.2093	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2862.0
+26	Spectrogram 1	1	2865.0	2868.0	0	12000.0	Swainson's Thrush	swathr	0.8156	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2865.0
+27	Spectrogram 1	1	2874.0	2877.0	0	12000.0	Swainson's Thrush	swathr	0.1656	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2874.0
+28	Spectrogram 1	1	2883.0	2886.0	0	12000.0	Swainson's Thrush	swathr	0.3836	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2883.0
+29	Spectrogram 1	1	2889.0	2892.0	0	12000.0	Swainson's Thrush	swathr	0.8168	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2889.0
+30	Spectrogram 1	1	2892.0	2895.0	0	12000.0	Swainson's Thrush	swathr	0.3224	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2892.0
+31	Spectrogram 1	1	2895.0	2898.0	0	12000.0	Swainson's Thrush	swathr	0.9280	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2895.0
+32	Spectrogram 1	1	2898.0	2901.0	0	12000.0	Swainson's Thrush	swathr	0.5532	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2898.0
+33	Spectrogram 1	1	2901.0	2904.0	0	12000.0	Swainson's Thrush	swathr	0.9399	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2901.0
+34	Spectrogram 1	1	2907.0	2910.0	0	12000.0	Swainson's Thrush	swathr	0.6895	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2907.0
+35	Spectrogram 1	1	2910.0	2913.0	0	12000.0	Swainson's Thrush	swathr	0.8031	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2910.0
+36	Spectrogram 1	1	2913.0	2916.0	0	12000.0	Swainson's Thrush	swathr	0.7768	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2913.0
+37	Spectrogram 1	1	2916.0	2919.0	0	12000.0	Swainson's Thrush	swathr	0.4347	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2916.0
+38	Spectrogram 1	1	2919.0	2922.0	0	12000.0	Swainson's Thrush	swathr	0.9490	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2919.0
+39	Spectrogram 1	1	2922.0	2925.0	0	12000.0	Swainson's Thrush	swathr	0.5852	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	2922.0
+40	Spectrogram 1	1	3165.0	3168.0	0	12000.0	Baltimore Oriole	balori	0.1130	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	3165.0
+41	Spectrogram 1	1	3195.0	3198.0	0	12000.0	Veery	veery	0.1538	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	3195.0
+42	Spectrogram 1	1	3198.0	3201.0	0	12000.0	Veery	veery	0.1366	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	3198.0
+43	Spectrogram 1	1	3198.0	3201.0	0	12000.0	Scarlet Tanager	scatan	0.1207	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	3198.0
+44	Spectrogram 1	1	3201.0	3204.0	0	12000.0	Veery	veery	0.4991	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	3201.0
+45	Spectrogram 1	1	3201.0	3204.0	0	12000.0	Scarlet Tanager	scatan	0.1155	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	3201.0
+46	Spectrogram 1	1	3237.0	3240.0	0	12000.0	Veery	veery	0.1118	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	3237.0
+47	Spectrogram 1	1	3567.0	3570.0	0	12000.0	Pine Warbler	pinwar	0.1344	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240814_191100.wav	3567.0

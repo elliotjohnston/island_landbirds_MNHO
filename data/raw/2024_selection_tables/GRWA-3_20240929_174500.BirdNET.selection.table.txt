@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	645.0	648.0	0	12000.0	American Crow	amecro	0.1195	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240929_174500.wav	645.0
+2	Spectrogram 1	1	1467.0	1470.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.1376	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240929_174500.wav	1467.0
+3	Spectrogram 1	1	2325.0	2328.0	0	12000.0	Swainson's Thrush	swathr	0.1157	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240929_174500.wav	2325.0
+4	Spectrogram 1	1	2409.0	2412.0	0	12000.0	White-throated Sparrow	whtspa	0.2653	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240929_174500.wav	2409.0
+5	Spectrogram 1	1	2634.0	2637.0	0	12000.0	Evening Grosbeak	evegro	0.2014	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240929_174500.wav	2634.0
+6	Spectrogram 1	1	2643.0	2646.0	0	12000.0	Evening Grosbeak	evegro	0.1008	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240929_174500.wav	2643.0
+7	Spectrogram 1	1	2835.0	2838.0	0	12000.0	White-throated Sparrow	whtspa	0.3490	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240929_174500.wav	2835.0
+8	Spectrogram 1	1	2883.0	2886.0	0	12000.0	Northern Waterthrush	norwat	0.2367	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240929_174500.wav	2883.0
+9	Spectrogram 1	1	2883.0	2886.0	0	12000.0	White-throated Sparrow	whtspa	0.1084	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240929_174500.wav	2883.0
+10	Spectrogram 1	1	2889.0	2892.0	0	12000.0	Northern Waterthrush	norwat	0.5774	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240929_174500.wav	2889.0
+11	Spectrogram 1	1	2901.0	2904.0	0	12000.0	White-throated Sparrow	whtspa	0.9810	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240929_174500.wav	2901.0
+12	Spectrogram 1	1	2907.0	2910.0	0	12000.0	White-throated Sparrow	whtspa	0.9463	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240929_174500.wav	2907.0
+13	Spectrogram 1	1	2907.0	2910.0	0	12000.0	White-crowned Sparrow	whcspa	0.1048	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240929_174500.wav	2907.0
+14	Spectrogram 1	1	2910.0	2913.0	0	12000.0	White-throated Sparrow	whtspa	0.9756	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240929_174500.wav	2910.0
+15	Spectrogram 1	1	2913.0	2916.0	0	12000.0	White-throated Sparrow	whtspa	0.9119	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240929_174500.wav	2913.0
+16	Spectrogram 1	1	2916.0	2919.0	0	12000.0	White-throated Sparrow	whtspa	0.9517	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240929_174500.wav	2916.0
+17	Spectrogram 1	1	2919.0	2922.0	0	12000.0	White-throated Sparrow	whtspa	0.9586	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240929_174500.wav	2919.0
+18	Spectrogram 1	1	2922.0	2925.0	0	12000.0	White-throated Sparrow	whtspa	0.9551	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240929_174500.wav	2922.0
+19	Spectrogram 1	1	2925.0	2928.0	0	12000.0	White-throated Sparrow	whtspa	0.9277	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240929_174500.wav	2925.0
+20	Spectrogram 1	1	2928.0	2931.0	0	12000.0	White-throated Sparrow	whtspa	0.5263	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240929_174500.wav	2928.0
+21	Spectrogram 1	1	2931.0	2934.0	0	12000.0	White-throated Sparrow	whtspa	0.1347	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240929_174500.wav	2931.0
+22	Spectrogram 1	1	2934.0	2937.0	0	12000.0	White-throated Sparrow	whtspa	0.5786	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240929_174500.wav	2934.0
+23	Spectrogram 1	1	3225.0	3228.0	0	12000.0	Yellow-bellied Sapsucker	yebsap	0.1699	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240929_174500.wav	3225.0
+24	Spectrogram 1	1	3570.0	3573.0	0	12000.0	Yellow-bellied Sapsucker	yebsap	0.1245	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240929_174500.wav	3570.0

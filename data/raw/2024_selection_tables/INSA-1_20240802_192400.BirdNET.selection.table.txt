@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	960.0	963.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1801	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240802_192400.wav	960.0
+2	Spectrogram 1	1	972.0	975.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2093	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240802_192400.wav	972.0
+3	Spectrogram 1	1	993.0	996.0	0	12000.0	Brown Creeper	brncre	0.2102	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240802_192400.wav	993.0
+4	Spectrogram 1	1	993.0	996.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1239	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240802_192400.wav	993.0
+5	Spectrogram 1	1	1032.0	1035.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1013	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240802_192400.wav	1032.0
+6	Spectrogram 1	1	1062.0	1065.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1179	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240802_192400.wav	1062.0
+7	Spectrogram 1	1	1107.0	1110.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5082	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240802_192400.wav	1107.0
+8	Spectrogram 1	1	1110.0	1113.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4587	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240802_192400.wav	1110.0
+9	Spectrogram 1	1	1425.0	1428.0	0	12000.0	Cedar Waxwing	cedwax	0.1165	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240802_192400.wav	1425.0
+10	Spectrogram 1	1	1428.0	1431.0	0	12000.0	Cedar Waxwing	cedwax	0.1105	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240802_192400.wav	1428.0
+11	Spectrogram 1	1	2430.0	2433.0	0	12000.0	Cedar Waxwing	cedwax	0.3405	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240802_192400.wav	2430.0
+12	Spectrogram 1	1	2448.0	2451.0	0	12000.0	Cedar Waxwing	cedwax	0.2197	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240802_192400.wav	2448.0
+13	Spectrogram 1	1	2577.0	2580.0	0	12000.0	Hermit Thrush	herthr	0.2970	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240802_192400.wav	2577.0
+14	Spectrogram 1	1	2580.0	2583.0	0	12000.0	Hermit Thrush	herthr	0.1931	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240802_192400.wav	2580.0

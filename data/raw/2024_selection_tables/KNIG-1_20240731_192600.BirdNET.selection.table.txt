@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	126.0	129.0	0	12000.0	American Crow	amecro	0.6549	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240731_192600.wav	126.0
+2	Spectrogram 1	1	138.0	141.0	0	12000.0	American Crow	amecro	0.8009	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240731_192600.wav	138.0
+3	Spectrogram 1	1	141.0	144.0	0	12000.0	American Crow	amecro	0.8534	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240731_192600.wav	141.0
+4	Spectrogram 1	1	1095.0	1098.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1161	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240731_192600.wav	1095.0
+5	Spectrogram 1	1	1308.0	1311.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3835	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240731_192600.wav	1308.0
+6	Spectrogram 1	1	3129.0	3132.0	0	12000.0	Hermit Thrush	herthr	0.4231	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240731_192600.wav	3129.0
+7	Spectrogram 1	1	3132.0	3135.0	0	12000.0	Hermit Thrush	herthr	0.2408	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240731_192600.wav	3132.0
+8	Spectrogram 1	1	3141.0	3144.0	0	12000.0	Hermit Thrush	herthr	0.2950	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240731_192600.wav	3141.0

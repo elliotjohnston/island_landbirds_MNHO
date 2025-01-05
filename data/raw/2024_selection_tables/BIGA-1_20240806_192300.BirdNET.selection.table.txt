@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	18.0	21.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2315	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240806_192300.wav	18.0
+2	Spectrogram 1	1	33.0	36.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2393	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240806_192300.wav	33.0
+3	Spectrogram 1	1	60.0	63.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3246	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240806_192300.wav	60.0
+4	Spectrogram 1	1	102.0	105.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3050	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240806_192300.wav	102.0
+5	Spectrogram 1	1	111.0	114.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3709	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240806_192300.wav	111.0
+6	Spectrogram 1	1	120.0	123.0	0	12000.0	Cedar Waxwing	cedwax	0.7480	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240806_192300.wav	120.0
+7	Spectrogram 1	1	126.0	129.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1415	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240806_192300.wav	126.0
+8	Spectrogram 1	1	132.0	135.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6465	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240806_192300.wav	132.0
+9	Spectrogram 1	1	135.0	138.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5496	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240806_192300.wav	135.0
+10	Spectrogram 1	1	141.0	144.0	0	12000.0	Cedar Waxwing	cedwax	0.5898	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240806_192300.wav	141.0
+11	Spectrogram 1	1	144.0	147.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2060	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240806_192300.wav	144.0
+12	Spectrogram 1	1	150.0	153.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1392	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240806_192300.wav	150.0
+13	Spectrogram 1	1	156.0	159.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2672	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240806_192300.wav	156.0
+14	Spectrogram 1	1	168.0	171.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2868	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240806_192300.wav	168.0
+15	Spectrogram 1	1	183.0	186.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1712	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240806_192300.wav	183.0
+16	Spectrogram 1	1	183.0	186.0	0	12000.0	Cedar Waxwing	cedwax	0.1196	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240806_192300.wav	183.0

@@ -1,0 +1,38 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	123.0	126.0	0	12000.0	American Crow	amecro	0.1702	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	123.0
+2	Spectrogram 1	1	129.0	132.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2921	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	129.0
+3	Spectrogram 1	1	135.0	138.0	0	12000.0	Cedar Waxwing	cedwax	0.2042	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	135.0
+4	Spectrogram 1	1	150.0	153.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7220	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	150.0
+5	Spectrogram 1	1	153.0	156.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3268	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	153.0
+6	Spectrogram 1	1	162.0	165.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5840	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	162.0
+7	Spectrogram 1	1	186.0	189.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3241	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	186.0
+8	Spectrogram 1	1	201.0	204.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2219	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	201.0
+9	Spectrogram 1	1	237.0	240.0	0	12000.0	Red-bellied Woodpecker	rebwoo	0.1099	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	237.0
+10	Spectrogram 1	1	258.0	261.0	0	12000.0	Brown Creeper	brncre	0.3586	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	258.0
+11	Spectrogram 1	1	258.0	261.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1113	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	258.0
+12	Spectrogram 1	1	276.0	279.0	0	12000.0	Cedar Waxwing	cedwax	0.2685	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	276.0
+13	Spectrogram 1	1	282.0	285.0	0	12000.0	Cedar Waxwing	cedwax	0.2005	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	282.0
+14	Spectrogram 1	1	330.0	333.0	0	12000.0	American Crow	amecro	0.3678	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	330.0
+15	Spectrogram 1	1	330.0	333.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1021	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	330.0
+16	Spectrogram 1	1	363.0	366.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1725	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	363.0
+17	Spectrogram 1	1	366.0	369.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1022	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	366.0
+18	Spectrogram 1	1	372.0	375.0	0	12000.0	Dark-eyed Junco	daejun	0.4175	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	372.0
+19	Spectrogram 1	1	381.0	384.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1582	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	381.0
+20	Spectrogram 1	1	477.0	480.0	0	12000.0	Dark-eyed Junco	daejun	0.1718	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	477.0
+21	Spectrogram 1	1	483.0	486.0	0	12000.0	Mourning Dove	moudov	0.1096	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	483.0
+22	Spectrogram 1	1	735.0	738.0	0	12000.0	Wood Thrush	woothr	0.1510	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	735.0
+23	Spectrogram 1	1	1572.0	1575.0	0	12000.0	Brown Creeper	brncre	0.1118	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	1572.0
+24	Spectrogram 1	1	1587.0	1590.0	0	12000.0	Brown Creeper	brncre	0.2273	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	1587.0
+25	Spectrogram 1	1	2322.0	2325.0	0	12000.0	Dark-eyed Junco	daejun	0.2740	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	2322.0
+26	Spectrogram 1	1	2583.0	2586.0	0	12000.0	Swainson's Thrush	swathr	0.2193	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	2583.0
+27	Spectrogram 1	1	2625.0	2628.0	0	12000.0	Swainson's Thrush	swathr	0.1664	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	2625.0
+28	Spectrogram 1	1	2673.0	2676.0	0	12000.0	Dark-eyed Junco	daejun	0.1056	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	2673.0
+29	Spectrogram 1	1	2871.0	2874.0	0	12000.0	Dark-eyed Junco	daejun	0.1644	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	2871.0
+30	Spectrogram 1	1	2883.0	2886.0	0	12000.0	Dark-eyed Junco	daejun	0.1930	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	2883.0
+31	Spectrogram 1	1	2892.0	2895.0	0	12000.0	Dark-eyed Junco	daejun	0.1053	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	2892.0
+32	Spectrogram 1	1	2940.0	2943.0	0	12000.0	Dark-eyed Junco	daejun	0.1585	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	2940.0
+33	Spectrogram 1	1	2961.0	2964.0	0	12000.0	Dark-eyed Junco	daejun	0.2086	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	2961.0
+34	Spectrogram 1	1	3021.0	3024.0	0	12000.0	Dark-eyed Junco	daejun	0.1184	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	3021.0
+35	Spectrogram 1	1	3075.0	3078.0	0	12000.0	Dark-eyed Junco	daejun	0.1814	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	3075.0
+36	Spectrogram 1	1	3078.0	3081.0	0	12000.0	Dark-eyed Junco	daejun	0.1164	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	3078.0
+37	Spectrogram 1	1	3210.0	3213.0	0	12000.0	Dark-eyed Junco	daejun	0.1108	D:/Island_Songbirds_2024/PINK-2/Data\PINK-2_20240804_192200.wav	3210.0

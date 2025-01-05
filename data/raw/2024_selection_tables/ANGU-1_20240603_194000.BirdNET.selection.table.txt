@@ -1,0 +1,297 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	0	3.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7971	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	0
+2	Spectrogram 1	1	3.0	6.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.8600	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	3.0
+3	Spectrogram 1	1	6.0	9.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.8507	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	6.0
+4	Spectrogram 1	1	9.0	12.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.2525	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	9.0
+5	Spectrogram 1	1	12.0	15.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.5548	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	12.0
+6	Spectrogram 1	1	12.0	15.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1963	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	12.0
+7	Spectrogram 1	1	15.0	18.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.2115	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	15.0
+8	Spectrogram 1	1	18.0	21.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.6896	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	18.0
+9	Spectrogram 1	1	24.0	27.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.5683	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	24.0
+10	Spectrogram 1	1	27.0	30.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.2019	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	27.0
+11	Spectrogram 1	1	30.0	33.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.1120	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	30.0
+12	Spectrogram 1	1	33.0	36.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.6903	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	33.0
+13	Spectrogram 1	1	36.0	39.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2979	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	36.0
+14	Spectrogram 1	1	36.0	39.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.1616	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	36.0
+15	Spectrogram 1	1	69.0	72.0	0	12000.0	American Crow	amecro	0.1048	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	69.0
+16	Spectrogram 1	1	102.0	105.0	0	12000.0	Swainson's Thrush	swathr	0.4299	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	102.0
+17	Spectrogram 1	1	225.0	228.0	0	12000.0	Swainson's Thrush	swathr	0.1427	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	225.0
+18	Spectrogram 1	1	231.0	234.0	0	12000.0	Swainson's Thrush	swathr	0.1288	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	231.0
+19	Spectrogram 1	1	267.0	270.0	0	12000.0	Swainson's Thrush	swathr	0.3680	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	267.0
+20	Spectrogram 1	1	282.0	285.0	0	12000.0	Swainson's Thrush	swathr	0.3548	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	282.0
+21	Spectrogram 1	1	288.0	291.0	0	12000.0	Swainson's Thrush	swathr	0.1340	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	288.0
+22	Spectrogram 1	1	297.0	300.0	0	12000.0	Swainson's Thrush	swathr	0.4754	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	297.0
+23	Spectrogram 1	1	306.0	309.0	0	12000.0	Swainson's Thrush	swathr	0.2513	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	306.0
+24	Spectrogram 1	1	312.0	315.0	0	12000.0	Swainson's Thrush	swathr	0.4158	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	312.0
+25	Spectrogram 1	1	327.0	330.0	0	12000.0	Swainson's Thrush	swathr	0.3490	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	327.0
+26	Spectrogram 1	1	336.0	339.0	0	12000.0	Swainson's Thrush	swathr	0.2190	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	336.0
+27	Spectrogram 1	1	360.0	363.0	0	12000.0	Swainson's Thrush	swathr	0.1249	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	360.0
+28	Spectrogram 1	1	384.0	387.0	0	12000.0	Canada Warbler	canwar	0.1831	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	384.0
+29	Spectrogram 1	1	390.0	393.0	0	12000.0	Swainson's Thrush	swathr	0.3569	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	390.0
+30	Spectrogram 1	1	405.0	408.0	0	12000.0	Swainson's Thrush	swathr	0.5225	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	405.0
+31	Spectrogram 1	1	420.0	423.0	0	12000.0	Swainson's Thrush	swathr	0.5575	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	420.0
+32	Spectrogram 1	1	426.0	429.0	0	12000.0	Swainson's Thrush	swathr	0.1758	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	426.0
+33	Spectrogram 1	1	456.0	459.0	0	12000.0	Swainson's Thrush	swathr	0.3936	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	456.0
+34	Spectrogram 1	1	462.0	465.0	0	12000.0	Winter Wren	winwre3	0.1510	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	462.0
+35	Spectrogram 1	1	465.0	468.0	0	12000.0	Wilson's Warbler	wlswar	0.7978	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	465.0
+36	Spectrogram 1	1	531.0	534.0	0	12000.0	Swainson's Thrush	swathr	0.1815	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	531.0
+37	Spectrogram 1	1	534.0	537.0	0	12000.0	Swainson's Thrush	swathr	0.2740	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	534.0
+38	Spectrogram 1	1	537.0	540.0	0	12000.0	Swainson's Thrush	swathr	0.1775	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	537.0
+39	Spectrogram 1	1	540.0	543.0	0	12000.0	Swainson's Thrush	swathr	0.1298	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	540.0
+40	Spectrogram 1	1	543.0	546.0	0	12000.0	Swainson's Thrush	swathr	0.1280	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	543.0
+41	Spectrogram 1	1	549.0	552.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5536	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	549.0
+42	Spectrogram 1	1	552.0	555.0	0	12000.0	Swainson's Thrush	swathr	0.1117	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	552.0
+43	Spectrogram 1	1	567.0	570.0	0	12000.0	Swainson's Thrush	swathr	0.1093	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	567.0
+44	Spectrogram 1	1	573.0	576.0	0	12000.0	Evening Grosbeak	evegro	0.3603	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	573.0
+45	Spectrogram 1	1	627.0	630.0	0	12000.0	Ovenbird	ovenbi1	0.4068	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	627.0
+46	Spectrogram 1	1	696.0	699.0	0	12000.0	Canada Warbler	canwar	0.2631	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	696.0
+47	Spectrogram 1	1	699.0	702.0	0	12000.0	Swainson's Thrush	swathr	0.3250	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	699.0
+48	Spectrogram 1	1	711.0	714.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1582	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	711.0
+49	Spectrogram 1	1	753.0	756.0	0	12000.0	Wilson's Warbler	wlswar	0.4475	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	753.0
+50	Spectrogram 1	1	783.0	786.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3171	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	783.0
+51	Spectrogram 1	1	798.0	801.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2855	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	798.0
+52	Spectrogram 1	1	798.0	801.0	0	12000.0	Wilson's Warbler	wlswar	0.1311	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	798.0
+53	Spectrogram 1	1	801.0	804.0	0	12000.0	Wilson's Warbler	wlswar	0.7640	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	801.0
+54	Spectrogram 1	1	807.0	810.0	0	12000.0	Wilson's Warbler	wlswar	0.5083	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	807.0
+55	Spectrogram 1	1	810.0	813.0	0	12000.0	Canada Warbler	canwar	0.4433	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	810.0
+56	Spectrogram 1	1	810.0	813.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2596	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	810.0
+57	Spectrogram 1	1	810.0	813.0	0	12000.0	Wilson's Warbler	wlswar	0.1966	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	810.0
+58	Spectrogram 1	1	816.0	819.0	0	12000.0	American Crow	amecro	0.1830	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	816.0
+59	Spectrogram 1	1	819.0	822.0	0	12000.0	American Crow	amecro	0.2642	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	819.0
+60	Spectrogram 1	1	819.0	822.0	0	12000.0	Common Raven	comrav	0.1937	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	819.0
+61	Spectrogram 1	1	879.0	882.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1775	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	879.0
+62	Spectrogram 1	1	906.0	909.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5423	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	906.0
+63	Spectrogram 1	1	909.0	912.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1319	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	909.0
+64	Spectrogram 1	1	921.0	924.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4482	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	921.0
+65	Spectrogram 1	1	924.0	927.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1346	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	924.0
+66	Spectrogram 1	1	930.0	933.0	0	12000.0	Hermit Thrush	herthr	0.1903	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	930.0
+67	Spectrogram 1	1	933.0	936.0	0	12000.0	Swainson's Thrush	swathr	0.3167	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	933.0
+68	Spectrogram 1	1	936.0	939.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9783	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	936.0
+69	Spectrogram 1	1	942.0	945.0	0	12000.0	Swainson's Thrush	swathr	0.2426	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	942.0
+70	Spectrogram 1	1	948.0	951.0	0	12000.0	Swainson's Thrush	swathr	0.1782	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	948.0
+71	Spectrogram 1	1	948.0	951.0	0	12000.0	Wood Thrush	woothr	0.1258	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	948.0
+72	Spectrogram 1	1	948.0	951.0	0	12000.0	Hermit Thrush	herthr	0.1218	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	948.0
+73	Spectrogram 1	1	954.0	957.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1560	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	954.0
+74	Spectrogram 1	1	957.0	960.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6076	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	957.0
+75	Spectrogram 1	1	960.0	963.0	0	12000.0	Swainson's Thrush	swathr	0.2754	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	960.0
+76	Spectrogram 1	1	963.0	966.0	0	12000.0	Scarlet Tanager	scatan	0.3275	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	963.0
+77	Spectrogram 1	1	981.0	984.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9030	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	981.0
+78	Spectrogram 1	1	990.0	993.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9247	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	990.0
+79	Spectrogram 1	1	999.0	1002.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.4375	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	999.0
+80	Spectrogram 1	1	999.0	1002.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2160	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	999.0
+81	Spectrogram 1	1	1002.0	1005.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8793	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1002.0
+82	Spectrogram 1	1	1008.0	1011.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3933	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1008.0
+83	Spectrogram 1	1	1011.0	1014.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9566	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1011.0
+84	Spectrogram 1	1	1020.0	1023.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3675	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1020.0
+85	Spectrogram 1	1	1023.0	1026.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8628	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1023.0
+86	Spectrogram 1	1	1026.0	1029.0	0	12000.0	American Crow	amecro	0.1443	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1026.0
+87	Spectrogram 1	1	1032.0	1035.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9633	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1032.0
+88	Spectrogram 1	1	1044.0	1047.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8977	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1044.0
+89	Spectrogram 1	1	1047.0	1050.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9591	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1047.0
+90	Spectrogram 1	1	1056.0	1059.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9506	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1056.0
+91	Spectrogram 1	1	1059.0	1062.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8272	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1059.0
+92	Spectrogram 1	1	1062.0	1065.0	0	12000.0	Wood Thrush	woothr	0.4794	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1062.0
+93	Spectrogram 1	1	1077.0	1080.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9597	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1077.0
+94	Spectrogram 1	1	1089.0	1092.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9316	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1089.0
+95	Spectrogram 1	1	1101.0	1104.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9714	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1101.0
+96	Spectrogram 1	1	1110.0	1113.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9651	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1110.0
+97	Spectrogram 1	1	1113.0	1116.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1389	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1113.0
+98	Spectrogram 1	1	1131.0	1134.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4679	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1131.0
+99	Spectrogram 1	1	1134.0	1137.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8656	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1134.0
+100	Spectrogram 1	1	1143.0	1146.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8358	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1143.0
+101	Spectrogram 1	1	1155.0	1158.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9534	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1155.0
+102	Spectrogram 1	1	1164.0	1167.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8089	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1164.0
+103	Spectrogram 1	1	1185.0	1188.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1370	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1185.0
+104	Spectrogram 1	1	1197.0	1200.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6059	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1197.0
+105	Spectrogram 1	1	1218.0	1221.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7157	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1218.0
+106	Spectrogram 1	1	1227.0	1230.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8992	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1227.0
+107	Spectrogram 1	1	1239.0	1242.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1435	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1239.0
+108	Spectrogram 1	1	1242.0	1245.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8919	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1242.0
+109	Spectrogram 1	1	1299.0	1302.0	0	12000.0	Canada Warbler	canwar	0.4701	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1299.0
+110	Spectrogram 1	1	1302.0	1305.0	0	12000.0	Canada Warbler	canwar	0.1299	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1302.0
+111	Spectrogram 1	1	1308.0	1311.0	0	12000.0	Swainson's Thrush	swathr	0.1076	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1308.0
+112	Spectrogram 1	1	1314.0	1317.0	0	12000.0	Canada Warbler	canwar	0.3017	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1314.0
+113	Spectrogram 1	1	1314.0	1317.0	0	12000.0	Scarlet Tanager	scatan	0.2081	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1314.0
+114	Spectrogram 1	1	1344.0	1347.0	0	12000.0	Hermit Thrush	herthr	0.1206	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1344.0
+115	Spectrogram 1	1	1353.0	1356.0	0	12000.0	Swainson's Thrush	swathr	0.4319	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1353.0
+116	Spectrogram 1	1	1359.0	1362.0	0	12000.0	Swainson's Thrush	swathr	0.2986	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1359.0
+117	Spectrogram 1	1	1368.0	1371.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2094	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1368.0
+118	Spectrogram 1	1	1371.0	1374.0	0	12000.0	Hermit Thrush	herthr	0.1259	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1371.0
+119	Spectrogram 1	1	1392.0	1395.0	0	12000.0	Scarlet Tanager	scatan	0.2479	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1392.0
+120	Spectrogram 1	1	1395.0	1398.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1500	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1395.0
+121	Spectrogram 1	1	1395.0	1398.0	0	12000.0	Scarlet Tanager	scatan	0.1034	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1395.0
+122	Spectrogram 1	1	1398.0	1401.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4329	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1398.0
+123	Spectrogram 1	1	1413.0	1416.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1595	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1413.0
+124	Spectrogram 1	1	1455.0	1458.0	0	12000.0	Veery	veery	0.2432	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1455.0
+125	Spectrogram 1	1	1461.0	1464.0	0	12000.0	Swainson's Thrush	swathr	0.1129	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1461.0
+126	Spectrogram 1	1	1485.0	1488.0	0	12000.0	Swainson's Thrush	swathr	0.1676	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1485.0
+127	Spectrogram 1	1	1488.0	1491.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1326	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1488.0
+128	Spectrogram 1	1	1494.0	1497.0	0	12000.0	Swainson's Thrush	swathr	0.1087	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1494.0
+129	Spectrogram 1	1	1599.0	1602.0	0	12000.0	Swainson's Thrush	swathr	0.1265	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1599.0
+130	Spectrogram 1	1	1632.0	1635.0	0	12000.0	Swainson's Thrush	swathr	0.1288	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1632.0
+131	Spectrogram 1	1	1650.0	1653.0	0	12000.0	Swainson's Thrush	swathr	0.2572	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1650.0
+132	Spectrogram 1	1	1653.0	1656.0	0	12000.0	Swainson's Thrush	swathr	0.1133	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1653.0
+133	Spectrogram 1	1	1656.0	1659.0	0	12000.0	Wood Thrush	woothr	0.1600	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1656.0
+134	Spectrogram 1	1	1665.0	1668.0	0	12000.0	Canada Warbler	canwar	0.1117	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1665.0
+135	Spectrogram 1	1	1689.0	1692.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1172	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1689.0
+136	Spectrogram 1	1	1692.0	1695.0	0	12000.0	Wood Thrush	woothr	0.6326	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1692.0
+137	Spectrogram 1	1	1698.0	1701.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1061	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1698.0
+138	Spectrogram 1	1	1701.0	1704.0	0	12000.0	Scarlet Tanager	scatan	0.1165	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1701.0
+139	Spectrogram 1	1	1716.0	1719.0	0	12000.0	Swainson's Thrush	swathr	0.1267	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1716.0
+140	Spectrogram 1	1	1731.0	1734.0	0	12000.0	Hermit Thrush	herthr	0.3761	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1731.0
+141	Spectrogram 1	1	1731.0	1734.0	0	12000.0	Swainson's Thrush	swathr	0.3214	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1731.0
+142	Spectrogram 1	1	1749.0	1752.0	0	12000.0	Swainson's Thrush	swathr	0.2144	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1749.0
+143	Spectrogram 1	1	1791.0	1794.0	0	12000.0	Wilson's Warbler	wlswar	0.3288	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1791.0
+144	Spectrogram 1	1	1800.0	1803.0	0	12000.0	Rusty Blackbird	rusbla	0.1397	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1800.0
+145	Spectrogram 1	1	1806.0	1809.0	0	12000.0	Scarlet Tanager	scatan	0.6940	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1806.0
+146	Spectrogram 1	1	1818.0	1821.0	0	12000.0	Wood Thrush	woothr	0.1623	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1818.0
+147	Spectrogram 1	1	1821.0	1824.0	0	12000.0	Hermit Thrush	herthr	0.2227	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1821.0
+148	Spectrogram 1	1	1821.0	1824.0	0	12000.0	Wood Thrush	woothr	0.1346	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1821.0
+149	Spectrogram 1	1	1842.0	1845.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1061	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1842.0
+150	Spectrogram 1	1	1893.0	1896.0	0	12000.0	Swainson's Thrush	swathr	0.2193	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1893.0
+151	Spectrogram 1	1	1893.0	1896.0	0	12000.0	Hermit Thrush	herthr	0.1402	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	1893.0
+152	Spectrogram 1	1	2019.0	2022.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1016	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2019.0
+153	Spectrogram 1	1	2049.0	2052.0	0	12000.0	Swainson's Thrush	swathr	0.5965	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2049.0
+154	Spectrogram 1	1	2079.0	2082.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1373	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2079.0
+155	Spectrogram 1	1	2082.0	2085.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1566	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2082.0
+156	Spectrogram 1	1	2088.0	2091.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1492	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2088.0
+157	Spectrogram 1	1	2097.0	2100.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7510	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2097.0
+158	Spectrogram 1	1	2097.0	2100.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.2037	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2097.0
+159	Spectrogram 1	1	2100.0	2103.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3364	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2100.0
+160	Spectrogram 1	1	2109.0	2112.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6198	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2109.0
+161	Spectrogram 1	1	2112.0	2115.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7743	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2112.0
+162	Spectrogram 1	1	2133.0	2136.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1101	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2133.0
+163	Spectrogram 1	1	2136.0	2139.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7345	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2136.0
+164	Spectrogram 1	1	2145.0	2148.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9362	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2145.0
+165	Spectrogram 1	1	2151.0	2154.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1298	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2151.0
+166	Spectrogram 1	1	2154.0	2157.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9645	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2154.0
+167	Spectrogram 1	1	2157.0	2160.0	0	12000.0	Lincoln's Sparrow	linspa	0.1134	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2157.0
+168	Spectrogram 1	1	2160.0	2163.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1263	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2160.0
+169	Spectrogram 1	1	2163.0	2166.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8377	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2163.0
+170	Spectrogram 1	1	2172.0	2175.0	0	12000.0	Swainson's Thrush	swathr	0.2110	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2172.0
+171	Spectrogram 1	1	2175.0	2178.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1983	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2175.0
+172	Spectrogram 1	1	2178.0	2181.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8876	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2178.0
+173	Spectrogram 1	1	2178.0	2181.0	0	12000.0	Northern Parula	norpar	0.1838	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2178.0
+174	Spectrogram 1	1	2181.0	2184.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9728	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2181.0
+175	Spectrogram 1	1	2184.0	2187.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5038	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2184.0
+176	Spectrogram 1	1	2184.0	2187.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1680	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2184.0
+177	Spectrogram 1	1	2187.0	2190.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2340	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2187.0
+178	Spectrogram 1	1	2196.0	2199.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4294	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2196.0
+179	Spectrogram 1	1	2202.0	2205.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8081	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2202.0
+180	Spectrogram 1	1	2205.0	2208.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5465	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2205.0
+181	Spectrogram 1	1	2205.0	2208.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1126	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2205.0
+182	Spectrogram 1	1	2208.0	2211.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1899	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2208.0
+183	Spectrogram 1	1	2214.0	2217.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8323	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2214.0
+184	Spectrogram 1	1	2214.0	2217.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1676	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2214.0
+185	Spectrogram 1	1	2223.0	2226.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8185	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2223.0
+186	Spectrogram 1	1	2235.0	2238.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9320	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2235.0
+187	Spectrogram 1	1	2253.0	2256.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2851	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2253.0
+188	Spectrogram 1	1	2256.0	2259.0	0	12000.0	Wilson's Warbler	wlswar	0.1929	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2256.0
+189	Spectrogram 1	1	2289.0	2292.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2646	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2289.0
+190	Spectrogram 1	1	2292.0	2295.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2767	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2292.0
+191	Spectrogram 1	1	2298.0	2301.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3675	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2298.0
+192	Spectrogram 1	1	2301.0	2304.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1376	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2301.0
+193	Spectrogram 1	1	2304.0	2307.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3015	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2304.0
+194	Spectrogram 1	1	2310.0	2313.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5778	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2310.0
+195	Spectrogram 1	1	2313.0	2316.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3033	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2313.0
+196	Spectrogram 1	1	2316.0	2319.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8819	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2316.0
+197	Spectrogram 1	1	2325.0	2328.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6267	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2325.0
+198	Spectrogram 1	1	2334.0	2337.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9382	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2334.0
+199	Spectrogram 1	1	2337.0	2340.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1865	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2337.0
+200	Spectrogram 1	1	2340.0	2343.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8688	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2340.0
+201	Spectrogram 1	1	2349.0	2352.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8527	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2349.0
+202	Spectrogram 1	1	2352.0	2355.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9491	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2352.0
+203	Spectrogram 1	1	2355.0	2358.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3332	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2355.0
+204	Spectrogram 1	1	2358.0	2361.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9328	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2358.0
+205	Spectrogram 1	1	2367.0	2370.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8638	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2367.0
+206	Spectrogram 1	1	2373.0	2376.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9638	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2373.0
+207	Spectrogram 1	1	2376.0	2379.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7232	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2376.0
+208	Spectrogram 1	1	2394.0	2397.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9967	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2394.0
+209	Spectrogram 1	1	2400.0	2403.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8725	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2400.0
+210	Spectrogram 1	1	2406.0	2409.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9557	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2406.0
+211	Spectrogram 1	1	2409.0	2412.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8143	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2409.0
+212	Spectrogram 1	1	2421.0	2424.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8409	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2421.0
+213	Spectrogram 1	1	2430.0	2433.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8929	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2430.0
+214	Spectrogram 1	1	2433.0	2436.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9184	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2433.0
+215	Spectrogram 1	1	2445.0	2448.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9641	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2445.0
+216	Spectrogram 1	1	2457.0	2460.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9374	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2457.0
+217	Spectrogram 1	1	2463.0	2466.0	0	12000.0	Swainson's Thrush	swathr	0.1063	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2463.0
+218	Spectrogram 1	1	2469.0	2472.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9917	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2469.0
+219	Spectrogram 1	1	2475.0	2478.0	0	12000.0	Swainson's Thrush	swathr	0.1358	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2475.0
+220	Spectrogram 1	1	2484.0	2487.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8987	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2484.0
+221	Spectrogram 1	1	2490.0	2493.0	0	12000.0	Swainson's Thrush	swathr	0.4712	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2490.0
+222	Spectrogram 1	1	2502.0	2505.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8164	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2502.0
+223	Spectrogram 1	1	2505.0	2508.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9532	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2505.0
+224	Spectrogram 1	1	2514.0	2517.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7209	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2514.0
+225	Spectrogram 1	1	2517.0	2520.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6989	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2517.0
+226	Spectrogram 1	1	2520.0	2523.0	0	12000.0	Swainson's Thrush	swathr	0.1535	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2520.0
+227	Spectrogram 1	1	2526.0	2529.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9356	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2526.0
+228	Spectrogram 1	1	2538.0	2541.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9557	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2538.0
+229	Spectrogram 1	1	2541.0	2544.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1517	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2541.0
+230	Spectrogram 1	1	2541.0	2544.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1464	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2541.0
+231	Spectrogram 1	1	2553.0	2556.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8501	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2553.0
+232	Spectrogram 1	1	2565.0	2568.0	0	12000.0	Swainson's Thrush	swathr	0.3632	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2565.0
+233	Spectrogram 1	1	2568.0	2571.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8964	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2568.0
+234	Spectrogram 1	1	2571.0	2574.0	0	12000.0	Swainson's Thrush	swathr	0.1061	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2571.0
+235	Spectrogram 1	1	2577.0	2580.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1558	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2577.0
+236	Spectrogram 1	1	2580.0	2583.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8796	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2580.0
+237	Spectrogram 1	1	2589.0	2592.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9435	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2589.0
+238	Spectrogram 1	1	2592.0	2595.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6625	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2592.0
+239	Spectrogram 1	1	2598.0	2601.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5010	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2598.0
+240	Spectrogram 1	1	2598.0	2601.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1307	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2598.0
+241	Spectrogram 1	1	2601.0	2604.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8688	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2601.0
+242	Spectrogram 1	1	2610.0	2613.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9015	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2610.0
+243	Spectrogram 1	1	2616.0	2619.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1066	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2616.0
+244	Spectrogram 1	1	2619.0	2622.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1380	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2619.0
+245	Spectrogram 1	1	2622.0	2625.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5042	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2622.0
+246	Spectrogram 1	1	2622.0	2625.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.2710	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2622.0
+247	Spectrogram 1	1	2625.0	2628.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9178	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2625.0
+248	Spectrogram 1	1	2631.0	2634.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1398	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2631.0
+249	Spectrogram 1	1	2637.0	2640.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1600	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2637.0
+250	Spectrogram 1	1	2637.0	2640.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1006	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2637.0
+251	Spectrogram 1	1	2643.0	2646.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9425	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2643.0
+252	Spectrogram 1	1	2646.0	2649.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1488	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2646.0
+253	Spectrogram 1	1	2652.0	2655.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6404	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2652.0
+254	Spectrogram 1	1	2661.0	2664.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2940	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2661.0
+255	Spectrogram 1	1	2667.0	2670.0	0	12000.0	Hermit Thrush	herthr	0.1061	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2667.0
+256	Spectrogram 1	1	2673.0	2676.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8393	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2673.0
+257	Spectrogram 1	1	2676.0	2679.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1272	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2676.0
+258	Spectrogram 1	1	2685.0	2688.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8222	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2685.0
+259	Spectrogram 1	1	2694.0	2697.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7141	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2694.0
+260	Spectrogram 1	1	2697.0	2700.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1114	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2697.0
+261	Spectrogram 1	1	2703.0	2706.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9530	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2703.0
+262	Spectrogram 1	1	2706.0	2709.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1742	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2706.0
+263	Spectrogram 1	1	2718.0	2721.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8082	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2718.0
+264	Spectrogram 1	1	2721.0	2724.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1680	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2721.0
+265	Spectrogram 1	1	2745.0	2748.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4515	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2745.0
+266	Spectrogram 1	1	2748.0	2751.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1838	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2748.0
+267	Spectrogram 1	1	2751.0	2754.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1330	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2751.0
+268	Spectrogram 1	1	2754.0	2757.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8604	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2754.0
+269	Spectrogram 1	1	2760.0	2763.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3786	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2760.0
+270	Spectrogram 1	1	2763.0	2766.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5843	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2763.0
+271	Spectrogram 1	1	2766.0	2769.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8417	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2766.0
+272	Spectrogram 1	1	2769.0	2772.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.2306	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2769.0
+273	Spectrogram 1	1	2775.0	2778.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1012	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2775.0
+274	Spectrogram 1	1	2778.0	2781.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1094	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2778.0
+275	Spectrogram 1	1	2796.0	2799.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1005	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2796.0
+276	Spectrogram 1	1	2802.0	2805.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2553	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2802.0
+277	Spectrogram 1	1	2817.0	2820.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1346	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2817.0
+278	Spectrogram 1	1	2835.0	2838.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1134	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2835.0
+279	Spectrogram 1	1	2958.0	2961.0	0	12000.0	Swainson's Thrush	swathr	0.1286	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	2958.0
+280	Spectrogram 1	1	3243.0	3246.0	0	12000.0	Swainson's Thrush	swathr	0.2907	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	3243.0
+281	Spectrogram 1	1	3267.0	3270.0	0	12000.0	Swainson's Thrush	swathr	0.1029	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	3267.0
+282	Spectrogram 1	1	3273.0	3276.0	0	12000.0	Swainson's Thrush	swathr	0.4794	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	3273.0
+283	Spectrogram 1	1	3279.0	3282.0	0	12000.0	Swainson's Thrush	swathr	0.2772	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	3279.0
+284	Spectrogram 1	1	3294.0	3297.0	0	12000.0	Swainson's Thrush	swathr	0.1974	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	3294.0
+285	Spectrogram 1	1	3303.0	3306.0	0	12000.0	Swainson's Thrush	swathr	0.6692	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	3303.0
+286	Spectrogram 1	1	3309.0	3312.0	0	12000.0	Swainson's Thrush	swathr	0.6958	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	3309.0
+287	Spectrogram 1	1	3324.0	3327.0	0	12000.0	Swainson's Thrush	swathr	0.3144	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	3324.0
+288	Spectrogram 1	1	3333.0	3336.0	0	12000.0	Swainson's Thrush	swathr	0.7697	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	3333.0
+289	Spectrogram 1	1	3339.0	3342.0	0	12000.0	Swainson's Thrush	swathr	0.2144	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	3339.0
+290	Spectrogram 1	1	3348.0	3351.0	0	12000.0	Swainson's Thrush	swathr	0.2440	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	3348.0
+291	Spectrogram 1	1	3354.0	3357.0	0	12000.0	Swainson's Thrush	swathr	0.1521	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	3354.0
+292	Spectrogram 1	1	3357.0	3360.0	0	12000.0	Swainson's Thrush	swathr	0.2508	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	3357.0
+293	Spectrogram 1	1	3384.0	3387.0	0	12000.0	Swainson's Thrush	swathr	0.2615	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	3384.0
+294	Spectrogram 1	1	3435.0	3438.0	0	12000.0	Swainson's Thrush	swathr	0.2837	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	3435.0
+295	Spectrogram 1	1	3435.0	3438.0	0	12000.0	Hermit Thrush	herthr	0.1404	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	3435.0
+296	Spectrogram 1	1	3453.0	3456.0	0	12000.0	Swainson's Thrush	swathr	0.1933	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240603_194000.wav	3453.0

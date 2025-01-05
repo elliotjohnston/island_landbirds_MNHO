@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2814.0	2817.0	0	12000.0	Cedar Waxwing	cedwax	0.1497	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240910_050300.wav	2814.0
+2	Spectrogram 1	1	2817.0	2820.0	0	12000.0	Cedar Waxwing	cedwax	0.5651	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240910_050300.wav	2817.0
+3	Spectrogram 1	1	2832.0	2835.0	0	12000.0	Cedar Waxwing	cedwax	0.4569	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240910_050300.wav	2832.0

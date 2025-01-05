@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	585.0	588.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2485	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240826_184600.wav	585.0
+2	Spectrogram 1	1	735.0	738.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7246	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240826_184600.wav	735.0
+3	Spectrogram 1	1	771.0	774.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5425	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240826_184600.wav	771.0
+4	Spectrogram 1	1	891.0	894.0	0	12000.0	Common Raven	comrav	0.1253	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240826_184600.wav	891.0
+5	Spectrogram 1	1	1113.0	1116.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1969	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240826_184600.wav	1113.0
+6	Spectrogram 1	1	1116.0	1119.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2722	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240826_184600.wav	1116.0
+7	Spectrogram 1	1	1128.0	1131.0	0	12000.0	Brown Creeper	brncre	0.2157	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240826_184600.wav	1128.0
+8	Spectrogram 1	1	1134.0	1137.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1054	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240826_184600.wav	1134.0
+9	Spectrogram 1	1	2691.0	2694.0	0	12000.0	Hermit Thrush	herthr	0.1087	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240826_184600.wav	2691.0
+10	Spectrogram 1	1	3093.0	3096.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.1128	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240826_184600.wav	3093.0

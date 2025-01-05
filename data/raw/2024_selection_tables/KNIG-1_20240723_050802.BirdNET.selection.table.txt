@@ -1,0 +1,45 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	6.0	9.0	0	12000.0	Winter Wren	winwre3	0.9921	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	6.0
+2	Spectrogram 1	1	9.0	12.0	0	12000.0	Winter Wren	winwre3	0.9217	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	9.0
+3	Spectrogram 1	1	57.0	60.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5925	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	57.0
+4	Spectrogram 1	1	885.0	888.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1270	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	885.0
+5	Spectrogram 1	1	903.0	906.0	0	12000.0	Yellow-bellied Sapsucker	yebsap	0.1180	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	903.0
+6	Spectrogram 1	1	966.0	969.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2878	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	966.0
+7	Spectrogram 1	1	984.0	987.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1234	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	984.0
+8	Spectrogram 1	1	1020.0	1023.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2039	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	1020.0
+9	Spectrogram 1	1	1038.0	1041.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4916	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	1038.0
+10	Spectrogram 1	1	1062.0	1065.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3302	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	1062.0
+11	Spectrogram 1	1	1080.0	1083.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3087	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	1080.0
+12	Spectrogram 1	1	1083.0	1086.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2997	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	1083.0
+13	Spectrogram 1	1	1101.0	1104.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3984	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	1101.0
+14	Spectrogram 1	1	1113.0	1116.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.3430	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	1113.0
+15	Spectrogram 1	1	1122.0	1125.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1777	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	1122.0
+16	Spectrogram 1	1	1143.0	1146.0	0	12000.0	Cedar Waxwing	cedwax	0.5110	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	1143.0
+17	Spectrogram 1	1	1170.0	1173.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2295	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	1170.0
+18	Spectrogram 1	1	1209.0	1212.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1475	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	1209.0
+19	Spectrogram 1	1	1227.0	1230.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2119	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	1227.0
+20	Spectrogram 1	1	1275.0	1278.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2669	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	1275.0
+21	Spectrogram 1	1	1278.0	1281.0	0	12000.0	Magnolia Warbler	magwar	0.1277	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	1278.0
+22	Spectrogram 1	1	1332.0	1335.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.8557	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	1332.0
+23	Spectrogram 1	1	1335.0	1338.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.8719	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	1335.0
+24	Spectrogram 1	1	1536.0	1539.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.2402	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	1536.0
+25	Spectrogram 1	1	1539.0	1542.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.1474	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	1539.0
+26	Spectrogram 1	1	1794.0	1797.0	0	12000.0	Cedar Waxwing	cedwax	0.4561	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	1794.0
+27	Spectrogram 1	1	2055.0	2058.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1134	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	2055.0
+28	Spectrogram 1	1	2169.0	2172.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1110	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	2169.0
+29	Spectrogram 1	1	2259.0	2262.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1665	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	2259.0
+30	Spectrogram 1	1	2322.0	2325.0	0	12000.0	Dark-eyed Junco	daejun	0.1173	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	2322.0
+31	Spectrogram 1	1	2331.0	2334.0	0	12000.0	Dark-eyed Junco	daejun	0.1831	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	2331.0
+32	Spectrogram 1	1	2343.0	2346.0	0	12000.0	Dark-eyed Junco	daejun	0.1014	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	2343.0
+33	Spectrogram 1	1	2433.0	2436.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3033	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	2433.0
+34	Spectrogram 1	1	2514.0	2517.0	0	12000.0	Dark-eyed Junco	daejun	0.1136	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	2514.0
+35	Spectrogram 1	1	2685.0	2688.0	0	12000.0	Nashville Warbler	naswar	0.1299	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	2685.0
+36	Spectrogram 1	1	2826.0	2829.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2111	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	2826.0
+37	Spectrogram 1	1	2853.0	2856.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5200	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	2853.0
+38	Spectrogram 1	1	2868.0	2871.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6703	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	2868.0
+39	Spectrogram 1	1	2883.0	2886.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4712	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	2883.0
+40	Spectrogram 1	1	2901.0	2904.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1644	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	2901.0
+41	Spectrogram 1	1	2904.0	2907.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5458	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	2904.0
+42	Spectrogram 1	1	2910.0	2913.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1108	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	2910.0
+43	Spectrogram 1	1	2919.0	2922.0	0	12000.0	Northern Waterthrush	norwat	0.1749	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	2919.0
+44	Spectrogram 1	1	3249.0	3252.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1273	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240723_050802.wav	3249.0

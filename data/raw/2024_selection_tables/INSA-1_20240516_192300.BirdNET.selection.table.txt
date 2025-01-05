@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	717.0	720.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3260	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240516_192300.wav	717.0
+2	Spectrogram 1	1	1023.0	1026.0	0	12000.0	American Crow	amecro	0.1422	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240516_192300.wav	1023.0
+3	Spectrogram 1	1	1104.0	1107.0	0	12000.0	American Crow	amecro	0.2495	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240516_192300.wav	1104.0
+4	Spectrogram 1	1	2292.0	2295.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1210	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240516_192300.wav	2292.0

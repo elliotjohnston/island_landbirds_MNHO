@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	120.0	123.0	0	12000.0	Mourning Dove	moudov	0.1127	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240903_183100.wav	120.0
+2	Spectrogram 1	1	525.0	528.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2166	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240903_183100.wav	525.0
+3	Spectrogram 1	1	783.0	786.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1128	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240903_183100.wav	783.0
+4	Spectrogram 1	1	825.0	828.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2709	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240903_183100.wav	825.0
+5	Spectrogram 1	1	840.0	843.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1077	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240903_183100.wav	840.0
+6	Spectrogram 1	1	858.0	861.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3954	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240903_183100.wav	858.0

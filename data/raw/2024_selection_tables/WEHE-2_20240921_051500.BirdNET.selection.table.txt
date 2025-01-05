@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	12.0	15.0	0	12000.0	Dark-eyed Junco	daejun	0.1174	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240921_051500.wav	12.0
+2	Spectrogram 1	1	1206.0	1209.0	0	12000.0	Mourning Dove	moudov	0.3949	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240921_051500.wav	1206.0
+3	Spectrogram 1	1	1470.0	1473.0	0	12000.0	Winter Wren	winwre3	0.1288	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240921_051500.wav	1470.0
+4	Spectrogram 1	1	1854.0	1857.0	0	12000.0	Hermit Thrush	herthr	0.3826	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240921_051500.wav	1854.0
+5	Spectrogram 1	1	1872.0	1875.0	0	12000.0	Hermit Thrush	herthr	0.1458	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240921_051500.wav	1872.0
+6	Spectrogram 1	1	1932.0	1935.0	0	12000.0	Hermit Thrush	herthr	0.1744	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240921_051500.wav	1932.0
+7	Spectrogram 1	1	2169.0	2172.0	0	12000.0	Hermit Thrush	herthr	0.7273	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240921_051500.wav	2169.0
+8	Spectrogram 1	1	2172.0	2175.0	0	12000.0	Hermit Thrush	herthr	0.6035	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240921_051500.wav	2172.0
+9	Spectrogram 1	1	2175.0	2178.0	0	12000.0	Hermit Thrush	herthr	0.7227	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240921_051500.wav	2175.0
+10	Spectrogram 1	1	2232.0	2235.0	0	12000.0	Evening Grosbeak	evegro	0.4059	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240921_051500.wav	2232.0
+11	Spectrogram 1	1	2370.0	2373.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1476	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240921_051500.wav	2370.0
+12	Spectrogram 1	1	2403.0	2406.0	0	12000.0	Mourning Dove	moudov	0.1916	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240921_051500.wav	2403.0
+13	Spectrogram 1	1	2580.0	2583.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1077	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240921_051500.wav	2580.0
+14	Spectrogram 1	1	2949.0	2952.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2179	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240921_051500.wav	2949.0
+15	Spectrogram 1	1	3255.0	3258.0	0	12000.0	Dark-eyed Junco	daejun	0.1498	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240921_051500.wav	3255.0
+16	Spectrogram 1	1	3477.0	3480.0	0	12000.0	Cedar Waxwing	cedwax	0.1184	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240921_051500.wav	3477.0
+17	Spectrogram 1	1	3480.0	3483.0	0	12000.0	Cedar Waxwing	cedwax	0.4028	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240921_051500.wav	3480.0
+18	Spectrogram 1	1	3492.0	3495.0	0	12000.0	Mourning Dove	moudov	0.2378	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240921_051500.wav	3492.0
+19	Spectrogram 1	1	3528.0	3531.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4253	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240921_051500.wav	3528.0
+20	Spectrogram 1	1	3540.0	3543.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2149	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240921_051500.wav	3540.0
+21	Spectrogram 1	1	3546.0	3549.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1018	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240921_051500.wav	3546.0
+22	Spectrogram 1	1	3549.0	3552.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6570	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240921_051500.wav	3549.0
+23	Spectrogram 1	1	3552.0	3555.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.7454	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240921_051500.wav	3552.0
+24	Spectrogram 1	1	3555.0	3558.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4520	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240921_051500.wav	3555.0
+25	Spectrogram 1	1	3558.0	3561.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1616	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240921_051500.wav	3558.0
+26	Spectrogram 1	1	3561.0	3564.0	0	12000.0	Nashville Warbler	naswar	0.1131	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240921_051500.wav	3561.0

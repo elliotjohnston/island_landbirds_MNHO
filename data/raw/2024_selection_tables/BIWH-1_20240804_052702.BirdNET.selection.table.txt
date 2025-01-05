@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2724.0	2727.0	0	12000.0	Black-billed Cuckoo	bkbcuc	0.6971	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240804_052702.wav	2724.0
+2	Spectrogram 1	1	2781.0	2784.0	0	12000.0	American Crow	amecro	0.1892	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240804_052702.wav	2781.0
+3	Spectrogram 1	1	2802.0	2805.0	0	12000.0	American Crow	amecro	0.1445	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240804_052702.wav	2802.0
+4	Spectrogram 1	1	2871.0	2874.0	0	12000.0	American Crow	amecro	0.2528	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240804_052702.wav	2871.0
+5	Spectrogram 1	1	2952.0	2955.0	0	12000.0	American Crow	amecro	0.1794	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240804_052702.wav	2952.0
+6	Spectrogram 1	1	3006.0	3009.0	0	12000.0	American Crow	amecro	0.2836	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240804_052702.wav	3006.0
+7	Spectrogram 1	1	3270.0	3273.0	0	12000.0	Northern Flicker	norfli	0.1597	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240804_052702.wav	3270.0
+8	Spectrogram 1	1	3285.0	3288.0	0	12000.0	Northern Flicker	norfli	0.3796	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240804_052702.wav	3285.0
+9	Spectrogram 1	1	3297.0	3300.0	0	12000.0	Northern Flicker	norfli	0.3926	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240804_052702.wav	3297.0
+10	Spectrogram 1	1	3321.0	3324.0	0	12000.0	Northern Flicker	norfli	0.9035	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240804_052702.wav	3321.0
+11	Spectrogram 1	1	3324.0	3327.0	0	12000.0	Northern Flicker	norfli	0.8929	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240804_052702.wav	3324.0
+12	Spectrogram 1	1	3327.0	3330.0	0	12000.0	Northern Flicker	norfli	0.8878	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240804_052702.wav	3327.0
+13	Spectrogram 1	1	3330.0	3333.0	0	12000.0	Northern Flicker	norfli	0.7635	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240804_052702.wav	3330.0
+14	Spectrogram 1	1	3336.0	3339.0	0	12000.0	Northern Flicker	norfli	0.9495	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240804_052702.wav	3336.0
+15	Spectrogram 1	1	3342.0	3345.0	0	12000.0	Northern Flicker	norfli	0.9197	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240804_052702.wav	3342.0
+16	Spectrogram 1	1	3351.0	3354.0	0	12000.0	Northern Flicker	norfli	0.8508	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240804_052702.wav	3351.0
+17	Spectrogram 1	1	3360.0	3363.0	0	12000.0	Northern Flicker	norfli	0.6399	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240804_052702.wav	3360.0

@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	6.0	9.0	0	12000.0	American Crow	amecro	0.2345	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240820_054002.wav	6.0
+2	Spectrogram 1	1	411.0	414.0	0	12000.0	American Crow	amecro	0.1338	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240820_054002.wav	411.0
+3	Spectrogram 1	1	2337.0	2340.0	0	12000.0	Wilson's Warbler	wlswar	0.1006	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240820_054002.wav	2337.0
+4	Spectrogram 1	1	2340.0	2343.0	0	12000.0	Magnolia Warbler	magwar	0.6190	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240820_054002.wav	2340.0
+5	Spectrogram 1	1	2343.0	2346.0	0	12000.0	Magnolia Warbler	magwar	0.4359	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240820_054002.wav	2343.0
+6	Spectrogram 1	1	2352.0	2355.0	0	12000.0	Magnolia Warbler	magwar	0.6946	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240820_054002.wav	2352.0
+7	Spectrogram 1	1	2355.0	2358.0	0	12000.0	Magnolia Warbler	magwar	0.7542	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240820_054002.wav	2355.0
+8	Spectrogram 1	1	2388.0	2391.0	0	12000.0	Magnolia Warbler	magwar	0.3091	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240820_054002.wav	2388.0

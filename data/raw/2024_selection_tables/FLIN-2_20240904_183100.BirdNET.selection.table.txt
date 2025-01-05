@@ -1,0 +1,3 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	999.0	1002.0	0	12000.0	Blue Jay	blujay	0.1048	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240904_183100.wav	999.0
+2	Spectrogram 1	1	1383.0	1386.0	0	12000.0	Dark-eyed Junco	daejun	0.1085	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240904_183100.wav	1383.0

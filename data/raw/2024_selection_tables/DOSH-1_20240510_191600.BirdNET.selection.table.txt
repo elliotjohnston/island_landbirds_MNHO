@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	426.0	429.0	0	12000.0	Downy Woodpecker	dowwoo	0.3984	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240510_191600.wav	426.0
+2	Spectrogram 1	1	456.0	459.0	0	12000.0	Common Raven	comrav	0.1637	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240510_191600.wav	456.0
+3	Spectrogram 1	1	489.0	492.0	0	12000.0	Common Raven	comrav	0.2989	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240510_191600.wav	489.0
+4	Spectrogram 1	1	1926.0	1929.0	0	12000.0	Winter Wren	winwre3	0.3857	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240510_191600.wav	1926.0

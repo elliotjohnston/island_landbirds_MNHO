@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1278.0	1281.0	0	12000.0	American Crow	amecro	0.1717	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240615_045002.wav	1278.0
+2	Spectrogram 1	1	1587.0	1590.0	0	12000.0	Yellow-throated Vireo	yetvir	0.1526	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240615_045002.wav	1587.0
+3	Spectrogram 1	1	1686.0	1689.0	0	12000.0	Hermit Thrush	herthr	0.2394	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240615_045002.wav	1686.0
+4	Spectrogram 1	1	2367.0	2370.0	0	12000.0	Brown Creeper	brncre	0.1041	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240615_045002.wav	2367.0
+5	Spectrogram 1	1	2466.0	2469.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2546	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240615_045002.wav	2466.0

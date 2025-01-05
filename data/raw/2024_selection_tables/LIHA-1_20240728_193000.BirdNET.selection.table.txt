@@ -1,0 +1,123 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	465.0	468.0	0	12000.0	Common Raven	comrav	0.3108	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	465.0
+2	Spectrogram 1	1	600.0	603.0	0	12000.0	Scarlet Tanager	scatan	0.2480	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	600.0
+3	Spectrogram 1	1	603.0	606.0	0	12000.0	American Crow	amecro	0.2809	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	603.0
+4	Spectrogram 1	1	657.0	660.0	0	12000.0	Mourning Warbler	mouwar	0.1202	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	657.0
+5	Spectrogram 1	1	657.0	660.0	0	12000.0	Ovenbird	ovenbi1	0.1101	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	657.0
+6	Spectrogram 1	1	678.0	681.0	0	12000.0	Yellow-bellied Sapsucker	yebsap	0.1066	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	678.0
+7	Spectrogram 1	1	684.0	687.0	0	12000.0	American Crow	amecro	0.1269	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	684.0
+8	Spectrogram 1	1	708.0	711.0	0	12000.0	Canada Jay	gryjay	0.1139	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	708.0
+9	Spectrogram 1	1	753.0	756.0	0	12000.0	Olive-sided Flycatcher	olsfly	0.1588	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	753.0
+10	Spectrogram 1	1	765.0	768.0	0	12000.0	American Crow	amecro	0.1401	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	765.0
+11	Spectrogram 1	1	810.0	813.0	0	12000.0	Common Raven	comrav	0.2076	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	810.0
+12	Spectrogram 1	1	1206.0	1209.0	0	12000.0	Olive-sided Flycatcher	olsfly	0.1258	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1206.0
+13	Spectrogram 1	1	1257.0	1260.0	0	12000.0	Scarlet Tanager	scatan	0.1605	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1257.0
+14	Spectrogram 1	1	1299.0	1302.0	0	12000.0	Scarlet Tanager	scatan	0.2465	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1299.0
+15	Spectrogram 1	1	1371.0	1374.0	0	12000.0	Black-and-white Warbler	bawwar	0.3193	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1371.0
+16	Spectrogram 1	1	1461.0	1464.0	0	12000.0	White-throated Sparrow	whtspa	0.1337	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1461.0
+17	Spectrogram 1	1	1473.0	1476.0	0	12000.0	Swainson's Thrush	swathr	0.2029	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1473.0
+18	Spectrogram 1	1	1482.0	1485.0	0	12000.0	Swainson's Thrush	swathr	0.2147	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1482.0
+19	Spectrogram 1	1	1485.0	1488.0	0	12000.0	Swainson's Thrush	swathr	0.1617	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1485.0
+20	Spectrogram 1	1	1500.0	1503.0	0	12000.0	Olive-sided Flycatcher	olsfly	0.2726	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1500.0
+21	Spectrogram 1	1	1506.0	1509.0	0	12000.0	Swainson's Thrush	swathr	0.1690	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1506.0
+22	Spectrogram 1	1	1506.0	1509.0	0	12000.0	Olive-sided Flycatcher	olsfly	0.1676	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1506.0
+23	Spectrogram 1	1	1509.0	1512.0	0	12000.0	Swainson's Thrush	swathr	0.1501	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1509.0
+24	Spectrogram 1	1	1515.0	1518.0	0	12000.0	Swainson's Thrush	swathr	0.1688	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1515.0
+25	Spectrogram 1	1	1518.0	1521.0	0	12000.0	Swainson's Thrush	swathr	0.1775	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1518.0
+26	Spectrogram 1	1	1521.0	1524.0	0	12000.0	Swainson's Thrush	swathr	0.4202	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1521.0
+27	Spectrogram 1	1	1524.0	1527.0	0	12000.0	Swainson's Thrush	swathr	0.3345	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1524.0
+28	Spectrogram 1	1	1527.0	1530.0	0	12000.0	Swainson's Thrush	swathr	0.6214	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1527.0
+29	Spectrogram 1	1	1587.0	1590.0	0	12000.0	White-throated Sparrow	whtspa	0.1543	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1587.0
+30	Spectrogram 1	1	1617.0	1620.0	0	12000.0	Evening Grosbeak	evegro	0.2740	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1617.0
+31	Spectrogram 1	1	1617.0	1620.0	0	12000.0	Scarlet Tanager	scatan	0.1216	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1617.0
+32	Spectrogram 1	1	1629.0	1632.0	0	12000.0	Scarlet Tanager	scatan	0.1338	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1629.0
+33	Spectrogram 1	1	1641.0	1644.0	0	12000.0	Scarlet Tanager	scatan	0.3201	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1641.0
+34	Spectrogram 1	1	1641.0	1644.0	0	12000.0	Veery	veery	0.1309	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1641.0
+35	Spectrogram 1	1	1704.0	1707.0	0	12000.0	Common Nighthawk	comnig	0.1598	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1704.0
+36	Spectrogram 1	1	1713.0	1716.0	0	12000.0	Song Sparrow	sonspa	0.2050	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1713.0
+37	Spectrogram 1	1	1719.0	1722.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1057	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1719.0
+38	Spectrogram 1	1	1749.0	1752.0	0	12000.0	Song Sparrow	sonspa	0.2340	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1749.0
+39	Spectrogram 1	1	1752.0	1755.0	0	12000.0	Winter Wren	winwre3	0.1831	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1752.0
+40	Spectrogram 1	1	1752.0	1755.0	0	12000.0	Song Sparrow	sonspa	0.1405	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1752.0
+41	Spectrogram 1	1	1779.0	1782.0	0	12000.0	White-throated Sparrow	whtspa	0.1114	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1779.0
+42	Spectrogram 1	1	1806.0	1809.0	0	12000.0	White-throated Sparrow	whtspa	0.2969	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1806.0
+43	Spectrogram 1	1	1815.0	1818.0	0	12000.0	Song Sparrow	sonspa	0.1224	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1815.0
+44	Spectrogram 1	1	1899.0	1902.0	0	12000.0	Song Sparrow	sonspa	0.7067	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1899.0
+45	Spectrogram 1	1	1908.0	1911.0	0	12000.0	Song Sparrow	sonspa	0.2903	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1908.0
+46	Spectrogram 1	1	1908.0	1911.0	0	12000.0	Winter Wren	winwre3	0.1005	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1908.0
+47	Spectrogram 1	1	1926.0	1929.0	0	12000.0	Brown Creeper	brncre	0.1041	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1926.0
+48	Spectrogram 1	1	1968.0	1971.0	0	12000.0	Song Sparrow	sonspa	0.2129	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1968.0
+49	Spectrogram 1	1	1980.0	1983.0	0	12000.0	Song Sparrow	sonspa	0.5080	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1980.0
+50	Spectrogram 1	1	1986.0	1989.0	0	12000.0	Winter Wren	winwre3	0.4429	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1986.0
+51	Spectrogram 1	1	1989.0	1992.0	0	12000.0	Winter Wren	winwre3	0.2306	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1989.0
+52	Spectrogram 1	1	1992.0	1995.0	0	12000.0	Winter Wren	winwre3	0.3900	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	1992.0
+53	Spectrogram 1	1	2061.0	2064.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1832	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2061.0
+54	Spectrogram 1	1	2088.0	2091.0	0	12000.0	Song Sparrow	sonspa	0.2045	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2088.0
+55	Spectrogram 1	1	2094.0	2097.0	0	12000.0	Song Sparrow	sonspa	0.2900	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2094.0
+56	Spectrogram 1	1	2100.0	2103.0	0	12000.0	Winter Wren	winwre3	0.1835	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2100.0
+57	Spectrogram 1	1	2109.0	2112.0	0	12000.0	White-throated Sparrow	whtspa	0.1805	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2109.0
+58	Spectrogram 1	1	2130.0	2133.0	0	12000.0	Winter Wren	winwre3	0.2165	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2130.0
+59	Spectrogram 1	1	2136.0	2139.0	0	12000.0	White-throated Sparrow	whtspa	0.1588	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2136.0
+60	Spectrogram 1	1	2136.0	2139.0	0	12000.0	Song Sparrow	sonspa	0.1036	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2136.0
+61	Spectrogram 1	1	2196.0	2199.0	0	12000.0	Song Sparrow	sonspa	0.4318	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2196.0
+62	Spectrogram 1	1	2316.0	2319.0	0	12000.0	Brown Creeper	brncre	0.1550	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2316.0
+63	Spectrogram 1	1	2391.0	2394.0	0	12000.0	Song Sparrow	sonspa	0.5731	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2391.0
+64	Spectrogram 1	1	2415.0	2418.0	0	12000.0	Common Raven	comrav	0.1356	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2415.0
+65	Spectrogram 1	1	2451.0	2454.0	0	12000.0	Song Sparrow	sonspa	0.1382	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2451.0
+66	Spectrogram 1	1	2454.0	2457.0	0	12000.0	Bobolink	boboli	0.1485	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2454.0
+67	Spectrogram 1	1	2454.0	2457.0	0	12000.0	Song Sparrow	sonspa	0.1324	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2454.0
+68	Spectrogram 1	1	2457.0	2460.0	0	12000.0	Bobolink	boboli	0.7827	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2457.0
+69	Spectrogram 1	1	2460.0	2463.0	0	12000.0	Bobolink	boboli	0.3189	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2460.0
+70	Spectrogram 1	1	2469.0	2472.0	0	12000.0	Song Sparrow	sonspa	0.2641	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2469.0
+71	Spectrogram 1	1	2475.0	2478.0	0	12000.0	Song Sparrow	sonspa	0.1588	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2475.0
+72	Spectrogram 1	1	2478.0	2481.0	0	12000.0	Song Sparrow	sonspa	0.5213	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2478.0
+73	Spectrogram 1	1	2487.0	2490.0	0	12000.0	Song Sparrow	sonspa	0.2312	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2487.0
+74	Spectrogram 1	1	2496.0	2499.0	0	12000.0	Bobolink	boboli	0.4903	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2496.0
+75	Spectrogram 1	1	2514.0	2517.0	0	12000.0	Canada Jay	gryjay	0.2420	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2514.0
+76	Spectrogram 1	1	2523.0	2526.0	0	12000.0	Song Sparrow	sonspa	0.1148	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2523.0
+77	Spectrogram 1	1	2535.0	2538.0	0	12000.0	Scarlet Tanager	scatan	0.1323	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2535.0
+78	Spectrogram 1	1	2592.0	2595.0	0	12000.0	Bobolink	boboli	0.3115	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2592.0
+79	Spectrogram 1	1	2604.0	2607.0	0	12000.0	Bobolink	boboli	0.1033	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2604.0
+80	Spectrogram 1	1	2634.0	2637.0	0	12000.0	Bobolink	boboli	0.1707	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2634.0
+81	Spectrogram 1	1	2655.0	2658.0	0	12000.0	Bobolink	boboli	0.1241	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2655.0
+82	Spectrogram 1	1	2661.0	2664.0	0	12000.0	Bobolink	boboli	0.2378	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2661.0
+83	Spectrogram 1	1	2661.0	2664.0	0	12000.0	Orchard Oriole	orcori	0.1190	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2661.0
+84	Spectrogram 1	1	2685.0	2688.0	0	12000.0	Rusty Blackbird	rusbla	0.2377	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2685.0
+85	Spectrogram 1	1	2685.0	2688.0	0	12000.0	Bobolink	boboli	0.1614	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2685.0
+86	Spectrogram 1	1	2781.0	2784.0	0	12000.0	Swainson's Thrush	swathr	0.2700	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2781.0
+87	Spectrogram 1	1	2787.0	2790.0	0	12000.0	Swainson's Thrush	swathr	0.6192	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2787.0
+88	Spectrogram 1	1	2790.0	2793.0	0	12000.0	Swainson's Thrush	swathr	0.5015	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2790.0
+89	Spectrogram 1	1	2793.0	2796.0	0	12000.0	Bobolink	boboli	0.6628	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2793.0
+90	Spectrogram 1	1	2796.0	2799.0	0	12000.0	Swainson's Thrush	swathr	0.2674	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2796.0
+91	Spectrogram 1	1	2799.0	2802.0	0	12000.0	Swainson's Thrush	swathr	0.6373	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2799.0
+92	Spectrogram 1	1	2802.0	2805.0	0	12000.0	Swainson's Thrush	swathr	0.1986	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2802.0
+93	Spectrogram 1	1	2805.0	2808.0	0	12000.0	Swainson's Thrush	swathr	0.1049	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2805.0
+94	Spectrogram 1	1	2808.0	2811.0	0	12000.0	Swainson's Thrush	swathr	0.8371	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2808.0
+95	Spectrogram 1	1	2820.0	2823.0	0	12000.0	Swainson's Thrush	swathr	0.8593	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2820.0
+96	Spectrogram 1	1	2838.0	2841.0	0	12000.0	Great Crested Flycatcher	grcfly	0.1393	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2838.0
+97	Spectrogram 1	1	2943.0	2946.0	0	12000.0	Common Raven	comrav	0.1277	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2943.0
+98	Spectrogram 1	1	2961.0	2964.0	0	12000.0	Yellow-billed Cuckoo	yebcuc	0.1402	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2961.0
+99	Spectrogram 1	1	2997.0	3000.0	0	12000.0	Swainson's Thrush	swathr	0.1467	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	2997.0
+100	Spectrogram 1	1	3024.0	3027.0	0	12000.0	Barn Swallow	barswa	0.4782	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	3024.0
+101	Spectrogram 1	1	3051.0	3054.0	0	12000.0	Swainson's Thrush	swathr	0.5492	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	3051.0
+102	Spectrogram 1	1	3075.0	3078.0	0	12000.0	Swainson's Thrush	swathr	0.2687	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	3075.0
+103	Spectrogram 1	1	3078.0	3081.0	0	12000.0	Swainson's Thrush	swathr	0.1506	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	3078.0
+104	Spectrogram 1	1	3081.0	3084.0	0	12000.0	Swainson's Thrush	swathr	0.2046	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	3081.0
+105	Spectrogram 1	1	3141.0	3144.0	0	12000.0	Swainson's Thrush	swathr	0.1822	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	3141.0
+106	Spectrogram 1	1	3144.0	3147.0	0	12000.0	Swainson's Thrush	swathr	0.3743	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	3144.0
+107	Spectrogram 1	1	3147.0	3150.0	0	12000.0	Swainson's Thrush	swathr	0.2042	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	3147.0
+108	Spectrogram 1	1	3150.0	3153.0	0	12000.0	Swainson's Thrush	swathr	0.1703	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	3150.0
+109	Spectrogram 1	1	3156.0	3159.0	0	12000.0	Swainson's Thrush	swathr	0.3880	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	3156.0
+110	Spectrogram 1	1	3165.0	3168.0	0	12000.0	Swainson's Thrush	swathr	0.1500	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	3165.0
+111	Spectrogram 1	1	3168.0	3171.0	0	12000.0	Swainson's Thrush	swathr	0.4844	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	3168.0
+112	Spectrogram 1	1	3177.0	3180.0	0	12000.0	Swainson's Thrush	swathr	0.4253	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	3177.0
+113	Spectrogram 1	1	3180.0	3183.0	0	12000.0	Swainson's Thrush	swathr	0.7968	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	3180.0
+114	Spectrogram 1	1	3183.0	3186.0	0	12000.0	Swainson's Thrush	swathr	0.9951	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	3183.0
+115	Spectrogram 1	1	3186.0	3189.0	0	12000.0	Swainson's Thrush	swathr	0.9468	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	3186.0
+116	Spectrogram 1	1	3192.0	3195.0	0	12000.0	Swainson's Thrush	swathr	0.8443	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	3192.0
+117	Spectrogram 1	1	3195.0	3198.0	0	12000.0	Swainson's Thrush	swathr	0.9902	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	3195.0
+118	Spectrogram 1	1	3198.0	3201.0	0	12000.0	Swainson's Thrush	swathr	0.9343	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	3198.0
+119	Spectrogram 1	1	3201.0	3204.0	0	12000.0	Swainson's Thrush	swathr	0.6448	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	3201.0
+120	Spectrogram 1	1	3207.0	3210.0	0	12000.0	Swainson's Thrush	swathr	0.1068	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	3207.0
+121	Spectrogram 1	1	3330.0	3333.0	0	12000.0	Olive-sided Flycatcher	olsfly	0.4390	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	3330.0
+122	Spectrogram 1	1	3486.0	3489.0	0	12000.0	Olive-sided Flycatcher	olsfly	0.1195	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240728_193000.wav	3486.0

@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	363.0	366.0	0	12000.0	American Crow	amecro	0.1899	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240802_192300.wav	363.0
+2	Spectrogram 1	1	456.0	459.0	0	12000.0	American Crow	amecro	0.8473	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240802_192300.wav	456.0
+3	Spectrogram 1	1	468.0	471.0	0	12000.0	American Crow	amecro	0.9754	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240802_192300.wav	468.0
+4	Spectrogram 1	1	471.0	474.0	0	12000.0	American Crow	amecro	0.6562	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240802_192300.wav	471.0
+5	Spectrogram 1	1	474.0	477.0	0	12000.0	American Crow	amecro	0.5196	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240802_192300.wav	474.0
+6	Spectrogram 1	1	513.0	516.0	0	12000.0	American Crow	amecro	0.1094	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240802_192300.wav	513.0
+7	Spectrogram 1	1	588.0	591.0	0	12000.0	American Crow	amecro	0.1066	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240802_192300.wav	588.0
+8	Spectrogram 1	1	1107.0	1110.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1859	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240802_192300.wav	1107.0
+9	Spectrogram 1	1	1125.0	1128.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2131	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240802_192300.wav	1125.0
+10	Spectrogram 1	1	1143.0	1146.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1046	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240802_192300.wav	1143.0
+11	Spectrogram 1	1	1194.0	1197.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4388	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240802_192300.wav	1194.0
+12	Spectrogram 1	1	1197.0	1200.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2403	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240802_192300.wav	1197.0
+13	Spectrogram 1	1	1236.0	1239.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1316	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240802_192300.wav	1236.0
+14	Spectrogram 1	1	1239.0	1242.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1025	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240802_192300.wav	1239.0
+15	Spectrogram 1	1	1287.0	1290.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1344	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240802_192300.wav	1287.0

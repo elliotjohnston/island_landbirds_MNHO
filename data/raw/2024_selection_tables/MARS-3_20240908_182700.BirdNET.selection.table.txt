@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	264.0	267.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5045	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240908_182700.wav	264.0
+2	Spectrogram 1	1	267.0	270.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5067	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240908_182700.wav	267.0
+3	Spectrogram 1	1	1410.0	1413.0	0	12000.0	American Crow	amecro	0.1097	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240908_182700.wav	1410.0
+4	Spectrogram 1	1	2145.0	2148.0	0	12000.0	Dark-eyed Junco	daejun	0.2452	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240908_182700.wav	2145.0

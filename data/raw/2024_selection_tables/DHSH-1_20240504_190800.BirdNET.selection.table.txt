@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	699.0	702.0	0	12000.0	White-throated Sparrow	whtspa	0.1449	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240504_190800.wav	699.0
+2	Spectrogram 1	1	720.0	723.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.7031	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240504_190800.wav	720.0
+3	Spectrogram 1	1	735.0	738.0	0	12000.0	Common Raven	comrav	0.1333	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240504_190800.wav	735.0
+4	Spectrogram 1	1	2205.0	2208.0	0	12000.0	White-throated Sparrow	whtspa	0.1260	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240504_190800.wav	2205.0
+5	Spectrogram 1	1	2436.0	2439.0	0	12000.0	White-winged Crossbill	whwcro	0.1081	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240504_190800.wav	2436.0
+6	Spectrogram 1	1	2448.0	2451.0	0	12000.0	Winter Wren	winwre3	0.8193	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240504_190800.wav	2448.0

@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2655.0	2658.0	0	12000.0	Dark-eyed Junco	daejun	0.2278	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240813_042900.wav	2655.0
+2	Spectrogram 1	1	2712.0	2715.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4206	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240813_042900.wav	2712.0
+3	Spectrogram 1	1	2712.0	2715.0	0	12000.0	Brown Creeper	brncre	0.1076	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240813_042900.wav	2712.0
+4	Spectrogram 1	1	2772.0	2775.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1712	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240813_042900.wav	2772.0
+5	Spectrogram 1	1	2778.0	2781.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1026	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240813_042900.wav	2778.0
+6	Spectrogram 1	1	2784.0	2787.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1457	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240813_042900.wav	2784.0
+7	Spectrogram 1	1	2793.0	2796.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4804	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240813_042900.wav	2793.0
+8	Spectrogram 1	1	2793.0	2796.0	0	12000.0	Brown Creeper	brncre	0.1779	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240813_042900.wav	2793.0
+9	Spectrogram 1	1	2931.0	2934.0	0	12000.0	Black-and-white Warbler	bawwar	0.2280	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240813_042900.wav	2931.0
+10	Spectrogram 1	1	2949.0	2952.0	0	12000.0	Cedar Waxwing	cedwax	0.8799	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240813_042900.wav	2949.0
+11	Spectrogram 1	1	2952.0	2955.0	0	12000.0	Cedar Waxwing	cedwax	0.2047	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240813_042900.wav	2952.0
+12	Spectrogram 1	1	2955.0	2958.0	0	12000.0	Cedar Waxwing	cedwax	0.1028	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240813_042900.wav	2955.0
+13	Spectrogram 1	1	2964.0	2967.0	0	12000.0	Cedar Waxwing	cedwax	0.1369	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240813_042900.wav	2964.0
+14	Spectrogram 1	1	2970.0	2973.0	0	12000.0	Cedar Waxwing	cedwax	0.4859	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240813_042900.wav	2970.0
+15	Spectrogram 1	1	2976.0	2979.0	0	12000.0	Cedar Waxwing	cedwax	0.5620	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240813_042900.wav	2976.0
+16	Spectrogram 1	1	3198.0	3201.0	0	12000.0	Evening Grosbeak	evegro	0.2076	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240813_042900.wav	3198.0
+17	Spectrogram 1	1	3345.0	3348.0	0	12000.0	Cedar Waxwing	cedwax	0.8779	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240813_042900.wav	3345.0
+18	Spectrogram 1	1	3348.0	3351.0	0	12000.0	Cedar Waxwing	cedwax	0.3892	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240813_042900.wav	3348.0
+19	Spectrogram 1	1	3441.0	3444.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1830	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240813_042900.wav	3441.0
+20	Spectrogram 1	1	3576.0	3579.0	0	12000.0	Cedar Waxwing	cedwax	0.3727	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240813_042900.wav	3576.0
+21	Spectrogram 1	1	3582.0	3585.0	0	12000.0	Cedar Waxwing	cedwax	0.3032	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240813_042900.wav	3582.0

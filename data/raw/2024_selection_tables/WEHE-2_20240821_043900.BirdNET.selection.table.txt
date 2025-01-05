@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2547.0	2550.0	0	12000.0	Ovenbird	ovenbi1	0.1059	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240821_043900.wav	2547.0
+2	Spectrogram 1	1	2559.0	2562.0	0	12000.0	Ovenbird	ovenbi1	0.1621	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240821_043900.wav	2559.0
+3	Spectrogram 1	1	2568.0	2571.0	0	12000.0	Ovenbird	ovenbi1	0.1227	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240821_043900.wav	2568.0
+4	Spectrogram 1	1	3144.0	3147.0	0	12000.0	Dark-eyed Junco	daejun	0.1096	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240821_043900.wav	3144.0
+5	Spectrogram 1	1	3207.0	3210.0	0	12000.0	Brown Creeper	brncre	0.1471	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240821_043900.wav	3207.0
+6	Spectrogram 1	1	3357.0	3360.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.4356	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240821_043900.wav	3357.0
+7	Spectrogram 1	1	3360.0	3363.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.3038	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240821_043900.wav	3360.0
+8	Spectrogram 1	1	3372.0	3375.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.7475	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240821_043900.wav	3372.0
+9	Spectrogram 1	1	3378.0	3381.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.8274	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240821_043900.wav	3378.0
+10	Spectrogram 1	1	3555.0	3558.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.2191	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240821_043900.wav	3555.0

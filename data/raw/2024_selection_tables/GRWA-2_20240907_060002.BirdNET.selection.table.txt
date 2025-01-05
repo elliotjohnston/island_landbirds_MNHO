@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1698.0	1701.0	0	12000.0	Evening Grosbeak	evegro	0.1185	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240907_060002.wav	1698.0

@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1497.0	1500.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.2878	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240817_043400.wav	1497.0
+2	Spectrogram 1	1	1644.0	1647.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.9265	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240817_043400.wav	1644.0
+3	Spectrogram 1	1	3003.0	3006.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1424	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240817_043400.wav	3003.0
+4	Spectrogram 1	1	3012.0	3015.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2373	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240817_043400.wav	3012.0
+5	Spectrogram 1	1	3018.0	3021.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6486	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240817_043400.wav	3018.0
+6	Spectrogram 1	1	3021.0	3024.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1190	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240817_043400.wav	3021.0
+7	Spectrogram 1	1	3108.0	3111.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1298	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240817_043400.wav	3108.0
+8	Spectrogram 1	1	3234.0	3237.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2001	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240817_043400.wav	3234.0
+9	Spectrogram 1	1	3315.0	3318.0	0	12000.0	Mourning Dove	moudov	0.1590	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240817_043400.wav	3315.0
+10	Spectrogram 1	1	3366.0	3369.0	0	12000.0	American Crow	amecro	0.6688	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240817_043400.wav	3366.0
+11	Spectrogram 1	1	3369.0	3372.0	0	12000.0	American Crow	amecro	0.7205	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240817_043400.wav	3369.0
+12	Spectrogram 1	1	3378.0	3381.0	0	12000.0	Mourning Dove	moudov	0.4597	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240817_043400.wav	3378.0

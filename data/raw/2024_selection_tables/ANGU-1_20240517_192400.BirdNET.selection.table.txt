@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	12.0	15.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9515	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240517_192400.wav	12.0
+2	Spectrogram 1	1	12.0	15.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1496	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240517_192400.wav	12.0
+3	Spectrogram 1	1	30.0	33.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9735	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240517_192400.wav	30.0
+4	Spectrogram 1	1	387.0	390.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2445	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240517_192400.wav	387.0
+5	Spectrogram 1	1	639.0	642.0	0	12000.0	American Crow	amecro	0.4651	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240517_192400.wav	639.0
+6	Spectrogram 1	1	642.0	645.0	0	12000.0	American Crow	amecro	0.2322	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240517_192400.wav	642.0

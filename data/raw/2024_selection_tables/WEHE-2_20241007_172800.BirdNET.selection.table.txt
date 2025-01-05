@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	600.0	603.0	0	12000.0	American Crow	amecro	0.2010	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241007_172800.wav	600.0
+2	Spectrogram 1	1	609.0	612.0	0	12000.0	Common Raven	comrav	0.1628	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241007_172800.wav	609.0
+3	Spectrogram 1	1	609.0	612.0	0	12000.0	American Crow	amecro	0.1141	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241007_172800.wav	609.0
+4	Spectrogram 1	1	1962.0	1965.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1014	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241007_172800.wav	1962.0

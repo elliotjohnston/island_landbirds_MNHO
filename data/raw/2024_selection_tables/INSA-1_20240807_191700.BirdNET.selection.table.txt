@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	924.0	927.0	0	12000.0	American Crow	amecro	0.1452	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240807_191700.wav	924.0
+2	Spectrogram 1	1	1170.0	1173.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5491	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240807_191700.wav	1170.0
+3	Spectrogram 1	1	1170.0	1173.0	0	12000.0	Brown Creeper	brncre	0.1371	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240807_191700.wav	1170.0
+4	Spectrogram 1	1	1230.0	1233.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5190	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240807_191700.wav	1230.0
+5	Spectrogram 1	1	1392.0	1395.0	0	12000.0	American Redstart	amered	0.1409	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240807_191700.wav	1392.0
+6	Spectrogram 1	1	1404.0	1407.0	0	12000.0	American Redstart	amered	0.3574	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240807_191700.wav	1404.0
+7	Spectrogram 1	1	1656.0	1659.0	0	12000.0	American Redstart	amered	0.1380	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240807_191700.wav	1656.0
+8	Spectrogram 1	1	1668.0	1671.0	0	12000.0	American Redstart	amered	0.3624	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240807_191700.wav	1668.0
+9	Spectrogram 1	1	1671.0	1674.0	0	12000.0	American Redstart	amered	0.2004	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240807_191700.wav	1671.0
+10	Spectrogram 1	1	1674.0	1677.0	0	12000.0	American Redstart	amered	0.2376	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240807_191700.wav	1674.0
+11	Spectrogram 1	1	1698.0	1701.0	0	12000.0	American Redstart	amered	0.2976	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240807_191700.wav	1698.0
+12	Spectrogram 1	1	1698.0	1701.0	0	12000.0	Bay-breasted Warbler	babwar	0.1357	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240807_191700.wav	1698.0
+13	Spectrogram 1	1	1701.0	1704.0	0	12000.0	American Redstart	amered	0.3990	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240807_191700.wav	1701.0
+14	Spectrogram 1	1	1704.0	1707.0	0	12000.0	American Redstart	amered	0.5084	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240807_191700.wav	1704.0
+15	Spectrogram 1	1	1710.0	1713.0	0	12000.0	American Redstart	amered	0.2283	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240807_191700.wav	1710.0
+16	Spectrogram 1	1	1713.0	1716.0	0	12000.0	American Redstart	amered	0.2189	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240807_191700.wav	1713.0
+17	Spectrogram 1	1	1716.0	1719.0	0	12000.0	American Redstart	amered	0.2404	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240807_191700.wav	1716.0
+18	Spectrogram 1	1	1722.0	1725.0	0	12000.0	American Redstart	amered	0.4550	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240807_191700.wav	1722.0
+19	Spectrogram 1	1	1722.0	1725.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1574	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240807_191700.wav	1722.0
+20	Spectrogram 1	1	1746.0	1749.0	0	12000.0	American Redstart	amered	0.1276	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240807_191700.wav	1746.0

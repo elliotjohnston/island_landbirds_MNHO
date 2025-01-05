@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	423.0	426.0	0	12000.0	Brown Creeper	brncre	0.1175	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240729_192900.wav	423.0
+2	Spectrogram 1	1	582.0	585.0	0	12000.0	Brown Creeper	brncre	0.3274	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240729_192900.wav	582.0
+3	Spectrogram 1	1	594.0	597.0	0	12000.0	Brown Creeper	brncre	0.7595	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240729_192900.wav	594.0
+4	Spectrogram 1	1	825.0	828.0	0	12000.0	Winter Wren	winwre3	0.9831	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240729_192900.wav	825.0
+5	Spectrogram 1	1	867.0	870.0	0	12000.0	Winter Wren	winwre3	0.9752	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240729_192900.wav	867.0
+6	Spectrogram 1	1	1254.0	1257.0	0	12000.0	Winter Wren	winwre3	0.4780	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240729_192900.wav	1254.0
+7	Spectrogram 1	1	1257.0	1260.0	0	12000.0	Winter Wren	winwre3	0.8625	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240729_192900.wav	1257.0
+8	Spectrogram 1	1	1272.0	1275.0	0	12000.0	Brown Creeper	brncre	0.2311	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240729_192900.wav	1272.0
+9	Spectrogram 1	1	1278.0	1281.0	0	12000.0	Winter Wren	winwre3	0.9947	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240729_192900.wav	1278.0
+10	Spectrogram 1	1	1281.0	1284.0	0	12000.0	Winter Wren	winwre3	0.9095	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240729_192900.wav	1281.0
+11	Spectrogram 1	1	1287.0	1290.0	0	12000.0	Winter Wren	winwre3	0.7508	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240729_192900.wav	1287.0
+12	Spectrogram 1	1	1542.0	1545.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4089	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240729_192900.wav	1542.0
+13	Spectrogram 1	1	1551.0	1554.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4482	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240729_192900.wav	1551.0
+14	Spectrogram 1	1	1551.0	1554.0	0	12000.0	Brown Creeper	brncre	0.3221	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240729_192900.wav	1551.0
+15	Spectrogram 1	1	1803.0	1806.0	0	12000.0	Pileated Woodpecker	pilwoo	0.1591	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240729_192900.wav	1803.0
+16	Spectrogram 1	1	1803.0	1806.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1084	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240729_192900.wav	1803.0
+17	Spectrogram 1	1	2583.0	2586.0	0	12000.0	Swainson's Thrush	swathr	0.1124	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240729_192900.wav	2583.0
+18	Spectrogram 1	1	3108.0	3111.0	0	12000.0	Swainson's Thrush	swathr	0.4122	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240729_192900.wav	3108.0
+19	Spectrogram 1	1	3117.0	3120.0	0	12000.0	Swainson's Thrush	swathr	0.5884	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240729_192900.wav	3117.0
+20	Spectrogram 1	1	3120.0	3123.0	0	12000.0	Swainson's Thrush	swathr	0.2994	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240729_192900.wav	3120.0
+21	Spectrogram 1	1	3126.0	3129.0	0	12000.0	Swainson's Thrush	swathr	0.3835	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240729_192900.wav	3126.0
+22	Spectrogram 1	1	3135.0	3138.0	0	12000.0	Swainson's Thrush	swathr	0.4613	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240729_192900.wav	3135.0

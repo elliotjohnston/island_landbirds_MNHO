@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	957.0	960.0	0	12000.0	Cedar Waxwing	cedwax	0.5361	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240813_191000.wav	957.0
+2	Spectrogram 1	1	960.0	963.0	0	12000.0	Cedar Waxwing	cedwax	0.8584	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240813_191000.wav	960.0
+3	Spectrogram 1	1	966.0	969.0	0	12000.0	Cedar Waxwing	cedwax	0.8197	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240813_191000.wav	966.0
+4	Spectrogram 1	1	972.0	975.0	0	12000.0	Cedar Waxwing	cedwax	0.5211	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240813_191000.wav	972.0
+5	Spectrogram 1	1	987.0	990.0	0	12000.0	Cedar Waxwing	cedwax	0.4240	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240813_191000.wav	987.0
+6	Spectrogram 1	1	993.0	996.0	0	12000.0	Cedar Waxwing	cedwax	0.1353	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240813_191000.wav	993.0
+7	Spectrogram 1	1	996.0	999.0	0	12000.0	Cedar Waxwing	cedwax	0.6707	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240813_191000.wav	996.0
+8	Spectrogram 1	1	999.0	1002.0	0	12000.0	Cedar Waxwing	cedwax	0.5691	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240813_191000.wav	999.0
+9	Spectrogram 1	1	1002.0	1005.0	0	12000.0	Cedar Waxwing	cedwax	0.3474	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240813_191000.wav	1002.0
+10	Spectrogram 1	1	1014.0	1017.0	0	12000.0	Cedar Waxwing	cedwax	0.5320	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240813_191000.wav	1014.0
+11	Spectrogram 1	1	1017.0	1020.0	0	12000.0	Cedar Waxwing	cedwax	0.6886	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240813_191000.wav	1017.0
+12	Spectrogram 1	1	1023.0	1026.0	0	12000.0	Cedar Waxwing	cedwax	0.7278	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240813_191000.wav	1023.0
+13	Spectrogram 1	1	1215.0	1218.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2719	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240813_191000.wav	1215.0
+14	Spectrogram 1	1	1671.0	1674.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6987	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240813_191000.wav	1671.0
+15	Spectrogram 1	1	2400.0	2403.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1136	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240813_191000.wav	2400.0

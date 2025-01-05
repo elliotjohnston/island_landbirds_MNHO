@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	150.0	153.0	0	12000.0	Cedar Waxwing	cedwax	0.2022	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240911_181800.wav	150.0
+2	Spectrogram 1	1	171.0	174.0	0	12000.0	Cedar Waxwing	cedwax	0.5404	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240911_181800.wav	171.0
+3	Spectrogram 1	1	180.0	183.0	0	12000.0	Cedar Waxwing	cedwax	0.9702	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240911_181800.wav	180.0
+4	Spectrogram 1	1	192.0	195.0	0	12000.0	Cedar Waxwing	cedwax	0.2937	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240911_181800.wav	192.0
+5	Spectrogram 1	1	252.0	255.0	0	12000.0	Common Raven	comrav	0.1554	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240911_181800.wav	252.0
+6	Spectrogram 1	1	705.0	708.0	0	12000.0	American Crow	amecro	0.2051	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240911_181800.wav	705.0
+7	Spectrogram 1	1	714.0	717.0	0	12000.0	American Crow	amecro	0.5372	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240911_181800.wav	714.0
+8	Spectrogram 1	1	1326.0	1329.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4715	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240911_181800.wav	1326.0
+9	Spectrogram 1	1	2712.0	2715.0	0	12000.0	Hermit Thrush	herthr	0.1233	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240911_181800.wav	2712.0
+10	Spectrogram 1	1	2715.0	2718.0	0	12000.0	Hermit Thrush	herthr	0.2735	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240911_181800.wav	2715.0
+11	Spectrogram 1	1	2721.0	2724.0	0	12000.0	Hermit Thrush	herthr	0.5856	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240911_181800.wav	2721.0
+12	Spectrogram 1	1	2724.0	2727.0	0	12000.0	Hermit Thrush	herthr	0.7716	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240911_181800.wav	2724.0
+13	Spectrogram 1	1	2727.0	2730.0	0	12000.0	Hermit Thrush	herthr	0.8303	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240911_181800.wav	2727.0
+14	Spectrogram 1	1	2730.0	2733.0	0	12000.0	Hermit Thrush	herthr	0.8133	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240911_181800.wav	2730.0

@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2250.0	2253.0	0	12000.0	White-throated Sparrow	whtspa	0.1466	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240828_044900.wav	2250.0
+2	Spectrogram 1	1	2565.0	2568.0	0	12000.0	White-throated Sparrow	whtspa	0.2420	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240828_044900.wav	2565.0
+3	Spectrogram 1	1	2667.0	2670.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3248	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240828_044900.wav	2667.0
+4	Spectrogram 1	1	2730.0	2733.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1204	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240828_044900.wav	2730.0
+5	Spectrogram 1	1	2841.0	2844.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1600	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240828_044900.wav	2841.0
+6	Spectrogram 1	1	2859.0	2862.0	0	12000.0	American Crow	amecro	0.1776	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240828_044900.wav	2859.0
+7	Spectrogram 1	1	2889.0	2892.0	0	12000.0	Common Raven	comrav	0.1999	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240828_044900.wav	2889.0
+8	Spectrogram 1	1	2913.0	2916.0	0	12000.0	American Crow	amecro	0.1546	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240828_044900.wav	2913.0
+9	Spectrogram 1	1	2952.0	2955.0	0	12000.0	American Crow	amecro	0.1847	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240828_044900.wav	2952.0
+10	Spectrogram 1	1	2958.0	2961.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1679	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240828_044900.wav	2958.0
+11	Spectrogram 1	1	2964.0	2967.0	0	12000.0	Common Raven	comrav	0.1309	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240828_044900.wav	2964.0
+12	Spectrogram 1	1	2967.0	2970.0	0	12000.0	American Crow	amecro	0.1279	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240828_044900.wav	2967.0
+13	Spectrogram 1	1	3009.0	3012.0	0	12000.0	Common Raven	comrav	0.2578	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240828_044900.wav	3009.0
+14	Spectrogram 1	1	3012.0	3015.0	0	12000.0	Common Raven	comrav	0.1120	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240828_044900.wav	3012.0
+15	Spectrogram 1	1	3024.0	3027.0	0	12000.0	Common Raven	comrav	0.1260	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240828_044900.wav	3024.0
+16	Spectrogram 1	1	3042.0	3045.0	0	12000.0	Common Raven	comrav	0.3620	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240828_044900.wav	3042.0
+17	Spectrogram 1	1	3297.0	3300.0	0	12000.0	Brown Creeper	brncre	0.1703	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240828_044900.wav	3297.0
+18	Spectrogram 1	1	3351.0	3354.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2144	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240828_044900.wav	3351.0
+19	Spectrogram 1	1	3459.0	3462.0	0	12000.0	White-throated Sparrow	whtspa	0.2937	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240828_044900.wav	3459.0
+20	Spectrogram 1	1	3498.0	3501.0	0	12000.0	White-throated Sparrow	whtspa	0.5557	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240828_044900.wav	3498.0
+21	Spectrogram 1	1	3534.0	3537.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1778	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240828_044900.wav	3534.0
+22	Spectrogram 1	1	3534.0	3537.0	0	12000.0	Brown Creeper	brncre	0.1138	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240828_044900.wav	3534.0

@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	420.0	423.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7612	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240825_184700.wav	420.0
+2	Spectrogram 1	1	426.0	429.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8301	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240825_184700.wav	426.0
+3	Spectrogram 1	1	435.0	438.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1621	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240825_184700.wav	435.0
+4	Spectrogram 1	1	456.0	459.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4009	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240825_184700.wav	456.0
+5	Spectrogram 1	1	684.0	687.0	0	12000.0	American Crow	amecro	0.2054	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240825_184700.wav	684.0
+6	Spectrogram 1	1	696.0	699.0	0	12000.0	Common Raven	comrav	0.3267	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240825_184700.wav	696.0
+7	Spectrogram 1	1	711.0	714.0	0	12000.0	American Crow	amecro	0.1336	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240825_184700.wav	711.0
+8	Spectrogram 1	1	891.0	894.0	0	12000.0	American Crow	amecro	0.1149	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240825_184700.wav	891.0
+9	Spectrogram 1	1	894.0	897.0	0	12000.0	American Crow	amecro	0.1643	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240825_184700.wav	894.0
+10	Spectrogram 1	1	1215.0	1218.0	0	12000.0	Common Raven	comrav	0.6491	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240825_184700.wav	1215.0
+11	Spectrogram 1	1	1659.0	1662.0	0	12000.0	Brown Creeper	brncre	0.8371	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240825_184700.wav	1659.0
+12	Spectrogram 1	1	1659.0	1662.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1273	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240825_184700.wav	1659.0
+13	Spectrogram 1	1	1674.0	1677.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.5106	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240825_184700.wav	1674.0
+14	Spectrogram 1	1	2430.0	2433.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1529	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240825_184700.wav	2430.0

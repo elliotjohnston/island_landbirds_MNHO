@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	3363.0	3366.0	0	12000.0	Pine Siskin	pinsis	0.4011	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240908_050200.wav	3363.0

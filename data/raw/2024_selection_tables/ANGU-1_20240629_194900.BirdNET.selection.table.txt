@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	72.0	75.0	0	12000.0	Tufted Titmouse	tuftit	0.1662	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240629_194900.wav	72.0
+2	Spectrogram 1	1	1845.0	1848.0	0	12000.0	Dark-eyed Junco	daejun	0.1006	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240629_194900.wav	1845.0
+3	Spectrogram 1	1	1998.0	2001.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2064	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240629_194900.wav	1998.0

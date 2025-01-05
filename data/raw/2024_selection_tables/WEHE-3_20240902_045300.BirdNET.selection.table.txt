@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1854.0	1857.0	0	12000.0	Dark-eyed Junco	daejun	0.1132	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240902_045300.wav	1854.0
+2	Spectrogram 1	1	3543.0	3546.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1486	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240902_045300.wav	3543.0
+3	Spectrogram 1	1	3567.0	3570.0	0	12000.0	Cedar Waxwing	cedwax	0.2049	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240902_045300.wav	3567.0
+4	Spectrogram 1	1	3573.0	3576.0	0	12000.0	Brown Creeper	brncre	0.1239	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240902_045300.wav	3573.0

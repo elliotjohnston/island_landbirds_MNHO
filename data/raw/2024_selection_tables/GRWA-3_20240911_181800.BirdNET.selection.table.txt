@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	447.0	450.0	0	12000.0	Common Raven	comrav	0.3985	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240911_181800.wav	447.0
+2	Spectrogram 1	1	468.0	471.0	0	12000.0	Common Raven	comrav	0.1645	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240911_181800.wav	468.0
+3	Spectrogram 1	1	471.0	474.0	0	12000.0	Common Raven	comrav	0.1361	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240911_181800.wav	471.0
+4	Spectrogram 1	1	474.0	477.0	0	12000.0	Common Raven	comrav	0.1766	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240911_181800.wav	474.0
+5	Spectrogram 1	1	480.0	483.0	0	12000.0	Common Raven	comrav	0.2784	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240911_181800.wav	480.0
+6	Spectrogram 1	1	495.0	498.0	0	12000.0	Common Raven	comrav	0.7092	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240911_181800.wav	495.0
+7	Spectrogram 1	1	498.0	501.0	0	12000.0	Common Raven	comrav	0.8736	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240911_181800.wav	498.0
+8	Spectrogram 1	1	2145.0	2148.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2219	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240911_181800.wav	2145.0
+9	Spectrogram 1	1	2148.0	2151.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1971	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240911_181800.wav	2148.0
+10	Spectrogram 1	1	2154.0	2157.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.7038	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240911_181800.wav	2154.0
+11	Spectrogram 1	1	2436.0	2439.0	0	12000.0	Brown Creeper	brncre	0.2498	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240911_181800.wav	2436.0
+12	Spectrogram 1	1	2436.0	2439.0	0	12000.0	White-throated Sparrow	whtspa	0.2219	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240911_181800.wav	2436.0

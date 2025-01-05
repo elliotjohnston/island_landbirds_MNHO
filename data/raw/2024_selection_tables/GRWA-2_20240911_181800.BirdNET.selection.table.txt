@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	582.0	585.0	0	12000.0	Common Raven	comrav	0.5435	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240911_181800.wav	582.0
+2	Spectrogram 1	1	2727.0	2730.0	0	12000.0	Swainson's Thrush	swathr	0.1854	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240911_181800.wav	2727.0
+3	Spectrogram 1	1	2916.0	2919.0	0	12000.0	Eastern Bluebird	easblu	0.1316	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240911_181800.wav	2916.0
+4	Spectrogram 1	1	2955.0	2958.0	0	12000.0	Eastern Bluebird	easblu	0.3012	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240911_181800.wav	2955.0

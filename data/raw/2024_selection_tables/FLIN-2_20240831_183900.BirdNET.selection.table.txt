@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	147.0	150.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9337	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240831_183900.wav	147.0
+2	Spectrogram 1	1	150.0	153.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.1913	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240831_183900.wav	150.0
+3	Spectrogram 1	1	159.0	162.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.1624	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240831_183900.wav	159.0

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2748.0	2751.0	0	12000.0	Brown Creeper	brncre	0.3583	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240901_055302.wav	2748.0
+2	Spectrogram 1	1	2823.0	2826.0	0	12000.0	Brown Creeper	brncre	0.2703	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240901_055302.wav	2823.0
+3	Spectrogram 1	1	2859.0	2862.0	0	12000.0	Brown Creeper	brncre	0.1525	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240901_055302.wav	2859.0

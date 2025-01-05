@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	378.0	381.0	0	12000.0	Dark-eyed Junco	daejun	0.3298	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240817_190200.wav	378.0
+2	Spectrogram 1	1	519.0	522.0	0	12000.0	Dark-eyed Junco	daejun	0.1265	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240817_190200.wav	519.0
+3	Spectrogram 1	1	870.0	873.0	0	12000.0	Dark-eyed Junco	daejun	0.4123	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240817_190200.wav	870.0
+4	Spectrogram 1	1	1005.0	1008.0	0	12000.0	Dark-eyed Junco	daejun	0.3597	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240817_190200.wav	1005.0
+5	Spectrogram 1	1	1008.0	1011.0	0	12000.0	Dark-eyed Junco	daejun	0.2139	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240817_190200.wav	1008.0
+6	Spectrogram 1	1	1032.0	1035.0	0	12000.0	Dark-eyed Junco	daejun	0.2185	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240817_190200.wav	1032.0
+7	Spectrogram 1	1	1047.0	1050.0	0	12000.0	Dark-eyed Junco	daejun	0.2375	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240817_190200.wav	1047.0
+8	Spectrogram 1	1	1092.0	1095.0	0	12000.0	Dark-eyed Junco	daejun	0.4109	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240817_190200.wav	1092.0
+9	Spectrogram 1	1	1095.0	1098.0	0	12000.0	Dark-eyed Junco	daejun	0.3323	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240817_190200.wav	1095.0
+10	Spectrogram 1	1	1110.0	1113.0	0	12000.0	Dark-eyed Junco	daejun	0.1145	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240817_190200.wav	1110.0
+11	Spectrogram 1	1	1113.0	1116.0	0	12000.0	Dark-eyed Junco	daejun	0.1483	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240817_190200.wav	1113.0
+12	Spectrogram 1	1	1122.0	1125.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.1459	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240817_190200.wav	1122.0
+13	Spectrogram 1	1	1212.0	1215.0	0	12000.0	Dark-eyed Junco	daejun	0.4360	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240817_190200.wav	1212.0
+14	Spectrogram 1	1	1230.0	1233.0	0	12000.0	Dark-eyed Junco	daejun	0.4988	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240817_190200.wav	1230.0
+15	Spectrogram 1	1	1233.0	1236.0	0	12000.0	Dark-eyed Junco	daejun	0.1078	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240817_190200.wav	1233.0
+16	Spectrogram 1	1	1329.0	1332.0	0	12000.0	Magnolia Warbler	magwar	0.1339	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240817_190200.wav	1329.0

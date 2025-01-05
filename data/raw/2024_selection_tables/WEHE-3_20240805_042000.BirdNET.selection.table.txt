@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2022.0	2025.0	0	12000.0	Cedar Waxwing	cedwax	0.1667	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240805_042000.wav	2022.0
+2	Spectrogram 1	1	2181.0	2184.0	0	12000.0	Winter Wren	winwre3	0.1585	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240805_042000.wav	2181.0
+3	Spectrogram 1	1	2184.0	2187.0	0	12000.0	Winter Wren	winwre3	0.9305	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240805_042000.wav	2184.0
+4	Spectrogram 1	1	2187.0	2190.0	0	12000.0	Winter Wren	winwre3	0.2015	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240805_042000.wav	2187.0
+5	Spectrogram 1	1	2193.0	2196.0	0	12000.0	Winter Wren	winwre3	0.2895	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240805_042000.wav	2193.0
+6	Spectrogram 1	1	2196.0	2199.0	0	12000.0	Winter Wren	winwre3	0.1636	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240805_042000.wav	2196.0
+7	Spectrogram 1	1	2304.0	2307.0	0	12000.0	Magnolia Warbler	magwar	0.2390	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240805_042000.wav	2304.0
+8	Spectrogram 1	1	3057.0	3060.0	0	12000.0	Brown Creeper	brncre	0.1016	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240805_042000.wav	3057.0

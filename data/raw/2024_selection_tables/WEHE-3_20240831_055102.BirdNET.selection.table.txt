@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	678.0	681.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.7630	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240831_055102.wav	678.0
+2	Spectrogram 1	1	681.0	684.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.8090	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240831_055102.wav	681.0
+3	Spectrogram 1	1	2559.0	2562.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.2113	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240831_055102.wav	2559.0
+4	Spectrogram 1	1	3009.0	3012.0	0	12000.0	Brown Creeper	brncre	0.2566	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240831_055102.wav	3009.0
+5	Spectrogram 1	1	3012.0	3015.0	0	12000.0	Brown Creeper	brncre	0.1504	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240831_055102.wav	3012.0
+6	Spectrogram 1	1	3018.0	3021.0	0	12000.0	Brown Creeper	brncre	0.8745	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240831_055102.wav	3018.0
+7	Spectrogram 1	1	3021.0	3024.0	0	12000.0	Brown Creeper	brncre	0.2748	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240831_055102.wav	3021.0
+8	Spectrogram 1	1	3024.0	3027.0	0	12000.0	Brown Creeper	brncre	0.8169	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240831_055102.wav	3024.0
+9	Spectrogram 1	1	3027.0	3030.0	0	12000.0	Brown Creeper	brncre	0.8466	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240831_055102.wav	3027.0
+10	Spectrogram 1	1	3030.0	3033.0	0	12000.0	Brown Creeper	brncre	0.8786	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240831_055102.wav	3030.0
+11	Spectrogram 1	1	3033.0	3036.0	0	12000.0	Brown Creeper	brncre	0.8192	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240831_055102.wav	3033.0
+12	Spectrogram 1	1	3039.0	3042.0	0	12000.0	Brown Creeper	brncre	0.7711	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240831_055102.wav	3039.0
+13	Spectrogram 1	1	3087.0	3090.0	0	12000.0	Brown Creeper	brncre	0.6611	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240831_055102.wav	3087.0
+14	Spectrogram 1	1	3516.0	3519.0	0	12000.0	Brown Creeper	brncre	0.2472	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240831_055102.wav	3516.0
+15	Spectrogram 1	1	3519.0	3522.0	0	12000.0	Brown Creeper	brncre	0.1236	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240831_055102.wav	3519.0

@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1041.0	1044.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1543	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240520_192600.wav	1041.0
+2	Spectrogram 1	1	2577.0	2580.0	0	12000.0	Song Sparrow	sonspa	0.1069	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240520_192600.wav	2577.0
+3	Spectrogram 1	1	2580.0	2583.0	0	12000.0	Song Sparrow	sonspa	0.2169	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240520_192600.wav	2580.0
+4	Spectrogram 1	1	2595.0	2598.0	0	12000.0	Blackpoll Warbler	bkpwar	0.4207	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240520_192600.wav	2595.0
+5	Spectrogram 1	1	2706.0	2709.0	0	12000.0	White-crowned Sparrow	whcspa	0.3761	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240520_192600.wav	2706.0
+6	Spectrogram 1	1	2844.0	2847.0	0	12000.0	White-crowned Sparrow	whcspa	0.1301	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240520_192600.wav	2844.0

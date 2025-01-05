@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	6.0	9.0	0	12000.0	Black-and-white Warbler	bawwar	0.1152	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240417_202237.wav	6.0

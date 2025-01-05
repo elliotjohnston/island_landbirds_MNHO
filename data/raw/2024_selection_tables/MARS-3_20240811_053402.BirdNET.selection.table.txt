@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	687.0	690.0	0	12000.0	Pileated Woodpecker	pilwoo	0.1096	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240811_053402.wav	687.0
+2	Spectrogram 1	1	777.0	780.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1277	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240811_053402.wav	777.0
+3	Spectrogram 1	1	798.0	801.0	0	12000.0	Pileated Woodpecker	pilwoo	0.3819	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240811_053402.wav	798.0
+4	Spectrogram 1	1	897.0	900.0	0	12000.0	Pileated Woodpecker	pilwoo	0.1740	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240811_053402.wav	897.0
+5	Spectrogram 1	1	900.0	903.0	0	12000.0	Pileated Woodpecker	pilwoo	0.3004	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240811_053402.wav	900.0
+6	Spectrogram 1	1	1029.0	1032.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3854	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240811_053402.wav	1029.0
+7	Spectrogram 1	1	1113.0	1116.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4819	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240811_053402.wav	1113.0
+8	Spectrogram 1	1	1311.0	1314.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3139	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240811_053402.wav	1311.0
+9	Spectrogram 1	1	1335.0	1338.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1859	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240811_053402.wav	1335.0
+10	Spectrogram 1	1	1359.0	1362.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2717	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240811_053402.wav	1359.0
+11	Spectrogram 1	1	3165.0	3168.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.3835	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240811_053402.wav	3165.0
+12	Spectrogram 1	1	3255.0	3258.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1534	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240811_053402.wav	3255.0
+13	Spectrogram 1	1	3270.0	3273.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1354	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240811_053402.wav	3270.0
+14	Spectrogram 1	1	3291.0	3294.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1314	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240811_053402.wav	3291.0
+15	Spectrogram 1	1	3294.0	3297.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1109	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240811_053402.wav	3294.0

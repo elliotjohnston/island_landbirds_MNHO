@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	114.0	117.0	0	12000.0	American Crow	amecro	0.1075	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241003_173700.wav	114.0
+2	Spectrogram 1	1	375.0	378.0	0	12000.0	Tufted Titmouse	tuftit	0.3447	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241003_173700.wav	375.0
+3	Spectrogram 1	1	924.0	927.0	0	12000.0	Brown Creeper	brncre	0.1585	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241003_173700.wav	924.0
+4	Spectrogram 1	1	1173.0	1176.0	0	12000.0	Black-capped Chickadee	bkcchi	0.1184	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241003_173700.wav	1173.0
+5	Spectrogram 1	1	1482.0	1485.0	0	12000.0	Brown Creeper	brncre	0.1094	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241003_173700.wav	1482.0
+6	Spectrogram 1	1	1833.0	1836.0	0	12000.0	White-throated Sparrow	whtspa	0.7082	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241003_173700.wav	1833.0
+7	Spectrogram 1	1	1836.0	1839.0	0	12000.0	White-throated Sparrow	whtspa	0.3006	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241003_173700.wav	1836.0
+8	Spectrogram 1	1	2034.0	2037.0	0	12000.0	White-throated Sparrow	whtspa	0.4912	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241003_173700.wav	2034.0
+9	Spectrogram 1	1	2529.0	2532.0	0	12000.0	White-throated Sparrow	whtspa	0.2044	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241003_173700.wav	2529.0
+10	Spectrogram 1	1	3207.0	3210.0	0	12000.0	Downy Woodpecker	dowwoo	0.2652	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241003_173700.wav	3207.0
+11	Spectrogram 1	1	3264.0	3267.0	0	12000.0	Common Raven	comrav	0.1197	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241003_173700.wav	3264.0

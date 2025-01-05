@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	375.0	378.0	0	12000.0	Evening Grosbeak	evegro	0.1369	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240912_181600.wav	375.0
+2	Spectrogram 1	1	2193.0	2196.0	0	12000.0	Common Yellowthroat	comyel	0.1510	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240912_181600.wav	2193.0
+3	Spectrogram 1	1	2988.0	2991.0	0	12000.0	Hermit Thrush	herthr	0.3975	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240912_181600.wav	2988.0
+4	Spectrogram 1	1	3342.0	3345.0	0	12000.0	Hermit Thrush	herthr	0.4770	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240912_181600.wav	3342.0
+5	Spectrogram 1	1	3345.0	3348.0	0	12000.0	Hermit Thrush	herthr	0.8645	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240912_181600.wav	3345.0
+6	Spectrogram 1	1	3348.0	3351.0	0	12000.0	Hermit Thrush	herthr	0.8680	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240912_181600.wav	3348.0
+7	Spectrogram 1	1	3351.0	3354.0	0	12000.0	Hermit Thrush	herthr	0.6294	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240912_181600.wav	3351.0
+8	Spectrogram 1	1	3354.0	3357.0	0	12000.0	Hermit Thrush	herthr	0.8397	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240912_181600.wav	3354.0
+9	Spectrogram 1	1	3360.0	3363.0	0	12000.0	Hermit Thrush	herthr	0.2862	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240912_181600.wav	3360.0
+10	Spectrogram 1	1	3363.0	3366.0	0	12000.0	Hermit Thrush	herthr	0.5465	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240912_181600.wav	3363.0
+11	Spectrogram 1	1	3366.0	3369.0	0	12000.0	Hermit Thrush	herthr	0.9573	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240912_181600.wav	3366.0

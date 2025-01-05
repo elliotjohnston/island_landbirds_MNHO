@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	519.0	522.0	0	12000.0	Winter Wren	winwre3	0.9364	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240630_194800.wav	519.0
+2	Spectrogram 1	1	603.0	606.0	0	12000.0	Pine Warbler	pinwar	0.1401	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240630_194800.wav	603.0
+3	Spectrogram 1	1	642.0	645.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1936	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240630_194800.wav	642.0
+4	Spectrogram 1	1	660.0	663.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3470	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240630_194800.wav	660.0
+5	Spectrogram 1	1	1929.0	1932.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1336	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240630_194800.wav	1929.0
+6	Spectrogram 1	1	1977.0	1980.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2650	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240630_194800.wav	1977.0
+7	Spectrogram 1	1	2016.0	2019.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1845	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240630_194800.wav	2016.0
+8	Spectrogram 1	1	2076.0	2079.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6977	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240630_194800.wav	2076.0
+9	Spectrogram 1	1	2079.0	2082.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4048	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240630_194800.wav	2079.0

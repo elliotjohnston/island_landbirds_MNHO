@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2319.0	2322.0	0	12000.0	American Crow	amecro	0.1261	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240926_052600.wav	2319.0
+2	Spectrogram 1	1	2676.0	2679.0	0	12000.0	American Crow	amecro	0.2110	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240926_052600.wav	2676.0
+3	Spectrogram 1	1	2679.0	2682.0	0	12000.0	American Crow	amecro	0.1379	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240926_052600.wav	2679.0
+4	Spectrogram 1	1	2739.0	2742.0	0	12000.0	American Crow	amecro	0.1030	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240926_052600.wav	2739.0
+5	Spectrogram 1	1	2916.0	2919.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3731	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240926_052600.wav	2916.0
+6	Spectrogram 1	1	2943.0	2946.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1848	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240926_052600.wav	2943.0
+7	Spectrogram 1	1	2946.0	2949.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2321	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240926_052600.wav	2946.0
+8	Spectrogram 1	1	3369.0	3372.0	0	12000.0	Brown Creeper	brncre	0.1058	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240926_052600.wav	3369.0
+9	Spectrogram 1	1	3564.0	3567.0	0	12000.0	Brown Creeper	brncre	0.2716	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240926_052600.wav	3564.0
+10	Spectrogram 1	1	3567.0	3570.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2648	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240926_052600.wav	3567.0
+11	Spectrogram 1	1	3567.0	3570.0	0	12000.0	Brown Creeper	brncre	0.1664	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240926_052600.wav	3567.0

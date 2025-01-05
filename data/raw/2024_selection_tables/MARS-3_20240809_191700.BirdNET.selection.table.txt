@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	66.0	69.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4695	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240809_191700.wav	66.0
+2	Spectrogram 1	1	1041.0	1044.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9222	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240809_191700.wav	1041.0
+3	Spectrogram 1	1	1083.0	1086.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1228	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240809_191700.wav	1083.0
+4	Spectrogram 1	1	1119.0	1122.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2028	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240809_191700.wav	1119.0
+5	Spectrogram 1	1	1122.0	1125.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7970	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240809_191700.wav	1122.0
+6	Spectrogram 1	1	1134.0	1137.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7664	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240809_191700.wav	1134.0
+7	Spectrogram 1	1	1140.0	1143.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7382	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240809_191700.wav	1140.0
+8	Spectrogram 1	1	1152.0	1155.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5418	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240809_191700.wav	1152.0
+9	Spectrogram 1	1	1179.0	1182.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4702	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240809_191700.wav	1179.0

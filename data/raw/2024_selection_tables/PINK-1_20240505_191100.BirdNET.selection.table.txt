@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	510.0	513.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2502	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240505_191100.wav	510.0
+2	Spectrogram 1	1	516.0	519.0	0	12000.0	Winter Wren	winwre3	0.1918	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240505_191100.wav	516.0
+3	Spectrogram 1	1	618.0	621.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1381	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240505_191100.wav	618.0
+4	Spectrogram 1	1	666.0	669.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1089	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240505_191100.wav	666.0
+5	Spectrogram 1	1	672.0	675.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2434	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240505_191100.wav	672.0
+6	Spectrogram 1	1	675.0	678.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3199	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240505_191100.wav	675.0
+7	Spectrogram 1	1	702.0	705.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1482	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240505_191100.wav	702.0
+8	Spectrogram 1	1	1380.0	1383.0	0	12000.0	Winter Wren	winwre3	0.8784	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240505_191100.wav	1380.0
+9	Spectrogram 1	1	1935.0	1938.0	0	12000.0	Winter Wren	winwre3	0.3663	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240505_191100.wav	1935.0
+10	Spectrogram 1	1	1938.0	1941.0	0	12000.0	Winter Wren	winwre3	0.1838	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240505_191100.wav	1938.0
+11	Spectrogram 1	1	2010.0	2013.0	0	12000.0	Winter Wren	winwre3	0.8411	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240505_191100.wav	2010.0
+12	Spectrogram 1	1	2013.0	2016.0	0	12000.0	Winter Wren	winwre3	0.2153	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240505_191100.wav	2013.0
+13	Spectrogram 1	1	2040.0	2043.0	0	12000.0	Winter Wren	winwre3	0.8586	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240505_191100.wav	2040.0
+14	Spectrogram 1	1	2043.0	2046.0	0	12000.0	Winter Wren	winwre3	0.5665	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240505_191100.wav	2043.0
+15	Spectrogram 1	1	2139.0	2142.0	0	12000.0	Winter Wren	winwre3	0.9716	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240505_191100.wav	2139.0
+16	Spectrogram 1	1	2142.0	2145.0	0	12000.0	Winter Wren	winwre3	0.9798	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240505_191100.wav	2142.0
+17	Spectrogram 1	1	2145.0	2148.0	0	12000.0	Winter Wren	winwre3	0.9779	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240505_191100.wav	2145.0
+18	Spectrogram 1	1	3126.0	3129.0	0	12000.0	Hermit Thrush	herthr	0.3872	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240505_191100.wav	3126.0

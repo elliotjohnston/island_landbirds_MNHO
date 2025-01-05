@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	42.0	45.0	0	12000.0	Downy Woodpecker	dowwoo	0.2192	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240928_174600.wav	42.0
+2	Spectrogram 1	1	87.0	90.0	0	12000.0	Pileated Woodpecker	pilwoo	0.1152	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240928_174600.wav	87.0
+3	Spectrogram 1	1	285.0	288.0	0	12000.0	Brown Creeper	brncre	0.1549	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240928_174600.wav	285.0
+4	Spectrogram 1	1	600.0	603.0	0	12000.0	Brown Creeper	brncre	0.1619	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240928_174600.wav	600.0
+5	Spectrogram 1	1	918.0	921.0	0	12000.0	Great Crested Flycatcher	grcfly	0.2558	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240928_174600.wav	918.0
+6	Spectrogram 1	1	2703.0	2706.0	0	12000.0	White-throated Sparrow	whtspa	0.5098	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240928_174600.wav	2703.0
+7	Spectrogram 1	1	2706.0	2709.0	0	12000.0	White-throated Sparrow	whtspa	0.8500	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240928_174600.wav	2706.0
+8	Spectrogram 1	1	2769.0	2772.0	0	12000.0	White-throated Sparrow	whtspa	0.8307	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240928_174600.wav	2769.0
+9	Spectrogram 1	1	2841.0	2844.0	0	12000.0	Brown Creeper	brncre	0.1142	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240928_174600.wav	2841.0
+10	Spectrogram 1	1	2865.0	2868.0	0	12000.0	White-throated Sparrow	whtspa	0.4387	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240928_174600.wav	2865.0
+11	Spectrogram 1	1	2901.0	2904.0	0	12000.0	White-throated Sparrow	whtspa	0.1829	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240928_174600.wav	2901.0
+12	Spectrogram 1	1	2904.0	2907.0	0	12000.0	White-throated Sparrow	whtspa	0.5651	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240928_174600.wav	2904.0
+13	Spectrogram 1	1	2916.0	2919.0	0	12000.0	White-throated Sparrow	whtspa	0.1534	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240928_174600.wav	2916.0

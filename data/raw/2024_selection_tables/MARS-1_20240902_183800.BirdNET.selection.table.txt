@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	387.0	390.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3423	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240902_183800.wav	387.0
+2	Spectrogram 1	1	396.0	399.0	0	12000.0	Tufted Titmouse	tuftit	0.1062	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240902_183800.wav	396.0
+3	Spectrogram 1	1	399.0	402.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2301	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240902_183800.wav	399.0
+4	Spectrogram 1	1	555.0	558.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2434	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240902_183800.wav	555.0

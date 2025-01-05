@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	6.0	9.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1414	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240920_180000.wav	6.0
+2	Spectrogram 1	1	24.0	27.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4154	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240920_180000.wav	24.0
+3	Spectrogram 1	1	36.0	39.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2698	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240920_180000.wav	36.0
+4	Spectrogram 1	1	36.0	39.0	0	12000.0	Brown Creeper	brncre	0.1362	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240920_180000.wav	36.0
+5	Spectrogram 1	1	51.0	54.0	0	12000.0	Brown Creeper	brncre	0.1505	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240920_180000.wav	51.0
+6	Spectrogram 1	1	60.0	63.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1859	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240920_180000.wav	60.0
+7	Spectrogram 1	1	72.0	75.0	0	12000.0	Brown Creeper	brncre	0.1802	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240920_180000.wav	72.0
+8	Spectrogram 1	1	114.0	117.0	0	12000.0	Evening Grosbeak	evegro	0.2728	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240920_180000.wav	114.0
+9	Spectrogram 1	1	234.0	237.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5118	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240920_180000.wav	234.0
+10	Spectrogram 1	1	246.0	249.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8493	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240920_180000.wav	246.0
+11	Spectrogram 1	1	246.0	249.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1274	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240920_180000.wav	246.0
+12	Spectrogram 1	1	255.0	258.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8443	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240920_180000.wav	255.0
+13	Spectrogram 1	1	264.0	267.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3905	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240920_180000.wav	264.0
+14	Spectrogram 1	1	273.0	276.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7113	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240920_180000.wav	273.0
+15	Spectrogram 1	1	1287.0	1290.0	0	12000.0	American Crow	amecro	0.3068	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240920_180000.wav	1287.0
+16	Spectrogram 1	1	1290.0	1293.0	0	12000.0	American Crow	amecro	0.4330	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240920_180000.wav	1290.0
+17	Spectrogram 1	1	1296.0	1299.0	0	12000.0	American Crow	amecro	0.3233	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240920_180000.wav	1296.0
+18	Spectrogram 1	1	1323.0	1326.0	0	12000.0	American Crow	amecro	0.3001	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240920_180000.wav	1323.0
+19	Spectrogram 1	1	1338.0	1341.0	0	12000.0	American Crow	amecro	0.1689	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240920_180000.wav	1338.0
+20	Spectrogram 1	1	1344.0	1347.0	0	12000.0	American Crow	amecro	0.2503	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240920_180000.wav	1344.0
+21	Spectrogram 1	1	1353.0	1356.0	0	12000.0	American Crow	amecro	0.6185	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240920_180000.wav	1353.0
+22	Spectrogram 1	1	1986.0	1989.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1137	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240920_180000.wav	1986.0
+23	Spectrogram 1	1	1992.0	1995.0	0	12000.0	Brown Creeper	brncre	0.2250	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240920_180000.wav	1992.0
+24	Spectrogram 1	1	1992.0	1995.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1443	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240920_180000.wav	1992.0

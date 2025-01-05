@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2847.0	2850.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1668	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240730_041800.wav	2847.0
+2	Spectrogram 1	1	2853.0	2856.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5218	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240730_041800.wav	2853.0
+3	Spectrogram 1	1	2865.0	2868.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5351	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240730_041800.wav	2865.0
+4	Spectrogram 1	1	2865.0	2868.0	0	12000.0	Brown Creeper	brncre	0.1174	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240730_041800.wav	2865.0
+5	Spectrogram 1	1	2871.0	2874.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3586	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240730_041800.wav	2871.0
+6	Spectrogram 1	1	2883.0	2886.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7901	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240730_041800.wav	2883.0
+7	Spectrogram 1	1	2895.0	2898.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5672	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240730_041800.wav	2895.0
+8	Spectrogram 1	1	2895.0	2898.0	0	12000.0	Brown Creeper	brncre	0.3057	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240730_041800.wav	2895.0
+9	Spectrogram 1	1	2904.0	2907.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7418	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240730_041800.wav	2904.0
+10	Spectrogram 1	1	2925.0	2928.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4339	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240730_041800.wav	2925.0

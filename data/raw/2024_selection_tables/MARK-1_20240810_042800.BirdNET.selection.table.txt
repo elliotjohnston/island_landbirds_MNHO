@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	3321.0	3324.0	0	12000.0	Swainson's Thrush	swathr	0.3515	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240810_042800.wav	3321.0
+2	Spectrogram 1	1	3324.0	3327.0	0	12000.0	Swainson's Thrush	swathr	0.2441	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240810_042800.wav	3324.0
+3	Spectrogram 1	1	3519.0	3522.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1264	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240810_042800.wav	3519.0
+4	Spectrogram 1	1	3549.0	3552.0	0	12000.0	Brown Creeper	brncre	0.2164	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240810_042800.wav	3549.0
+5	Spectrogram 1	1	3576.0	3579.0	0	12000.0	Brown Creeper	brncre	0.2045	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240810_042800.wav	3576.0
+6	Spectrogram 1	1	3579.0	3582.0	0	12000.0	Brown Creeper	brncre	0.2631	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240810_042800.wav	3579.0
+7	Spectrogram 1	1	3582.0	3585.0	0	12000.0	Brown Creeper	brncre	0.2867	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240810_042800.wav	3582.0

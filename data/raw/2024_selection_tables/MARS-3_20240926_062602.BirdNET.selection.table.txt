@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	105.0	108.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1165	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240926_062602.wav	105.0
+2	Spectrogram 1	1	1521.0	1524.0	0	12000.0	Northern Flicker	norfli	0.1735	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240926_062602.wav	1521.0
+3	Spectrogram 1	1	1521.0	1524.0	0	12000.0	Evening Grosbeak	evegro	0.1037	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240926_062602.wav	1521.0
+4	Spectrogram 1	1	2373.0	2376.0	0	12000.0	Cedar Waxwing	cedwax	0.2709	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240926_062602.wav	2373.0

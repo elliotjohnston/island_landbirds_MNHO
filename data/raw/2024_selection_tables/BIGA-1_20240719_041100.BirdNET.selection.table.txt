@@ -1,0 +1,329 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	558.0	561.0	0	12000.0	Mourning Dove	moudov	0.2618	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	558.0
+2	Spectrogram 1	1	975.0	978.0	0	12000.0	American Robin	amerob	0.2878	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	975.0
+3	Spectrogram 1	1	999.0	1002.0	0	12000.0	Swainson's Thrush	swathr	0.1592	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	999.0
+4	Spectrogram 1	1	1008.0	1011.0	0	12000.0	Swainson's Thrush	swathr	0.1355	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1008.0
+5	Spectrogram 1	1	1017.0	1020.0	0	12000.0	Swainson's Thrush	swathr	0.1523	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1017.0
+6	Spectrogram 1	1	1044.0	1047.0	0	12000.0	Swainson's Thrush	swathr	0.2907	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1044.0
+7	Spectrogram 1	1	1125.0	1128.0	0	12000.0	Swainson's Thrush	swathr	0.1497	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1125.0
+8	Spectrogram 1	1	1131.0	1134.0	0	12000.0	Swainson's Thrush	swathr	0.3994	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1131.0
+9	Spectrogram 1	1	1161.0	1164.0	0	12000.0	Swainson's Thrush	swathr	0.1050	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1161.0
+10	Spectrogram 1	1	1185.0	1188.0	0	12000.0	Swainson's Thrush	swathr	0.2529	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1185.0
+11	Spectrogram 1	1	1191.0	1194.0	0	12000.0	Swainson's Thrush	swathr	0.7192	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1191.0
+12	Spectrogram 1	1	1194.0	1197.0	0	12000.0	Swainson's Thrush	swathr	0.1587	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1194.0
+13	Spectrogram 1	1	1605.0	1608.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.4968	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1605.0
+14	Spectrogram 1	1	1758.0	1761.0	0	12000.0	Dark-eyed Junco	daejun	0.1510	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1758.0
+15	Spectrogram 1	1	1770.0	1773.0	0	12000.0	Dark-eyed Junco	daejun	0.3718	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1770.0
+16	Spectrogram 1	1	1779.0	1782.0	0	12000.0	Dark-eyed Junco	daejun	0.1180	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1779.0
+17	Spectrogram 1	1	1824.0	1827.0	0	12000.0	Dark-eyed Junco	daejun	0.6716	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1824.0
+18	Spectrogram 1	1	1827.0	1830.0	0	12000.0	Dark-eyed Junco	daejun	0.1663	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1827.0
+19	Spectrogram 1	1	1836.0	1839.0	0	12000.0	Dark-eyed Junco	daejun	0.2995	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1836.0
+20	Spectrogram 1	1	1839.0	1842.0	0	12000.0	Dark-eyed Junco	daejun	0.2367	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1839.0
+21	Spectrogram 1	1	1854.0	1857.0	0	12000.0	Dark-eyed Junco	daejun	0.6498	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1854.0
+22	Spectrogram 1	1	1857.0	1860.0	0	12000.0	Dark-eyed Junco	daejun	0.2649	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1857.0
+23	Spectrogram 1	1	1863.0	1866.0	0	12000.0	Dark-eyed Junco	daejun	0.6463	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1863.0
+24	Spectrogram 1	1	1869.0	1872.0	0	12000.0	Dark-eyed Junco	daejun	0.1109	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1869.0
+25	Spectrogram 1	1	1875.0	1878.0	0	12000.0	Dark-eyed Junco	daejun	0.1223	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1875.0
+26	Spectrogram 1	1	1878.0	1881.0	0	12000.0	Dark-eyed Junco	daejun	0.5864	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1878.0
+27	Spectrogram 1	1	1881.0	1884.0	0	12000.0	Dark-eyed Junco	daejun	0.1793	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1881.0
+28	Spectrogram 1	1	1884.0	1887.0	0	12000.0	Dark-eyed Junco	daejun	0.3173	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1884.0
+29	Spectrogram 1	1	1887.0	1890.0	0	12000.0	Dark-eyed Junco	daejun	0.6743	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1887.0
+30	Spectrogram 1	1	1893.0	1896.0	0	12000.0	Dark-eyed Junco	daejun	0.2181	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1893.0
+31	Spectrogram 1	1	1896.0	1899.0	0	12000.0	Dark-eyed Junco	daejun	0.7692	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1896.0
+32	Spectrogram 1	1	1902.0	1905.0	0	12000.0	Dark-eyed Junco	daejun	0.2993	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1902.0
+33	Spectrogram 1	1	1905.0	1908.0	0	12000.0	Dark-eyed Junco	daejun	0.1825	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1905.0
+34	Spectrogram 1	1	1914.0	1917.0	0	12000.0	Dark-eyed Junco	daejun	0.1127	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1914.0
+35	Spectrogram 1	1	1920.0	1923.0	0	12000.0	Dark-eyed Junco	daejun	0.6555	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1920.0
+36	Spectrogram 1	1	1926.0	1929.0	0	12000.0	Dark-eyed Junco	daejun	0.5877	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1926.0
+37	Spectrogram 1	1	1932.0	1935.0	0	12000.0	Dark-eyed Junco	daejun	0.4354	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1932.0
+38	Spectrogram 1	1	1941.0	1944.0	0	12000.0	Dark-eyed Junco	daejun	0.4664	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1941.0
+39	Spectrogram 1	1	1947.0	1950.0	0	12000.0	Dark-eyed Junco	daejun	0.6278	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1947.0
+40	Spectrogram 1	1	1953.0	1956.0	0	12000.0	Dark-eyed Junco	daejun	0.6982	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1953.0
+41	Spectrogram 1	1	1959.0	1962.0	0	12000.0	Dark-eyed Junco	daejun	0.2877	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1959.0
+42	Spectrogram 1	1	1968.0	1971.0	0	12000.0	Dark-eyed Junco	daejun	0.6277	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1968.0
+43	Spectrogram 1	1	1974.0	1977.0	0	12000.0	Dark-eyed Junco	daejun	0.2462	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1974.0
+44	Spectrogram 1	1	1980.0	1983.0	0	12000.0	Dark-eyed Junco	daejun	0.1147	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1980.0
+45	Spectrogram 1	1	1983.0	1986.0	0	12000.0	Dark-eyed Junco	daejun	0.1674	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1983.0
+46	Spectrogram 1	1	1989.0	1992.0	0	12000.0	Dark-eyed Junco	daejun	0.1901	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1989.0
+47	Spectrogram 1	1	1998.0	2001.0	0	12000.0	Dark-eyed Junco	daejun	0.1047	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	1998.0
+48	Spectrogram 1	1	2007.0	2010.0	0	12000.0	Dark-eyed Junco	daejun	0.3676	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2007.0
+49	Spectrogram 1	1	2010.0	2013.0	0	12000.0	Dark-eyed Junco	daejun	0.5964	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2010.0
+50	Spectrogram 1	1	2016.0	2019.0	0	12000.0	Dark-eyed Junco	daejun	0.3519	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2016.0
+51	Spectrogram 1	1	2019.0	2022.0	0	12000.0	Dark-eyed Junco	daejun	0.1913	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2019.0
+52	Spectrogram 1	1	2022.0	2025.0	0	12000.0	Dark-eyed Junco	daejun	0.1721	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2022.0
+53	Spectrogram 1	1	2025.0	2028.0	0	12000.0	Dark-eyed Junco	daejun	0.3237	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2025.0
+54	Spectrogram 1	1	2034.0	2037.0	0	12000.0	Dark-eyed Junco	daejun	0.1349	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2034.0
+55	Spectrogram 1	1	2037.0	2040.0	0	12000.0	Dark-eyed Junco	daejun	0.3916	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2037.0
+56	Spectrogram 1	1	2040.0	2043.0	0	12000.0	Dark-eyed Junco	daejun	0.7095	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2040.0
+57	Spectrogram 1	1	2046.0	2049.0	0	12000.0	Dark-eyed Junco	daejun	0.3798	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2046.0
+58	Spectrogram 1	1	2049.0	2052.0	0	12000.0	Dark-eyed Junco	daejun	0.6552	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2049.0
+59	Spectrogram 1	1	2055.0	2058.0	0	12000.0	Dark-eyed Junco	daejun	0.4410	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2055.0
+60	Spectrogram 1	1	2058.0	2061.0	0	12000.0	Dark-eyed Junco	daejun	0.4504	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2058.0
+61	Spectrogram 1	1	2064.0	2067.0	0	12000.0	Dark-eyed Junco	daejun	0.3377	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2064.0
+62	Spectrogram 1	1	2067.0	2070.0	0	12000.0	Dark-eyed Junco	daejun	0.1967	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2067.0
+63	Spectrogram 1	1	2073.0	2076.0	0	12000.0	Dark-eyed Junco	daejun	0.8516	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2073.0
+64	Spectrogram 1	1	2076.0	2079.0	0	12000.0	Dark-eyed Junco	daejun	0.2885	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2076.0
+65	Spectrogram 1	1	2079.0	2082.0	0	12000.0	Dark-eyed Junco	daejun	0.1033	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2079.0
+66	Spectrogram 1	1	2091.0	2094.0	0	12000.0	Dark-eyed Junco	daejun	0.6201	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2091.0
+67	Spectrogram 1	1	2097.0	2100.0	0	12000.0	Dark-eyed Junco	daejun	0.1986	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2097.0
+68	Spectrogram 1	1	2106.0	2109.0	0	12000.0	Dark-eyed Junco	daejun	0.4556	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2106.0
+69	Spectrogram 1	1	2109.0	2112.0	0	12000.0	Dark-eyed Junco	daejun	0.1953	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2109.0
+70	Spectrogram 1	1	2115.0	2118.0	0	12000.0	Dark-eyed Junco	daejun	0.4607	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2115.0
+71	Spectrogram 1	1	2121.0	2124.0	0	12000.0	Dark-eyed Junco	daejun	0.2853	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2121.0
+72	Spectrogram 1	1	2130.0	2133.0	0	12000.0	Dark-eyed Junco	daejun	0.1004	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2130.0
+73	Spectrogram 1	1	2136.0	2139.0	0	12000.0	Dark-eyed Junco	daejun	0.1353	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2136.0
+74	Spectrogram 1	1	2142.0	2145.0	0	12000.0	Dark-eyed Junco	daejun	0.4369	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2142.0
+75	Spectrogram 1	1	2145.0	2148.0	0	12000.0	Dark-eyed Junco	daejun	0.3475	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2145.0
+76	Spectrogram 1	1	2148.0	2151.0	0	12000.0	Dark-eyed Junco	daejun	0.2631	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2148.0
+77	Spectrogram 1	1	2160.0	2163.0	0	12000.0	Dark-eyed Junco	daejun	0.3297	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2160.0
+78	Spectrogram 1	1	2175.0	2178.0	0	12000.0	Dark-eyed Junco	daejun	0.2959	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2175.0
+79	Spectrogram 1	1	2178.0	2181.0	0	12000.0	Dark-eyed Junco	daejun	0.6361	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2178.0
+80	Spectrogram 1	1	2181.0	2184.0	0	12000.0	Dark-eyed Junco	daejun	0.1042	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2181.0
+81	Spectrogram 1	1	2193.0	2196.0	0	12000.0	Dark-eyed Junco	daejun	0.4215	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2193.0
+82	Spectrogram 1	1	2196.0	2199.0	0	12000.0	Dark-eyed Junco	daejun	0.5806	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2196.0
+83	Spectrogram 1	1	2202.0	2205.0	0	12000.0	Dark-eyed Junco	daejun	0.3772	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2202.0
+84	Spectrogram 1	1	2205.0	2208.0	0	12000.0	Winter Wren	winwre3	0.4079	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2205.0
+85	Spectrogram 1	1	2211.0	2214.0	0	12000.0	Dark-eyed Junco	daejun	0.4010	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2211.0
+86	Spectrogram 1	1	2220.0	2223.0	0	12000.0	Dark-eyed Junco	daejun	0.4822	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2220.0
+87	Spectrogram 1	1	2229.0	2232.0	0	12000.0	Dark-eyed Junco	daejun	0.3779	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2229.0
+88	Spectrogram 1	1	2238.0	2241.0	0	12000.0	Dark-eyed Junco	daejun	0.1768	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2238.0
+89	Spectrogram 1	1	2244.0	2247.0	0	12000.0	Dark-eyed Junco	daejun	0.3472	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2244.0
+90	Spectrogram 1	1	2253.0	2256.0	0	12000.0	Dark-eyed Junco	daejun	0.5499	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2253.0
+91	Spectrogram 1	1	2256.0	2259.0	0	12000.0	Dark-eyed Junco	daejun	0.1507	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2256.0
+92	Spectrogram 1	1	2262.0	2265.0	0	12000.0	Dark-eyed Junco	daejun	0.6172	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2262.0
+93	Spectrogram 1	1	2265.0	2268.0	0	12000.0	Dark-eyed Junco	daejun	0.4208	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2265.0
+94	Spectrogram 1	1	2271.0	2274.0	0	12000.0	Dark-eyed Junco	daejun	0.4903	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2271.0
+95	Spectrogram 1	1	2277.0	2280.0	0	12000.0	Dark-eyed Junco	daejun	0.3330	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2277.0
+96	Spectrogram 1	1	2286.0	2289.0	0	12000.0	Dark-eyed Junco	daejun	0.1784	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2286.0
+97	Spectrogram 1	1	2292.0	2295.0	0	12000.0	Dark-eyed Junco	daejun	0.1014	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2292.0
+98	Spectrogram 1	1	2307.0	2310.0	0	12000.0	Brown Creeper	brncre	0.1028	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2307.0
+99	Spectrogram 1	1	2310.0	2313.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3349	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2310.0
+100	Spectrogram 1	1	2313.0	2316.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3797	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2313.0
+101	Spectrogram 1	1	2319.0	2322.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3656	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2319.0
+102	Spectrogram 1	1	2331.0	2334.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1991	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2331.0
+103	Spectrogram 1	1	2340.0	2343.0	0	12000.0	Winter Wren	winwre3	0.9967	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2340.0
+104	Spectrogram 1	1	2343.0	2346.0	0	12000.0	Winter Wren	winwre3	0.7595	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2343.0
+105	Spectrogram 1	1	2343.0	2346.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1078	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2343.0
+106	Spectrogram 1	1	2346.0	2349.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2297	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2346.0
+107	Spectrogram 1	1	2349.0	2352.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9818	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2349.0
+108	Spectrogram 1	1	2355.0	2358.0	0	12000.0	Winter Wren	winwre3	0.9971	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2355.0
+109	Spectrogram 1	1	2358.0	2361.0	0	12000.0	Winter Wren	winwre3	0.8594	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2358.0
+110	Spectrogram 1	1	2361.0	2364.0	0	12000.0	Winter Wren	winwre3	0.7702	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2361.0
+111	Spectrogram 1	1	2364.0	2367.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1932	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2364.0
+112	Spectrogram 1	1	2367.0	2370.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4649	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2367.0
+113	Spectrogram 1	1	2370.0	2373.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9837	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2370.0
+114	Spectrogram 1	1	2373.0	2376.0	0	12000.0	Dark-eyed Junco	daejun	0.8910	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2373.0
+115	Spectrogram 1	1	2376.0	2379.0	0	12000.0	Brown Creeper	brncre	0.1113	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2376.0
+116	Spectrogram 1	1	2385.0	2388.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9881	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2385.0
+117	Spectrogram 1	1	2388.0	2391.0	0	12000.0	Dark-eyed Junco	daejun	0.4115	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2388.0
+118	Spectrogram 1	1	2391.0	2394.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7770	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2391.0
+119	Spectrogram 1	1	2394.0	2397.0	0	12000.0	Black-capped Chickadee	bkcchi	0.3053	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2394.0
+120	Spectrogram 1	1	2400.0	2403.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3195	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2400.0
+121	Spectrogram 1	1	2409.0	2412.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9647	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2409.0
+122	Spectrogram 1	1	2412.0	2415.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9550	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2412.0
+123	Spectrogram 1	1	2415.0	2418.0	0	12000.0	Dark-eyed Junco	daejun	0.2589	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2415.0
+124	Spectrogram 1	1	2418.0	2421.0	0	12000.0	Dark-eyed Junco	daejun	0.4880	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2418.0
+125	Spectrogram 1	1	2418.0	2421.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1639	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2418.0
+126	Spectrogram 1	1	2424.0	2427.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3614	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2424.0
+127	Spectrogram 1	1	2427.0	2430.0	0	12000.0	Dark-eyed Junco	daejun	0.2078	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2427.0
+128	Spectrogram 1	1	2430.0	2433.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1493	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2430.0
+129	Spectrogram 1	1	2436.0	2439.0	0	12000.0	Palm Warbler	palwar	0.1104	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2436.0
+130	Spectrogram 1	1	2442.0	2445.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1172	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2442.0
+131	Spectrogram 1	1	2445.0	2448.0	0	12000.0	Dark-eyed Junco	daejun	0.1598	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2445.0
+132	Spectrogram 1	1	2448.0	2451.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9904	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2448.0
+133	Spectrogram 1	1	2451.0	2454.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3633	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2451.0
+134	Spectrogram 1	1	2457.0	2460.0	0	12000.0	Winter Wren	winwre3	0.9876	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2457.0
+135	Spectrogram 1	1	2466.0	2469.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4001	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2466.0
+136	Spectrogram 1	1	2469.0	2472.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9649	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2469.0
+137	Spectrogram 1	1	2472.0	2475.0	0	12000.0	Winter Wren	winwre3	0.9923	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2472.0
+138	Spectrogram 1	1	2481.0	2484.0	0	12000.0	Dark-eyed Junco	daejun	0.1004	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2481.0
+139	Spectrogram 1	1	2484.0	2487.0	0	12000.0	Winter Wren	winwre3	0.9788	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2484.0
+140	Spectrogram 1	1	2493.0	2496.0	0	12000.0	Northern Parula	norpar	0.1045	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2493.0
+141	Spectrogram 1	1	2496.0	2499.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2523	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2496.0
+142	Spectrogram 1	1	2496.0	2499.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1910	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2496.0
+143	Spectrogram 1	1	2499.0	2502.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7611	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2499.0
+144	Spectrogram 1	1	2508.0	2511.0	0	12000.0	Winter Wren	winwre3	0.9472	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2508.0
+145	Spectrogram 1	1	2511.0	2514.0	0	12000.0	Blue Jay	blujay	0.1152	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2511.0
+146	Spectrogram 1	1	2517.0	2520.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9888	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2517.0
+147	Spectrogram 1	1	2523.0	2526.0	0	12000.0	Olive-sided Flycatcher	olsfly	0.1458	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2523.0
+148	Spectrogram 1	1	2523.0	2526.0	0	12000.0	Dark-eyed Junco	daejun	0.1259	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2523.0
+149	Spectrogram 1	1	2532.0	2535.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8821	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2532.0
+150	Spectrogram 1	1	2547.0	2550.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8931	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2547.0
+151	Spectrogram 1	1	2553.0	2556.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5803	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2553.0
+152	Spectrogram 1	1	2556.0	2559.0	0	12000.0	Dark-eyed Junco	daejun	0.7637	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2556.0
+153	Spectrogram 1	1	2562.0	2565.0	0	12000.0	Dark-eyed Junco	daejun	0.1548	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2562.0
+154	Spectrogram 1	1	2574.0	2577.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5049	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2574.0
+155	Spectrogram 1	1	2577.0	2580.0	0	12000.0	Dark-eyed Junco	daejun	0.1497	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2577.0
+156	Spectrogram 1	1	2580.0	2583.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9787	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2580.0
+157	Spectrogram 1	1	2583.0	2586.0	0	12000.0	Dark-eyed Junco	daejun	0.2267	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2583.0
+158	Spectrogram 1	1	2586.0	2589.0	0	12000.0	Dark-eyed Junco	daejun	0.4577	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2586.0
+159	Spectrogram 1	1	2589.0	2592.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6025	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2589.0
+160	Spectrogram 1	1	2589.0	2592.0	0	12000.0	Winter Wren	winwre3	0.1035	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2589.0
+161	Spectrogram 1	1	2595.0	2598.0	0	12000.0	Dark-eyed Junco	daejun	0.1431	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2595.0
+162	Spectrogram 1	1	2601.0	2604.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5666	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2601.0
+163	Spectrogram 1	1	2604.0	2607.0	0	12000.0	Dark-eyed Junco	daejun	0.1814	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2604.0
+164	Spectrogram 1	1	2607.0	2610.0	0	12000.0	Palm Warbler	palwar	0.2241	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2607.0
+165	Spectrogram 1	1	2613.0	2616.0	0	12000.0	Dark-eyed Junco	daejun	0.2884	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2613.0
+166	Spectrogram 1	1	2622.0	2625.0	0	12000.0	Northern Parula	norpar	0.1206	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2622.0
+167	Spectrogram 1	1	2625.0	2628.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7338	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2625.0
+168	Spectrogram 1	1	2628.0	2631.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8581	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2628.0
+169	Spectrogram 1	1	2634.0	2637.0	0	12000.0	Dark-eyed Junco	daejun	0.6324	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2634.0
+170	Spectrogram 1	1	2637.0	2640.0	0	12000.0	Dark-eyed Junco	daejun	0.4557	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2637.0
+171	Spectrogram 1	1	2640.0	2643.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9011	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2640.0
+172	Spectrogram 1	1	2643.0	2646.0	0	12000.0	Dark-eyed Junco	daejun	0.6923	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2643.0
+173	Spectrogram 1	1	2646.0	2649.0	0	12000.0	Winter Wren	winwre3	0.9782	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2646.0
+174	Spectrogram 1	1	2649.0	2652.0	0	12000.0	Winter Wren	winwre3	0.4103	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2649.0
+175	Spectrogram 1	1	2652.0	2655.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9573	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2652.0
+176	Spectrogram 1	1	2655.0	2658.0	0	12000.0	Winter Wren	winwre3	0.4021	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2655.0
+177	Spectrogram 1	1	2658.0	2661.0	0	12000.0	Dark-eyed Junco	daejun	0.3910	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2658.0
+178	Spectrogram 1	1	2661.0	2664.0	0	12000.0	Winter Wren	winwre3	0.1626	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2661.0
+179	Spectrogram 1	1	2664.0	2667.0	0	12000.0	Winter Wren	winwre3	0.9697	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2664.0
+180	Spectrogram 1	1	2667.0	2670.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9489	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2667.0
+181	Spectrogram 1	1	2670.0	2673.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1205	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2670.0
+182	Spectrogram 1	1	2673.0	2676.0	0	12000.0	Dark-eyed Junco	daejun	0.2397	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2673.0
+183	Spectrogram 1	1	2682.0	2685.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2637	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2682.0
+184	Spectrogram 1	1	2685.0	2688.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9924	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2685.0
+185	Spectrogram 1	1	2691.0	2694.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8882	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2691.0
+186	Spectrogram 1	1	2706.0	2709.0	0	12000.0	Northern Parula	norpar	0.2487	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2706.0
+187	Spectrogram 1	1	2709.0	2712.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7055	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2709.0
+188	Spectrogram 1	1	2712.0	2715.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2609	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2712.0
+189	Spectrogram 1	1	2718.0	2721.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2168	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2718.0
+190	Spectrogram 1	1	2721.0	2724.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1877	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2721.0
+191	Spectrogram 1	1	2724.0	2727.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1948	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2724.0
+192	Spectrogram 1	1	2727.0	2730.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2244	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2727.0
+193	Spectrogram 1	1	2730.0	2733.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9216	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2730.0
+194	Spectrogram 1	1	2733.0	2736.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9516	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2733.0
+195	Spectrogram 1	1	2736.0	2739.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1226	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2736.0
+196	Spectrogram 1	1	2739.0	2742.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3921	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2739.0
+197	Spectrogram 1	1	2751.0	2754.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1908	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2751.0
+198	Spectrogram 1	1	2757.0	2760.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9977	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2757.0
+199	Spectrogram 1	1	2766.0	2769.0	0	12000.0	Northern Parula	norpar	0.1258	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2766.0
+200	Spectrogram 1	1	2772.0	2775.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5420	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2772.0
+201	Spectrogram 1	1	2772.0	2775.0	0	12000.0	Nashville Warbler	naswar	0.1649	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2772.0
+202	Spectrogram 1	1	2781.0	2784.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9951	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2781.0
+203	Spectrogram 1	1	2784.0	2787.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8081	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2784.0
+204	Spectrogram 1	1	2793.0	2796.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1432	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2793.0
+205	Spectrogram 1	1	2796.0	2799.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4625	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2796.0
+206	Spectrogram 1	1	2799.0	2802.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9626	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2799.0
+207	Spectrogram 1	1	2802.0	2805.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6915	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2802.0
+208	Spectrogram 1	1	2811.0	2814.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3439	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2811.0
+209	Spectrogram 1	1	2814.0	2817.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9927	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2814.0
+210	Spectrogram 1	1	2820.0	2823.0	0	12000.0	Dark-eyed Junco	daejun	0.1610	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2820.0
+211	Spectrogram 1	1	2826.0	2829.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9887	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2826.0
+212	Spectrogram 1	1	2829.0	2832.0	0	12000.0	Winter Wren	winwre3	0.2489	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2829.0
+213	Spectrogram 1	1	2838.0	2841.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2130	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2838.0
+214	Spectrogram 1	1	2844.0	2847.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9866	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2844.0
+215	Spectrogram 1	1	2853.0	2856.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1106	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2853.0
+216	Spectrogram 1	1	2853.0	2856.0	0	12000.0	Nashville Warbler	naswar	0.1020	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2853.0
+217	Spectrogram 1	1	2856.0	2859.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9814	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2856.0
+218	Spectrogram 1	1	2859.0	2862.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1093	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2859.0
+219	Spectrogram 1	1	2871.0	2874.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9956	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2871.0
+220	Spectrogram 1	1	2874.0	2877.0	0	12000.0	Dark-eyed Junco	daejun	0.1253	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2874.0
+221	Spectrogram 1	1	2877.0	2880.0	0	12000.0	Dark-eyed Junco	daejun	0.1267	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2877.0
+222	Spectrogram 1	1	2889.0	2892.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9763	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2889.0
+223	Spectrogram 1	1	2892.0	2895.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9727	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2892.0
+224	Spectrogram 1	1	2904.0	2907.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9970	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2904.0
+225	Spectrogram 1	1	2907.0	2910.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9904	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2907.0
+226	Spectrogram 1	1	2922.0	2925.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1902	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2922.0
+227	Spectrogram 1	1	2931.0	2934.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9732	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2931.0
+228	Spectrogram 1	1	2943.0	2946.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9741	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2943.0
+229	Spectrogram 1	1	2955.0	2958.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1244	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2955.0
+230	Spectrogram 1	1	2964.0	2967.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8908	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2964.0
+231	Spectrogram 1	1	2967.0	2970.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1045	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2967.0
+232	Spectrogram 1	1	2970.0	2973.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9773	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2970.0
+233	Spectrogram 1	1	2988.0	2991.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6197	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2988.0
+234	Spectrogram 1	1	2994.0	2997.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1398	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2994.0
+235	Spectrogram 1	1	2997.0	3000.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9775	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	2997.0
+236	Spectrogram 1	1	3006.0	3009.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5044	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3006.0
+237	Spectrogram 1	1	3015.0	3018.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5440	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3015.0
+238	Spectrogram 1	1	3018.0	3021.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9156	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3018.0
+239	Spectrogram 1	1	3030.0	3033.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1086	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3030.0
+240	Spectrogram 1	1	3039.0	3042.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7640	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3039.0
+241	Spectrogram 1	1	3042.0	3045.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9583	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3042.0
+242	Spectrogram 1	1	3048.0	3051.0	0	12000.0	Chipping Sparrow	chispa	0.1777	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3048.0
+243	Spectrogram 1	1	3057.0	3060.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5631	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3057.0
+244	Spectrogram 1	1	3060.0	3063.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9597	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3060.0
+245	Spectrogram 1	1	3066.0	3069.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3344	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3066.0
+246	Spectrogram 1	1	3072.0	3075.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9621	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3072.0
+247	Spectrogram 1	1	3075.0	3078.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9930	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3075.0
+248	Spectrogram 1	1	3084.0	3087.0	0	12000.0	Cedar Waxwing	cedwax	0.4987	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3084.0
+249	Spectrogram 1	1	3123.0	3126.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9693	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3123.0
+250	Spectrogram 1	1	3126.0	3129.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6491	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3126.0
+251	Spectrogram 1	1	3132.0	3135.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2842	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3132.0
+252	Spectrogram 1	1	3135.0	3138.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9373	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3135.0
+253	Spectrogram 1	1	3144.0	3147.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9914	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3144.0
+254	Spectrogram 1	1	3147.0	3150.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8918	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3147.0
+255	Spectrogram 1	1	3150.0	3153.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2052	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3150.0
+256	Spectrogram 1	1	3159.0	3162.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9488	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3159.0
+257	Spectrogram 1	1	3162.0	3165.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9302	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3162.0
+258	Spectrogram 1	1	3177.0	3180.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9444	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3177.0
+259	Spectrogram 1	1	3186.0	3189.0	0	12000.0	Palm Warbler	palwar	0.1367	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3186.0
+260	Spectrogram 1	1	3195.0	3198.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9624	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3195.0
+261	Spectrogram 1	1	3210.0	3213.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9920	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3210.0
+262	Spectrogram 1	1	3213.0	3216.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1493	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3213.0
+263	Spectrogram 1	1	3219.0	3222.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9412	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3219.0
+264	Spectrogram 1	1	3225.0	3228.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9972	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3225.0
+265	Spectrogram 1	1	3231.0	3234.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1374	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3231.0
+266	Spectrogram 1	1	3237.0	3240.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3376	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3237.0
+267	Spectrogram 1	1	3240.0	3243.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8815	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3240.0
+268	Spectrogram 1	1	3243.0	3246.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9525	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3243.0
+269	Spectrogram 1	1	3246.0	3249.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9049	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3246.0
+270	Spectrogram 1	1	3249.0	3252.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9941	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3249.0
+271	Spectrogram 1	1	3255.0	3258.0	0	12000.0	Palm Warbler	palwar	0.1341	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3255.0
+272	Spectrogram 1	1	3258.0	3261.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9782	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3258.0
+273	Spectrogram 1	1	3261.0	3264.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6653	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3261.0
+274	Spectrogram 1	1	3267.0	3270.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2238	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3267.0
+275	Spectrogram 1	1	3270.0	3273.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5462	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3270.0
+276	Spectrogram 1	1	3273.0	3276.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9316	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3273.0
+277	Spectrogram 1	1	3276.0	3279.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2437	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3276.0
+278	Spectrogram 1	1	3279.0	3282.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3915	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3279.0
+279	Spectrogram 1	1	3282.0	3285.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2348	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3282.0
+280	Spectrogram 1	1	3285.0	3288.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9905	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3285.0
+281	Spectrogram 1	1	3291.0	3294.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3179	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3291.0
+282	Spectrogram 1	1	3291.0	3294.0	0	12000.0	Brown Creeper	brncre	0.2149	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3291.0
+283	Spectrogram 1	1	3297.0	3300.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9955	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3297.0
+284	Spectrogram 1	1	3303.0	3306.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1169	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3303.0
+285	Spectrogram 1	1	3303.0	3306.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1014	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3303.0
+286	Spectrogram 1	1	3309.0	3312.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1126	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3309.0
+287	Spectrogram 1	1	3312.0	3315.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9646	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3312.0
+288	Spectrogram 1	1	3315.0	3318.0	0	12000.0	Nashville Warbler	naswar	0.1476	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3315.0
+289	Spectrogram 1	1	3321.0	3324.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9946	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3321.0
+290	Spectrogram 1	1	3330.0	3333.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9858	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3330.0
+291	Spectrogram 1	1	3333.0	3336.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9843	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3333.0
+292	Spectrogram 1	1	3339.0	3342.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1885	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3339.0
+293	Spectrogram 1	1	3345.0	3348.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4469	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3345.0
+294	Spectrogram 1	1	3348.0	3351.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3335	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3348.0
+295	Spectrogram 1	1	3351.0	3354.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9965	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3351.0
+296	Spectrogram 1	1	3357.0	3360.0	0	12000.0	Canada Warbler	canwar	0.1794	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3357.0
+297	Spectrogram 1	1	3357.0	3360.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1688	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3357.0
+298	Spectrogram 1	1	3366.0	3369.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8107	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3366.0
+299	Spectrogram 1	1	3366.0	3369.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.2929	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3366.0
+300	Spectrogram 1	1	3369.0	3372.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9964	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3369.0
+301	Spectrogram 1	1	3375.0	3378.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9464	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3375.0
+302	Spectrogram 1	1	3384.0	3387.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4150	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3384.0
+303	Spectrogram 1	1	3387.0	3390.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9069	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3387.0
+304	Spectrogram 1	1	3396.0	3399.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1705	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3396.0
+305	Spectrogram 1	1	3396.0	3399.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1240	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3396.0
+306	Spectrogram 1	1	3399.0	3402.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9900	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3399.0
+307	Spectrogram 1	1	3411.0	3414.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9262	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3411.0
+308	Spectrogram 1	1	3411.0	3414.0	0	12000.0	Wilson's Warbler	wlswar	0.1027	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3411.0
+309	Spectrogram 1	1	3423.0	3426.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9054	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3423.0
+310	Spectrogram 1	1	3432.0	3435.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9990	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3432.0
+311	Spectrogram 1	1	3435.0	3438.0	0	12000.0	Brown Creeper	brncre	0.6305	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3435.0
+312	Spectrogram 1	1	3444.0	3447.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5108	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3444.0
+313	Spectrogram 1	1	3450.0	3453.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9673	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3450.0
+314	Spectrogram 1	1	3453.0	3456.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5375	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3453.0
+315	Spectrogram 1	1	3453.0	3456.0	0	12000.0	Canada Warbler	canwar	0.1272	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3453.0
+316	Spectrogram 1	1	3456.0	3459.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3856	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3456.0
+317	Spectrogram 1	1	3465.0	3468.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9492	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3465.0
+318	Spectrogram 1	1	3468.0	3471.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2885	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3468.0
+319	Spectrogram 1	1	3471.0	3474.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9843	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3471.0
+320	Spectrogram 1	1	3477.0	3480.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3813	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3477.0
+321	Spectrogram 1	1	3486.0	3489.0	0	12000.0	Black-and-white Warbler	bawwar	0.2448	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3486.0
+322	Spectrogram 1	1	3486.0	3489.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1696	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3486.0
+323	Spectrogram 1	1	3495.0	3498.0	0	12000.0	Palm Warbler	palwar	0.1101	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3495.0
+324	Spectrogram 1	1	3498.0	3501.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6990	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3498.0
+325	Spectrogram 1	1	3504.0	3507.0	0	12000.0	Palm Warbler	palwar	0.1458	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3504.0
+326	Spectrogram 1	1	3528.0	3531.0	0	12000.0	Winter Wren	winwre3	0.8680	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3528.0
+327	Spectrogram 1	1	3531.0	3534.0	0	12000.0	Winter Wren	winwre3	0.5443	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3531.0
+328	Spectrogram 1	1	3543.0	3546.0	0	12000.0	Winter Wren	winwre3	0.5852	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240719_041100.wav	3543.0

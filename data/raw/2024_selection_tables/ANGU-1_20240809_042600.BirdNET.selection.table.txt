@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2676.0	2679.0	0	12000.0	American Crow	amecro	0.1169	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240809_042600.wav	2676.0
+2	Spectrogram 1	1	3261.0	3264.0	0	12000.0	Pileated Woodpecker	pilwoo	0.2158	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240809_042600.wav	3261.0
+3	Spectrogram 1	1	3345.0	3348.0	0	12000.0	Blue Jay	blujay	0.1539	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240809_042600.wav	3345.0
+4	Spectrogram 1	1	3567.0	3570.0	0	12000.0	Brown Creeper	brncre	0.5025	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240809_042600.wav	3567.0
+5	Spectrogram 1	1	3567.0	3570.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1107	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240809_042600.wav	3567.0

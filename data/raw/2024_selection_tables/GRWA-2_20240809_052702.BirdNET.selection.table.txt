@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	180.0	183.0	0	12000.0	Brown Creeper	brncre	0.8615	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240809_052702.wav	180.0
+2	Spectrogram 1	1	276.0	279.0	0	12000.0	Brown Creeper	brncre	0.6455	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240809_052702.wav	276.0
+3	Spectrogram 1	1	564.0	567.0	0	12000.0	Red Crossbill	redcro	0.2857	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240809_052702.wav	564.0
+4	Spectrogram 1	1	564.0	567.0	0	12000.0	White-winged Crossbill	whwcro	0.1311	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240809_052702.wav	564.0
+5	Spectrogram 1	1	933.0	936.0	0	12000.0	American Crow	amecro	0.1478	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240809_052702.wav	933.0
+6	Spectrogram 1	1	3045.0	3048.0	0	12000.0	Winter Wren	winwre3	0.5700	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240809_052702.wav	3045.0

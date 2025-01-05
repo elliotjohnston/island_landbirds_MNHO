@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2085.0	2088.0	0	12000.0	American Crow	amecro	0.1070	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240808_042600.wav	2085.0
+2	Spectrogram 1	1	2670.0	2673.0	0	12000.0	Winter Wren	winwre3	0.4757	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240808_042600.wav	2670.0
+3	Spectrogram 1	1	2706.0	2709.0	0	12000.0	Winter Wren	winwre3	0.8925	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240808_042600.wav	2706.0
+4	Spectrogram 1	1	2721.0	2724.0	0	12000.0	Winter Wren	winwre3	0.9722	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240808_042600.wav	2721.0
+5	Spectrogram 1	1	2775.0	2778.0	0	12000.0	Winter Wren	winwre3	0.6400	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240808_042600.wav	2775.0
+6	Spectrogram 1	1	2778.0	2781.0	0	12000.0	Pine Grosbeak	pingro	0.1105	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240808_042600.wav	2778.0
+7	Spectrogram 1	1	2835.0	2838.0	0	12000.0	Cedar Waxwing	cedwax	0.7121	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240808_042600.wav	2835.0
+8	Spectrogram 1	1	3450.0	3453.0	0	12000.0	Cedar Waxwing	cedwax	0.1159	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240808_042600.wav	3450.0
+9	Spectrogram 1	1	3459.0	3462.0	0	12000.0	Cedar Waxwing	cedwax	0.4784	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240808_042600.wav	3459.0

@@ -1,0 +1,1033 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	0	3.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2203	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	0
+2	Spectrogram 1	1	0	3.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2076	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	0
+3	Spectrogram 1	1	0	3.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1539	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	0
+4	Spectrogram 1	1	3.0	6.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6784	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3.0
+5	Spectrogram 1	1	9.0	12.0	0	12000.0	Magnolia Warbler	magwar	0.2226	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	9.0
+6	Spectrogram 1	1	9.0	12.0	0	12000.0	American Redstart	amered	0.1047	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	9.0
+7	Spectrogram 1	1	12.0	15.0	0	12000.0	Brown Creeper	brncre	0.6778	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	12.0
+8	Spectrogram 1	1	15.0	18.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8494	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	15.0
+9	Spectrogram 1	1	21.0	24.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7011	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	21.0
+10	Spectrogram 1	1	21.0	24.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4986	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	21.0
+11	Spectrogram 1	1	27.0	30.0	0	12000.0	Magnolia Warbler	magwar	0.2987	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	27.0
+12	Spectrogram 1	1	30.0	33.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6812	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	30.0
+13	Spectrogram 1	1	33.0	36.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8783	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	33.0
+14	Spectrogram 1	1	33.0	36.0	0	12000.0	Brown Creeper	brncre	0.2336	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	33.0
+15	Spectrogram 1	1	36.0	39.0	0	12000.0	Magnolia Warbler	magwar	0.2135	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	36.0
+16	Spectrogram 1	1	39.0	42.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9557	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	39.0
+17	Spectrogram 1	1	39.0	42.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2253	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	39.0
+18	Spectrogram 1	1	42.0	45.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2193	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	42.0
+19	Spectrogram 1	1	45.0	48.0	0	12000.0	Brown Creeper	brncre	0.2863	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	45.0
+20	Spectrogram 1	1	48.0	51.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8056	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	48.0
+21	Spectrogram 1	1	48.0	51.0	0	12000.0	Brown Creeper	brncre	0.3121	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	48.0
+22	Spectrogram 1	1	54.0	57.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8733	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	54.0
+23	Spectrogram 1	1	57.0	60.0	0	12000.0	Black-capped Chickadee	bkcchi	0.2584	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	57.0
+24	Spectrogram 1	1	60.0	63.0	0	12000.0	Winter Wren	winwre3	0.5245	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	60.0
+25	Spectrogram 1	1	63.0	66.0	0	12000.0	Magnolia Warbler	magwar	0.5132	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	63.0
+26	Spectrogram 1	1	63.0	66.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1444	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	63.0
+27	Spectrogram 1	1	72.0	75.0	0	12000.0	Magnolia Warbler	magwar	0.1914	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	72.0
+28	Spectrogram 1	1	75.0	78.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5507	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	75.0
+29	Spectrogram 1	1	78.0	81.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8715	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	78.0
+30	Spectrogram 1	1	78.0	81.0	0	12000.0	Brown Creeper	brncre	0.4132	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	78.0
+31	Spectrogram 1	1	81.0	84.0	0	12000.0	Magnolia Warbler	magwar	0.2531	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	81.0
+32	Spectrogram 1	1	81.0	84.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1291	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	81.0
+33	Spectrogram 1	1	93.0	96.0	0	12000.0	Wood Thrush	woothr	0.1359	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	93.0
+34	Spectrogram 1	1	96.0	99.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3536	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	96.0
+35	Spectrogram 1	1	99.0	102.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6286	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	99.0
+36	Spectrogram 1	1	99.0	102.0	0	12000.0	Brown Creeper	brncre	0.2694	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	99.0
+37	Spectrogram 1	1	99.0	102.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1353	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	99.0
+38	Spectrogram 1	1	105.0	108.0	0	12000.0	Brown Creeper	brncre	0.1497	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	105.0
+39	Spectrogram 1	1	108.0	111.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3654	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	108.0
+40	Spectrogram 1	1	108.0	111.0	0	12000.0	Brown Creeper	brncre	0.1431	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	108.0
+41	Spectrogram 1	1	111.0	114.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8932	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	111.0
+42	Spectrogram 1	1	111.0	114.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3375	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	111.0
+43	Spectrogram 1	1	114.0	117.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1248	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	114.0
+44	Spectrogram 1	1	117.0	120.0	0	12000.0	Brown Creeper	brncre	0.3494	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	117.0
+45	Spectrogram 1	1	117.0	120.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1927	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	117.0
+46	Spectrogram 1	1	120.0	123.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9401	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	120.0
+47	Spectrogram 1	1	126.0	129.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8553	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	126.0
+48	Spectrogram 1	1	129.0	132.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4201	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	129.0
+49	Spectrogram 1	1	129.0	132.0	0	12000.0	Black-capped Chickadee	bkcchi	0.2371	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	129.0
+50	Spectrogram 1	1	132.0	135.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8098	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	132.0
+51	Spectrogram 1	1	138.0	141.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3935	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	138.0
+52	Spectrogram 1	1	138.0	141.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2132	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	138.0
+53	Spectrogram 1	1	138.0	141.0	0	12000.0	Brown Creeper	brncre	0.1144	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	138.0
+54	Spectrogram 1	1	141.0	144.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.7608	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	141.0
+55	Spectrogram 1	1	144.0	147.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9662	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	144.0
+56	Spectrogram 1	1	147.0	150.0	0	12000.0	Black-capped Chickadee	bkcchi	0.5707	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	147.0
+57	Spectrogram 1	1	147.0	150.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1325	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	147.0
+58	Spectrogram 1	1	150.0	153.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3800	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	150.0
+59	Spectrogram 1	1	150.0	153.0	0	12000.0	Magnolia Warbler	magwar	0.1171	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	150.0
+60	Spectrogram 1	1	153.0	156.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6998	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	153.0
+61	Spectrogram 1	1	153.0	156.0	0	12000.0	Brown Creeper	brncre	0.2227	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	153.0
+62	Spectrogram 1	1	156.0	159.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8269	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	156.0
+63	Spectrogram 1	1	159.0	162.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.8460	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	159.0
+64	Spectrogram 1	1	162.0	165.0	0	12000.0	Magnolia Warbler	magwar	0.3549	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	162.0
+65	Spectrogram 1	1	162.0	165.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1055	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	162.0
+66	Spectrogram 1	1	165.0	168.0	0	12000.0	Brown Creeper	brncre	0.6729	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	165.0
+67	Spectrogram 1	1	165.0	168.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3797	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	165.0
+68	Spectrogram 1	1	168.0	171.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8867	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	168.0
+69	Spectrogram 1	1	168.0	171.0	0	12000.0	Brown Creeper	brncre	0.1371	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	168.0
+70	Spectrogram 1	1	171.0	174.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7625	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	171.0
+71	Spectrogram 1	1	171.0	174.0	0	12000.0	Brown Creeper	brncre	0.3987	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	171.0
+72	Spectrogram 1	1	174.0	177.0	0	12000.0	Magnolia Warbler	magwar	0.3431	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	174.0
+73	Spectrogram 1	1	174.0	177.0	0	12000.0	Brown Creeper	brncre	0.2609	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	174.0
+74	Spectrogram 1	1	174.0	177.0	0	12000.0	Common Raven	comrav	0.1408	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	174.0
+75	Spectrogram 1	1	177.0	180.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8965	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	177.0
+76	Spectrogram 1	1	183.0	186.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5893	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	183.0
+77	Spectrogram 1	1	186.0	189.0	0	12000.0	Wood Thrush	woothr	0.3495	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	186.0
+78	Spectrogram 1	1	186.0	189.0	0	12000.0	Hermit Thrush	herthr	0.1891	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	186.0
+79	Spectrogram 1	1	189.0	192.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9454	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	189.0
+80	Spectrogram 1	1	192.0	195.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1319	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	192.0
+81	Spectrogram 1	1	195.0	198.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8756	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	195.0
+82	Spectrogram 1	1	195.0	198.0	0	12000.0	Brown Creeper	brncre	0.6558	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	195.0
+83	Spectrogram 1	1	198.0	201.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8929	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	198.0
+84	Spectrogram 1	1	204.0	207.0	0	12000.0	Magnolia Warbler	magwar	0.5607	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	204.0
+85	Spectrogram 1	1	204.0	207.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1245	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	204.0
+86	Spectrogram 1	1	210.0	213.0	0	12000.0	Brown Creeper	brncre	0.6816	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	210.0
+87	Spectrogram 1	1	210.0	213.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5151	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	210.0
+88	Spectrogram 1	1	213.0	216.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3030	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	213.0
+89	Spectrogram 1	1	216.0	219.0	0	12000.0	Brown Creeper	brncre	0.3415	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	216.0
+90	Spectrogram 1	1	216.0	219.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3402	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	216.0
+91	Spectrogram 1	1	219.0	222.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8612	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	219.0
+92	Spectrogram 1	1	219.0	222.0	0	12000.0	Brown Creeper	brncre	0.6000	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	219.0
+93	Spectrogram 1	1	222.0	225.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9436	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	222.0
+94	Spectrogram 1	1	225.0	228.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3943	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	225.0
+95	Spectrogram 1	1	228.0	231.0	0	12000.0	Wood Thrush	woothr	0.2748	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	228.0
+96	Spectrogram 1	1	231.0	234.0	0	12000.0	Brown Creeper	brncre	0.6018	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	231.0
+97	Spectrogram 1	1	231.0	234.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2504	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	231.0
+98	Spectrogram 1	1	234.0	237.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9348	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	234.0
+99	Spectrogram 1	1	234.0	237.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2445	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	234.0
+100	Spectrogram 1	1	234.0	237.0	0	12000.0	Brown Creeper	brncre	0.1013	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	234.0
+101	Spectrogram 1	1	237.0	240.0	0	12000.0	Brown Creeper	brncre	0.1450	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	237.0
+102	Spectrogram 1	1	246.0	249.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4802	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	246.0
+103	Spectrogram 1	1	246.0	249.0	0	12000.0	Brown Creeper	brncre	0.3325	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	246.0
+104	Spectrogram 1	1	246.0	249.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1631	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	246.0
+105	Spectrogram 1	1	249.0	252.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4610	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	249.0
+106	Spectrogram 1	1	249.0	252.0	0	12000.0	Winter Wren	winwre3	0.1625	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	249.0
+107	Spectrogram 1	1	255.0	258.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9500	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	255.0
+108	Spectrogram 1	1	258.0	261.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1052	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	258.0
+109	Spectrogram 1	1	261.0	264.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4127	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	261.0
+110	Spectrogram 1	1	264.0	267.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8877	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	264.0
+111	Spectrogram 1	1	273.0	276.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6483	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	273.0
+112	Spectrogram 1	1	279.0	282.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7794	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	279.0
+113	Spectrogram 1	1	279.0	282.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1053	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	279.0
+114	Spectrogram 1	1	282.0	285.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5228	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	282.0
+115	Spectrogram 1	1	282.0	285.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2333	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	282.0
+116	Spectrogram 1	1	285.0	288.0	0	12000.0	Winter Wren	winwre3	0.1506	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	285.0
+117	Spectrogram 1	1	288.0	291.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7050	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	288.0
+118	Spectrogram 1	1	288.0	291.0	0	12000.0	Brown Creeper	brncre	0.5510	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	288.0
+119	Spectrogram 1	1	291.0	294.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6348	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	291.0
+120	Spectrogram 1	1	294.0	297.0	0	12000.0	Winter Wren	winwre3	0.5152	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	294.0
+121	Spectrogram 1	1	297.0	300.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1844	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	297.0
+122	Spectrogram 1	1	300.0	303.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9490	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	300.0
+123	Spectrogram 1	1	303.0	306.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1768	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	303.0
+124	Spectrogram 1	1	309.0	312.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1993	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	309.0
+125	Spectrogram 1	1	312.0	315.0	0	12000.0	Brown Creeper	brncre	0.9594	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	312.0
+126	Spectrogram 1	1	315.0	318.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4718	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	315.0
+127	Spectrogram 1	1	315.0	318.0	0	12000.0	Brown Creeper	brncre	0.2890	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	315.0
+128	Spectrogram 1	1	318.0	321.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7821	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	318.0
+129	Spectrogram 1	1	321.0	324.0	0	12000.0	Hermit Thrush	herthr	0.5860	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	321.0
+130	Spectrogram 1	1	321.0	324.0	0	12000.0	Magnolia Warbler	magwar	0.1041	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	321.0
+131	Spectrogram 1	1	324.0	327.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3776	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	324.0
+132	Spectrogram 1	1	327.0	330.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5377	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	327.0
+133	Spectrogram 1	1	330.0	333.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2665	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	330.0
+134	Spectrogram 1	1	333.0	336.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7930	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	333.0
+135	Spectrogram 1	1	342.0	345.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3039	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	342.0
+136	Spectrogram 1	1	345.0	348.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5151	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	345.0
+137	Spectrogram 1	1	348.0	351.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9053	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	348.0
+138	Spectrogram 1	1	351.0	354.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1904	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	351.0
+139	Spectrogram 1	1	354.0	357.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2687	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	354.0
+140	Spectrogram 1	1	357.0	360.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1085	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	357.0
+141	Spectrogram 1	1	360.0	363.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2190	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	360.0
+142	Spectrogram 1	1	360.0	363.0	0	12000.0	Hermit Thrush	herthr	0.1201	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	360.0
+143	Spectrogram 1	1	360.0	363.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1178	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	360.0
+144	Spectrogram 1	1	372.0	375.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7655	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	372.0
+145	Spectrogram 1	1	375.0	378.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1014	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	375.0
+146	Spectrogram 1	1	378.0	381.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5355	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	378.0
+147	Spectrogram 1	1	378.0	381.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1822	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	378.0
+148	Spectrogram 1	1	381.0	384.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6599	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	381.0
+149	Spectrogram 1	1	381.0	384.0	0	12000.0	Brown Creeper	brncre	0.1413	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	381.0
+150	Spectrogram 1	1	384.0	387.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1278	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	384.0
+151	Spectrogram 1	1	387.0	390.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2993	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	387.0
+152	Spectrogram 1	1	387.0	390.0	0	12000.0	Brown Creeper	brncre	0.1381	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	387.0
+153	Spectrogram 1	1	390.0	393.0	0	12000.0	Brown Creeper	brncre	0.2941	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	390.0
+154	Spectrogram 1	1	390.0	393.0	0	12000.0	Winter Wren	winwre3	0.1457	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	390.0
+155	Spectrogram 1	1	390.0	393.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1063	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	390.0
+156	Spectrogram 1	1	393.0	396.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5627	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	393.0
+157	Spectrogram 1	1	393.0	396.0	0	12000.0	Brown Creeper	brncre	0.1482	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	393.0
+158	Spectrogram 1	1	402.0	405.0	0	12000.0	Brown Creeper	brncre	0.3171	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	402.0
+159	Spectrogram 1	1	405.0	408.0	0	12000.0	Hermit Thrush	herthr	0.1939	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	405.0
+160	Spectrogram 1	1	405.0	408.0	0	12000.0	Winter Wren	winwre3	0.1449	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	405.0
+161	Spectrogram 1	1	405.0	408.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1203	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	405.0
+162	Spectrogram 1	1	405.0	408.0	0	12000.0	Brown Creeper	brncre	0.1201	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	405.0
+163	Spectrogram 1	1	408.0	411.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2209	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	408.0
+164	Spectrogram 1	1	411.0	414.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3697	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	411.0
+165	Spectrogram 1	1	417.0	420.0	0	12000.0	Brown Creeper	brncre	0.6565	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	417.0
+166	Spectrogram 1	1	429.0	432.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7518	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	429.0
+167	Spectrogram 1	1	429.0	432.0	0	12000.0	Brown Creeper	brncre	0.5482	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	429.0
+168	Spectrogram 1	1	435.0	438.0	0	12000.0	Brown Creeper	brncre	0.6152	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	435.0
+169	Spectrogram 1	1	441.0	444.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4787	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	441.0
+170	Spectrogram 1	1	444.0	447.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9088	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	444.0
+171	Spectrogram 1	1	447.0	450.0	0	12000.0	Brown Creeper	brncre	0.1926	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	447.0
+172	Spectrogram 1	1	450.0	453.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8997	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	450.0
+173	Spectrogram 1	1	453.0	456.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2910	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	453.0
+174	Spectrogram 1	1	453.0	456.0	0	12000.0	Black-capped Chickadee	bkcchi	0.1986	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	453.0
+175	Spectrogram 1	1	456.0	459.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1183	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	456.0
+176	Spectrogram 1	1	465.0	468.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2763	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	465.0
+177	Spectrogram 1	1	468.0	471.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5947	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	468.0
+178	Spectrogram 1	1	471.0	474.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2601	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	471.0
+179	Spectrogram 1	1	474.0	477.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3058	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	474.0
+180	Spectrogram 1	1	477.0	480.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4339	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	477.0
+181	Spectrogram 1	1	480.0	483.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1184	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	480.0
+182	Spectrogram 1	1	483.0	486.0	0	12000.0	Magnolia Warbler	magwar	0.3370	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	483.0
+183	Spectrogram 1	1	483.0	486.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2707	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	483.0
+184	Spectrogram 1	1	483.0	486.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1368	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	483.0
+185	Spectrogram 1	1	486.0	489.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6015	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	486.0
+186	Spectrogram 1	1	489.0	492.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2578	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	489.0
+187	Spectrogram 1	1	489.0	492.0	0	12000.0	Brown Creeper	brncre	0.1402	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	489.0
+188	Spectrogram 1	1	492.0	495.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3437	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	492.0
+189	Spectrogram 1	1	492.0	495.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1551	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	492.0
+190	Spectrogram 1	1	492.0	495.0	0	12000.0	Magnolia Warbler	magwar	0.1360	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	492.0
+191	Spectrogram 1	1	492.0	495.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1213	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	492.0
+192	Spectrogram 1	1	495.0	498.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6971	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	495.0
+193	Spectrogram 1	1	498.0	501.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4632	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	498.0
+194	Spectrogram 1	1	501.0	504.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2364	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	501.0
+195	Spectrogram 1	1	504.0	507.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3201	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	504.0
+196	Spectrogram 1	1	507.0	510.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2902	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	507.0
+197	Spectrogram 1	1	507.0	510.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1959	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	507.0
+198	Spectrogram 1	1	507.0	510.0	0	12000.0	Magnolia Warbler	magwar	0.1697	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	507.0
+199	Spectrogram 1	1	510.0	513.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5407	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	510.0
+200	Spectrogram 1	1	516.0	519.0	0	12000.0	Magnolia Warbler	magwar	0.3145	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	516.0
+201	Spectrogram 1	1	516.0	519.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1635	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	516.0
+202	Spectrogram 1	1	522.0	525.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6634	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	522.0
+203	Spectrogram 1	1	525.0	528.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1592	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	525.0
+204	Spectrogram 1	1	525.0	528.0	0	12000.0	Magnolia Warbler	magwar	0.1246	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	525.0
+205	Spectrogram 1	1	531.0	534.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1836	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	531.0
+206	Spectrogram 1	1	531.0	534.0	0	12000.0	Magnolia Warbler	magwar	0.1801	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	531.0
+207	Spectrogram 1	1	531.0	534.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1470	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	531.0
+208	Spectrogram 1	1	534.0	537.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3177	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	534.0
+209	Spectrogram 1	1	540.0	543.0	0	12000.0	Brown Creeper	brncre	0.7445	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	540.0
+210	Spectrogram 1	1	540.0	543.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2548	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	540.0
+211	Spectrogram 1	1	543.0	546.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.8514	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	543.0
+212	Spectrogram 1	1	549.0	552.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4086	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	549.0
+213	Spectrogram 1	1	552.0	555.0	0	12000.0	Magnolia Warbler	magwar	0.2563	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	552.0
+214	Spectrogram 1	1	552.0	555.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2197	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	552.0
+215	Spectrogram 1	1	552.0	555.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1744	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	552.0
+216	Spectrogram 1	1	555.0	558.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.8719	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	555.0
+217	Spectrogram 1	1	555.0	558.0	0	12000.0	Brown Creeper	brncre	0.1023	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	555.0
+218	Spectrogram 1	1	564.0	567.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.8412	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	564.0
+219	Spectrogram 1	1	564.0	567.0	0	12000.0	Brown Creeper	brncre	0.1234	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	564.0
+220	Spectrogram 1	1	567.0	570.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2168	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	567.0
+221	Spectrogram 1	1	573.0	576.0	0	12000.0	Magnolia Warbler	magwar	0.2803	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	573.0
+222	Spectrogram 1	1	573.0	576.0	0	12000.0	Blackburnian Warbler	bkbwar	0.2190	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	573.0
+223	Spectrogram 1	1	576.0	579.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6101	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	576.0
+224	Spectrogram 1	1	582.0	585.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1042	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	582.0
+225	Spectrogram 1	1	585.0	588.0	0	12000.0	Blackburnian Warbler	bkbwar	0.4106	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	585.0
+226	Spectrogram 1	1	585.0	588.0	0	12000.0	American Redstart	amered	0.1429	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	585.0
+227	Spectrogram 1	1	585.0	588.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1240	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	585.0
+228	Spectrogram 1	1	588.0	591.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3982	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	588.0
+229	Spectrogram 1	1	591.0	594.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7573	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	591.0
+230	Spectrogram 1	1	591.0	594.0	0	12000.0	Brown Creeper	brncre	0.1386	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	591.0
+231	Spectrogram 1	1	594.0	597.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1866	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	594.0
+232	Spectrogram 1	1	594.0	597.0	0	12000.0	Black-and-white Warbler	bawwar	0.1500	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	594.0
+233	Spectrogram 1	1	594.0	597.0	0	12000.0	Magnolia Warbler	magwar	0.1196	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	594.0
+234	Spectrogram 1	1	597.0	600.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.9152	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	597.0
+235	Spectrogram 1	1	606.0	609.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3337	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	606.0
+236	Spectrogram 1	1	606.0	609.0	0	12000.0	Magnolia Warbler	magwar	0.1439	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	606.0
+237	Spectrogram 1	1	606.0	609.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1387	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	606.0
+238	Spectrogram 1	1	609.0	612.0	0	12000.0	Magnolia Warbler	magwar	0.6472	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	609.0
+239	Spectrogram 1	1	612.0	615.0	0	12000.0	Black-and-white Warbler	bawwar	0.4654	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	612.0
+240	Spectrogram 1	1	612.0	615.0	0	12000.0	Blackburnian Warbler	bkbwar	0.2193	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	612.0
+241	Spectrogram 1	1	615.0	618.0	0	12000.0	Brown Creeper	brncre	0.1548	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	615.0
+242	Spectrogram 1	1	618.0	621.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1544	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	618.0
+243	Spectrogram 1	1	618.0	621.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1458	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	618.0
+244	Spectrogram 1	1	621.0	624.0	0	12000.0	Magnolia Warbler	magwar	0.8688	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	621.0
+245	Spectrogram 1	1	621.0	624.0	0	12000.0	Canada Warbler	canwar	0.1823	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	621.0
+246	Spectrogram 1	1	621.0	624.0	0	12000.0	Brown Creeper	brncre	0.1019	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	621.0
+247	Spectrogram 1	1	624.0	627.0	0	12000.0	Magnolia Warbler	magwar	0.6741	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	624.0
+248	Spectrogram 1	1	627.0	630.0	0	12000.0	Magnolia Warbler	magwar	0.8465	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	627.0
+249	Spectrogram 1	1	630.0	633.0	0	12000.0	Magnolia Warbler	magwar	0.7484	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	630.0
+250	Spectrogram 1	1	630.0	633.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3441	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	630.0
+251	Spectrogram 1	1	633.0	636.0	0	12000.0	Magnolia Warbler	magwar	0.6484	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	633.0
+252	Spectrogram 1	1	636.0	639.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4219	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	636.0
+253	Spectrogram 1	1	639.0	642.0	0	12000.0	Magnolia Warbler	magwar	0.9580	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	639.0
+254	Spectrogram 1	1	642.0	645.0	0	12000.0	Magnolia Warbler	magwar	0.1301	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	642.0
+255	Spectrogram 1	1	645.0	648.0	0	12000.0	Black-and-white Warbler	bawwar	0.2301	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	645.0
+256	Spectrogram 1	1	645.0	648.0	0	12000.0	Bay-breasted Warbler	babwar	0.1264	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	645.0
+257	Spectrogram 1	1	648.0	651.0	0	12000.0	Magnolia Warbler	magwar	0.7118	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	648.0
+258	Spectrogram 1	1	648.0	651.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3816	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	648.0
+259	Spectrogram 1	1	651.0	654.0	0	12000.0	Black-and-white Warbler	bawwar	0.4957	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	651.0
+260	Spectrogram 1	1	651.0	654.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1073	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	651.0
+261	Spectrogram 1	1	654.0	657.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3856	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	654.0
+262	Spectrogram 1	1	654.0	657.0	0	12000.0	Brown Creeper	brncre	0.2506	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	654.0
+263	Spectrogram 1	1	654.0	657.0	0	12000.0	Magnolia Warbler	magwar	0.2424	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	654.0
+264	Spectrogram 1	1	657.0	660.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6266	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	657.0
+265	Spectrogram 1	1	660.0	663.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8081	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	660.0
+266	Spectrogram 1	1	663.0	666.0	0	12000.0	Magnolia Warbler	magwar	0.8889	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	663.0
+267	Spectrogram 1	1	666.0	669.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1742	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	666.0
+268	Spectrogram 1	1	666.0	669.0	0	12000.0	Brown Creeper	brncre	0.1501	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	666.0
+269	Spectrogram 1	1	669.0	672.0	0	12000.0	Hermit Thrush	herthr	0.2106	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	669.0
+270	Spectrogram 1	1	672.0	675.0	0	12000.0	Magnolia Warbler	magwar	0.9853	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	672.0
+271	Spectrogram 1	1	675.0	678.0	0	12000.0	Black-and-white Warbler	bawwar	0.6546	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	675.0
+272	Spectrogram 1	1	675.0	678.0	0	12000.0	Blackburnian Warbler	bkbwar	0.2130	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	675.0
+273	Spectrogram 1	1	678.0	681.0	0	12000.0	Magnolia Warbler	magwar	0.8919	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	678.0
+274	Spectrogram 1	1	681.0	684.0	0	12000.0	Black-and-white Warbler	bawwar	0.6767	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	681.0
+275	Spectrogram 1	1	681.0	684.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1585	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	681.0
+276	Spectrogram 1	1	687.0	690.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1210	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	687.0
+277	Spectrogram 1	1	687.0	690.0	0	12000.0	Bay-breasted Warbler	babwar	0.1080	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	687.0
+278	Spectrogram 1	1	687.0	690.0	0	12000.0	Magnolia Warbler	magwar	0.1060	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	687.0
+279	Spectrogram 1	1	687.0	690.0	0	12000.0	Black-and-white Warbler	bawwar	0.1056	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	687.0
+280	Spectrogram 1	1	690.0	693.0	0	12000.0	Magnolia Warbler	magwar	0.8044	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	690.0
+281	Spectrogram 1	1	693.0	696.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2972	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	693.0
+282	Spectrogram 1	1	699.0	702.0	0	12000.0	Magnolia Warbler	magwar	0.6839	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	699.0
+283	Spectrogram 1	1	699.0	702.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1544	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	699.0
+284	Spectrogram 1	1	699.0	702.0	0	12000.0	Black-and-white Warbler	bawwar	0.1316	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	699.0
+285	Spectrogram 1	1	702.0	705.0	0	12000.0	Magnolia Warbler	magwar	0.6056	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	702.0
+286	Spectrogram 1	1	702.0	705.0	0	12000.0	Canada Warbler	canwar	0.1185	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	702.0
+287	Spectrogram 1	1	708.0	711.0	0	12000.0	Magnolia Warbler	magwar	0.9214	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	708.0
+288	Spectrogram 1	1	711.0	714.0	0	12000.0	Black-and-white Warbler	bawwar	0.4392	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	711.0
+289	Spectrogram 1	1	711.0	714.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1054	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	711.0
+290	Spectrogram 1	1	714.0	717.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3741	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	714.0
+291	Spectrogram 1	1	717.0	720.0	0	12000.0	Magnolia Warbler	magwar	0.8762	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	717.0
+292	Spectrogram 1	1	720.0	723.0	0	12000.0	Blackburnian Warbler	bkbwar	0.2778	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	720.0
+293	Spectrogram 1	1	720.0	723.0	0	12000.0	Magnolia Warbler	magwar	0.1861	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	720.0
+294	Spectrogram 1	1	720.0	723.0	0	12000.0	Black-and-white Warbler	bawwar	0.1778	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	720.0
+295	Spectrogram 1	1	720.0	723.0	0	12000.0	Bay-breasted Warbler	babwar	0.1505	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	720.0
+296	Spectrogram 1	1	723.0	726.0	0	12000.0	Magnolia Warbler	magwar	0.9670	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	723.0
+297	Spectrogram 1	1	726.0	729.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5344	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	726.0
+298	Spectrogram 1	1	726.0	729.0	0	12000.0	Magnolia Warbler	magwar	0.2045	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	726.0
+299	Spectrogram 1	1	729.0	732.0	0	12000.0	Magnolia Warbler	magwar	0.9551	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	729.0
+300	Spectrogram 1	1	732.0	735.0	0	12000.0	Magnolia Warbler	magwar	0.3171	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	732.0
+301	Spectrogram 1	1	732.0	735.0	0	12000.0	Brown Creeper	brncre	0.2126	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	732.0
+302	Spectrogram 1	1	735.0	738.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5992	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	735.0
+303	Spectrogram 1	1	738.0	741.0	0	12000.0	Magnolia Warbler	magwar	0.9889	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	738.0
+304	Spectrogram 1	1	741.0	744.0	0	12000.0	Magnolia Warbler	magwar	0.1496	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	741.0
+305	Spectrogram 1	1	744.0	747.0	0	12000.0	Magnolia Warbler	magwar	0.9793	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	744.0
+306	Spectrogram 1	1	747.0	750.0	0	12000.0	Magnolia Warbler	magwar	0.4380	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	747.0
+307	Spectrogram 1	1	747.0	750.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4309	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	747.0
+308	Spectrogram 1	1	753.0	756.0	0	12000.0	Magnolia Warbler	magwar	0.9848	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	753.0
+309	Spectrogram 1	1	756.0	759.0	0	12000.0	Magnolia Warbler	magwar	0.7505	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	756.0
+310	Spectrogram 1	1	756.0	759.0	0	12000.0	Canada Warbler	canwar	0.1666	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	756.0
+311	Spectrogram 1	1	756.0	759.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1195	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	756.0
+312	Spectrogram 1	1	762.0	765.0	0	12000.0	Blackburnian Warbler	bkbwar	0.3039	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	762.0
+313	Spectrogram 1	1	762.0	765.0	0	12000.0	American Redstart	amered	0.1007	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	762.0
+314	Spectrogram 1	1	765.0	768.0	0	12000.0	Magnolia Warbler	magwar	0.9703	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	765.0
+315	Spectrogram 1	1	768.0	771.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6157	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	768.0
+316	Spectrogram 1	1	771.0	774.0	0	12000.0	Magnolia Warbler	magwar	0.9804	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	771.0
+317	Spectrogram 1	1	774.0	777.0	0	12000.0	Hermit Thrush	herthr	0.1013	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	774.0
+318	Spectrogram 1	1	777.0	780.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6195	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	777.0
+319	Spectrogram 1	1	780.0	783.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1082	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	780.0
+320	Spectrogram 1	1	783.0	786.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1132	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	783.0
+321	Spectrogram 1	1	786.0	789.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1441	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	786.0
+322	Spectrogram 1	1	789.0	792.0	0	12000.0	Winter Wren	winwre3	0.7098	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	789.0
+323	Spectrogram 1	1	789.0	792.0	0	12000.0	Magnolia Warbler	magwar	0.1491	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	789.0
+324	Spectrogram 1	1	789.0	792.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1185	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	789.0
+325	Spectrogram 1	1	792.0	795.0	0	12000.0	Winter Wren	winwre3	0.9918	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	792.0
+326	Spectrogram 1	1	795.0	798.0	0	12000.0	Winter Wren	winwre3	0.9958	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	795.0
+327	Spectrogram 1	1	801.0	804.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4581	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	801.0
+328	Spectrogram 1	1	801.0	804.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3573	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	801.0
+329	Spectrogram 1	1	801.0	804.0	0	12000.0	Brown Creeper	brncre	0.1613	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	801.0
+330	Spectrogram 1	1	801.0	804.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1045	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	801.0
+331	Spectrogram 1	1	804.0	807.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2402	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	804.0
+332	Spectrogram 1	1	807.0	810.0	0	12000.0	Blackburnian Warbler	bkbwar	0.2075	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	807.0
+333	Spectrogram 1	1	807.0	810.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1269	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	807.0
+334	Spectrogram 1	1	807.0	810.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1185	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	807.0
+335	Spectrogram 1	1	810.0	813.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1015	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	810.0
+336	Spectrogram 1	1	813.0	816.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3507	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	813.0
+337	Spectrogram 1	1	813.0	816.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3016	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	813.0
+338	Spectrogram 1	1	813.0	816.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1434	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	813.0
+339	Spectrogram 1	1	813.0	816.0	0	12000.0	Brown Creeper	brncre	0.1048	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	813.0
+340	Spectrogram 1	1	816.0	819.0	0	12000.0	Winter Wren	winwre3	0.9258	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	816.0
+341	Spectrogram 1	1	819.0	822.0	0	12000.0	Winter Wren	winwre3	0.9938	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	819.0
+342	Spectrogram 1	1	822.0	825.0	0	12000.0	Blackburnian Warbler	bkbwar	0.2456	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	822.0
+343	Spectrogram 1	1	822.0	825.0	0	12000.0	Brown Creeper	brncre	0.1357	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	822.0
+344	Spectrogram 1	1	822.0	825.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1243	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	822.0
+345	Spectrogram 1	1	822.0	825.0	0	12000.0	Magnolia Warbler	magwar	0.1118	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	822.0
+346	Spectrogram 1	1	825.0	828.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2404	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	825.0
+347	Spectrogram 1	1	825.0	828.0	0	12000.0	Brown Creeper	brncre	0.1916	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	825.0
+348	Spectrogram 1	1	834.0	837.0	0	12000.0	Brown Creeper	brncre	0.3502	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	834.0
+349	Spectrogram 1	1	834.0	837.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2978	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	834.0
+350	Spectrogram 1	1	834.0	837.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2201	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	834.0
+351	Spectrogram 1	1	837.0	840.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3162	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	837.0
+352	Spectrogram 1	1	837.0	840.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3028	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	837.0
+353	Spectrogram 1	1	837.0	840.0	0	12000.0	Brown Creeper	brncre	0.1319	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	837.0
+354	Spectrogram 1	1	840.0	843.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1946	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	840.0
+355	Spectrogram 1	1	840.0	843.0	0	12000.0	Brown Creeper	brncre	0.1610	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	840.0
+356	Spectrogram 1	1	840.0	843.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1420	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	840.0
+357	Spectrogram 1	1	840.0	843.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1359	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	840.0
+358	Spectrogram 1	1	843.0	846.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1387	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	843.0
+359	Spectrogram 1	1	846.0	849.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5330	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	846.0
+360	Spectrogram 1	1	849.0	852.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6379	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	849.0
+361	Spectrogram 1	1	849.0	852.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1060	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	849.0
+362	Spectrogram 1	1	852.0	855.0	0	12000.0	Brown Creeper	brncre	0.2128	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	852.0
+363	Spectrogram 1	1	855.0	858.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3683	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	855.0
+364	Spectrogram 1	1	858.0	861.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3118	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	858.0
+365	Spectrogram 1	1	867.0	870.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1931	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	867.0
+366	Spectrogram 1	1	870.0	873.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7531	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	870.0
+367	Spectrogram 1	1	879.0	882.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9728	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	879.0
+368	Spectrogram 1	1	882.0	885.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8733	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	882.0
+369	Spectrogram 1	1	900.0	903.0	0	12000.0	Brown Creeper	brncre	0.1868	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	900.0
+370	Spectrogram 1	1	900.0	903.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1672	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	900.0
+371	Spectrogram 1	1	906.0	909.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6764	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	906.0
+372	Spectrogram 1	1	906.0	909.0	0	12000.0	Brown Creeper	brncre	0.2221	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	906.0
+373	Spectrogram 1	1	909.0	912.0	0	12000.0	Brown Creeper	brncre	0.8477	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	909.0
+374	Spectrogram 1	1	909.0	912.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1498	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	909.0
+375	Spectrogram 1	1	915.0	918.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8806	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	915.0
+376	Spectrogram 1	1	921.0	924.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6890	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	921.0
+377	Spectrogram 1	1	921.0	924.0	0	12000.0	Brown Creeper	brncre	0.1173	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	921.0
+378	Spectrogram 1	1	924.0	927.0	0	12000.0	Brown Creeper	brncre	0.4916	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	924.0
+379	Spectrogram 1	1	924.0	927.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1058	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	924.0
+380	Spectrogram 1	1	927.0	930.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8034	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	927.0
+381	Spectrogram 1	1	927.0	930.0	0	12000.0	Brown Creeper	brncre	0.1557	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	927.0
+382	Spectrogram 1	1	930.0	933.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9453	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	930.0
+383	Spectrogram 1	1	948.0	951.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4059	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	948.0
+384	Spectrogram 1	1	948.0	951.0	0	12000.0	Brown Creeper	brncre	0.1772	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	948.0
+385	Spectrogram 1	1	951.0	954.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5041	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	951.0
+386	Spectrogram 1	1	957.0	960.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6200	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	957.0
+387	Spectrogram 1	1	960.0	963.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1276	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	960.0
+388	Spectrogram 1	1	966.0	969.0	0	12000.0	Brown Creeper	brncre	0.3265	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	966.0
+389	Spectrogram 1	1	966.0	969.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1457	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	966.0
+390	Spectrogram 1	1	969.0	972.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4486	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	969.0
+391	Spectrogram 1	1	978.0	981.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7328	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	978.0
+392	Spectrogram 1	1	981.0	984.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4455	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	981.0
+393	Spectrogram 1	1	981.0	984.0	0	12000.0	Brown Creeper	brncre	0.1636	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	981.0
+394	Spectrogram 1	1	984.0	987.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7481	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	984.0
+395	Spectrogram 1	1	993.0	996.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2814	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	993.0
+396	Spectrogram 1	1	999.0	1002.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6379	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	999.0
+397	Spectrogram 1	1	999.0	1002.0	0	12000.0	Brown Creeper	brncre	0.1157	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	999.0
+398	Spectrogram 1	1	1002.0	1005.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5022	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1002.0
+399	Spectrogram 1	1	1005.0	1008.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7040	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1005.0
+400	Spectrogram 1	1	1005.0	1008.0	0	12000.0	Brown Creeper	brncre	0.1155	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1005.0
+401	Spectrogram 1	1	1011.0	1014.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3972	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1011.0
+402	Spectrogram 1	1	1014.0	1017.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3764	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1014.0
+403	Spectrogram 1	1	1017.0	1020.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6187	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1017.0
+404	Spectrogram 1	1	1023.0	1026.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4226	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1023.0
+405	Spectrogram 1	1	1023.0	1026.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2418	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1023.0
+406	Spectrogram 1	1	1026.0	1029.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1312	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1026.0
+407	Spectrogram 1	1	1029.0	1032.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5212	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1029.0
+408	Spectrogram 1	1	1032.0	1035.0	0	12000.0	Swainson's Thrush	swathr	0.6297	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1032.0
+409	Spectrogram 1	1	1035.0	1038.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9225	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1035.0
+410	Spectrogram 1	1	1038.0	1041.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6237	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1038.0
+411	Spectrogram 1	1	1044.0	1047.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2863	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1044.0
+412	Spectrogram 1	1	1050.0	1053.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4940	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1050.0
+413	Spectrogram 1	1	1053.0	1056.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6976	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1053.0
+414	Spectrogram 1	1	1065.0	1068.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3922	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1065.0
+415	Spectrogram 1	1	1077.0	1080.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1248	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1077.0
+416	Spectrogram 1	1	1080.0	1083.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1725	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1080.0
+417	Spectrogram 1	1	1083.0	1086.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1036	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1083.0
+418	Spectrogram 1	1	1089.0	1092.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3984	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1089.0
+419	Spectrogram 1	1	1092.0	1095.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5245	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1092.0
+420	Spectrogram 1	1	1095.0	1098.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2864	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1095.0
+421	Spectrogram 1	1	1101.0	1104.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1792	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1101.0
+422	Spectrogram 1	1	1101.0	1104.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1360	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1101.0
+423	Spectrogram 1	1	1104.0	1107.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5790	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1104.0
+424	Spectrogram 1	1	1107.0	1110.0	0	12000.0	Winter Wren	winwre3	0.9489	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1107.0
+425	Spectrogram 1	1	1110.0	1113.0	0	12000.0	Winter Wren	winwre3	0.9824	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1110.0
+426	Spectrogram 1	1	1113.0	1116.0	0	12000.0	Winter Wren	winwre3	0.7451	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1113.0
+427	Spectrogram 1	1	1116.0	1119.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1263	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1116.0
+428	Spectrogram 1	1	1116.0	1119.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1053	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1116.0
+429	Spectrogram 1	1	1122.0	1125.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3410	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1122.0
+430	Spectrogram 1	1	1125.0	1128.0	0	12000.0	Winter Wren	winwre3	0.9382	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1125.0
+431	Spectrogram 1	1	1128.0	1131.0	0	12000.0	Winter Wren	winwre3	0.9258	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1128.0
+432	Spectrogram 1	1	1131.0	1134.0	0	12000.0	Winter Wren	winwre3	0.9892	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1131.0
+433	Spectrogram 1	1	1134.0	1137.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9137	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1134.0
+434	Spectrogram 1	1	1137.0	1140.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.7806	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1137.0
+435	Spectrogram 1	1	1140.0	1143.0	0	12000.0	Winter Wren	winwre3	0.2107	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1140.0
+436	Spectrogram 1	1	1140.0	1143.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1281	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1140.0
+437	Spectrogram 1	1	1146.0	1149.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3618	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1146.0
+438	Spectrogram 1	1	1149.0	1152.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8604	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1149.0
+439	Spectrogram 1	1	1149.0	1152.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.2506	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1149.0
+440	Spectrogram 1	1	1152.0	1155.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1795	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1152.0
+441	Spectrogram 1	1	1152.0	1155.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1574	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1152.0
+442	Spectrogram 1	1	1155.0	1158.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4018	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1155.0
+443	Spectrogram 1	1	1164.0	1167.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5005	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1164.0
+444	Spectrogram 1	1	1164.0	1167.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1446	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1164.0
+445	Spectrogram 1	1	1167.0	1170.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6767	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1167.0
+446	Spectrogram 1	1	1170.0	1173.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2049	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1170.0
+447	Spectrogram 1	1	1173.0	1176.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.7203	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1173.0
+448	Spectrogram 1	1	1173.0	1176.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1175	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1173.0
+449	Spectrogram 1	1	1176.0	1179.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1645	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1176.0
+450	Spectrogram 1	1	1176.0	1179.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1325	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1176.0
+451	Spectrogram 1	1	1179.0	1182.0	0	12000.0	Winter Wren	winwre3	0.3111	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1179.0
+452	Spectrogram 1	1	1179.0	1182.0	0	12000.0	Brown Creeper	brncre	0.1189	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1179.0
+453	Spectrogram 1	1	1182.0	1185.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1698	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1182.0
+454	Spectrogram 1	1	1182.0	1185.0	0	12000.0	Winter Wren	winwre3	0.1166	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1182.0
+455	Spectrogram 1	1	1185.0	1188.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2448	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1185.0
+456	Spectrogram 1	1	1188.0	1191.0	0	12000.0	Magnolia Warbler	magwar	0.1315	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1188.0
+457	Spectrogram 1	1	1191.0	1194.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7170	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1191.0
+458	Spectrogram 1	1	1191.0	1194.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.6967	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1191.0
+459	Spectrogram 1	1	1194.0	1197.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9001	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1194.0
+460	Spectrogram 1	1	1197.0	1200.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5872	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1197.0
+461	Spectrogram 1	1	1197.0	1200.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1055	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1197.0
+462	Spectrogram 1	1	1203.0	1206.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7762	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1203.0
+463	Spectrogram 1	1	1206.0	1209.0	0	12000.0	Winter Wren	winwre3	0.1272	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1206.0
+464	Spectrogram 1	1	1209.0	1212.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3489	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1209.0
+465	Spectrogram 1	1	1212.0	1215.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1472	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1212.0
+466	Spectrogram 1	1	1221.0	1224.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1040	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1221.0
+467	Spectrogram 1	1	1224.0	1227.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3010	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1224.0
+468	Spectrogram 1	1	1224.0	1227.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1215	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1224.0
+469	Spectrogram 1	1	1227.0	1230.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5136	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1227.0
+470	Spectrogram 1	1	1230.0	1233.0	0	12000.0	Winter Wren	winwre3	0.2147	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1230.0
+471	Spectrogram 1	1	1233.0	1236.0	0	12000.0	Winter Wren	winwre3	0.3791	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1233.0
+472	Spectrogram 1	1	1236.0	1239.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2515	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1236.0
+473	Spectrogram 1	1	1239.0	1242.0	0	12000.0	Magnolia Warbler	magwar	0.1751	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1239.0
+474	Spectrogram 1	1	1239.0	1242.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1170	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1239.0
+475	Spectrogram 1	1	1242.0	1245.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5367	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1242.0
+476	Spectrogram 1	1	1245.0	1248.0	0	12000.0	Winter Wren	winwre3	0.1105	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1245.0
+477	Spectrogram 1	1	1254.0	1257.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5473	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1254.0
+478	Spectrogram 1	1	1254.0	1257.0	0	12000.0	Magnolia Warbler	magwar	0.1239	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1254.0
+479	Spectrogram 1	1	1257.0	1260.0	0	12000.0	Winter Wren	winwre3	0.3154	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1257.0
+480	Spectrogram 1	1	1257.0	1260.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2350	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1257.0
+481	Spectrogram 1	1	1260.0	1263.0	0	12000.0	Winter Wren	winwre3	0.3936	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1260.0
+482	Spectrogram 1	1	1266.0	1269.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5762	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1266.0
+483	Spectrogram 1	1	1269.0	1272.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6423	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1269.0
+484	Spectrogram 1	1	1272.0	1275.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8495	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1272.0
+485	Spectrogram 1	1	1275.0	1278.0	0	12000.0	Wood Thrush	woothr	0.3093	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1275.0
+486	Spectrogram 1	1	1278.0	1281.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6415	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1278.0
+487	Spectrogram 1	1	1281.0	1284.0	0	12000.0	Magnolia Warbler	magwar	0.6800	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1281.0
+488	Spectrogram 1	1	1281.0	1284.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2316	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1281.0
+489	Spectrogram 1	1	1284.0	1287.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2019	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1284.0
+490	Spectrogram 1	1	1287.0	1290.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5733	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1287.0
+491	Spectrogram 1	1	1290.0	1293.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5991	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1290.0
+492	Spectrogram 1	1	1290.0	1293.0	0	12000.0	Magnolia Warbler	magwar	0.1081	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1290.0
+493	Spectrogram 1	1	1296.0	1299.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6101	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1296.0
+494	Spectrogram 1	1	1302.0	1305.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7439	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1302.0
+495	Spectrogram 1	1	1305.0	1308.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2071	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1305.0
+496	Spectrogram 1	1	1305.0	1308.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1522	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1305.0
+497	Spectrogram 1	1	1308.0	1311.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2806	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1308.0
+498	Spectrogram 1	1	1308.0	1311.0	0	12000.0	Magnolia Warbler	magwar	0.1354	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1308.0
+499	Spectrogram 1	1	1311.0	1314.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8853	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1311.0
+500	Spectrogram 1	1	1317.0	1320.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3767	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1317.0
+501	Spectrogram 1	1	1320.0	1323.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6647	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1320.0
+502	Spectrogram 1	1	1323.0	1326.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1349	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1323.0
+503	Spectrogram 1	1	1326.0	1329.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5590	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1326.0
+504	Spectrogram 1	1	1329.0	1332.0	0	12000.0	Black-and-white Warbler	bawwar	0.1536	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1329.0
+505	Spectrogram 1	1	1332.0	1335.0	0	12000.0	Black-and-white Warbler	bawwar	0.9629	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1332.0
+506	Spectrogram 1	1	1335.0	1338.0	0	12000.0	Black-and-white Warbler	bawwar	0.3861	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1335.0
+507	Spectrogram 1	1	1338.0	1341.0	0	12000.0	Black-and-white Warbler	bawwar	0.5660	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1338.0
+508	Spectrogram 1	1	1341.0	1344.0	0	12000.0	Black-and-white Warbler	bawwar	0.8632	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1341.0
+509	Spectrogram 1	1	1344.0	1347.0	0	12000.0	Black-and-white Warbler	bawwar	0.7664	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1344.0
+510	Spectrogram 1	1	1344.0	1347.0	0	12000.0	Nashville Warbler	naswar	0.1569	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1344.0
+511	Spectrogram 1	1	1347.0	1350.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5860	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1347.0
+512	Spectrogram 1	1	1350.0	1353.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4970	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1350.0
+513	Spectrogram 1	1	1353.0	1356.0	0	12000.0	Black-and-white Warbler	bawwar	0.9444	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1353.0
+514	Spectrogram 1	1	1356.0	1359.0	0	12000.0	Black-and-white Warbler	bawwar	0.6755	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1356.0
+515	Spectrogram 1	1	1365.0	1368.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3330	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1365.0
+516	Spectrogram 1	1	1368.0	1371.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5041	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1368.0
+517	Spectrogram 1	1	1377.0	1380.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4584	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1377.0
+518	Spectrogram 1	1	1377.0	1380.0	0	12000.0	Palm Warbler	palwar	0.1239	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1377.0
+519	Spectrogram 1	1	1389.0	1392.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1814	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1389.0
+520	Spectrogram 1	1	1401.0	1404.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3748	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1401.0
+521	Spectrogram 1	1	1404.0	1407.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3266	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1404.0
+522	Spectrogram 1	1	1416.0	1419.0	0	12000.0	Magnolia Warbler	magwar	0.1527	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1416.0
+523	Spectrogram 1	1	1416.0	1419.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1076	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1416.0
+524	Spectrogram 1	1	1422.0	1425.0	0	12000.0	Magnolia Warbler	magwar	0.1433	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1422.0
+525	Spectrogram 1	1	1422.0	1425.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1187	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1422.0
+526	Spectrogram 1	1	1425.0	1428.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.7906	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1425.0
+527	Spectrogram 1	1	1431.0	1434.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2270	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1431.0
+528	Spectrogram 1	1	1434.0	1437.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1861	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1434.0
+529	Spectrogram 1	1	1437.0	1440.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.8145	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1437.0
+530	Spectrogram 1	1	1440.0	1443.0	0	12000.0	Swainson's Thrush	swathr	0.3315	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1440.0
+531	Spectrogram 1	1	1446.0	1449.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.7712	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1446.0
+532	Spectrogram 1	1	1449.0	1452.0	0	12000.0	Wood Thrush	woothr	0.2755	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1449.0
+533	Spectrogram 1	1	1455.0	1458.0	0	12000.0	Swainson's Thrush	swathr	0.1537	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1455.0
+534	Spectrogram 1	1	1455.0	1458.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1273	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1455.0
+535	Spectrogram 1	1	1461.0	1464.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5253	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1461.0
+536	Spectrogram 1	1	1464.0	1467.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1682	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1464.0
+537	Spectrogram 1	1	1473.0	1476.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3271	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1473.0
+538	Spectrogram 1	1	1476.0	1479.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.7501	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1476.0
+539	Spectrogram 1	1	1482.0	1485.0	0	12000.0	Swainson's Thrush	swathr	0.5411	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1482.0
+540	Spectrogram 1	1	1485.0	1488.0	0	12000.0	Brown Creeper	brncre	0.8200	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1485.0
+541	Spectrogram 1	1	1488.0	1491.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2071	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1488.0
+542	Spectrogram 1	1	1491.0	1494.0	0	12000.0	Winter Wren	winwre3	0.8705	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1491.0
+543	Spectrogram 1	1	1494.0	1497.0	0	12000.0	Winter Wren	winwre3	0.9954	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1494.0
+544	Spectrogram 1	1	1497.0	1500.0	0	12000.0	Winter Wren	winwre3	0.4493	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1497.0
+545	Spectrogram 1	1	1500.0	1503.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.8049	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1500.0
+546	Spectrogram 1	1	1503.0	1506.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2684	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1503.0
+547	Spectrogram 1	1	1512.0	1515.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.7682	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1512.0
+548	Spectrogram 1	1	1515.0	1518.0	0	12000.0	Winter Wren	winwre3	0.8066	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1515.0
+549	Spectrogram 1	1	1518.0	1521.0	0	12000.0	Winter Wren	winwre3	0.9252	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1518.0
+550	Spectrogram 1	1	1521.0	1524.0	0	12000.0	Winter Wren	winwre3	0.3208	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1521.0
+551	Spectrogram 1	1	1521.0	1524.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1380	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1521.0
+552	Spectrogram 1	1	1524.0	1527.0	0	12000.0	Winter Wren	winwre3	0.1788	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1524.0
+553	Spectrogram 1	1	1524.0	1527.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1438	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1524.0
+554	Spectrogram 1	1	1533.0	1536.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5524	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1533.0
+555	Spectrogram 1	1	1536.0	1539.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3551	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1536.0
+556	Spectrogram 1	1	1539.0	1542.0	0	12000.0	Winter Wren	winwre3	0.8994	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1539.0
+557	Spectrogram 1	1	1542.0	1545.0	0	12000.0	Winter Wren	winwre3	0.9352	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1542.0
+558	Spectrogram 1	1	1548.0	1551.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4724	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1548.0
+559	Spectrogram 1	1	1551.0	1554.0	0	12000.0	Winter Wren	winwre3	0.9236	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1551.0
+560	Spectrogram 1	1	1554.0	1557.0	0	12000.0	Winter Wren	winwre3	0.8520	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1554.0
+561	Spectrogram 1	1	1557.0	1560.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5577	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1557.0
+562	Spectrogram 1	1	1560.0	1563.0	0	12000.0	Winter Wren	winwre3	0.5856	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1560.0
+563	Spectrogram 1	1	1563.0	1566.0	0	12000.0	Pine Warbler	pinwar	0.1257	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1563.0
+564	Spectrogram 1	1	1566.0	1569.0	0	12000.0	Winter Wren	winwre3	0.9737	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1566.0
+565	Spectrogram 1	1	1569.0	1572.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1670	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1569.0
+566	Spectrogram 1	1	1572.0	1575.0	0	12000.0	Winter Wren	winwre3	0.9770	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1572.0
+567	Spectrogram 1	1	1575.0	1578.0	0	12000.0	Winter Wren	winwre3	0.8202	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1575.0
+568	Spectrogram 1	1	1578.0	1581.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4652	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1578.0
+569	Spectrogram 1	1	1581.0	1584.0	0	12000.0	Winter Wren	winwre3	0.9869	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1581.0
+570	Spectrogram 1	1	1584.0	1587.0	0	12000.0	Winter Wren	winwre3	0.9977	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1584.0
+571	Spectrogram 1	1	1587.0	1590.0	0	12000.0	Winter Wren	winwre3	0.9972	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1587.0
+572	Spectrogram 1	1	1590.0	1593.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2492	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1590.0
+573	Spectrogram 1	1	1593.0	1596.0	0	12000.0	Winter Wren	winwre3	0.8847	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1593.0
+574	Spectrogram 1	1	1596.0	1599.0	0	12000.0	Winter Wren	winwre3	0.9202	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1596.0
+575	Spectrogram 1	1	1602.0	1605.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4770	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1602.0
+576	Spectrogram 1	1	1605.0	1608.0	0	12000.0	Winter Wren	winwre3	0.4304	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1605.0
+577	Spectrogram 1	1	1608.0	1611.0	0	12000.0	Winter Wren	winwre3	0.6002	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1608.0
+578	Spectrogram 1	1	1611.0	1614.0	0	12000.0	Winter Wren	winwre3	0.5089	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1611.0
+579	Spectrogram 1	1	1614.0	1617.0	0	12000.0	Winter Wren	winwre3	0.4788	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1614.0
+580	Spectrogram 1	1	1614.0	1617.0	0	12000.0	Magnolia Warbler	magwar	0.4689	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1614.0
+581	Spectrogram 1	1	1617.0	1620.0	0	12000.0	Magnolia Warbler	magwar	0.8156	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1617.0
+582	Spectrogram 1	1	1617.0	1620.0	0	12000.0	Blackburnian Warbler	bkbwar	0.3345	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1617.0
+583	Spectrogram 1	1	1617.0	1620.0	0	12000.0	Nashville Warbler	naswar	0.1115	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1617.0
+584	Spectrogram 1	1	1620.0	1623.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3156	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1620.0
+585	Spectrogram 1	1	1620.0	1623.0	0	12000.0	Winter Wren	winwre3	0.1342	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1620.0
+586	Spectrogram 1	1	1623.0	1626.0	0	12000.0	Magnolia Warbler	magwar	0.8263	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1623.0
+587	Spectrogram 1	1	1626.0	1629.0	0	12000.0	Brown Creeper	brncre	0.1566	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1626.0
+588	Spectrogram 1	1	1629.0	1632.0	0	12000.0	Magnolia Warbler	magwar	0.2899	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1629.0
+589	Spectrogram 1	1	1632.0	1635.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2814	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1632.0
+590	Spectrogram 1	1	1635.0	1638.0	0	12000.0	Winter Wren	winwre3	0.4515	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1635.0
+591	Spectrogram 1	1	1638.0	1641.0	0	12000.0	Winter Wren	winwre3	0.1869	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1638.0
+592	Spectrogram 1	1	1641.0	1644.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.7041	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1641.0
+593	Spectrogram 1	1	1644.0	1647.0	0	12000.0	Winter Wren	winwre3	0.2457	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1644.0
+594	Spectrogram 1	1	1644.0	1647.0	0	12000.0	Magnolia Warbler	magwar	0.2399	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1644.0
+595	Spectrogram 1	1	1647.0	1650.0	0	12000.0	Winter Wren	winwre3	0.5434	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1647.0
+596	Spectrogram 1	1	1650.0	1653.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1226	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1650.0
+597	Spectrogram 1	1	1653.0	1656.0	0	12000.0	Magnolia Warbler	magwar	0.9286	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1653.0
+598	Spectrogram 1	1	1653.0	1656.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3885	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1653.0
+599	Spectrogram 1	1	1656.0	1659.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1427	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1656.0
+600	Spectrogram 1	1	1662.0	1665.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.7673	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1662.0
+601	Spectrogram 1	1	1674.0	1677.0	0	12000.0	Magnolia Warbler	magwar	0.4641	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1674.0
+602	Spectrogram 1	1	1674.0	1677.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1688	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1674.0
+603	Spectrogram 1	1	1677.0	1680.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.7103	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1677.0
+604	Spectrogram 1	1	1680.0	1683.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1582	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1680.0
+605	Spectrogram 1	1	1686.0	1689.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4141	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1686.0
+606	Spectrogram 1	1	1689.0	1692.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.7411	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1689.0
+607	Spectrogram 1	1	1701.0	1704.0	0	12000.0	Winter Wren	winwre3	0.1079	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1701.0
+608	Spectrogram 1	1	1707.0	1710.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2146	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1707.0
+609	Spectrogram 1	1	1719.0	1722.0	0	12000.0	Winter Wren	winwre3	0.9756	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1719.0
+610	Spectrogram 1	1	1722.0	1725.0	0	12000.0	Winter Wren	winwre3	0.9869	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1722.0
+611	Spectrogram 1	1	1725.0	1728.0	0	12000.0	Winter Wren	winwre3	0.9935	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1725.0
+612	Spectrogram 1	1	1731.0	1734.0	0	12000.0	Magnolia Warbler	magwar	0.2544	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1731.0
+613	Spectrogram 1	1	1731.0	1734.0	0	12000.0	Canada Warbler	canwar	0.1102	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1731.0
+614	Spectrogram 1	1	1734.0	1737.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5570	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1734.0
+615	Spectrogram 1	1	1737.0	1740.0	0	12000.0	Magnolia Warbler	magwar	0.2380	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1737.0
+616	Spectrogram 1	1	1743.0	1746.0	0	12000.0	Magnolia Warbler	magwar	0.2893	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1743.0
+617	Spectrogram 1	1	1746.0	1749.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4816	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1746.0
+618	Spectrogram 1	1	1749.0	1752.0	0	12000.0	Magnolia Warbler	magwar	0.5121	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1749.0
+619	Spectrogram 1	1	1749.0	1752.0	0	12000.0	Canada Warbler	canwar	0.2292	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1749.0
+620	Spectrogram 1	1	1755.0	1758.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1712	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1755.0
+621	Spectrogram 1	1	1758.0	1761.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.8077	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1758.0
+622	Spectrogram 1	1	1770.0	1773.0	0	12000.0	Magnolia Warbler	magwar	0.7031	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1770.0
+623	Spectrogram 1	1	1776.0	1779.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3404	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1776.0
+624	Spectrogram 1	1	1779.0	1782.0	0	12000.0	Magnolia Warbler	magwar	0.5442	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1779.0
+625	Spectrogram 1	1	1782.0	1785.0	0	12000.0	Magnolia Warbler	magwar	0.1635	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1782.0
+626	Spectrogram 1	1	1785.0	1788.0	0	12000.0	Magnolia Warbler	magwar	0.7236	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1785.0
+627	Spectrogram 1	1	1788.0	1791.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5163	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1788.0
+628	Spectrogram 1	1	1791.0	1794.0	0	12000.0	Magnolia Warbler	magwar	0.3851	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1791.0
+629	Spectrogram 1	1	1794.0	1797.0	0	12000.0	Magnolia Warbler	magwar	0.6892	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1794.0
+630	Spectrogram 1	1	1800.0	1803.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1839	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1800.0
+631	Spectrogram 1	1	1803.0	1806.0	0	12000.0	Magnolia Warbler	magwar	0.8413	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1803.0
+632	Spectrogram 1	1	1806.0	1809.0	0	12000.0	Magnolia Warbler	magwar	0.9453	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1806.0
+633	Spectrogram 1	1	1809.0	1812.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5358	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1809.0
+634	Spectrogram 1	1	1815.0	1818.0	0	12000.0	Magnolia Warbler	magwar	0.7410	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1815.0
+635	Spectrogram 1	1	1815.0	1818.0	0	12000.0	Canada Warbler	canwar	0.2088	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1815.0
+636	Spectrogram 1	1	1818.0	1821.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3407	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1818.0
+637	Spectrogram 1	1	1821.0	1824.0	0	12000.0	Winter Wren	winwre3	0.3420	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1821.0
+638	Spectrogram 1	1	1821.0	1824.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1311	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1821.0
+639	Spectrogram 1	1	1824.0	1827.0	0	12000.0	Winter Wren	winwre3	0.8131	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1824.0
+640	Spectrogram 1	1	1827.0	1830.0	0	12000.0	Winter Wren	winwre3	0.5584	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1827.0
+641	Spectrogram 1	1	1830.0	1833.0	0	12000.0	Brown Creeper	brncre	0.2386	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1830.0
+642	Spectrogram 1	1	1830.0	1833.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1308	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1830.0
+643	Spectrogram 1	1	1833.0	1836.0	0	12000.0	Magnolia Warbler	magwar	0.7390	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1833.0
+644	Spectrogram 1	1	1836.0	1839.0	0	12000.0	Canada Warbler	canwar	0.5688	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1836.0
+645	Spectrogram 1	1	1836.0	1839.0	0	12000.0	Magnolia Warbler	magwar	0.1943	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1836.0
+646	Spectrogram 1	1	1839.0	1842.0	0	12000.0	Magnolia Warbler	magwar	0.3208	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1839.0
+647	Spectrogram 1	1	1839.0	1842.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2798	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1839.0
+648	Spectrogram 1	1	1842.0	1845.0	0	12000.0	Magnolia Warbler	magwar	0.1371	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1842.0
+649	Spectrogram 1	1	1842.0	1845.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1172	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1842.0
+650	Spectrogram 1	1	1845.0	1848.0	0	12000.0	Magnolia Warbler	magwar	0.7557	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1845.0
+651	Spectrogram 1	1	1845.0	1848.0	0	12000.0	Canada Warbler	canwar	0.1991	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1845.0
+652	Spectrogram 1	1	1848.0	1851.0	0	12000.0	Magnolia Warbler	magwar	0.6651	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1848.0
+653	Spectrogram 1	1	1851.0	1854.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6701	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1851.0
+654	Spectrogram 1	1	1854.0	1857.0	0	12000.0	Canada Warbler	canwar	0.6143	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1854.0
+655	Spectrogram 1	1	1854.0	1857.0	0	12000.0	Magnolia Warbler	magwar	0.1964	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1854.0
+656	Spectrogram 1	1	1857.0	1860.0	0	12000.0	Winter Wren	winwre3	0.5438	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1857.0
+657	Spectrogram 1	1	1857.0	1860.0	0	12000.0	Magnolia Warbler	magwar	0.1879	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1857.0
+658	Spectrogram 1	1	1860.0	1863.0	0	12000.0	Winter Wren	winwre3	0.3215	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1860.0
+659	Spectrogram 1	1	1860.0	1863.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1767	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1860.0
+660	Spectrogram 1	1	1866.0	1869.0	0	12000.0	Winter Wren	winwre3	0.7973	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1866.0
+661	Spectrogram 1	1	1869.0	1872.0	0	12000.0	Winter Wren	winwre3	0.2555	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1869.0
+662	Spectrogram 1	1	1872.0	1875.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1957	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1872.0
+663	Spectrogram 1	1	1875.0	1878.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1179	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1875.0
+664	Spectrogram 1	1	1878.0	1881.0	0	12000.0	Magnolia Warbler	magwar	0.4308	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1878.0
+665	Spectrogram 1	1	1881.0	1884.0	0	12000.0	Winter Wren	winwre3	0.9651	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1881.0
+666	Spectrogram 1	1	1884.0	1887.0	0	12000.0	Winter Wren	winwre3	0.1699	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1884.0
+667	Spectrogram 1	1	1887.0	1890.0	0	12000.0	Magnolia Warbler	magwar	0.8594	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1887.0
+668	Spectrogram 1	1	1890.0	1893.0	0	12000.0	Magnolia Warbler	magwar	0.8984	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1890.0
+669	Spectrogram 1	1	1893.0	1896.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6135	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1893.0
+670	Spectrogram 1	1	1896.0	1899.0	0	12000.0	Magnolia Warbler	magwar	0.3435	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1896.0
+671	Spectrogram 1	1	1899.0	1902.0	0	12000.0	Magnolia Warbler	magwar	0.6481	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1899.0
+672	Spectrogram 1	1	1902.0	1905.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9271	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1902.0
+673	Spectrogram 1	1	1905.0	1908.0	0	12000.0	Magnolia Warbler	magwar	0.8407	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1905.0
+674	Spectrogram 1	1	1905.0	1908.0	0	12000.0	Canada Warbler	canwar	0.2423	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1905.0
+675	Spectrogram 1	1	1908.0	1911.0	0	12000.0	Magnolia Warbler	magwar	0.3210	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1908.0
+676	Spectrogram 1	1	1911.0	1914.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5870	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1911.0
+677	Spectrogram 1	1	1914.0	1917.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3171	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1914.0
+678	Spectrogram 1	1	1914.0	1917.0	0	12000.0	Magnolia Warbler	magwar	0.1484	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1914.0
+679	Spectrogram 1	1	1917.0	1920.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1971	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1917.0
+680	Spectrogram 1	1	1920.0	1923.0	0	12000.0	Magnolia Warbler	magwar	0.7468	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1920.0
+681	Spectrogram 1	1	1920.0	1923.0	0	12000.0	Canada Warbler	canwar	0.1267	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1920.0
+682	Spectrogram 1	1	1923.0	1926.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3459	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1923.0
+683	Spectrogram 1	1	1926.0	1929.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2061	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1926.0
+684	Spectrogram 1	1	1929.0	1932.0	0	12000.0	Magnolia Warbler	magwar	0.3112	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1929.0
+685	Spectrogram 1	1	1929.0	1932.0	0	12000.0	Winter Wren	winwre3	0.1597	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1929.0
+686	Spectrogram 1	1	1932.0	1935.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6753	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1932.0
+687	Spectrogram 1	1	1935.0	1938.0	0	12000.0	Canada Warbler	canwar	0.2289	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1935.0
+688	Spectrogram 1	1	1935.0	1938.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2084	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1935.0
+689	Spectrogram 1	1	1935.0	1938.0	0	12000.0	Magnolia Warbler	magwar	0.1049	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1935.0
+690	Spectrogram 1	1	1938.0	1941.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3788	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1938.0
+691	Spectrogram 1	1	1944.0	1947.0	0	12000.0	Magnolia Warbler	magwar	0.5913	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1944.0
+692	Spectrogram 1	1	1950.0	1953.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1467	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1950.0
+693	Spectrogram 1	1	1953.0	1956.0	0	12000.0	Magnolia Warbler	magwar	0.8403	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1953.0
+694	Spectrogram 1	1	1956.0	1959.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2267	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1956.0
+695	Spectrogram 1	1	1959.0	1962.0	0	12000.0	Magnolia Warbler	magwar	0.8834	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1959.0
+696	Spectrogram 1	1	1962.0	1965.0	0	12000.0	Winter Wren	winwre3	0.4822	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1962.0
+697	Spectrogram 1	1	1962.0	1965.0	0	12000.0	Magnolia Warbler	magwar	0.2430	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1962.0
+698	Spectrogram 1	1	1968.0	1971.0	0	12000.0	Magnolia Warbler	magwar	0.3031	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1968.0
+699	Spectrogram 1	1	1971.0	1974.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3446	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1971.0
+700	Spectrogram 1	1	1974.0	1977.0	0	12000.0	Magnolia Warbler	magwar	0.8425	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1974.0
+701	Spectrogram 1	1	1977.0	1980.0	0	12000.0	Magnolia Warbler	magwar	0.8478	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1977.0
+702	Spectrogram 1	1	1980.0	1983.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5179	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1980.0
+703	Spectrogram 1	1	1980.0	1983.0	0	12000.0	Magnolia Warbler	magwar	0.1434	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1980.0
+704	Spectrogram 1	1	1983.0	1986.0	0	12000.0	Magnolia Warbler	magwar	0.8262	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1983.0
+705	Spectrogram 1	1	1986.0	1989.0	0	12000.0	Mourning Dove	moudov	0.2758	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1986.0
+706	Spectrogram 1	1	1986.0	1989.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1239	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1986.0
+707	Spectrogram 1	1	1989.0	1992.0	0	12000.0	Magnolia Warbler	magwar	0.7995	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1989.0
+708	Spectrogram 1	1	1989.0	1992.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1595	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1989.0
+709	Spectrogram 1	1	1995.0	1998.0	0	12000.0	Magnolia Warbler	magwar	0.6126	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1995.0
+710	Spectrogram 1	1	1998.0	2001.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2311	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1998.0
+711	Spectrogram 1	1	1998.0	2001.0	0	12000.0	Dark-eyed Junco	daejun	0.1131	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1998.0
+712	Spectrogram 1	1	1998.0	2001.0	0	12000.0	Mourning Dove	moudov	0.1104	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	1998.0
+713	Spectrogram 1	1	2001.0	2004.0	0	12000.0	Magnolia Warbler	magwar	0.8591	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2001.0
+714	Spectrogram 1	1	2004.0	2007.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1398	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2004.0
+715	Spectrogram 1	1	2007.0	2010.0	0	12000.0	Magnolia Warbler	magwar	0.1589	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2007.0
+716	Spectrogram 1	1	2007.0	2010.0	0	12000.0	Canada Warbler	canwar	0.1092	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2007.0
+717	Spectrogram 1	1	2010.0	2013.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3120	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2010.0
+718	Spectrogram 1	1	2013.0	2016.0	0	12000.0	Winter Wren	winwre3	0.6938	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2013.0
+719	Spectrogram 1	1	2016.0	2019.0	0	12000.0	Magnolia Warbler	magwar	0.7374	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2016.0
+720	Spectrogram 1	1	2016.0	2019.0	0	12000.0	Canada Warbler	canwar	0.1228	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2016.0
+721	Spectrogram 1	1	2019.0	2022.0	0	12000.0	Magnolia Warbler	magwar	0.2519	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2019.0
+722	Spectrogram 1	1	2022.0	2025.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2125	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2022.0
+723	Spectrogram 1	1	2025.0	2028.0	0	12000.0	Magnolia Warbler	magwar	0.6667	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2025.0
+724	Spectrogram 1	1	2025.0	2028.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3957	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2025.0
+725	Spectrogram 1	1	2028.0	2031.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5399	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2028.0
+726	Spectrogram 1	1	2031.0	2034.0	0	12000.0	Winter Wren	winwre3	0.1633	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2031.0
+727	Spectrogram 1	1	2034.0	2037.0	0	12000.0	Winter Wren	winwre3	0.7142	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2034.0
+728	Spectrogram 1	1	2034.0	2037.0	0	12000.0	Magnolia Warbler	magwar	0.1580	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2034.0
+729	Spectrogram 1	1	2037.0	2040.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3237	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2037.0
+730	Spectrogram 1	1	2040.0	2043.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8336	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2040.0
+731	Spectrogram 1	1	2040.0	2043.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1279	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2040.0
+732	Spectrogram 1	1	2043.0	2046.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6206	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2043.0
+733	Spectrogram 1	1	2046.0	2049.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6919	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2046.0
+734	Spectrogram 1	1	2049.0	2052.0	0	12000.0	Winter Wren	winwre3	0.1203	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2049.0
+735	Spectrogram 1	1	2052.0	2055.0	0	12000.0	Hermit Thrush	herthr	0.2274	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2052.0
+736	Spectrogram 1	1	2055.0	2058.0	0	12000.0	Winter Wren	winwre3	0.3262	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2055.0
+737	Spectrogram 1	1	2055.0	2058.0	0	12000.0	Hermit Thrush	herthr	0.1681	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2055.0
+738	Spectrogram 1	1	2058.0	2061.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2547	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2058.0
+739	Spectrogram 1	1	2061.0	2064.0	0	12000.0	Winter Wren	winwre3	0.5454	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2061.0
+740	Spectrogram 1	1	2064.0	2067.0	0	12000.0	Hermit Thrush	herthr	0.7421	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2064.0
+741	Spectrogram 1	1	2067.0	2070.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1769	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2067.0
+742	Spectrogram 1	1	2067.0	2070.0	0	12000.0	Magnolia Warbler	magwar	0.1485	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2067.0
+743	Spectrogram 1	1	2070.0	2073.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1953	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2070.0
+744	Spectrogram 1	1	2070.0	2073.0	0	12000.0	Magnolia Warbler	magwar	0.1661	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2070.0
+745	Spectrogram 1	1	2073.0	2076.0	0	12000.0	Hermit Thrush	herthr	0.5808	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2073.0
+746	Spectrogram 1	1	2076.0	2079.0	0	12000.0	Hermit Thrush	herthr	0.4287	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2076.0
+747	Spectrogram 1	1	2076.0	2079.0	0	12000.0	Magnolia Warbler	magwar	0.1120	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2076.0
+748	Spectrogram 1	1	2079.0	2082.0	0	12000.0	Hermit Thrush	herthr	0.3550	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2079.0
+749	Spectrogram 1	1	2079.0	2082.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1142	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2079.0
+750	Spectrogram 1	1	2082.0	2085.0	0	12000.0	Hermit Thrush	herthr	0.8327	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2082.0
+751	Spectrogram 1	1	2085.0	2088.0	0	12000.0	Hermit Thrush	herthr	0.5826	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2085.0
+752	Spectrogram 1	1	2085.0	2088.0	0	12000.0	Magnolia Warbler	magwar	0.2663	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2085.0
+753	Spectrogram 1	1	2088.0	2091.0	0	12000.0	Hermit Thrush	herthr	0.2568	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2088.0
+754	Spectrogram 1	1	2091.0	2094.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5935	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2091.0
+755	Spectrogram 1	1	2091.0	2094.0	0	12000.0	Hermit Thrush	herthr	0.1843	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2091.0
+756	Spectrogram 1	1	2094.0	2097.0	0	12000.0	Hermit Thrush	herthr	0.7110	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2094.0
+757	Spectrogram 1	1	2097.0	2100.0	0	12000.0	Hermit Thrush	herthr	0.9029	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2097.0
+758	Spectrogram 1	1	2100.0	2103.0	0	12000.0	Hermit Thrush	herthr	0.6438	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2100.0
+759	Spectrogram 1	1	2103.0	2106.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1550	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2103.0
+760	Spectrogram 1	1	2106.0	2109.0	0	12000.0	Hermit Thrush	herthr	0.8835	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2106.0
+761	Spectrogram 1	1	2109.0	2112.0	0	12000.0	Winter Wren	winwre3	0.4735	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2109.0
+762	Spectrogram 1	1	2109.0	2112.0	0	12000.0	Hermit Thrush	herthr	0.1179	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2109.0
+763	Spectrogram 1	1	2112.0	2115.0	0	12000.0	Winter Wren	winwre3	0.8374	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2112.0
+764	Spectrogram 1	1	2115.0	2118.0	0	12000.0	Hermit Thrush	herthr	0.3463	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2115.0
+765	Spectrogram 1	1	2115.0	2118.0	0	12000.0	Winter Wren	winwre3	0.2539	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2115.0
+766	Spectrogram 1	1	2118.0	2121.0	0	12000.0	Hermit Thrush	herthr	0.4966	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2118.0
+767	Spectrogram 1	1	2118.0	2121.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1071	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2118.0
+768	Spectrogram 1	1	2121.0	2124.0	0	12000.0	Hermit Thrush	herthr	0.5059	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2121.0
+769	Spectrogram 1	1	2124.0	2127.0	0	12000.0	Hermit Thrush	herthr	0.7377	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2124.0
+770	Spectrogram 1	1	2127.0	2130.0	0	12000.0	Hermit Thrush	herthr	0.8944	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2127.0
+771	Spectrogram 1	1	2127.0	2130.0	0	12000.0	Winter Wren	winwre3	0.1423	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2127.0
+772	Spectrogram 1	1	2130.0	2133.0	0	12000.0	Hermit Thrush	herthr	0.9250	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2130.0
+773	Spectrogram 1	1	2130.0	2133.0	0	12000.0	Winter Wren	winwre3	0.3709	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2130.0
+774	Spectrogram 1	1	2133.0	2136.0	0	12000.0	Hermit Thrush	herthr	0.6270	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2133.0
+775	Spectrogram 1	1	2139.0	2142.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7523	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2139.0
+776	Spectrogram 1	1	2142.0	2145.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8383	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2142.0
+777	Spectrogram 1	1	2145.0	2148.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4033	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2145.0
+778	Spectrogram 1	1	2148.0	2151.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8785	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2148.0
+779	Spectrogram 1	1	2151.0	2154.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9395	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2151.0
+780	Spectrogram 1	1	2157.0	2160.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8540	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2157.0
+781	Spectrogram 1	1	2160.0	2163.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1548	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2160.0
+782	Spectrogram 1	1	2163.0	2166.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6799	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2163.0
+783	Spectrogram 1	1	2169.0	2172.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7558	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2169.0
+784	Spectrogram 1	1	2172.0	2175.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1075	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2172.0
+785	Spectrogram 1	1	2181.0	2184.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8768	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2181.0
+786	Spectrogram 1	1	2184.0	2187.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4677	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2184.0
+787	Spectrogram 1	1	2205.0	2208.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3262	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2205.0
+788	Spectrogram 1	1	2208.0	2211.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9273	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2208.0
+789	Spectrogram 1	1	2214.0	2217.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6501	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2214.0
+790	Spectrogram 1	1	2220.0	2223.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3544	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2220.0
+791	Spectrogram 1	1	2226.0	2229.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2558	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2226.0
+792	Spectrogram 1	1	2232.0	2235.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4848	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2232.0
+793	Spectrogram 1	1	2235.0	2238.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1338	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2235.0
+794	Spectrogram 1	1	2238.0	2241.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1389	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2238.0
+795	Spectrogram 1	1	2244.0	2247.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7298	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2244.0
+796	Spectrogram 1	1	2256.0	2259.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8905	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2256.0
+797	Spectrogram 1	1	2259.0	2262.0	0	12000.0	Mourning Dove	moudov	0.1069	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2259.0
+798	Spectrogram 1	1	2268.0	2271.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6525	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2268.0
+799	Spectrogram 1	1	2274.0	2277.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4598	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2274.0
+800	Spectrogram 1	1	2280.0	2283.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4739	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2280.0
+801	Spectrogram 1	1	2283.0	2286.0	0	12000.0	Mourning Dove	moudov	0.1288	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2283.0
+802	Spectrogram 1	1	2286.0	2289.0	0	12000.0	Mourning Dove	moudov	0.1160	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2286.0
+803	Spectrogram 1	1	2289.0	2292.0	0	12000.0	Magnolia Warbler	magwar	0.4549	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2289.0
+804	Spectrogram 1	1	2292.0	2295.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6707	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2292.0
+805	Spectrogram 1	1	2292.0	2295.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1829	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2292.0
+806	Spectrogram 1	1	2298.0	2301.0	0	12000.0	Mourning Dove	moudov	0.1122	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2298.0
+807	Spectrogram 1	1	2301.0	2304.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4914	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2301.0
+808	Spectrogram 1	1	2301.0	2304.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.2175	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2301.0
+809	Spectrogram 1	1	2307.0	2310.0	0	12000.0	Magnolia Warbler	magwar	0.8157	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2307.0
+810	Spectrogram 1	1	2310.0	2313.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1060	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2310.0
+811	Spectrogram 1	1	2313.0	2316.0	0	12000.0	Mourning Dove	moudov	0.1724	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2313.0
+812	Spectrogram 1	1	2313.0	2316.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1481	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2313.0
+813	Spectrogram 1	1	2316.0	2319.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3412	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2316.0
+814	Spectrogram 1	1	2316.0	2319.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1036	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2316.0
+815	Spectrogram 1	1	2319.0	2322.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3766	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2319.0
+816	Spectrogram 1	1	2319.0	2322.0	0	12000.0	Magnolia Warbler	magwar	0.1166	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2319.0
+817	Spectrogram 1	1	2325.0	2328.0	0	12000.0	Magnolia Warbler	magwar	0.4442	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2325.0
+818	Spectrogram 1	1	2328.0	2331.0	0	12000.0	Magnolia Warbler	magwar	0.9168	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2328.0
+819	Spectrogram 1	1	2334.0	2337.0	0	12000.0	Magnolia Warbler	magwar	0.8768	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2334.0
+820	Spectrogram 1	1	2337.0	2340.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4263	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2337.0
+821	Spectrogram 1	1	2337.0	2340.0	0	12000.0	Magnolia Warbler	magwar	0.2295	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2337.0
+822	Spectrogram 1	1	2343.0	2346.0	0	12000.0	Magnolia Warbler	magwar	0.8699	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2343.0
+823	Spectrogram 1	1	2346.0	2349.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1638	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2346.0
+824	Spectrogram 1	1	2349.0	2352.0	0	12000.0	Magnolia Warbler	magwar	0.4424	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2349.0
+825	Spectrogram 1	1	2355.0	2358.0	0	12000.0	Magnolia Warbler	magwar	0.5331	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2355.0
+826	Spectrogram 1	1	2355.0	2358.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1185	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2355.0
+827	Spectrogram 1	1	2361.0	2364.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3379	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2361.0
+828	Spectrogram 1	1	2364.0	2367.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3444	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2364.0
+829	Spectrogram 1	1	2370.0	2373.0	0	12000.0	Magnolia Warbler	magwar	0.5915	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2370.0
+830	Spectrogram 1	1	2373.0	2376.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1972	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2373.0
+831	Spectrogram 1	1	2376.0	2379.0	0	12000.0	Magnolia Warbler	magwar	0.6544	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2376.0
+832	Spectrogram 1	1	2382.0	2385.0	0	12000.0	Magnolia Warbler	magwar	0.6043	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2382.0
+833	Spectrogram 1	1	2385.0	2388.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8708	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2385.0
+834	Spectrogram 1	1	2388.0	2391.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3452	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2388.0
+835	Spectrogram 1	1	2391.0	2394.0	0	12000.0	Magnolia Warbler	magwar	0.3228	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2391.0
+836	Spectrogram 1	1	2394.0	2397.0	0	12000.0	Magnolia Warbler	magwar	0.1258	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2394.0
+837	Spectrogram 1	1	2397.0	2400.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6122	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2397.0
+838	Spectrogram 1	1	2400.0	2403.0	0	12000.0	Magnolia Warbler	magwar	0.9019	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2400.0
+839	Spectrogram 1	1	2406.0	2409.0	0	12000.0	Magnolia Warbler	magwar	0.4463	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2406.0
+840	Spectrogram 1	1	2406.0	2409.0	0	12000.0	Canada Warbler	canwar	0.1297	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2406.0
+841	Spectrogram 1	1	2415.0	2418.0	0	12000.0	Magnolia Warbler	magwar	0.8614	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2415.0
+842	Spectrogram 1	1	2418.0	2421.0	0	12000.0	Magnolia Warbler	magwar	0.7815	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2418.0
+843	Spectrogram 1	1	2424.0	2427.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6746	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2424.0
+844	Spectrogram 1	1	2430.0	2433.0	0	12000.0	Magnolia Warbler	magwar	0.8634	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2430.0
+845	Spectrogram 1	1	2433.0	2436.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5780	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2433.0
+846	Spectrogram 1	1	2433.0	2436.0	0	12000.0	Northern Parula	norpar	0.1189	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2433.0
+847	Spectrogram 1	1	2436.0	2439.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8569	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2436.0
+848	Spectrogram 1	1	2439.0	2442.0	0	12000.0	Magnolia Warbler	magwar	0.7374	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2439.0
+849	Spectrogram 1	1	2442.0	2445.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2154	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2442.0
+850	Spectrogram 1	1	2445.0	2448.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1711	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2445.0
+851	Spectrogram 1	1	2451.0	2454.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8927	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2451.0
+852	Spectrogram 1	1	2454.0	2457.0	0	12000.0	Magnolia Warbler	magwar	0.7070	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2454.0
+853	Spectrogram 1	1	2460.0	2463.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9796	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2460.0
+854	Spectrogram 1	1	2463.0	2466.0	0	12000.0	Magnolia Warbler	magwar	0.6292	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2463.0
+855	Spectrogram 1	1	2472.0	2475.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6314	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2472.0
+856	Spectrogram 1	1	2475.0	2478.0	0	12000.0	Magnolia Warbler	magwar	0.6542	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2475.0
+857	Spectrogram 1	1	2475.0	2478.0	0	12000.0	Mourning Dove	moudov	0.1060	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2475.0
+858	Spectrogram 1	1	2478.0	2481.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4261	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2478.0
+859	Spectrogram 1	1	2481.0	2484.0	0	12000.0	Magnolia Warbler	magwar	0.9492	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2481.0
+860	Spectrogram 1	1	2484.0	2487.0	0	12000.0	Magnolia Warbler	magwar	0.2883	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2484.0
+861	Spectrogram 1	1	2487.0	2490.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4793	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2487.0
+862	Spectrogram 1	1	2487.0	2490.0	0	12000.0	Magnolia Warbler	magwar	0.1149	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2487.0
+863	Spectrogram 1	1	2490.0	2493.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6628	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2490.0
+864	Spectrogram 1	1	2496.0	2499.0	0	12000.0	Magnolia Warbler	magwar	0.9112	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2496.0
+865	Spectrogram 1	1	2499.0	2502.0	0	12000.0	Magnolia Warbler	magwar	0.1979	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2499.0
+866	Spectrogram 1	1	2499.0	2502.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1375	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2499.0
+867	Spectrogram 1	1	2502.0	2505.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4057	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2502.0
+868	Spectrogram 1	1	2502.0	2505.0	0	12000.0	Magnolia Warbler	magwar	0.2080	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2502.0
+869	Spectrogram 1	1	2505.0	2508.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1368	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2505.0
+870	Spectrogram 1	1	2511.0	2514.0	0	12000.0	Magnolia Warbler	magwar	0.8585	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2511.0
+871	Spectrogram 1	1	2517.0	2520.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4152	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2517.0
+872	Spectrogram 1	1	2520.0	2523.0	0	12000.0	Magnolia Warbler	magwar	0.5589	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2520.0
+873	Spectrogram 1	1	2523.0	2526.0	0	12000.0	Magnolia Warbler	magwar	0.1113	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2523.0
+874	Spectrogram 1	1	2526.0	2529.0	0	12000.0	Magnolia Warbler	magwar	0.5791	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2526.0
+875	Spectrogram 1	1	2529.0	2532.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3604	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2529.0
+876	Spectrogram 1	1	2529.0	2532.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1581	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2529.0
+877	Spectrogram 1	1	2532.0	2535.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2669	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2532.0
+878	Spectrogram 1	1	2532.0	2535.0	0	12000.0	Magnolia Warbler	magwar	0.1451	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2532.0
+879	Spectrogram 1	1	2538.0	2541.0	0	12000.0	Magnolia Warbler	magwar	0.8825	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2538.0
+880	Spectrogram 1	1	2541.0	2544.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2663	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2541.0
+881	Spectrogram 1	1	2544.0	2547.0	0	12000.0	Magnolia Warbler	magwar	0.1950	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2544.0
+882	Spectrogram 1	1	2547.0	2550.0	0	12000.0	Magnolia Warbler	magwar	0.7129	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2547.0
+883	Spectrogram 1	1	2553.0	2556.0	0	12000.0	Magnolia Warbler	magwar	0.9057	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2553.0
+884	Spectrogram 1	1	2556.0	2559.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2006	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2556.0
+885	Spectrogram 1	1	2559.0	2562.0	0	12000.0	Magnolia Warbler	magwar	0.5312	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2559.0
+886	Spectrogram 1	1	2559.0	2562.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1487	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2559.0
+887	Spectrogram 1	1	2565.0	2568.0	0	12000.0	Magnolia Warbler	magwar	0.8242	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2565.0
+888	Spectrogram 1	1	2568.0	2571.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2501	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2568.0
+889	Spectrogram 1	1	2571.0	2574.0	0	12000.0	Magnolia Warbler	magwar	0.1581	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2571.0
+890	Spectrogram 1	1	2574.0	2577.0	0	12000.0	Magnolia Warbler	magwar	0.6337	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2574.0
+891	Spectrogram 1	1	2574.0	2577.0	0	12000.0	Mourning Dove	moudov	0.1000	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2574.0
+892	Spectrogram 1	1	2580.0	2583.0	0	12000.0	Magnolia Warbler	magwar	0.1126	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2580.0
+893	Spectrogram 1	1	2583.0	2586.0	0	12000.0	Magnolia Warbler	magwar	0.9255	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2583.0
+894	Spectrogram 1	1	2586.0	2589.0	0	12000.0	Magnolia Warbler	magwar	0.2431	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2586.0
+895	Spectrogram 1	1	2586.0	2589.0	0	12000.0	Mourning Dove	moudov	0.1410	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2586.0
+896	Spectrogram 1	1	2592.0	2595.0	0	12000.0	Magnolia Warbler	magwar	0.8813	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2592.0
+897	Spectrogram 1	1	2595.0	2598.0	0	12000.0	Magnolia Warbler	magwar	0.3024	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2595.0
+898	Spectrogram 1	1	2598.0	2601.0	0	12000.0	Magnolia Warbler	magwar	0.9223	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2598.0
+899	Spectrogram 1	1	2598.0	2601.0	0	12000.0	Canada Warbler	canwar	0.1193	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2598.0
+900	Spectrogram 1	1	2604.0	2607.0	0	12000.0	Magnolia Warbler	magwar	0.7811	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2604.0
+901	Spectrogram 1	1	2604.0	2607.0	0	12000.0	Canada Warbler	canwar	0.1121	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2604.0
+902	Spectrogram 1	1	2607.0	2610.0	0	12000.0	Magnolia Warbler	magwar	0.9401	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2607.0
+903	Spectrogram 1	1	2613.0	2616.0	0	12000.0	Magnolia Warbler	magwar	0.2938	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2613.0
+904	Spectrogram 1	1	2619.0	2622.0	0	12000.0	Magnolia Warbler	magwar	0.9249	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2619.0
+905	Spectrogram 1	1	2625.0	2628.0	0	12000.0	Magnolia Warbler	magwar	0.9476	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2625.0
+906	Spectrogram 1	1	2628.0	2631.0	0	12000.0	Magnolia Warbler	magwar	0.1835	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2628.0
+907	Spectrogram 1	1	2631.0	2634.0	0	12000.0	Magnolia Warbler	magwar	0.7259	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2631.0
+908	Spectrogram 1	1	2637.0	2640.0	0	12000.0	Magnolia Warbler	magwar	0.7576	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2637.0
+909	Spectrogram 1	1	2640.0	2643.0	0	12000.0	Magnolia Warbler	magwar	0.4049	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2640.0
+910	Spectrogram 1	1	2640.0	2643.0	0	12000.0	Indigo Bunting	indbun	0.1169	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2640.0
+911	Spectrogram 1	1	2643.0	2646.0	0	12000.0	Magnolia Warbler	magwar	0.7575	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2643.0
+912	Spectrogram 1	1	2646.0	2649.0	0	12000.0	Magnolia Warbler	magwar	0.5136	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2646.0
+913	Spectrogram 1	1	2649.0	2652.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1144	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2649.0
+914	Spectrogram 1	1	2652.0	2655.0	0	12000.0	Magnolia Warbler	magwar	0.9186	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2652.0
+915	Spectrogram 1	1	2658.0	2661.0	0	12000.0	Magnolia Warbler	magwar	0.1102	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2658.0
+916	Spectrogram 1	1	2661.0	2664.0	0	12000.0	Magnolia Warbler	magwar	0.2735	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2661.0
+917	Spectrogram 1	1	2664.0	2667.0	0	12000.0	Magnolia Warbler	magwar	0.8867	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2664.0
+918	Spectrogram 1	1	2673.0	2676.0	0	12000.0	Magnolia Warbler	magwar	0.1549	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2673.0
+919	Spectrogram 1	1	2676.0	2679.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2188	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2676.0
+920	Spectrogram 1	1	2679.0	2682.0	0	12000.0	Magnolia Warbler	magwar	0.3616	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2679.0
+921	Spectrogram 1	1	2688.0	2691.0	0	12000.0	Magnolia Warbler	magwar	0.3677	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2688.0
+922	Spectrogram 1	1	2694.0	2697.0	0	12000.0	Magnolia Warbler	magwar	0.1579	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2694.0
+923	Spectrogram 1	1	2694.0	2697.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1495	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2694.0
+924	Spectrogram 1	1	2733.0	2736.0	0	12000.0	Magnolia Warbler	magwar	0.1266	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2733.0
+925	Spectrogram 1	1	2760.0	2763.0	0	12000.0	Magnolia Warbler	magwar	0.8979	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2760.0
+926	Spectrogram 1	1	2760.0	2763.0	0	12000.0	Canada Warbler	canwar	0.3042	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2760.0
+927	Spectrogram 1	1	2772.0	2775.0	0	12000.0	Magnolia Warbler	magwar	0.5826	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2772.0
+928	Spectrogram 1	1	2772.0	2775.0	0	12000.0	Canada Warbler	canwar	0.3140	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2772.0
+929	Spectrogram 1	1	2778.0	2781.0	0	12000.0	Magnolia Warbler	magwar	0.9284	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2778.0
+930	Spectrogram 1	1	2784.0	2787.0	0	12000.0	Magnolia Warbler	magwar	0.8946	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2784.0
+931	Spectrogram 1	1	2790.0	2793.0	0	12000.0	Magnolia Warbler	magwar	0.3779	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2790.0
+932	Spectrogram 1	1	2799.0	2802.0	0	12000.0	Magnolia Warbler	magwar	0.1506	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2799.0
+933	Spectrogram 1	1	2808.0	2811.0	0	12000.0	Magnolia Warbler	magwar	0.6016	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2808.0
+934	Spectrogram 1	1	2823.0	2826.0	0	12000.0	Magnolia Warbler	magwar	0.2959	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2823.0
+935	Spectrogram 1	1	2835.0	2838.0	0	12000.0	Magnolia Warbler	magwar	0.6354	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2835.0
+936	Spectrogram 1	1	2853.0	2856.0	0	12000.0	Magnolia Warbler	magwar	0.1728	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2853.0
+937	Spectrogram 1	1	2856.0	2859.0	0	12000.0	Mourning Dove	moudov	0.2144	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2856.0
+938	Spectrogram 1	1	2865.0	2868.0	0	12000.0	Magnolia Warbler	magwar	0.1854	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2865.0
+939	Spectrogram 1	1	2880.0	2883.0	0	12000.0	Magnolia Warbler	magwar	0.7175	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2880.0
+940	Spectrogram 1	1	2880.0	2883.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1028	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2880.0
+941	Spectrogram 1	1	2883.0	2886.0	0	12000.0	Swainson's Thrush	swathr	0.1530	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2883.0
+942	Spectrogram 1	1	2898.0	2901.0	0	12000.0	Swainson's Thrush	swathr	0.2513	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2898.0
+943	Spectrogram 1	1	2901.0	2904.0	0	12000.0	Swainson's Thrush	swathr	0.1065	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2901.0
+944	Spectrogram 1	1	2904.0	2907.0	0	12000.0	Swainson's Thrush	swathr	0.1344	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2904.0
+945	Spectrogram 1	1	2919.0	2922.0	0	12000.0	Swainson's Thrush	swathr	0.8864	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2919.0
+946	Spectrogram 1	1	2922.0	2925.0	0	12000.0	Swainson's Thrush	swathr	0.9399	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2922.0
+947	Spectrogram 1	1	2925.0	2928.0	0	12000.0	Swainson's Thrush	swathr	0.5182	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2925.0
+948	Spectrogram 1	1	2928.0	2931.0	0	12000.0	Swainson's Thrush	swathr	0.7811	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2928.0
+949	Spectrogram 1	1	2931.0	2934.0	0	12000.0	Swainson's Thrush	swathr	0.9002	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2931.0
+950	Spectrogram 1	1	2934.0	2937.0	0	12000.0	Swainson's Thrush	swathr	0.9818	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2934.0
+951	Spectrogram 1	1	2937.0	2940.0	0	12000.0	Swainson's Thrush	swathr	0.9164	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2937.0
+952	Spectrogram 1	1	2940.0	2943.0	0	12000.0	Swainson's Thrush	swathr	0.6669	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2940.0
+953	Spectrogram 1	1	2943.0	2946.0	0	12000.0	Swainson's Thrush	swathr	0.8903	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2943.0
+954	Spectrogram 1	1	2946.0	2949.0	0	12000.0	Swainson's Thrush	swathr	0.7818	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2946.0
+955	Spectrogram 1	1	2949.0	2952.0	0	12000.0	Swainson's Thrush	swathr	0.9648	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2949.0
+956	Spectrogram 1	1	2952.0	2955.0	0	12000.0	Swainson's Thrush	swathr	0.5440	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2952.0
+957	Spectrogram 1	1	2955.0	2958.0	0	12000.0	Swainson's Thrush	swathr	0.8234	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2955.0
+958	Spectrogram 1	1	2958.0	2961.0	0	12000.0	Swainson's Thrush	swathr	0.8329	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2958.0
+959	Spectrogram 1	1	2961.0	2964.0	0	12000.0	Swainson's Thrush	swathr	0.7345	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2961.0
+960	Spectrogram 1	1	2964.0	2967.0	0	12000.0	Swainson's Thrush	swathr	0.9104	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2964.0
+961	Spectrogram 1	1	2967.0	2970.0	0	12000.0	Swainson's Thrush	swathr	0.4377	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2967.0
+962	Spectrogram 1	1	2970.0	2973.0	0	12000.0	Swainson's Thrush	swathr	0.4058	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2970.0
+963	Spectrogram 1	1	2973.0	2976.0	0	12000.0	Swainson's Thrush	swathr	0.8899	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2973.0
+964	Spectrogram 1	1	2976.0	2979.0	0	12000.0	Swainson's Thrush	swathr	0.9350	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2976.0
+965	Spectrogram 1	1	2979.0	2982.0	0	12000.0	Swainson's Thrush	swathr	0.9705	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2979.0
+966	Spectrogram 1	1	2982.0	2985.0	0	12000.0	Swainson's Thrush	swathr	0.9849	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2982.0
+967	Spectrogram 1	1	2985.0	2988.0	0	12000.0	Swainson's Thrush	swathr	0.9294	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2985.0
+968	Spectrogram 1	1	2988.0	2991.0	0	12000.0	Swainson's Thrush	swathr	0.9705	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	2988.0
+969	Spectrogram 1	1	3018.0	3021.0	0	12000.0	Swainson's Thrush	swathr	0.1182	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3018.0
+970	Spectrogram 1	1	3024.0	3027.0	0	12000.0	Swainson's Thrush	swathr	0.2509	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3024.0
+971	Spectrogram 1	1	3030.0	3033.0	0	12000.0	Swainson's Thrush	swathr	0.2722	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3030.0
+972	Spectrogram 1	1	3060.0	3063.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.2208	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3060.0
+973	Spectrogram 1	1	3072.0	3075.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.3164	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3072.0
+974	Spectrogram 1	1	3084.0	3087.0	0	12000.0	Swainson's Thrush	swathr	0.1614	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3084.0
+975	Spectrogram 1	1	3192.0	3195.0	0	12000.0	Swainson's Thrush	swathr	0.6908	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3192.0
+976	Spectrogram 1	1	3201.0	3204.0	0	12000.0	Swainson's Thrush	swathr	0.6832	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3201.0
+977	Spectrogram 1	1	3216.0	3219.0	0	12000.0	Swainson's Thrush	swathr	0.7786	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3216.0
+978	Spectrogram 1	1	3225.0	3228.0	0	12000.0	Swainson's Thrush	swathr	0.5107	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3225.0
+979	Spectrogram 1	1	3228.0	3231.0	0	12000.0	Swainson's Thrush	swathr	0.3042	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3228.0
+980	Spectrogram 1	1	3231.0	3234.0	0	12000.0	Swainson's Thrush	swathr	0.2712	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3231.0
+981	Spectrogram 1	1	3243.0	3246.0	0	12000.0	Swainson's Thrush	swathr	0.3245	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3243.0
+982	Spectrogram 1	1	3246.0	3249.0	0	12000.0	Swainson's Thrush	swathr	0.1189	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3246.0
+983	Spectrogram 1	1	3249.0	3252.0	0	12000.0	Swainson's Thrush	swathr	0.1382	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3249.0
+984	Spectrogram 1	1	3255.0	3258.0	0	12000.0	Swainson's Thrush	swathr	0.1331	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3255.0
+985	Spectrogram 1	1	3297.0	3300.0	0	12000.0	Wood Thrush	woothr	0.3326	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3297.0
+986	Spectrogram 1	1	3309.0	3312.0	0	12000.0	Wood Thrush	woothr	0.1088	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3309.0
+987	Spectrogram 1	1	3318.0	3321.0	0	12000.0	Wood Thrush	woothr	0.2658	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3318.0
+988	Spectrogram 1	1	3318.0	3321.0	0	12000.0	Swainson's Thrush	swathr	0.1399	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3318.0
+989	Spectrogram 1	1	3318.0	3321.0	0	12000.0	Hermit Thrush	herthr	0.1038	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3318.0
+990	Spectrogram 1	1	3345.0	3348.0	0	12000.0	Swainson's Thrush	swathr	0.5013	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3345.0
+991	Spectrogram 1	1	3360.0	3363.0	0	12000.0	Swainson's Thrush	swathr	0.2355	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3360.0
+992	Spectrogram 1	1	3360.0	3363.0	0	12000.0	Wood Thrush	woothr	0.1005	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3360.0
+993	Spectrogram 1	1	3369.0	3372.0	0	12000.0	Wood Thrush	woothr	0.1068	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3369.0
+994	Spectrogram 1	1	3387.0	3390.0	0	12000.0	Wood Thrush	woothr	0.3976	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3387.0
+995	Spectrogram 1	1	3396.0	3399.0	0	12000.0	Wood Thrush	woothr	0.1251	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3396.0
+996	Spectrogram 1	1	3411.0	3414.0	0	12000.0	Wood Thrush	woothr	0.3819	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3411.0
+997	Spectrogram 1	1	3414.0	3417.0	0	12000.0	Wood Thrush	woothr	0.1766	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3414.0
+998	Spectrogram 1	1	3414.0	3417.0	0	12000.0	Hermit Thrush	herthr	0.1408	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3414.0
+999	Spectrogram 1	1	3420.0	3423.0	0	12000.0	Hermit Thrush	herthr	0.2440	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3420.0
+1000	Spectrogram 1	1	3423.0	3426.0	0	12000.0	Swainson's Thrush	swathr	0.7708	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3423.0
+1001	Spectrogram 1	1	3426.0	3429.0	0	12000.0	Wood Thrush	woothr	0.2383	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3426.0
+1002	Spectrogram 1	1	3429.0	3432.0	0	12000.0	Swainson's Thrush	swathr	0.6182	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3429.0
+1003	Spectrogram 1	1	3432.0	3435.0	0	12000.0	Swainson's Thrush	swathr	0.7152	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3432.0
+1004	Spectrogram 1	1	3435.0	3438.0	0	12000.0	Swainson's Thrush	swathr	0.8894	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3435.0
+1005	Spectrogram 1	1	3438.0	3441.0	0	12000.0	Swainson's Thrush	swathr	0.8946	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3438.0
+1006	Spectrogram 1	1	3441.0	3444.0	0	12000.0	Swainson's Thrush	swathr	0.6419	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3441.0
+1007	Spectrogram 1	1	3450.0	3453.0	0	12000.0	Hermit Thrush	herthr	0.5093	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3450.0
+1008	Spectrogram 1	1	3462.0	3465.0	0	12000.0	Wood Thrush	woothr	0.2837	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3462.0
+1009	Spectrogram 1	1	3465.0	3468.0	0	12000.0	Hermit Thrush	herthr	0.3148	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3465.0
+1010	Spectrogram 1	1	3471.0	3474.0	0	12000.0	Hermit Thrush	herthr	0.2712	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3471.0
+1011	Spectrogram 1	1	3480.0	3483.0	0	12000.0	Hermit Thrush	herthr	0.4613	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3480.0
+1012	Spectrogram 1	1	3486.0	3489.0	0	12000.0	Wood Thrush	woothr	0.6092	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3486.0
+1013	Spectrogram 1	1	3489.0	3492.0	0	12000.0	Hermit Thrush	herthr	0.1609	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3489.0
+1014	Spectrogram 1	1	3495.0	3498.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3106	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3495.0
+1015	Spectrogram 1	1	3495.0	3498.0	0	12000.0	Hermit Thrush	herthr	0.1048	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3495.0
+1016	Spectrogram 1	1	3498.0	3501.0	0	12000.0	Hermit Thrush	herthr	0.4250	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3498.0
+1017	Spectrogram 1	1	3504.0	3507.0	0	12000.0	Wood Thrush	woothr	0.1225	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3504.0
+1018	Spectrogram 1	1	3507.0	3510.0	0	12000.0	Wood Thrush	woothr	0.6215	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3507.0
+1019	Spectrogram 1	1	3510.0	3513.0	0	12000.0	Hermit Thrush	herthr	0.2883	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3510.0
+1020	Spectrogram 1	1	3516.0	3519.0	0	12000.0	Hermit Thrush	herthr	0.6221	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3516.0
+1021	Spectrogram 1	1	3528.0	3531.0	0	12000.0	Hermit Thrush	herthr	0.6738	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3528.0
+1022	Spectrogram 1	1	3540.0	3543.0	0	12000.0	Hermit Thrush	herthr	0.8491	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3540.0
+1023	Spectrogram 1	1	3543.0	3546.0	0	12000.0	Wood Thrush	woothr	0.3584	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3543.0
+1024	Spectrogram 1	1	3543.0	3546.0	0	12000.0	Hermit Thrush	herthr	0.3487	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3543.0
+1025	Spectrogram 1	1	3552.0	3555.0	0	12000.0	Hermit Thrush	herthr	0.3037	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3552.0
+1026	Spectrogram 1	1	3555.0	3558.0	0	12000.0	Hermit Thrush	herthr	0.2266	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3555.0
+1027	Spectrogram 1	1	3561.0	3564.0	0	12000.0	Hermit Thrush	herthr	0.8356	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3561.0
+1028	Spectrogram 1	1	3570.0	3573.0	0	12000.0	Wood Thrush	woothr	0.9357	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3570.0
+1029	Spectrogram 1	1	3576.0	3579.0	0	12000.0	Hermit Thrush	herthr	0.3185	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3576.0
+1030	Spectrogram 1	1	3579.0	3582.0	0	12000.0	Hermit Thrush	herthr	0.2125	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3579.0
+1031	Spectrogram 1	1	3588.0	3591.0	0	12000.0	Hermit Thrush	herthr	0.3292	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3588.0
+1032	Spectrogram 1	1	3597.0	3600.0	0	12000.0	Hermit Thrush	herthr	0.8172	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240517_192500.wav	3597.0

@@ -1,0 +1,39 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	453.0	456.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2070	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	453.0
+2	Spectrogram 1	1	996.0	999.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2990	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	996.0
+3	Spectrogram 1	1	1746.0	1749.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1221	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	1746.0
+4	Spectrogram 1	1	1758.0	1761.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1195	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	1758.0
+5	Spectrogram 1	1	1776.0	1779.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1453	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	1776.0
+6	Spectrogram 1	1	1788.0	1791.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1486	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	1788.0
+7	Spectrogram 1	1	1824.0	1827.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2968	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	1824.0
+8	Spectrogram 1	1	1851.0	1854.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1354	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	1851.0
+9	Spectrogram 1	1	1989.0	1992.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1025	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	1989.0
+10	Spectrogram 1	1	2124.0	2127.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1551	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2124.0
+11	Spectrogram 1	1	2130.0	2133.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2678	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2130.0
+12	Spectrogram 1	1	2154.0	2157.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1043	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2154.0
+13	Spectrogram 1	1	2175.0	2178.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2526	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2175.0
+14	Spectrogram 1	1	2184.0	2187.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1977	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2184.0
+15	Spectrogram 1	1	2193.0	2196.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3135	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2193.0
+16	Spectrogram 1	1	2205.0	2208.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3241	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2205.0
+17	Spectrogram 1	1	2214.0	2217.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3585	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2214.0
+18	Spectrogram 1	1	2223.0	2226.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3340	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2223.0
+19	Spectrogram 1	1	2232.0	2235.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5503	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2232.0
+20	Spectrogram 1	1	2250.0	2253.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1392	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2250.0
+21	Spectrogram 1	1	2277.0	2280.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1328	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2277.0
+22	Spectrogram 1	1	2286.0	2289.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2171	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2286.0
+23	Spectrogram 1	1	2310.0	2313.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1548	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2310.0
+24	Spectrogram 1	1	2331.0	2334.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3003	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2331.0
+25	Spectrogram 1	1	2349.0	2352.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2016	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2349.0
+26	Spectrogram 1	1	2397.0	2400.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1893	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2397.0
+27	Spectrogram 1	1	2409.0	2412.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1545	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2409.0
+28	Spectrogram 1	1	2424.0	2427.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4209	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2424.0
+29	Spectrogram 1	1	2436.0	2439.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1667	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2436.0
+30	Spectrogram 1	1	2451.0	2454.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1779	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2451.0
+31	Spectrogram 1	1	2463.0	2466.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4046	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2463.0
+32	Spectrogram 1	1	2484.0	2487.0	0	12000.0	Winter Wren	winwre3	0.1186	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2484.0
+33	Spectrogram 1	1	2520.0	2523.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2030	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2520.0
+34	Spectrogram 1	1	2532.0	2535.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2853	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2532.0
+35	Spectrogram 1	1	2583.0	2586.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1310	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2583.0
+36	Spectrogram 1	1	2643.0	2646.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1397	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2643.0
+37	Spectrogram 1	1	2652.0	2655.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1483	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2652.0
+38	Spectrogram 1	1	2694.0	2697.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1241	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240517_192400.wav	2694.0

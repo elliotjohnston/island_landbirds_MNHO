@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1353.0	1356.0	0	12000.0	Nashville Warbler	naswar	0.1059	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240919_180600.wav	1353.0
+2	Spectrogram 1	1	2601.0	2604.0	0	12000.0	Hermit Thrush	herthr	0.2662	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240919_180600.wav	2601.0
+3	Spectrogram 1	1	2604.0	2607.0	0	12000.0	Hermit Thrush	herthr	0.1814	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240919_180600.wav	2604.0
+4	Spectrogram 1	1	2607.0	2610.0	0	12000.0	Hermit Thrush	herthr	0.7018	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240919_180600.wav	2607.0
+5	Spectrogram 1	1	2616.0	2619.0	0	12000.0	Hermit Thrush	herthr	0.6889	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240919_180600.wav	2616.0

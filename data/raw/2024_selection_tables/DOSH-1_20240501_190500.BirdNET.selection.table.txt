@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	213.0	216.0	0	12000.0	American Crow	amecro	0.9383	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240501_190500.wav	213.0
+2	Spectrogram 1	1	216.0	219.0	0	12000.0	American Crow	amecro	0.9728	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240501_190500.wav	216.0
+3	Spectrogram 1	1	219.0	222.0	0	12000.0	American Crow	amecro	0.9752	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240501_190500.wav	219.0
+4	Spectrogram 1	1	222.0	225.0	0	12000.0	American Crow	amecro	0.8307	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240501_190500.wav	222.0
+5	Spectrogram 1	1	225.0	228.0	0	12000.0	American Crow	amecro	0.7795	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240501_190500.wav	225.0
+6	Spectrogram 1	1	228.0	231.0	0	12000.0	Pine Grosbeak	pingro	0.3958	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240501_190500.wav	228.0
+7	Spectrogram 1	1	228.0	231.0	0	12000.0	American Crow	amecro	0.1059	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240501_190500.wav	228.0
+8	Spectrogram 1	1	231.0	234.0	0	12000.0	American Crow	amecro	0.8787	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240501_190500.wav	231.0
+9	Spectrogram 1	1	234.0	237.0	0	12000.0	American Crow	amecro	0.7769	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240501_190500.wav	234.0
+10	Spectrogram 1	1	237.0	240.0	0	12000.0	American Crow	amecro	0.4767	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240501_190500.wav	237.0
+11	Spectrogram 1	1	348.0	351.0	0	12000.0	American Crow	amecro	0.4845	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240501_190500.wav	348.0
+12	Spectrogram 1	1	351.0	354.0	0	12000.0	American Crow	amecro	0.4313	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240501_190500.wav	351.0
+13	Spectrogram 1	1	369.0	372.0	0	12000.0	American Crow	amecro	0.3278	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240501_190500.wav	369.0
+14	Spectrogram 1	1	372.0	375.0	0	12000.0	American Crow	amecro	0.2163	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240501_190500.wav	372.0
+15	Spectrogram 1	1	372.0	375.0	0	12000.0	Common Raven	comrav	0.1439	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240501_190500.wav	372.0
+16	Spectrogram 1	1	399.0	402.0	0	12000.0	American Crow	amecro	0.3882	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240501_190500.wav	399.0
+17	Spectrogram 1	1	483.0	486.0	0	12000.0	American Crow	amecro	0.3521	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240501_190500.wav	483.0
+18	Spectrogram 1	1	486.0	489.0	0	12000.0	American Crow	amecro	0.3997	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240501_190500.wav	486.0
+19	Spectrogram 1	1	489.0	492.0	0	12000.0	American Crow	amecro	0.2361	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240501_190500.wav	489.0
+20	Spectrogram 1	1	492.0	495.0	0	12000.0	American Crow	amecro	0.7548	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240501_190500.wav	492.0
+21	Spectrogram 1	1	510.0	513.0	0	12000.0	American Crow	amecro	0.1244	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240501_190500.wav	510.0

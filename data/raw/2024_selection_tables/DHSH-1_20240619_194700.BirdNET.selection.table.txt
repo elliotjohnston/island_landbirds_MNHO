@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1029.0	1032.0	0	12000.0	Song Sparrow	sonspa	0.1761	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240619_194700.wav	1029.0

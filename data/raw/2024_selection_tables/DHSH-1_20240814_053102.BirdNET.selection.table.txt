@@ -1,0 +1,33 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	531.0	534.0	0	12000.0	Nashville Warbler	naswar	0.2034	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	531.0
+2	Spectrogram 1	1	534.0	537.0	0	12000.0	Nashville Warbler	naswar	0.2156	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	534.0
+3	Spectrogram 1	1	537.0	540.0	0	12000.0	Nashville Warbler	naswar	0.1946	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	537.0
+4	Spectrogram 1	1	558.0	561.0	0	12000.0	Nashville Warbler	naswar	0.1201	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	558.0
+5	Spectrogram 1	1	576.0	579.0	0	12000.0	Dark-eyed Junco	daejun	0.1520	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	576.0
+6	Spectrogram 1	1	579.0	582.0	0	12000.0	Chipping Sparrow	chispa	0.2519	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	579.0
+7	Spectrogram 1	1	579.0	582.0	0	12000.0	Dark-eyed Junco	daejun	0.1389	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	579.0
+8	Spectrogram 1	1	1605.0	1608.0	0	12000.0	Cape May Warbler	camwar	0.1419	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	1605.0
+9	Spectrogram 1	1	1605.0	1608.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1134	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	1605.0
+10	Spectrogram 1	1	1671.0	1674.0	0	12000.0	Cape May Warbler	camwar	0.1260	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	1671.0
+11	Spectrogram 1	1	1674.0	1677.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2976	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	1674.0
+12	Spectrogram 1	1	1674.0	1677.0	0	12000.0	Cape May Warbler	camwar	0.1014	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	1674.0
+13	Spectrogram 1	1	1689.0	1692.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3922	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	1689.0
+14	Spectrogram 1	1	1689.0	1692.0	0	12000.0	Brown Creeper	brncre	0.1180	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	1689.0
+15	Spectrogram 1	1	1698.0	1701.0	0	12000.0	Cape May Warbler	camwar	0.2340	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	1698.0
+16	Spectrogram 1	1	1698.0	1701.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2249	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	1698.0
+17	Spectrogram 1	1	1773.0	1776.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1179	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	1773.0
+18	Spectrogram 1	1	1788.0	1791.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2550	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	1788.0
+19	Spectrogram 1	1	1791.0	1794.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1461	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	1791.0
+20	Spectrogram 1	1	1806.0	1809.0	0	12000.0	Brown Creeper	brncre	0.1405	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	1806.0
+21	Spectrogram 1	1	1806.0	1809.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1396	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	1806.0
+22	Spectrogram 1	1	1818.0	1821.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1795	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	1818.0
+23	Spectrogram 1	1	1818.0	1821.0	0	12000.0	Cape May Warbler	camwar	0.1001	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	1818.0
+24	Spectrogram 1	1	1821.0	1824.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5810	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	1821.0
+25	Spectrogram 1	1	1821.0	1824.0	0	12000.0	Cape May Warbler	camwar	0.1549	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	1821.0
+26	Spectrogram 1	1	1824.0	1827.0	0	12000.0	Brown Creeper	brncre	0.1903	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	1824.0
+27	Spectrogram 1	1	1824.0	1827.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1668	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	1824.0
+28	Spectrogram 1	1	1824.0	1827.0	0	12000.0	Cape May Warbler	camwar	0.1108	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	1824.0
+29	Spectrogram 1	1	1827.0	1830.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1888	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	1827.0
+30	Spectrogram 1	1	2019.0	2022.0	0	12000.0	White-throated Sparrow	whtspa	0.3023	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	2019.0
+31	Spectrogram 1	1	2085.0	2088.0	0	12000.0	White-throated Sparrow	whtspa	0.1114	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	2085.0
+32	Spectrogram 1	1	2943.0	2946.0	0	12000.0	Brown Creeper	brncre	0.2859	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240814_053102.wav	2943.0

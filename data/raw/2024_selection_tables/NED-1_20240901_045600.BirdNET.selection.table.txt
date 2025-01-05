@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	57.0	60.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1148	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240901_045600.wav	57.0
+2	Spectrogram 1	1	1005.0	1008.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.2781	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240901_045600.wav	1005.0
+3	Spectrogram 1	1	1011.0	1014.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.4141	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240901_045600.wav	1011.0
+4	Spectrogram 1	1	1020.0	1023.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.3759	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240901_045600.wav	1020.0
+5	Spectrogram 1	1	1032.0	1035.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.4233	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240901_045600.wav	1032.0
+6	Spectrogram 1	1	3138.0	3141.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5965	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240901_045600.wav	3138.0
+7	Spectrogram 1	1	3141.0	3144.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4306	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240901_045600.wav	3141.0
+8	Spectrogram 1	1	3141.0	3144.0	0	12000.0	Brown Creeper	brncre	0.1428	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240901_045600.wav	3141.0
+9	Spectrogram 1	1	3168.0	3171.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5892	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240901_045600.wav	3168.0
+10	Spectrogram 1	1	3168.0	3171.0	0	12000.0	Brown Creeper	brncre	0.1383	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240901_045600.wav	3168.0
+11	Spectrogram 1	1	3180.0	3183.0	0	12000.0	Brown Creeper	brncre	0.1161	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240901_045600.wav	3180.0
+12	Spectrogram 1	1	3234.0	3237.0	0	12000.0	Brown Creeper	brncre	0.5790	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240901_045600.wav	3234.0
+13	Spectrogram 1	1	3234.0	3237.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3590	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240901_045600.wav	3234.0
+14	Spectrogram 1	1	3261.0	3264.0	0	12000.0	Brown Creeper	brncre	0.2406	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240901_045600.wav	3261.0
+15	Spectrogram 1	1	3267.0	3270.0	0	12000.0	Brown Creeper	brncre	0.4488	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240901_045600.wav	3267.0
+16	Spectrogram 1	1	3291.0	3294.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7967	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240901_045600.wav	3291.0
+17	Spectrogram 1	1	3294.0	3297.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1125	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240901_045600.wav	3294.0
+18	Spectrogram 1	1	3297.0	3300.0	0	12000.0	Cedar Waxwing	cedwax	0.1191	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240901_045600.wav	3297.0
+19	Spectrogram 1	1	3303.0	3306.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6678	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240901_045600.wav	3303.0
+20	Spectrogram 1	1	3309.0	3312.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5144	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240901_045600.wav	3309.0
+21	Spectrogram 1	1	3381.0	3384.0	0	12000.0	Brown Creeper	brncre	0.1680	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240901_045600.wav	3381.0

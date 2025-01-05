@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	27.0	30.0	0	12000.0	White-throated Sparrow	whtspa	0.5240	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240807_191700.wav	27.0
+2	Spectrogram 1	1	27.0	30.0	0	12000.0	Lincoln's Sparrow	linspa	0.1368	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240807_191700.wav	27.0
+3	Spectrogram 1	1	93.0	96.0	0	12000.0	Hermit Thrush	herthr	0.7617	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240807_191700.wav	93.0
+4	Spectrogram 1	1	402.0	405.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.3692	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240807_191700.wav	402.0
+5	Spectrogram 1	1	417.0	420.0	0	12000.0	Hermit Thrush	herthr	0.4317	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240807_191700.wav	417.0
+6	Spectrogram 1	1	624.0	627.0	0	12000.0	Hermit Thrush	herthr	0.6564	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240807_191700.wav	624.0
+7	Spectrogram 1	1	705.0	708.0	0	12000.0	Hermit Thrush	herthr	0.1974	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240807_191700.wav	705.0
+8	Spectrogram 1	1	807.0	810.0	0	12000.0	Yellow-bellied Sapsucker	yebsap	0.1048	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240807_191700.wav	807.0
+9	Spectrogram 1	1	1086.0	1089.0	0	12000.0	Hermit Thrush	herthr	0.5650	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240807_191700.wav	1086.0
+10	Spectrogram 1	1	1092.0	1095.0	0	12000.0	Lincoln's Sparrow	linspa	0.1064	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240807_191700.wav	1092.0
+11	Spectrogram 1	1	1149.0	1152.0	0	12000.0	Hermit Thrush	herthr	0.1565	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240807_191700.wav	1149.0
+12	Spectrogram 1	1	1272.0	1275.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.3351	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240807_191700.wav	1272.0
+13	Spectrogram 1	1	1680.0	1683.0	0	12000.0	White-throated Sparrow	whtspa	0.9865	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240807_191700.wav	1680.0
+14	Spectrogram 1	1	1683.0	1686.0	0	12000.0	White-throated Sparrow	whtspa	0.1949	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240807_191700.wav	1683.0
+15	Spectrogram 1	1	2298.0	2301.0	0	12000.0	White-throated Sparrow	whtspa	0.5158	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240807_191700.wav	2298.0
+16	Spectrogram 1	1	2379.0	2382.0	0	12000.0	Common Yellowthroat	comyel	0.5197	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240807_191700.wav	2379.0
+17	Spectrogram 1	1	2631.0	2634.0	0	12000.0	White-throated Sparrow	whtspa	0.3008	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240807_191700.wav	2631.0
+18	Spectrogram 1	1	2634.0	2637.0	0	12000.0	White-throated Sparrow	whtspa	0.1458	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240807_191700.wav	2634.0
+19	Spectrogram 1	1	2646.0	2649.0	0	12000.0	Hermit Thrush	herthr	0.5461	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240807_191700.wav	2646.0
+20	Spectrogram 1	1	3117.0	3120.0	0	12000.0	Hermit Thrush	herthr	0.5428	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240807_191700.wav	3117.0
+21	Spectrogram 1	1	3126.0	3129.0	0	12000.0	Hermit Thrush	herthr	0.4981	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240807_191700.wav	3126.0
+22	Spectrogram 1	1	3135.0	3138.0	0	12000.0	Hermit Thrush	herthr	0.7456	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240807_191700.wav	3135.0
+23	Spectrogram 1	1	3138.0	3141.0	0	12000.0	Hermit Thrush	herthr	0.1594	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240807_191700.wav	3138.0

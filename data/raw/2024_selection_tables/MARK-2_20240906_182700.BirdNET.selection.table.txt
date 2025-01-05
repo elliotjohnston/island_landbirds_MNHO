@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1986.0	1989.0	0	12000.0	White-throated Sparrow	whtspa	0.1087	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240906_182700.wav	1986.0
+2	Spectrogram 1	1	2016.0	2019.0	0	12000.0	White-throated Sparrow	whtspa	0.2641	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240906_182700.wav	2016.0
+3	Spectrogram 1	1	2277.0	2280.0	0	12000.0	Brown Creeper	brncre	0.3214	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240906_182700.wav	2277.0
+4	Spectrogram 1	1	2298.0	2301.0	0	12000.0	White-throated Sparrow	whtspa	0.7993	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240906_182700.wav	2298.0
+5	Spectrogram 1	1	2625.0	2628.0	0	12000.0	Brown Creeper	brncre	0.1251	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240906_182700.wav	2625.0
+6	Spectrogram 1	1	3012.0	3015.0	0	12000.0	Mourning Dove	moudov	0.1073	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240906_182700.wav	3012.0

@@ -1,0 +1,222 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	192.0	195.0	0	12000.0	Dark-eyed Junco	daejun	0.2520	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	192.0
+2	Spectrogram 1	1	192.0	195.0	0	12000.0	Pine Warbler	pinwar	0.1088	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	192.0
+3	Spectrogram 1	1	195.0	198.0	0	12000.0	Dark-eyed Junco	daejun	0.6004	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	195.0
+4	Spectrogram 1	1	201.0	204.0	0	12000.0	Pine Warbler	pinwar	0.1710	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	201.0
+5	Spectrogram 1	1	201.0	204.0	0	12000.0	Dark-eyed Junco	daejun	0.1536	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	201.0
+6	Spectrogram 1	1	204.0	207.0	0	12000.0	Dark-eyed Junco	daejun	0.1063	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	204.0
+7	Spectrogram 1	1	207.0	210.0	0	12000.0	Dark-eyed Junco	daejun	0.4022	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	207.0
+8	Spectrogram 1	1	207.0	210.0	0	12000.0	Pine Warbler	pinwar	0.1660	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	207.0
+9	Spectrogram 1	1	210.0	213.0	0	12000.0	Dark-eyed Junco	daejun	0.1380	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	210.0
+10	Spectrogram 1	1	213.0	216.0	0	12000.0	Dark-eyed Junco	daejun	0.1487	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	213.0
+11	Spectrogram 1	1	219.0	222.0	0	12000.0	Dark-eyed Junco	daejun	0.4595	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	219.0
+12	Spectrogram 1	1	225.0	228.0	0	12000.0	Dark-eyed Junco	daejun	0.1838	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	225.0
+13	Spectrogram 1	1	228.0	231.0	0	12000.0	Dark-eyed Junco	daejun	0.1743	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	228.0
+14	Spectrogram 1	1	234.0	237.0	0	12000.0	Dark-eyed Junco	daejun	0.5706	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	234.0
+15	Spectrogram 1	1	237.0	240.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6922	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	237.0
+16	Spectrogram 1	1	240.0	243.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6742	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	240.0
+17	Spectrogram 1	1	240.0	243.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1188	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	240.0
+18	Spectrogram 1	1	246.0	249.0	0	12000.0	Dark-eyed Junco	daejun	0.3275	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	246.0
+19	Spectrogram 1	1	246.0	249.0	0	12000.0	Pine Warbler	pinwar	0.1639	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	246.0
+20	Spectrogram 1	1	249.0	252.0	0	12000.0	Dark-eyed Junco	daejun	0.1677	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	249.0
+21	Spectrogram 1	1	249.0	252.0	0	12000.0	Pine Warbler	pinwar	0.1549	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	249.0
+22	Spectrogram 1	1	261.0	264.0	0	12000.0	Brown Creeper	brncre	0.1222	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	261.0
+23	Spectrogram 1	1	264.0	267.0	0	12000.0	Hermit Thrush	herthr	0.2940	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	264.0
+24	Spectrogram 1	1	264.0	267.0	0	12000.0	Dark-eyed Junco	daejun	0.1938	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	264.0
+25	Spectrogram 1	1	270.0	273.0	0	12000.0	Dark-eyed Junco	daejun	0.5712	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	270.0
+26	Spectrogram 1	1	279.0	282.0	0	12000.0	Hermit Thrush	herthr	0.1927	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	279.0
+27	Spectrogram 1	1	285.0	288.0	0	12000.0	Hermit Thrush	herthr	0.4055	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	285.0
+28	Spectrogram 1	1	285.0	288.0	0	12000.0	Dark-eyed Junco	daejun	0.1651	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	285.0
+29	Spectrogram 1	1	291.0	294.0	0	12000.0	Dark-eyed Junco	daejun	0.3377	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	291.0
+30	Spectrogram 1	1	297.0	300.0	0	12000.0	Brown Creeper	brncre	0.1717	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	297.0
+31	Spectrogram 1	1	297.0	300.0	0	12000.0	Dark-eyed Junco	daejun	0.1212	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	297.0
+32	Spectrogram 1	1	297.0	300.0	0	12000.0	Pine Warbler	pinwar	0.1012	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	297.0
+33	Spectrogram 1	1	300.0	303.0	0	12000.0	Dark-eyed Junco	daejun	0.1058	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	300.0
+34	Spectrogram 1	1	306.0	309.0	0	12000.0	Dark-eyed Junco	daejun	0.3458	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	306.0
+35	Spectrogram 1	1	309.0	312.0	0	12000.0	Dark-eyed Junco	daejun	0.1214	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	309.0
+36	Spectrogram 1	1	309.0	312.0	0	12000.0	Hermit Thrush	herthr	0.1002	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	309.0
+37	Spectrogram 1	1	312.0	315.0	0	12000.0	Dark-eyed Junco	daejun	0.1426	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	312.0
+38	Spectrogram 1	1	318.0	321.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2862	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	318.0
+39	Spectrogram 1	1	321.0	324.0	0	12000.0	Dark-eyed Junco	daejun	0.1264	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	321.0
+40	Spectrogram 1	1	324.0	327.0	0	12000.0	Dark-eyed Junco	daejun	0.1650	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	324.0
+41	Spectrogram 1	1	339.0	342.0	0	12000.0	Dark-eyed Junco	daejun	0.2127	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	339.0
+42	Spectrogram 1	1	417.0	420.0	0	12000.0	White-throated Sparrow	whtspa	0.2017	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	417.0
+43	Spectrogram 1	1	423.0	426.0	0	12000.0	Brown Creeper	brncre	0.2786	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	423.0
+44	Spectrogram 1	1	450.0	453.0	0	12000.0	Dark-eyed Junco	daejun	0.2025	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	450.0
+45	Spectrogram 1	1	453.0	456.0	0	12000.0	Brown Creeper	brncre	0.1785	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	453.0
+46	Spectrogram 1	1	456.0	459.0	0	12000.0	Dark-eyed Junco	daejun	0.1499	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	456.0
+47	Spectrogram 1	1	462.0	465.0	0	12000.0	Dark-eyed Junco	daejun	0.1942	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	462.0
+48	Spectrogram 1	1	465.0	468.0	0	12000.0	Dark-eyed Junco	daejun	0.3437	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	465.0
+49	Spectrogram 1	1	468.0	471.0	0	12000.0	Dark-eyed Junco	daejun	0.3861	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	468.0
+50	Spectrogram 1	1	474.0	477.0	0	12000.0	Dark-eyed Junco	daejun	0.4714	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	474.0
+51	Spectrogram 1	1	480.0	483.0	0	12000.0	Dark-eyed Junco	daejun	0.1027	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	480.0
+52	Spectrogram 1	1	486.0	489.0	0	12000.0	Dark-eyed Junco	daejun	0.6408	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	486.0
+53	Spectrogram 1	1	486.0	489.0	0	12000.0	Pine Warbler	pinwar	0.1633	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	486.0
+54	Spectrogram 1	1	489.0	492.0	0	12000.0	Dark-eyed Junco	daejun	0.5486	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	489.0
+55	Spectrogram 1	1	501.0	504.0	0	12000.0	Dark-eyed Junco	daejun	0.2819	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	501.0
+56	Spectrogram 1	1	510.0	513.0	0	12000.0	Dark-eyed Junco	daejun	0.1693	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	510.0
+57	Spectrogram 1	1	519.0	522.0	0	12000.0	Magnolia Warbler	magwar	0.2013	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	519.0
+58	Spectrogram 1	1	525.0	528.0	0	12000.0	Dark-eyed Junco	daejun	0.2329	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	525.0
+59	Spectrogram 1	1	531.0	534.0	0	12000.0	Dark-eyed Junco	daejun	0.1590	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	531.0
+60	Spectrogram 1	1	579.0	582.0	0	12000.0	White-throated Sparrow	whtspa	0.1937	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	579.0
+61	Spectrogram 1	1	744.0	747.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.6306	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	744.0
+62	Spectrogram 1	1	789.0	792.0	0	12000.0	Northern Flicker	norfli	0.3994	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	789.0
+63	Spectrogram 1	1	792.0	795.0	0	12000.0	Northern Flicker	norfli	0.5161	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	792.0
+64	Spectrogram 1	1	795.0	798.0	0	12000.0	Northern Flicker	norfli	0.7047	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	795.0
+65	Spectrogram 1	1	813.0	816.0	0	12000.0	Northern Flicker	norfli	0.3127	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	813.0
+66	Spectrogram 1	1	819.0	822.0	0	12000.0	Northern Flicker	norfli	0.3020	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	819.0
+67	Spectrogram 1	1	822.0	825.0	0	12000.0	Northern Flicker	norfli	0.1154	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	822.0
+68	Spectrogram 1	1	843.0	846.0	0	12000.0	Northern Flicker	norfli	0.1612	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	843.0
+69	Spectrogram 1	1	849.0	852.0	0	12000.0	Northern Flicker	norfli	0.1777	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	849.0
+70	Spectrogram 1	1	951.0	954.0	0	12000.0	Swainson's Thrush	swathr	0.5247	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	951.0
+71	Spectrogram 1	1	954.0	957.0	0	12000.0	Swainson's Thrush	swathr	0.1150	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	954.0
+72	Spectrogram 1	1	957.0	960.0	0	12000.0	Swainson's Thrush	swathr	0.6202	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	957.0
+73	Spectrogram 1	1	963.0	966.0	0	12000.0	Swainson's Thrush	swathr	0.6566	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	963.0
+74	Spectrogram 1	1	969.0	972.0	0	12000.0	Swainson's Thrush	swathr	0.1841	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	969.0
+75	Spectrogram 1	1	972.0	975.0	0	12000.0	Swainson's Thrush	swathr	0.4641	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	972.0
+76	Spectrogram 1	1	972.0	975.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1836	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	972.0
+77	Spectrogram 1	1	984.0	987.0	0	12000.0	Swainson's Thrush	swathr	0.3680	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	984.0
+78	Spectrogram 1	1	987.0	990.0	0	12000.0	Swainson's Thrush	swathr	0.3547	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	987.0
+79	Spectrogram 1	1	990.0	993.0	0	12000.0	Swainson's Thrush	swathr	0.3203	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	990.0
+80	Spectrogram 1	1	993.0	996.0	0	12000.0	Swainson's Thrush	swathr	0.1551	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	993.0
+81	Spectrogram 1	1	996.0	999.0	0	12000.0	Swainson's Thrush	swathr	0.3553	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	996.0
+82	Spectrogram 1	1	999.0	1002.0	0	12000.0	Swainson's Thrush	swathr	0.1741	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	999.0
+83	Spectrogram 1	1	1002.0	1005.0	0	12000.0	Swainson's Thrush	swathr	0.2521	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1002.0
+84	Spectrogram 1	1	1008.0	1011.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9369	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1008.0
+85	Spectrogram 1	1	1017.0	1020.0	0	12000.0	Swainson's Thrush	swathr	0.1401	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1017.0
+86	Spectrogram 1	1	1026.0	1029.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8091	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1026.0
+87	Spectrogram 1	1	1029.0	1032.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9459	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1029.0
+88	Spectrogram 1	1	1047.0	1050.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9180	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1047.0
+89	Spectrogram 1	1	1065.0	1068.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9169	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1065.0
+90	Spectrogram 1	1	1074.0	1077.0	0	12000.0	Brown Creeper	brncre	0.1515	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1074.0
+91	Spectrogram 1	1	1080.0	1083.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8559	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1080.0
+92	Spectrogram 1	1	1083.0	1086.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8261	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1083.0
+93	Spectrogram 1	1	1095.0	1098.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9351	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1095.0
+94	Spectrogram 1	1	1128.0	1131.0	0	12000.0	Brown Creeper	brncre	0.1639	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1128.0
+95	Spectrogram 1	1	1140.0	1143.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8454	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1140.0
+96	Spectrogram 1	1	1143.0	1146.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7394	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1143.0
+97	Spectrogram 1	1	1158.0	1161.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9409	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1158.0
+98	Spectrogram 1	1	1161.0	1164.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9303	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1161.0
+99	Spectrogram 1	1	1176.0	1179.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9697	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1176.0
+100	Spectrogram 1	1	1191.0	1194.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9130	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1191.0
+101	Spectrogram 1	1	1206.0	1209.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3818	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1206.0
+102	Spectrogram 1	1	1209.0	1212.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9626	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1209.0
+103	Spectrogram 1	1	1227.0	1230.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9353	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1227.0
+104	Spectrogram 1	1	1242.0	1245.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6075	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1242.0
+105	Spectrogram 1	1	1245.0	1248.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9281	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1245.0
+106	Spectrogram 1	1	1278.0	1281.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9901	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1278.0
+107	Spectrogram 1	1	1311.0	1314.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9303	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1311.0
+108	Spectrogram 1	1	1335.0	1338.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9599	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1335.0
+109	Spectrogram 1	1	1353.0	1356.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9558	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1353.0
+110	Spectrogram 1	1	1377.0	1380.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2809	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1377.0
+111	Spectrogram 1	1	1377.0	1380.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1983	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1377.0
+112	Spectrogram 1	1	1380.0	1383.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9536	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1380.0
+113	Spectrogram 1	1	1404.0	1407.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9455	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1404.0
+114	Spectrogram 1	1	1419.0	1422.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6036	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1419.0
+115	Spectrogram 1	1	1419.0	1422.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.3727	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1419.0
+116	Spectrogram 1	1	1422.0	1425.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9315	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1422.0
+117	Spectrogram 1	1	1440.0	1443.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4515	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1440.0
+118	Spectrogram 1	1	1440.0	1443.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1766	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1440.0
+119	Spectrogram 1	1	1443.0	1446.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9674	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1443.0
+120	Spectrogram 1	1	1464.0	1467.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9604	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1464.0
+121	Spectrogram 1	1	1491.0	1494.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8971	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1491.0
+122	Spectrogram 1	1	1506.0	1509.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9687	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1506.0
+123	Spectrogram 1	1	1533.0	1536.0	0	12000.0	Hermit Thrush	herthr	0.1812	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1533.0
+124	Spectrogram 1	1	1560.0	1563.0	0	12000.0	Hermit Thrush	herthr	0.4299	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1560.0
+125	Spectrogram 1	1	1563.0	1566.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8019	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1563.0
+126	Spectrogram 1	1	1566.0	1569.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5082	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1566.0
+127	Spectrogram 1	1	1566.0	1569.0	0	12000.0	Hermit Thrush	herthr	0.4414	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1566.0
+128	Spectrogram 1	1	1572.0	1575.0	0	12000.0	Hermit Thrush	herthr	0.8562	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1572.0
+129	Spectrogram 1	1	1575.0	1578.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8000	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1575.0
+130	Spectrogram 1	1	1578.0	1581.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7993	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1578.0
+131	Spectrogram 1	1	1581.0	1584.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9435	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1581.0
+132	Spectrogram 1	1	1584.0	1587.0	0	12000.0	Hermit Thrush	herthr	0.3666	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1584.0
+133	Spectrogram 1	1	1590.0	1593.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9703	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1590.0
+134	Spectrogram 1	1	1593.0	1596.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9721	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1593.0
+135	Spectrogram 1	1	1599.0	1602.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7758	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1599.0
+136	Spectrogram 1	1	1602.0	1605.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1573	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1602.0
+137	Spectrogram 1	1	1605.0	1608.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9862	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1605.0
+138	Spectrogram 1	1	1629.0	1632.0	0	12000.0	Hermit Thrush	herthr	0.1037	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1629.0
+139	Spectrogram 1	1	1632.0	1635.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6587	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1632.0
+140	Spectrogram 1	1	1632.0	1635.0	0	12000.0	Hermit Thrush	herthr	0.1131	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1632.0
+141	Spectrogram 1	1	1644.0	1647.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9902	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1644.0
+142	Spectrogram 1	1	1665.0	1668.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2390	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1665.0
+143	Spectrogram 1	1	1668.0	1671.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9614	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1668.0
+144	Spectrogram 1	1	1674.0	1677.0	0	12000.0	Hermit Thrush	herthr	0.1736	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1674.0
+145	Spectrogram 1	1	1677.0	1680.0	0	12000.0	Hermit Thrush	herthr	0.1338	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1677.0
+146	Spectrogram 1	1	1680.0	1683.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9867	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1680.0
+147	Spectrogram 1	1	1683.0	1686.0	0	12000.0	Hermit Thrush	herthr	0.2958	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1683.0
+148	Spectrogram 1	1	1689.0	1692.0	0	12000.0	Hermit Thrush	herthr	0.2003	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1689.0
+149	Spectrogram 1	1	1689.0	1692.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1871	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1689.0
+150	Spectrogram 1	1	1692.0	1695.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9932	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1692.0
+151	Spectrogram 1	1	1701.0	1704.0	0	12000.0	Hermit Thrush	herthr	0.2758	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1701.0
+152	Spectrogram 1	1	1704.0	1707.0	0	12000.0	Hermit Thrush	herthr	0.4381	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1704.0
+153	Spectrogram 1	1	1707.0	1710.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9789	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1707.0
+154	Spectrogram 1	1	1710.0	1713.0	0	12000.0	Hermit Thrush	herthr	0.3202	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1710.0
+155	Spectrogram 1	1	1713.0	1716.0	0	12000.0	Hermit Thrush	herthr	0.1365	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1713.0
+156	Spectrogram 1	1	1719.0	1722.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9902	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1719.0
+157	Spectrogram 1	1	1725.0	1728.0	0	12000.0	Hermit Thrush	herthr	0.4542	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1725.0
+158	Spectrogram 1	1	1731.0	1734.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1529	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1731.0
+159	Spectrogram 1	1	1734.0	1737.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9850	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1734.0
+160	Spectrogram 1	1	1737.0	1740.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6720	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1737.0
+161	Spectrogram 1	1	1743.0	1746.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2572	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1743.0
+162	Spectrogram 1	1	1743.0	1746.0	0	12000.0	Hermit Thrush	herthr	0.2344	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1743.0
+163	Spectrogram 1	1	1746.0	1749.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9848	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1746.0
+164	Spectrogram 1	1	1749.0	1752.0	0	12000.0	Hermit Thrush	herthr	0.4263	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1749.0
+165	Spectrogram 1	1	1749.0	1752.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2053	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1749.0
+166	Spectrogram 1	1	1752.0	1755.0	0	12000.0	Hermit Thrush	herthr	0.7651	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1752.0
+167	Spectrogram 1	1	1752.0	1755.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1666	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1752.0
+168	Spectrogram 1	1	1752.0	1755.0	0	12000.0	Dark-eyed Junco	daejun	0.1121	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1752.0
+169	Spectrogram 1	1	1758.0	1761.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6114	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1758.0
+170	Spectrogram 1	1	1761.0	1764.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9855	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1761.0
+171	Spectrogram 1	1	1764.0	1767.0	0	12000.0	Hermit Thrush	herthr	0.2054	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1764.0
+172	Spectrogram 1	1	1764.0	1767.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1104	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1764.0
+173	Spectrogram 1	1	1767.0	1770.0	0	12000.0	Hermit Thrush	herthr	0.8929	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1767.0
+174	Spectrogram 1	1	1767.0	1770.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1186	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1767.0
+175	Spectrogram 1	1	1770.0	1773.0	0	12000.0	Hermit Thrush	herthr	0.2921	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1770.0
+176	Spectrogram 1	1	1770.0	1773.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1696	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1770.0
+177	Spectrogram 1	1	1773.0	1776.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9679	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1773.0
+178	Spectrogram 1	1	1776.0	1779.0	0	12000.0	Hermit Thrush	herthr	0.3788	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1776.0
+179	Spectrogram 1	1	1779.0	1782.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1057	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1779.0
+180	Spectrogram 1	1	1788.0	1791.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9965	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1788.0
+181	Spectrogram 1	1	1791.0	1794.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5605	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1791.0
+182	Spectrogram 1	1	1794.0	1797.0	0	12000.0	Hermit Thrush	herthr	0.7184	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1794.0
+183	Spectrogram 1	1	1797.0	1800.0	0	12000.0	Dark-eyed Junco	daejun	0.1007	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1797.0
+184	Spectrogram 1	1	1800.0	1803.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4585	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1800.0
+185	Spectrogram 1	1	1803.0	1806.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9554	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1803.0
+186	Spectrogram 1	1	1806.0	1809.0	0	12000.0	Hermit Thrush	herthr	0.1785	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1806.0
+187	Spectrogram 1	1	1815.0	1818.0	0	12000.0	Hermit Thrush	herthr	0.2441	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1815.0
+188	Spectrogram 1	1	1818.0	1821.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9840	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1818.0
+189	Spectrogram 1	1	1821.0	1824.0	0	12000.0	Hermit Thrush	herthr	0.2332	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1821.0
+190	Spectrogram 1	1	1830.0	1833.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8503	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1830.0
+191	Spectrogram 1	1	1833.0	1836.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9412	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1833.0
+192	Spectrogram 1	1	1839.0	1842.0	0	12000.0	Hermit Thrush	herthr	0.4816	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1839.0
+193	Spectrogram 1	1	1845.0	1848.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9674	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1845.0
+194	Spectrogram 1	1	1860.0	1863.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9836	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1860.0
+195	Spectrogram 1	1	1872.0	1875.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8490	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1872.0
+196	Spectrogram 1	1	1881.0	1884.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3015	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1881.0
+197	Spectrogram 1	1	1881.0	1884.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1799	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1881.0
+198	Spectrogram 1	1	1881.0	1884.0	0	12000.0	Northern Parula	norpar	0.1447	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1881.0
+199	Spectrogram 1	1	1884.0	1887.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9289	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1884.0
+200	Spectrogram 1	1	1887.0	1890.0	0	12000.0	Hermit Thrush	herthr	0.4726	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1887.0
+201	Spectrogram 1	1	1896.0	1899.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2300	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1896.0
+202	Spectrogram 1	1	1896.0	1899.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1091	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1896.0
+203	Spectrogram 1	1	1899.0	1902.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9757	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1899.0
+204	Spectrogram 1	1	1902.0	1905.0	0	12000.0	Hermit Thrush	herthr	0.1574	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1902.0
+205	Spectrogram 1	1	1914.0	1917.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9513	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1914.0
+206	Spectrogram 1	1	1917.0	1920.0	0	12000.0	Hermit Thrush	herthr	0.7324	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1917.0
+207	Spectrogram 1	1	1920.0	1923.0	0	12000.0	Hermit Thrush	herthr	0.2256	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1920.0
+208	Spectrogram 1	1	1923.0	1926.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9004	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1923.0
+209	Spectrogram 1	1	1926.0	1929.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8664	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1926.0
+210	Spectrogram 1	1	1926.0	1929.0	0	12000.0	Hermit Thrush	herthr	0.2346	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1926.0
+211	Spectrogram 1	1	1932.0	1935.0	0	12000.0	Hermit Thrush	herthr	0.2166	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1932.0
+212	Spectrogram 1	1	1935.0	1938.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9892	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1935.0
+213	Spectrogram 1	1	1938.0	1941.0	0	12000.0	Hermit Thrush	herthr	0.6146	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1938.0
+214	Spectrogram 1	1	1944.0	1947.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5922	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1944.0
+215	Spectrogram 1	1	1944.0	1947.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1857	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1944.0
+216	Spectrogram 1	1	1947.0	1950.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9476	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1947.0
+217	Spectrogram 1	1	1956.0	1959.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5985	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1956.0
+218	Spectrogram 1	1	1956.0	1959.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.3833	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1956.0
+219	Spectrogram 1	1	1959.0	1962.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9647	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1959.0
+220	Spectrogram 1	1	1971.0	1974.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9851	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	1971.0
+221	Spectrogram 1	1	3090.0	3093.0	0	12000.0	Swainson's Thrush	swathr	0.1040	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240627_195100.wav	3090.0

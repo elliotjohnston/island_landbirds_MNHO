@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	96.0	99.0	0	12000.0	Cedar Waxwing	cedwax	0.5437	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_054602.wav	96.0
+2	Spectrogram 1	1	99.0	102.0	0	12000.0	Cedar Waxwing	cedwax	0.6940	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_054602.wav	99.0
+3	Spectrogram 1	1	108.0	111.0	0	12000.0	Cedar Waxwing	cedwax	0.1900	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_054602.wav	108.0
+4	Spectrogram 1	1	120.0	123.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.2569	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_054602.wav	120.0
+5	Spectrogram 1	1	234.0	237.0	0	12000.0	American Crow	amecro	0.1103	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_054602.wav	234.0
+6	Spectrogram 1	1	348.0	351.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.1300	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_054602.wav	348.0
+7	Spectrogram 1	1	465.0	468.0	0	12000.0	Cedar Waxwing	cedwax	0.5620	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_054602.wav	465.0
+8	Spectrogram 1	1	474.0	477.0	0	12000.0	Cedar Waxwing	cedwax	0.1260	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_054602.wav	474.0
+9	Spectrogram 1	1	720.0	723.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.1817	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_054602.wav	720.0
+10	Spectrogram 1	1	837.0	840.0	0	12000.0	Nashville Warbler	naswar	0.1328	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_054602.wav	837.0
+11	Spectrogram 1	1	2319.0	2322.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9089	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_054602.wav	2319.0
+12	Spectrogram 1	1	2322.0	2325.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9690	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_054602.wav	2322.0
+13	Spectrogram 1	1	2325.0	2328.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.7168	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_054602.wav	2325.0
+14	Spectrogram 1	1	2328.0	2331.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.8829	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_054602.wav	2328.0
+15	Spectrogram 1	1	2484.0	2487.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.6391	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_054602.wav	2484.0
+16	Spectrogram 1	1	2487.0	2490.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9234	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_054602.wav	2487.0
+17	Spectrogram 1	1	2490.0	2493.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.8791	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_054602.wav	2490.0
+18	Spectrogram 1	1	2493.0	2496.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.8678	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_054602.wav	2493.0

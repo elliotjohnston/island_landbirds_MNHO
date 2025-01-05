@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	81.0	84.0	0	12000.0	Yellow-bellied Sapsucker	yebsap	0.1469	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240920_180400.wav	81.0
+2	Spectrogram 1	1	96.0	99.0	0	12000.0	Yellow-bellied Sapsucker	yebsap	0.1091	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240920_180400.wav	96.0
+3	Spectrogram 1	1	177.0	180.0	0	12000.0	Yellow-bellied Sapsucker	yebsap	0.1021	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240920_180400.wav	177.0
+4	Spectrogram 1	1	1230.0	1233.0	0	12000.0	Downy Woodpecker	dowwoo	0.1288	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240920_180400.wav	1230.0
+5	Spectrogram 1	1	1263.0	1266.0	0	12000.0	Downy Woodpecker	dowwoo	0.1277	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240920_180400.wav	1263.0
+6	Spectrogram 1	1	1437.0	1440.0	0	12000.0	Yellow-bellied Sapsucker	yebsap	0.3096	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240920_180400.wav	1437.0
+7	Spectrogram 1	1	1458.0	1461.0	0	12000.0	Yellow-bellied Sapsucker	yebsap	0.1134	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240920_180400.wav	1458.0
+8	Spectrogram 1	1	1644.0	1647.0	0	12000.0	Downy Woodpecker	dowwoo	0.1036	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240920_180400.wav	1644.0
+9	Spectrogram 1	1	2217.0	2220.0	0	12000.0	Yellow-bellied Sapsucker	yebsap	0.5010	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240920_180400.wav	2217.0
+10	Spectrogram 1	1	2244.0	2247.0	0	12000.0	Brown Creeper	brncre	0.3675	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240920_180400.wav	2244.0
+11	Spectrogram 1	1	2352.0	2355.0	0	12000.0	American Crow	amecro	0.1393	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240920_180400.wav	2352.0
+12	Spectrogram 1	1	2367.0	2370.0	0	12000.0	American Crow	amecro	0.1447	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240920_180400.wav	2367.0
+13	Spectrogram 1	1	2373.0	2376.0	0	12000.0	American Crow	amecro	0.1817	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240920_180400.wav	2373.0
+14	Spectrogram 1	1	2385.0	2388.0	0	12000.0	American Crow	amecro	0.2550	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240920_180400.wav	2385.0
+15	Spectrogram 1	1	2394.0	2397.0	0	12000.0	American Crow	amecro	0.1776	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240920_180400.wav	2394.0
+16	Spectrogram 1	1	2403.0	2406.0	0	12000.0	American Crow	amecro	0.1094	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240920_180400.wav	2403.0
+17	Spectrogram 1	1	2436.0	2439.0	0	12000.0	American Crow	amecro	0.1419	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240920_180400.wav	2436.0
+18	Spectrogram 1	1	2442.0	2445.0	0	12000.0	Downy Woodpecker	dowwoo	0.1762	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240920_180400.wav	2442.0
+19	Spectrogram 1	1	2772.0	2775.0	0	12000.0	Downy Woodpecker	dowwoo	0.1562	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240920_180400.wav	2772.0

@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	567.0	570.0	0	12000.0	Cedar Waxwing	cedwax	0.4592	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240811_053002.wav	567.0
+2	Spectrogram 1	1	570.0	573.0	0	12000.0	Cedar Waxwing	cedwax	0.8791	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240811_053002.wav	570.0
+3	Spectrogram 1	1	1299.0	1302.0	0	12000.0	Cedar Waxwing	cedwax	0.4332	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240811_053002.wav	1299.0
+4	Spectrogram 1	1	2343.0	2346.0	0	12000.0	Cedar Waxwing	cedwax	0.6309	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240811_053002.wav	2343.0
+5	Spectrogram 1	1	2346.0	2349.0	0	12000.0	Cedar Waxwing	cedwax	0.6180	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240811_053002.wav	2346.0
+6	Spectrogram 1	1	3462.0	3465.0	0	12000.0	Cedar Waxwing	cedwax	0.7862	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240811_053002.wav	3462.0

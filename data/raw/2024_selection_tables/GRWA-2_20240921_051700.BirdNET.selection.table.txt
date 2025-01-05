@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1392.0	1395.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.1238	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240921_051700.wav	1392.0
+2	Spectrogram 1	1	1518.0	1521.0	0	12000.0	White-throated Sparrow	whtspa	0.3222	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240921_051700.wav	1518.0
+3	Spectrogram 1	1	1518.0	1521.0	0	12000.0	White-winged Crossbill	whwcro	0.1703	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240921_051700.wav	1518.0
+4	Spectrogram 1	1	1695.0	1698.0	0	12000.0	White-winged Crossbill	whwcro	0.2952	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240921_051700.wav	1695.0
+5	Spectrogram 1	1	1875.0	1878.0	0	12000.0	White-throated Sparrow	whtspa	0.3755	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240921_051700.wav	1875.0
+6	Spectrogram 1	1	1878.0	1881.0	0	12000.0	White-throated Sparrow	whtspa	0.8266	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240921_051700.wav	1878.0
+7	Spectrogram 1	1	1887.0	1890.0	0	12000.0	White-throated Sparrow	whtspa	0.6354	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240921_051700.wav	1887.0
+8	Spectrogram 1	1	1899.0	1902.0	0	12000.0	White-throated Sparrow	whtspa	0.6028	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240921_051700.wav	1899.0
+9	Spectrogram 1	1	1902.0	1905.0	0	12000.0	White-throated Sparrow	whtspa	0.8770	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240921_051700.wav	1902.0
+10	Spectrogram 1	1	1974.0	1977.0	0	12000.0	White-throated Sparrow	whtspa	0.7768	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240921_051700.wav	1974.0
+11	Spectrogram 1	1	2031.0	2034.0	0	12000.0	Swainson's Thrush	swathr	0.2116	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240921_051700.wav	2031.0
+12	Spectrogram 1	1	2361.0	2364.0	0	12000.0	White-throated Sparrow	whtspa	0.5040	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240921_051700.wav	2361.0
+13	Spectrogram 1	1	2742.0	2745.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2138	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240921_051700.wav	2742.0
+14	Spectrogram 1	1	2754.0	2757.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1261	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240921_051700.wav	2754.0
+15	Spectrogram 1	1	3195.0	3198.0	0	12000.0	American Crow	amecro	0.2034	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240921_051700.wav	3195.0
+16	Spectrogram 1	1	3543.0	3546.0	0	12000.0	Cedar Waxwing	cedwax	0.7749	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240921_051700.wav	3543.0
+17	Spectrogram 1	1	3546.0	3549.0	0	12000.0	Cedar Waxwing	cedwax	0.7717	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240921_051700.wav	3546.0
+18	Spectrogram 1	1	3549.0	3552.0	0	12000.0	Cedar Waxwing	cedwax	0.3316	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240921_051700.wav	3549.0
+19	Spectrogram 1	1	3597.0	3600.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1150	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240921_051700.wav	3597.0

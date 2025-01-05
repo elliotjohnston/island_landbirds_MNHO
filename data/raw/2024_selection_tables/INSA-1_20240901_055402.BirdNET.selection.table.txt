@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	807.0	810.0	0	12000.0	Boreal Chickadee	borchi2	0.1026	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240901_055402.wav	807.0
+2	Spectrogram 1	1	876.0	879.0	0	12000.0	American Crow	amecro	0.3955	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240901_055402.wav	876.0
+3	Spectrogram 1	1	879.0	882.0	0	12000.0	American Crow	amecro	0.1152	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240901_055402.wav	879.0
+4	Spectrogram 1	1	2952.0	2955.0	0	12000.0	Boreal Chickadee	borchi2	0.1551	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240901_055402.wav	2952.0

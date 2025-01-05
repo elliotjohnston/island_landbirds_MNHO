@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1194.0	1197.0	0	12000.0	Winter Wren	winwre3	0.9877	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240820_185900.wav	1194.0
+2	Spectrogram 1	1	1197.0	1200.0	0	12000.0	Winter Wren	winwre3	0.8530	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240820_185900.wav	1197.0
+3	Spectrogram 1	1	1200.0	1203.0	0	12000.0	Winter Wren	winwre3	0.9889	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240820_185900.wav	1200.0
+4	Spectrogram 1	1	1227.0	1230.0	0	12000.0	Winter Wren	winwre3	0.2067	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240820_185900.wav	1227.0
+5	Spectrogram 1	1	1251.0	1254.0	0	12000.0	Winter Wren	winwre3	0.2245	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240820_185900.wav	1251.0
+6	Spectrogram 1	1	1260.0	1263.0	0	12000.0	Dark-eyed Junco	daejun	0.3966	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240820_185900.wav	1260.0
+7	Spectrogram 1	1	1272.0	1275.0	0	12000.0	Winter Wren	winwre3	0.5960	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240820_185900.wav	1272.0

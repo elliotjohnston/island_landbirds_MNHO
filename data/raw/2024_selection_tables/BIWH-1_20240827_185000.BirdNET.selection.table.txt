@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	219.0	222.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.1280	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_185000.wav	219.0
+2	Spectrogram 1	1	231.0	234.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.7939	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_185000.wav	231.0
+3	Spectrogram 1	1	360.0	363.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1078	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_185000.wav	360.0
+4	Spectrogram 1	1	519.0	522.0	0	12000.0	Common Yellowthroat	comyel	0.1257	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_185000.wav	519.0
+5	Spectrogram 1	1	522.0	525.0	0	12000.0	Common Yellowthroat	comyel	0.1143	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_185000.wav	522.0
+6	Spectrogram 1	1	525.0	528.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2251	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_185000.wav	525.0
+7	Spectrogram 1	1	531.0	534.0	0	12000.0	Common Yellowthroat	comyel	0.2705	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_185000.wav	531.0
+8	Spectrogram 1	1	531.0	534.0	0	12000.0	Yellow Warbler	yelwar	0.1734	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_185000.wav	531.0
+9	Spectrogram 1	1	546.0	549.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4274	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_185000.wav	546.0
+10	Spectrogram 1	1	549.0	552.0	0	12000.0	Common Yellowthroat	comyel	0.1968	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_185000.wav	549.0

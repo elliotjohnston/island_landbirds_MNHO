@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2904.0	2907.0	0	12000.0	Hermit Thrush	herthr	0.8177	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240810_191500.wav	2904.0
+2	Spectrogram 1	1	2907.0	2910.0	0	12000.0	Hermit Thrush	herthr	0.2509	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240810_191500.wav	2907.0
+3	Spectrogram 1	1	2910.0	2913.0	0	12000.0	Hermit Thrush	herthr	0.9928	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240810_191500.wav	2910.0
+4	Spectrogram 1	1	2913.0	2916.0	0	12000.0	Hermit Thrush	herthr	0.8497	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240810_191500.wav	2913.0
+5	Spectrogram 1	1	2916.0	2919.0	0	12000.0	Hermit Thrush	herthr	0.9590	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240810_191500.wav	2916.0
+6	Spectrogram 1	1	2919.0	2922.0	0	12000.0	Hermit Thrush	herthr	0.7783	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240810_191500.wav	2919.0
+7	Spectrogram 1	1	2922.0	2925.0	0	12000.0	Hermit Thrush	herthr	0.9169	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240810_191500.wav	2922.0
+8	Spectrogram 1	1	2928.0	2931.0	0	12000.0	Hermit Thrush	herthr	0.7924	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240810_191500.wav	2928.0
+9	Spectrogram 1	1	2931.0	2934.0	0	12000.0	Hermit Thrush	herthr	0.2340	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240810_191500.wav	2931.0
+10	Spectrogram 1	1	2934.0	2937.0	0	12000.0	Hermit Thrush	herthr	0.4131	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240810_191500.wav	2934.0
+11	Spectrogram 1	1	2937.0	2940.0	0	12000.0	Hermit Thrush	herthr	0.4798	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240810_191500.wav	2937.0
+12	Spectrogram 1	1	2943.0	2946.0	0	12000.0	Hermit Thrush	herthr	0.7360	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240810_191500.wav	2943.0
+13	Spectrogram 1	1	2949.0	2952.0	0	12000.0	Hermit Thrush	herthr	0.1773	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240810_191500.wav	2949.0
+14	Spectrogram 1	1	2952.0	2955.0	0	12000.0	Hermit Thrush	herthr	0.4885	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240810_191500.wav	2952.0
+15	Spectrogram 1	1	2958.0	2961.0	0	12000.0	Hermit Thrush	herthr	0.3111	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240810_191500.wav	2958.0
+16	Spectrogram 1	1	2961.0	2964.0	0	12000.0	Hermit Thrush	herthr	0.3865	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240810_191500.wav	2961.0
+17	Spectrogram 1	1	2964.0	2967.0	0	12000.0	Hermit Thrush	herthr	0.2215	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240810_191500.wav	2964.0
+18	Spectrogram 1	1	2967.0	2970.0	0	12000.0	Hermit Thrush	herthr	0.5225	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240810_191500.wav	2967.0
+19	Spectrogram 1	1	2970.0	2973.0	0	12000.0	Hermit Thrush	herthr	0.8329	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240810_191500.wav	2970.0
+20	Spectrogram 1	1	2973.0	2976.0	0	12000.0	Hermit Thrush	herthr	0.4616	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240810_191500.wav	2973.0
+21	Spectrogram 1	1	2976.0	2979.0	0	12000.0	Hermit Thrush	herthr	0.1392	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240810_191500.wav	2976.0
+22	Spectrogram 1	1	3099.0	3102.0	0	12000.0	Common Grackle	comgra	0.1557	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240810_191500.wav	3099.0

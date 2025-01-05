@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	3057.0	3060.0	0	12000.0	Common Nighthawk	comnig	0.4725	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240807_191600.wav	3057.0
+2	Spectrogram 1	1	3120.0	3123.0	0	12000.0	Common Nighthawk	comnig	0.4278	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240807_191600.wav	3120.0
+3	Spectrogram 1	1	3258.0	3261.0	0	12000.0	Common Nighthawk	comnig	0.8709	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240807_191600.wav	3258.0
+4	Spectrogram 1	1	3384.0	3387.0	0	12000.0	Common Nighthawk	comnig	0.7922	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240807_191600.wav	3384.0
+5	Spectrogram 1	1	3567.0	3570.0	0	12000.0	Common Nighthawk	comnig	0.3645	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240807_191600.wav	3567.0

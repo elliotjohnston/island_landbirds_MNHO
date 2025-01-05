@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	447.0	450.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1472	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240706_194600.wav	447.0
+2	Spectrogram 1	1	663.0	666.0	0	12000.0	Song Sparrow	sonspa	0.1063	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240706_194600.wav	663.0
+3	Spectrogram 1	1	1362.0	1365.0	0	12000.0	Eastern Kingbird	easkin	0.3104	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240706_194600.wav	1362.0

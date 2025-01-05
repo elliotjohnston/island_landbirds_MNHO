@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1293.0	1296.0	0	12000.0	American Redstart	amered	0.1988	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240819_185900.wav	1293.0
+2	Spectrogram 1	1	1296.0	1299.0	0	12000.0	American Redstart	amered	0.1920	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240819_185900.wav	1296.0
+3	Spectrogram 1	1	1302.0	1305.0	0	12000.0	American Redstart	amered	0.5208	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240819_185900.wav	1302.0
+4	Spectrogram 1	1	1305.0	1308.0	0	12000.0	American Redstart	amered	0.2251	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240819_185900.wav	1305.0
+5	Spectrogram 1	1	1308.0	1311.0	0	12000.0	American Redstart	amered	0.6471	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240819_185900.wav	1308.0
+6	Spectrogram 1	1	1422.0	1425.0	0	12000.0	American Redstart	amered	0.2809	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240819_185900.wav	1422.0
+7	Spectrogram 1	1	1425.0	1428.0	0	12000.0	American Redstart	amered	0.2209	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240819_185900.wav	1425.0
+8	Spectrogram 1	1	1428.0	1431.0	0	12000.0	American Redstart	amered	0.1520	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240819_185900.wav	1428.0
+9	Spectrogram 1	1	1434.0	1437.0	0	12000.0	American Redstart	amered	0.1699	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240819_185900.wav	1434.0
+10	Spectrogram 1	1	1455.0	1458.0	0	12000.0	American Redstart	amered	0.1821	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240819_185900.wav	1455.0

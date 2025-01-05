@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1881.0	1884.0	0	12000.0	White-throated Sparrow	whtspa	0.1057	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240730_041500.wav	1881.0
+2	Spectrogram 1	1	2247.0	2250.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.2116	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240730_041500.wav	2247.0
+3	Spectrogram 1	1	2691.0	2694.0	0	12000.0	Hermit Thrush	herthr	0.1267	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240730_041500.wav	2691.0
+4	Spectrogram 1	1	2697.0	2700.0	0	12000.0	Hermit Thrush	herthr	0.2165	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240730_041500.wav	2697.0
+5	Spectrogram 1	1	2712.0	2715.0	0	12000.0	Hermit Thrush	herthr	0.1130	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240730_041500.wav	2712.0
+6	Spectrogram 1	1	2730.0	2733.0	0	12000.0	Hermit Thrush	herthr	0.1657	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240730_041500.wav	2730.0
+7	Spectrogram 1	1	2775.0	2778.0	0	12000.0	Hermit Thrush	herthr	0.3451	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240730_041500.wav	2775.0
+8	Spectrogram 1	1	2781.0	2784.0	0	12000.0	Hermit Thrush	herthr	0.6667	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240730_041500.wav	2781.0
+9	Spectrogram 1	1	2787.0	2790.0	0	12000.0	Hermit Thrush	herthr	0.4156	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240730_041500.wav	2787.0
+10	Spectrogram 1	1	2787.0	2790.0	0	12000.0	Swainson's Thrush	swathr	0.1674	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240730_041500.wav	2787.0
+11	Spectrogram 1	1	2814.0	2817.0	0	12000.0	Swainson's Thrush	swathr	0.3760	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240730_041500.wav	2814.0
+12	Spectrogram 1	1	2820.0	2823.0	0	12000.0	Hermit Thrush	herthr	0.4485	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240730_041500.wav	2820.0
+13	Spectrogram 1	1	2823.0	2826.0	0	12000.0	Hermit Thrush	herthr	0.2151	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240730_041500.wav	2823.0
+14	Spectrogram 1	1	2832.0	2835.0	0	12000.0	Swainson's Thrush	swathr	0.5848	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240730_041500.wav	2832.0
+15	Spectrogram 1	1	2838.0	2841.0	0	12000.0	Swainson's Thrush	swathr	0.8477	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240730_041500.wav	2838.0
+16	Spectrogram 1	1	2997.0	3000.0	0	12000.0	American Crow	amecro	0.2004	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240730_041500.wav	2997.0
+17	Spectrogram 1	1	3129.0	3132.0	0	12000.0	American Crow	amecro	0.1226	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240730_041500.wav	3129.0
+18	Spectrogram 1	1	3213.0	3216.0	0	12000.0	Hermit Thrush	herthr	0.5400	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240730_041500.wav	3213.0
+19	Spectrogram 1	1	3216.0	3219.0	0	12000.0	Hermit Thrush	herthr	0.2107	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240730_041500.wav	3216.0
+20	Spectrogram 1	1	3219.0	3222.0	0	12000.0	Hermit Thrush	herthr	0.8304	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240730_041500.wav	3219.0
+21	Spectrogram 1	1	3249.0	3252.0	0	12000.0	Hermit Thrush	herthr	0.4317	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240730_041500.wav	3249.0
+22	Spectrogram 1	1	3252.0	3255.0	0	12000.0	Hermit Thrush	herthr	0.1946	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240730_041500.wav	3252.0
+23	Spectrogram 1	1	3255.0	3258.0	0	12000.0	Hermit Thrush	herthr	0.4997	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240730_041500.wav	3255.0
+24	Spectrogram 1	1	3258.0	3261.0	0	12000.0	Hermit Thrush	herthr	0.7725	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240730_041500.wav	3258.0
+25	Spectrogram 1	1	3318.0	3321.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5779	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240730_041500.wav	3318.0
+26	Spectrogram 1	1	3321.0	3324.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6118	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240730_041500.wav	3321.0

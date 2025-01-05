@@ -1,0 +1,588 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	3.0	6.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9777	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3.0
+2	Spectrogram 1	1	18.0	21.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9849	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	18.0
+3	Spectrogram 1	1	21.0	24.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8764	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	21.0
+4	Spectrogram 1	1	30.0	33.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3588	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	30.0
+5	Spectrogram 1	1	33.0	36.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4232	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	33.0
+6	Spectrogram 1	1	36.0	39.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9756	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	36.0
+7	Spectrogram 1	1	54.0	57.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9829	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	54.0
+8	Spectrogram 1	1	69.0	72.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9915	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	69.0
+9	Spectrogram 1	1	81.0	84.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3365	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	81.0
+10	Spectrogram 1	1	87.0	90.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9765	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	87.0
+11	Spectrogram 1	1	93.0	96.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1571	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	93.0
+12	Spectrogram 1	1	105.0	108.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9388	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	105.0
+13	Spectrogram 1	1	111.0	114.0	0	12000.0	Downy Woodpecker	dowwoo	0.2110	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	111.0
+14	Spectrogram 1	1	114.0	117.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3345	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	114.0
+15	Spectrogram 1	1	117.0	120.0	0	12000.0	Downy Woodpecker	dowwoo	0.1709	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	117.0
+16	Spectrogram 1	1	117.0	120.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1072	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	117.0
+17	Spectrogram 1	1	120.0	123.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9445	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	120.0
+18	Spectrogram 1	1	126.0	129.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5472	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	126.0
+19	Spectrogram 1	1	126.0	129.0	0	12000.0	Downy Woodpecker	dowwoo	0.2919	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	126.0
+20	Spectrogram 1	1	126.0	129.0	0	12000.0	Yellow-bellied Sapsucker	yebsap	0.1080	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	126.0
+21	Spectrogram 1	1	132.0	135.0	0	12000.0	Downy Woodpecker	dowwoo	0.1308	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	132.0
+22	Spectrogram 1	1	135.0	138.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9309	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	135.0
+23	Spectrogram 1	1	138.0	141.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3637	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	138.0
+24	Spectrogram 1	1	141.0	144.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4213	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	141.0
+25	Spectrogram 1	1	144.0	147.0	0	12000.0	Brown Creeper	brncre	0.4991	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	144.0
+26	Spectrogram 1	1	144.0	147.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4958	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	144.0
+27	Spectrogram 1	1	147.0	150.0	0	12000.0	Brown Creeper	brncre	0.6969	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	147.0
+28	Spectrogram 1	1	147.0	150.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2790	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	147.0
+29	Spectrogram 1	1	150.0	153.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8990	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	150.0
+30	Spectrogram 1	1	150.0	153.0	0	12000.0	Brown Creeper	brncre	0.2811	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	150.0
+31	Spectrogram 1	1	153.0	156.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3761	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	153.0
+32	Spectrogram 1	1	153.0	156.0	0	12000.0	Brown Creeper	brncre	0.1694	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	153.0
+33	Spectrogram 1	1	153.0	156.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1052	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	153.0
+34	Spectrogram 1	1	156.0	159.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9183	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	156.0
+35	Spectrogram 1	1	159.0	162.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8124	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	159.0
+36	Spectrogram 1	1	159.0	162.0	0	12000.0	Brown Creeper	brncre	0.3170	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	159.0
+37	Spectrogram 1	1	162.0	165.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6376	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	162.0
+38	Spectrogram 1	1	165.0	168.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7200	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	165.0
+39	Spectrogram 1	1	165.0	168.0	0	12000.0	Brown Creeper	brncre	0.1411	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	165.0
+40	Spectrogram 1	1	168.0	171.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9494	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	168.0
+41	Spectrogram 1	1	171.0	174.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3128	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	171.0
+42	Spectrogram 1	1	174.0	177.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8364	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	174.0
+43	Spectrogram 1	1	183.0	186.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1235	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	183.0
+44	Spectrogram 1	1	192.0	195.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1840	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	192.0
+45	Spectrogram 1	1	201.0	204.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2466	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	201.0
+46	Spectrogram 1	1	201.0	204.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1875	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	201.0
+47	Spectrogram 1	1	207.0	210.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3693	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	207.0
+48	Spectrogram 1	1	207.0	210.0	0	12000.0	Downy Woodpecker	dowwoo	0.1616	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	207.0
+49	Spectrogram 1	1	213.0	216.0	0	12000.0	Common Raven	comrav	0.2713	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	213.0
+50	Spectrogram 1	1	213.0	216.0	0	12000.0	American Crow	amecro	0.2278	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	213.0
+51	Spectrogram 1	1	216.0	219.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2254	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	216.0
+52	Spectrogram 1	1	216.0	219.0	0	12000.0	Brown Creeper	brncre	0.1065	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	216.0
+53	Spectrogram 1	1	219.0	222.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4246	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	219.0
+54	Spectrogram 1	1	222.0	225.0	0	12000.0	American Crow	amecro	0.1273	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	222.0
+55	Spectrogram 1	1	228.0	231.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9887	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	228.0
+56	Spectrogram 1	1	234.0	237.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9512	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	234.0
+57	Spectrogram 1	1	240.0	243.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5296	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	240.0
+58	Spectrogram 1	1	240.0	243.0	0	12000.0	Cape May Warbler	camwar	0.1376	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	240.0
+59	Spectrogram 1	1	243.0	246.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9730	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	243.0
+60	Spectrogram 1	1	246.0	249.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5556	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	246.0
+61	Spectrogram 1	1	249.0	252.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9600	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	249.0
+62	Spectrogram 1	1	267.0	270.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8767	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	267.0
+63	Spectrogram 1	1	267.0	270.0	0	12000.0	Brown Creeper	brncre	0.1135	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	267.0
+64	Spectrogram 1	1	270.0	273.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6638	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	270.0
+65	Spectrogram 1	1	294.0	297.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8880	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	294.0
+66	Spectrogram 1	1	297.0	300.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1704	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	297.0
+67	Spectrogram 1	1	303.0	306.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9068	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	303.0
+68	Spectrogram 1	1	318.0	321.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9805	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	318.0
+69	Spectrogram 1	1	330.0	333.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9733	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	330.0
+70	Spectrogram 1	1	333.0	336.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9401	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	333.0
+71	Spectrogram 1	1	354.0	357.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9802	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	354.0
+72	Spectrogram 1	1	396.0	399.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9488	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	396.0
+73	Spectrogram 1	1	408.0	411.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9345	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	408.0
+74	Spectrogram 1	1	411.0	414.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9801	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	411.0
+75	Spectrogram 1	1	423.0	426.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6879	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	423.0
+76	Spectrogram 1	1	426.0	429.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7583	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	426.0
+77	Spectrogram 1	1	438.0	441.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7906	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	438.0
+78	Spectrogram 1	1	441.0	444.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2919	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	441.0
+79	Spectrogram 1	1	441.0	444.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1568	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	441.0
+80	Spectrogram 1	1	453.0	456.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9544	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	453.0
+81	Spectrogram 1	1	468.0	471.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2061	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	468.0
+82	Spectrogram 1	1	471.0	474.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4479	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	471.0
+83	Spectrogram 1	1	489.0	492.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9528	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	489.0
+84	Spectrogram 1	1	492.0	495.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9816	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	492.0
+85	Spectrogram 1	1	504.0	507.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7247	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	504.0
+86	Spectrogram 1	1	504.0	507.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1289	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	504.0
+87	Spectrogram 1	1	507.0	510.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8713	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	507.0
+88	Spectrogram 1	1	510.0	513.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9384	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	510.0
+89	Spectrogram 1	1	519.0	522.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9848	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	519.0
+90	Spectrogram 1	1	531.0	534.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9869	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	531.0
+91	Spectrogram 1	1	534.0	537.0	0	12000.0	Cape May Warbler	camwar	0.2349	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	534.0
+92	Spectrogram 1	1	534.0	537.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2138	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	534.0
+93	Spectrogram 1	1	534.0	537.0	0	12000.0	Tufted Titmouse	tuftit	0.2082	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	534.0
+94	Spectrogram 1	1	546.0	549.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9816	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	546.0
+95	Spectrogram 1	1	552.0	555.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4617	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	552.0
+96	Spectrogram 1	1	552.0	555.0	0	12000.0	Brown Creeper	brncre	0.2192	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	552.0
+97	Spectrogram 1	1	558.0	561.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4898	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	558.0
+98	Spectrogram 1	1	558.0	561.0	0	12000.0	Brown Creeper	brncre	0.1333	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	558.0
+99	Spectrogram 1	1	561.0	564.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9779	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	561.0
+100	Spectrogram 1	1	567.0	570.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7932	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	567.0
+101	Spectrogram 1	1	567.0	570.0	0	12000.0	Brown Creeper	brncre	0.3220	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	567.0
+102	Spectrogram 1	1	576.0	579.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9155	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	576.0
+103	Spectrogram 1	1	591.0	594.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9848	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	591.0
+104	Spectrogram 1	1	594.0	597.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2613	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	594.0
+105	Spectrogram 1	1	594.0	597.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1767	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	594.0
+106	Spectrogram 1	1	606.0	609.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1353	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	606.0
+107	Spectrogram 1	1	618.0	621.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7993	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	618.0
+108	Spectrogram 1	1	621.0	624.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8893	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	621.0
+109	Spectrogram 1	1	627.0	630.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9089	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	627.0
+110	Spectrogram 1	1	633.0	636.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3555	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	633.0
+111	Spectrogram 1	1	636.0	639.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3709	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	636.0
+112	Spectrogram 1	1	636.0	639.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1907	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	636.0
+113	Spectrogram 1	1	639.0	642.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2089	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	639.0
+114	Spectrogram 1	1	639.0	642.0	0	12000.0	Black-and-white Warbler	bawwar	0.1314	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	639.0
+115	Spectrogram 1	1	642.0	645.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5211	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	642.0
+116	Spectrogram 1	1	642.0	645.0	0	12000.0	Black-and-white Warbler	bawwar	0.2456	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	642.0
+117	Spectrogram 1	1	642.0	645.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1103	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	642.0
+118	Spectrogram 1	1	645.0	648.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5646	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	645.0
+119	Spectrogram 1	1	648.0	651.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7418	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	648.0
+120	Spectrogram 1	1	648.0	651.0	0	12000.0	Black-and-white Warbler	bawwar	0.1416	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	648.0
+121	Spectrogram 1	1	651.0	654.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2391	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	651.0
+122	Spectrogram 1	1	654.0	657.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2319	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	654.0
+123	Spectrogram 1	1	654.0	657.0	0	12000.0	Black-and-white Warbler	bawwar	0.1991	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	654.0
+124	Spectrogram 1	1	657.0	660.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3770	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	657.0
+125	Spectrogram 1	1	657.0	660.0	0	12000.0	Black-and-white Warbler	bawwar	0.1387	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	657.0
+126	Spectrogram 1	1	660.0	663.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7539	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	660.0
+127	Spectrogram 1	1	663.0	666.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2322	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	663.0
+128	Spectrogram 1	1	666.0	669.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9684	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	666.0
+129	Spectrogram 1	1	669.0	672.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6714	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	669.0
+130	Spectrogram 1	1	669.0	672.0	0	12000.0	Black-and-white Warbler	bawwar	0.1042	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	669.0
+131	Spectrogram 1	1	672.0	675.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9749	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	672.0
+132	Spectrogram 1	1	672.0	675.0	0	12000.0	Black-and-white Warbler	bawwar	0.1145	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	672.0
+133	Spectrogram 1	1	675.0	678.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4148	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	675.0
+134	Spectrogram 1	1	675.0	678.0	0	12000.0	Palm Warbler	palwar	0.3150	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	675.0
+135	Spectrogram 1	1	678.0	681.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6782	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	678.0
+136	Spectrogram 1	1	681.0	684.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6846	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	681.0
+137	Spectrogram 1	1	684.0	687.0	0	12000.0	Black-and-white Warbler	bawwar	0.4126	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	684.0
+138	Spectrogram 1	1	684.0	687.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1922	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	684.0
+139	Spectrogram 1	1	687.0	690.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9125	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	687.0
+140	Spectrogram 1	1	690.0	693.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3859	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	690.0
+141	Spectrogram 1	1	693.0	696.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5649	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	693.0
+142	Spectrogram 1	1	693.0	696.0	0	12000.0	Black-and-white Warbler	bawwar	0.1036	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	693.0
+143	Spectrogram 1	1	696.0	699.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9647	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	696.0
+144	Spectrogram 1	1	699.0	702.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9936	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	699.0
+145	Spectrogram 1	1	705.0	708.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2171	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	705.0
+146	Spectrogram 1	1	708.0	711.0	0	12000.0	Black-and-white Warbler	bawwar	0.1867	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	708.0
+147	Spectrogram 1	1	711.0	714.0	0	12000.0	Swainson's Thrush	swathr	0.3244	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	711.0
+148	Spectrogram 1	1	714.0	717.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2035	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	714.0
+149	Spectrogram 1	1	720.0	723.0	0	12000.0	Swainson's Thrush	swathr	0.8023	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	720.0
+150	Spectrogram 1	1	723.0	726.0	0	12000.0	Swainson's Thrush	swathr	0.2401	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	723.0
+151	Spectrogram 1	1	726.0	729.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9318	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	726.0
+152	Spectrogram 1	1	726.0	729.0	0	12000.0	Black-and-white Warbler	bawwar	0.1461	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	726.0
+153	Spectrogram 1	1	732.0	735.0	0	12000.0	Swainson's Thrush	swathr	0.5660	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	732.0
+154	Spectrogram 1	1	735.0	738.0	0	12000.0	Swainson's Thrush	swathr	0.4455	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	735.0
+155	Spectrogram 1	1	738.0	741.0	0	12000.0	Swainson's Thrush	swathr	0.1571	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	738.0
+156	Spectrogram 1	1	759.0	762.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3163	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	759.0
+157	Spectrogram 1	1	765.0	768.0	0	12000.0	Swainson's Thrush	swathr	0.3086	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	765.0
+158	Spectrogram 1	1	774.0	777.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1037	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	774.0
+159	Spectrogram 1	1	777.0	780.0	0	12000.0	Indigo Bunting	indbun	0.1039	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	777.0
+160	Spectrogram 1	1	783.0	786.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9430	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	783.0
+161	Spectrogram 1	1	792.0	795.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1105	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	792.0
+162	Spectrogram 1	1	801.0	804.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6353	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	801.0
+163	Spectrogram 1	1	804.0	807.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1993	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	804.0
+164	Spectrogram 1	1	837.0	840.0	0	12000.0	Black-and-white Warbler	bawwar	0.1168	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	837.0
+165	Spectrogram 1	1	921.0	924.0	0	12000.0	Tennessee Warbler	tenwar	0.1839	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	921.0
+166	Spectrogram 1	1	966.0	969.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1029	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	966.0
+167	Spectrogram 1	1	969.0	972.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5239	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	969.0
+168	Spectrogram 1	1	987.0	990.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9385	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	987.0
+169	Spectrogram 1	1	993.0	996.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1799	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	993.0
+170	Spectrogram 1	1	996.0	999.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6470	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	996.0
+171	Spectrogram 1	1	999.0	1002.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5948	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	999.0
+172	Spectrogram 1	1	1002.0	1005.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5919	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1002.0
+173	Spectrogram 1	1	1008.0	1011.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8126	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1008.0
+174	Spectrogram 1	1	1011.0	1014.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8228	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1011.0
+175	Spectrogram 1	1	1011.0	1014.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.3374	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1011.0
+176	Spectrogram 1	1	1023.0	1026.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9802	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1023.0
+177	Spectrogram 1	1	1035.0	1038.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7808	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1035.0
+178	Spectrogram 1	1	1068.0	1071.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6832	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1068.0
+179	Spectrogram 1	1	1083.0	1086.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2787	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1083.0
+180	Spectrogram 1	1	1098.0	1101.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1988	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1098.0
+181	Spectrogram 1	1	1101.0	1104.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7271	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1101.0
+182	Spectrogram 1	1	1107.0	1110.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9856	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1107.0
+183	Spectrogram 1	1	1116.0	1119.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4336	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1116.0
+184	Spectrogram 1	1	1164.0	1167.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7743	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1164.0
+185	Spectrogram 1	1	1167.0	1170.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9026	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1167.0
+186	Spectrogram 1	1	1245.0	1248.0	0	12000.0	Brown Creeper	brncre	0.4004	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1245.0
+187	Spectrogram 1	1	1248.0	1251.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5704	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1248.0
+188	Spectrogram 1	1	1248.0	1251.0	0	12000.0	Brown Creeper	brncre	0.1327	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1248.0
+189	Spectrogram 1	1	1254.0	1257.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1659	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1254.0
+190	Spectrogram 1	1	1263.0	1266.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6693	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1263.0
+191	Spectrogram 1	1	1269.0	1272.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2185	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1269.0
+192	Spectrogram 1	1	1275.0	1278.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9608	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1275.0
+193	Spectrogram 1	1	1287.0	1290.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2395	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1287.0
+194	Spectrogram 1	1	1290.0	1293.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2772	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1290.0
+195	Spectrogram 1	1	1290.0	1293.0	0	12000.0	Brown Creeper	brncre	0.1039	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1290.0
+196	Spectrogram 1	1	1305.0	1308.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9299	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1305.0
+197	Spectrogram 1	1	1317.0	1320.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8840	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1317.0
+198	Spectrogram 1	1	1320.0	1323.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6400	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1320.0
+199	Spectrogram 1	1	1332.0	1335.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1480	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1332.0
+200	Spectrogram 1	1	1335.0	1338.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9216	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1335.0
+201	Spectrogram 1	1	1338.0	1341.0	0	12000.0	Brown Creeper	brncre	0.4185	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1338.0
+202	Spectrogram 1	1	1338.0	1341.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3159	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1338.0
+203	Spectrogram 1	1	1344.0	1347.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4585	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1344.0
+204	Spectrogram 1	1	1344.0	1347.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1001	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1344.0
+205	Spectrogram 1	1	1350.0	1353.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7363	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1350.0
+206	Spectrogram 1	1	1356.0	1359.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9308	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1356.0
+207	Spectrogram 1	1	1362.0	1365.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1690	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1362.0
+208	Spectrogram 1	1	1377.0	1380.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9450	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1377.0
+209	Spectrogram 1	1	1389.0	1392.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6768	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1389.0
+210	Spectrogram 1	1	1392.0	1395.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1300	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1392.0
+211	Spectrogram 1	1	1398.0	1401.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4457	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1398.0
+212	Spectrogram 1	1	1401.0	1404.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9195	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1401.0
+213	Spectrogram 1	1	1413.0	1416.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1479	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1413.0
+214	Spectrogram 1	1	1422.0	1425.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5958	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1422.0
+215	Spectrogram 1	1	1425.0	1428.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3246	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1425.0
+216	Spectrogram 1	1	1425.0	1428.0	0	12000.0	Northern Parula	norpar	0.1518	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1425.0
+217	Spectrogram 1	1	1428.0	1431.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5135	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1428.0
+218	Spectrogram 1	1	1437.0	1440.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7889	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1437.0
+219	Spectrogram 1	1	1437.0	1440.0	0	12000.0	Brown Creeper	brncre	0.1617	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1437.0
+220	Spectrogram 1	1	1443.0	1446.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3154	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1443.0
+221	Spectrogram 1	1	1446.0	1449.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9446	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1446.0
+222	Spectrogram 1	1	1458.0	1461.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5240	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1458.0
+223	Spectrogram 1	1	1461.0	1464.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4497	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1461.0
+224	Spectrogram 1	1	1461.0	1464.0	0	12000.0	Cape May Warbler	camwar	0.1118	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1461.0
+225	Spectrogram 1	1	1473.0	1476.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9544	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1473.0
+226	Spectrogram 1	1	1476.0	1479.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7420	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1476.0
+227	Spectrogram 1	1	1476.0	1479.0	0	12000.0	Northern Parula	norpar	0.7086	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1476.0
+228	Spectrogram 1	1	1482.0	1485.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9017	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1482.0
+229	Spectrogram 1	1	1488.0	1491.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7739	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1488.0
+230	Spectrogram 1	1	1491.0	1494.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9865	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1491.0
+231	Spectrogram 1	1	1500.0	1503.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9820	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1500.0
+232	Spectrogram 1	1	1506.0	1509.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6423	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1506.0
+233	Spectrogram 1	1	1512.0	1515.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9457	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1512.0
+234	Spectrogram 1	1	1512.0	1515.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.2408	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1512.0
+235	Spectrogram 1	1	1521.0	1524.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5699	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1521.0
+236	Spectrogram 1	1	1521.0	1524.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1642	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1521.0
+237	Spectrogram 1	1	1521.0	1524.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1490	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1521.0
+238	Spectrogram 1	1	1524.0	1527.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6550	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1524.0
+239	Spectrogram 1	1	1533.0	1536.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5394	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1533.0
+240	Spectrogram 1	1	1533.0	1536.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1038	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1533.0
+241	Spectrogram 1	1	1539.0	1542.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5887	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1539.0
+242	Spectrogram 1	1	1542.0	1545.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9299	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1542.0
+243	Spectrogram 1	1	1551.0	1554.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9035	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1551.0
+244	Spectrogram 1	1	1566.0	1569.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9720	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1566.0
+245	Spectrogram 1	1	1569.0	1572.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5902	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1569.0
+246	Spectrogram 1	1	1569.0	1572.0	0	12000.0	Cape May Warbler	camwar	0.3515	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1569.0
+247	Spectrogram 1	1	1572.0	1575.0	0	12000.0	Tennessee Warbler	tenwar	0.2072	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1572.0
+248	Spectrogram 1	1	1575.0	1578.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9918	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1575.0
+249	Spectrogram 1	1	1587.0	1590.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9788	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1587.0
+250	Spectrogram 1	1	1644.0	1647.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9210	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1644.0
+251	Spectrogram 1	1	1659.0	1662.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1218	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1659.0
+252	Spectrogram 1	1	1662.0	1665.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8607	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1662.0
+253	Spectrogram 1	1	1665.0	1668.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6883	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1665.0
+254	Spectrogram 1	1	1674.0	1677.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7883	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1674.0
+255	Spectrogram 1	1	1680.0	1683.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7520	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1680.0
+256	Spectrogram 1	1	1692.0	1695.0	0	12000.0	Brown Creeper	brncre	0.4236	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1692.0
+257	Spectrogram 1	1	1692.0	1695.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3143	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1692.0
+258	Spectrogram 1	1	1704.0	1707.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9765	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1704.0
+259	Spectrogram 1	1	1707.0	1710.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9220	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1707.0
+260	Spectrogram 1	1	1716.0	1719.0	0	12000.0	Brown Creeper	brncre	0.5881	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1716.0
+261	Spectrogram 1	1	1719.0	1722.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2669	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1719.0
+262	Spectrogram 1	1	1719.0	1722.0	0	12000.0	Brown Creeper	brncre	0.2184	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1719.0
+263	Spectrogram 1	1	1725.0	1728.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1928	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1725.0
+264	Spectrogram 1	1	1725.0	1728.0	0	12000.0	Brown Creeper	brncre	0.1200	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1725.0
+265	Spectrogram 1	1	1728.0	1731.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8702	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1728.0
+266	Spectrogram 1	1	1731.0	1734.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8913	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1731.0
+267	Spectrogram 1	1	1734.0	1737.0	0	12000.0	Brown Creeper	brncre	0.9202	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1734.0
+268	Spectrogram 1	1	1734.0	1737.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1529	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1734.0
+269	Spectrogram 1	1	1740.0	1743.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6528	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1740.0
+270	Spectrogram 1	1	1743.0	1746.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9443	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1743.0
+271	Spectrogram 1	1	1746.0	1749.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3909	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1746.0
+272	Spectrogram 1	1	1746.0	1749.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3881	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1746.0
+273	Spectrogram 1	1	1746.0	1749.0	0	12000.0	Boreal Chickadee	borchi2	0.1056	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1746.0
+274	Spectrogram 1	1	1749.0	1752.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6868	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1749.0
+275	Spectrogram 1	1	1752.0	1755.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8275	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1752.0
+276	Spectrogram 1	1	1755.0	1758.0	0	12000.0	Cape May Warbler	camwar	0.1029	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1755.0
+277	Spectrogram 1	1	1758.0	1761.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1259	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1758.0
+278	Spectrogram 1	1	1761.0	1764.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2658	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1761.0
+279	Spectrogram 1	1	1764.0	1767.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8594	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1764.0
+280	Spectrogram 1	1	1767.0	1770.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1435	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1767.0
+281	Spectrogram 1	1	1773.0	1776.0	0	12000.0	Palm Warbler	palwar	0.1598	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1773.0
+282	Spectrogram 1	1	1773.0	1776.0	0	12000.0	American Crow	amecro	0.1095	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1773.0
+283	Spectrogram 1	1	1776.0	1779.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8688	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1776.0
+284	Spectrogram 1	1	1776.0	1779.0	0	12000.0	Brown Creeper	brncre	0.1834	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1776.0
+285	Spectrogram 1	1	1779.0	1782.0	0	12000.0	Brown Creeper	brncre	0.7515	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1779.0
+286	Spectrogram 1	1	1779.0	1782.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1786	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1779.0
+287	Spectrogram 1	1	1785.0	1788.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3056	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1785.0
+288	Spectrogram 1	1	1785.0	1788.0	0	12000.0	Brown Creeper	brncre	0.2232	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1785.0
+289	Spectrogram 1	1	1794.0	1797.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4230	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1794.0
+290	Spectrogram 1	1	1803.0	1806.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2682	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1803.0
+291	Spectrogram 1	1	1818.0	1821.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7541	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1818.0
+292	Spectrogram 1	1	1824.0	1827.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1330	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1824.0
+293	Spectrogram 1	1	1830.0	1833.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2606	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1830.0
+294	Spectrogram 1	1	1839.0	1842.0	0	12000.0	Nashville Warbler	naswar	0.2370	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1839.0
+295	Spectrogram 1	1	1842.0	1845.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8370	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1842.0
+296	Spectrogram 1	1	1842.0	1845.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1262	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1842.0
+297	Spectrogram 1	1	1860.0	1863.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9190	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1860.0
+298	Spectrogram 1	1	1875.0	1878.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7360	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1875.0
+299	Spectrogram 1	1	1878.0	1881.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1482	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1878.0
+300	Spectrogram 1	1	1887.0	1890.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4864	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1887.0
+301	Spectrogram 1	1	1890.0	1893.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8179	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1890.0
+302	Spectrogram 1	1	1905.0	1908.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9777	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1905.0
+303	Spectrogram 1	1	1935.0	1938.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7978	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1935.0
+304	Spectrogram 1	1	1953.0	1956.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3639	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1953.0
+305	Spectrogram 1	1	1980.0	1983.0	0	12000.0	American Crow	amecro	0.2188	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	1980.0
+306	Spectrogram 1	1	2001.0	2004.0	0	12000.0	American Crow	amecro	0.1066	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2001.0
+307	Spectrogram 1	1	2004.0	2007.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2469	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2004.0
+308	Spectrogram 1	1	2007.0	2010.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1382	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2007.0
+309	Spectrogram 1	1	2010.0	2013.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1531	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2010.0
+310	Spectrogram 1	1	2013.0	2016.0	0	12000.0	American Crow	amecro	0.1918	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2013.0
+311	Spectrogram 1	1	2013.0	2016.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1714	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2013.0
+312	Spectrogram 1	1	2013.0	2016.0	0	12000.0	Black-and-white Warbler	bawwar	0.1422	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2013.0
+313	Spectrogram 1	1	2025.0	2028.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1463	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2025.0
+314	Spectrogram 1	1	2025.0	2028.0	0	12000.0	Black-and-white Warbler	bawwar	0.1050	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2025.0
+315	Spectrogram 1	1	2043.0	2046.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4520	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2043.0
+316	Spectrogram 1	1	2046.0	2049.0	0	12000.0	Black-and-white Warbler	bawwar	0.1255	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2046.0
+317	Spectrogram 1	1	2049.0	2052.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1159	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2049.0
+318	Spectrogram 1	1	2061.0	2064.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3247	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2061.0
+319	Spectrogram 1	1	2061.0	2064.0	0	12000.0	Dark-eyed Junco	daejun	0.1171	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2061.0
+320	Spectrogram 1	1	2070.0	2073.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8533	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2070.0
+321	Spectrogram 1	1	2070.0	2073.0	0	12000.0	Brown Creeper	brncre	0.1542	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2070.0
+322	Spectrogram 1	1	2073.0	2076.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8663	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2073.0
+323	Spectrogram 1	1	2079.0	2082.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8372	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2079.0
+324	Spectrogram 1	1	2082.0	2085.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4747	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2082.0
+325	Spectrogram 1	1	2085.0	2088.0	0	12000.0	American Crow	amecro	0.5281	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2085.0
+326	Spectrogram 1	1	2088.0	2091.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9406	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2088.0
+327	Spectrogram 1	1	2091.0	2094.0	0	12000.0	American Crow	amecro	0.7991	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2091.0
+328	Spectrogram 1	1	2094.0	2097.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4532	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2094.0
+329	Spectrogram 1	1	2094.0	2097.0	0	12000.0	Brown Creeper	brncre	0.1220	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2094.0
+330	Spectrogram 1	1	2097.0	2100.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7864	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2097.0
+331	Spectrogram 1	1	2097.0	2100.0	0	12000.0	Brown Creeper	brncre	0.1161	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2097.0
+332	Spectrogram 1	1	2100.0	2103.0	0	12000.0	American Crow	amecro	0.4508	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2100.0
+333	Spectrogram 1	1	2100.0	2103.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1800	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2100.0
+334	Spectrogram 1	1	2103.0	2106.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2895	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2103.0
+335	Spectrogram 1	1	2106.0	2109.0	0	12000.0	American Crow	amecro	0.4221	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2106.0
+336	Spectrogram 1	1	2112.0	2115.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8420	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2112.0
+337	Spectrogram 1	1	2118.0	2121.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2666	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2118.0
+338	Spectrogram 1	1	2121.0	2124.0	0	12000.0	American Crow	amecro	0.8251	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2121.0
+339	Spectrogram 1	1	2124.0	2127.0	0	12000.0	American Crow	amecro	0.5391	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2124.0
+340	Spectrogram 1	1	2127.0	2130.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8754	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2127.0
+341	Spectrogram 1	1	2127.0	2130.0	0	12000.0	Brown Creeper	brncre	0.1513	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2127.0
+342	Spectrogram 1	1	2130.0	2133.0	0	12000.0	American Crow	amecro	0.8746	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2130.0
+343	Spectrogram 1	1	2133.0	2136.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5591	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2133.0
+344	Spectrogram 1	1	2136.0	2139.0	0	12000.0	American Crow	amecro	0.9217	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2136.0
+345	Spectrogram 1	1	2139.0	2142.0	0	12000.0	American Crow	amecro	0.6646	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2139.0
+346	Spectrogram 1	1	2145.0	2148.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3033	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2145.0
+347	Spectrogram 1	1	2148.0	2151.0	0	12000.0	American Crow	amecro	0.7471	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2148.0
+348	Spectrogram 1	1	2151.0	2154.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3210	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2151.0
+349	Spectrogram 1	1	2154.0	2157.0	0	12000.0	American Crow	amecro	0.5139	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2154.0
+350	Spectrogram 1	1	2160.0	2163.0	0	12000.0	American Crow	amecro	0.7541	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2160.0
+351	Spectrogram 1	1	2163.0	2166.0	0	12000.0	American Crow	amecro	0.5289	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2163.0
+352	Spectrogram 1	1	2163.0	2166.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2184	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2163.0
+353	Spectrogram 1	1	2166.0	2169.0	0	12000.0	American Crow	amecro	0.3856	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2166.0
+354	Spectrogram 1	1	2169.0	2172.0	0	12000.0	American Crow	amecro	0.8888	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2169.0
+355	Spectrogram 1	1	2172.0	2175.0	0	12000.0	American Crow	amecro	0.1384	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2172.0
+356	Spectrogram 1	1	2175.0	2178.0	0	12000.0	Common Raven	comrav	0.1058	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2175.0
+357	Spectrogram 1	1	2178.0	2181.0	0	12000.0	American Crow	amecro	0.6710	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2178.0
+358	Spectrogram 1	1	2184.0	2187.0	0	12000.0	American Crow	amecro	0.4299	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2184.0
+359	Spectrogram 1	1	2187.0	2190.0	0	12000.0	American Crow	amecro	0.8626	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2187.0
+360	Spectrogram 1	1	2193.0	2196.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4614	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2193.0
+361	Spectrogram 1	1	2193.0	2196.0	0	12000.0	American Crow	amecro	0.2298	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2193.0
+362	Spectrogram 1	1	2199.0	2202.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1402	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2199.0
+363	Spectrogram 1	1	2208.0	2211.0	0	12000.0	American Crow	amecro	0.6703	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2208.0
+364	Spectrogram 1	1	2208.0	2211.0	0	12000.0	Common Raven	comrav	0.1440	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2208.0
+365	Spectrogram 1	1	2211.0	2214.0	0	12000.0	American Crow	amecro	0.6817	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2211.0
+366	Spectrogram 1	1	2217.0	2220.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8985	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2217.0
+367	Spectrogram 1	1	2220.0	2223.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7352	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2220.0
+368	Spectrogram 1	1	2223.0	2226.0	0	12000.0	American Crow	amecro	0.5710	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2223.0
+369	Spectrogram 1	1	2226.0	2229.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1933	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2226.0
+370	Spectrogram 1	1	2232.0	2235.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7183	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2232.0
+371	Spectrogram 1	1	2232.0	2235.0	0	12000.0	American Crow	amecro	0.3831	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2232.0
+372	Spectrogram 1	1	2235.0	2238.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1216	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2235.0
+373	Spectrogram 1	1	2238.0	2241.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8121	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2238.0
+374	Spectrogram 1	1	2253.0	2256.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8482	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2253.0
+375	Spectrogram 1	1	2256.0	2259.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2274	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2256.0
+376	Spectrogram 1	1	2259.0	2262.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1503	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2259.0
+377	Spectrogram 1	1	2262.0	2265.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4695	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2262.0
+378	Spectrogram 1	1	2262.0	2265.0	0	12000.0	Black-and-white Warbler	bawwar	0.1044	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2262.0
+379	Spectrogram 1	1	2265.0	2268.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9450	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2265.0
+380	Spectrogram 1	1	2268.0	2271.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2482	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2268.0
+381	Spectrogram 1	1	2271.0	2274.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9585	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2271.0
+382	Spectrogram 1	1	2289.0	2292.0	0	12000.0	Wilson's Warbler	wlswar	0.1476	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2289.0
+383	Spectrogram 1	1	2292.0	2295.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1352	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2292.0
+384	Spectrogram 1	1	2292.0	2295.0	0	12000.0	Black-and-white Warbler	bawwar	0.1286	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2292.0
+385	Spectrogram 1	1	2295.0	2298.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3503	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2295.0
+386	Spectrogram 1	1	2301.0	2304.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2013	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2301.0
+387	Spectrogram 1	1	2304.0	2307.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5435	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2304.0
+388	Spectrogram 1	1	2310.0	2313.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7158	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2310.0
+389	Spectrogram 1	1	2313.0	2316.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1726	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2313.0
+390	Spectrogram 1	1	2316.0	2319.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9865	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2316.0
+391	Spectrogram 1	1	2319.0	2322.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5096	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2319.0
+392	Spectrogram 1	1	2322.0	2325.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9594	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2322.0
+393	Spectrogram 1	1	2328.0	2331.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8541	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2328.0
+394	Spectrogram 1	1	2331.0	2334.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8185	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2331.0
+395	Spectrogram 1	1	2334.0	2337.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1504	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2334.0
+396	Spectrogram 1	1	2337.0	2340.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7602	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2337.0
+397	Spectrogram 1	1	2340.0	2343.0	0	12000.0	Northern Parula	norpar	0.2246	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2340.0
+398	Spectrogram 1	1	2340.0	2343.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1728	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2340.0
+399	Spectrogram 1	1	2343.0	2346.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3423	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2343.0
+400	Spectrogram 1	1	2346.0	2349.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9778	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2346.0
+401	Spectrogram 1	1	2349.0	2352.0	0	12000.0	Veery	veery	0.1660	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2349.0
+402	Spectrogram 1	1	2352.0	2355.0	0	12000.0	Northern Parula	norpar	0.1509	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2352.0
+403	Spectrogram 1	1	2355.0	2358.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9594	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2355.0
+404	Spectrogram 1	1	2358.0	2361.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2492	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2358.0
+405	Spectrogram 1	1	2364.0	2367.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8501	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2364.0
+406	Spectrogram 1	1	2367.0	2370.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5176	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2367.0
+407	Spectrogram 1	1	2370.0	2373.0	0	12000.0	Palm Warbler	palwar	0.5136	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2370.0
+408	Spectrogram 1	1	2373.0	2376.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6907	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2373.0
+409	Spectrogram 1	1	2376.0	2379.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8431	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2376.0
+410	Spectrogram 1	1	2379.0	2382.0	0	12000.0	Northern Parula	norpar	0.3667	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2379.0
+411	Spectrogram 1	1	2379.0	2382.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1121	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2379.0
+412	Spectrogram 1	1	2382.0	2385.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7685	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2382.0
+413	Spectrogram 1	1	2385.0	2388.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4722	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2385.0
+414	Spectrogram 1	1	2385.0	2388.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1527	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2385.0
+415	Spectrogram 1	1	2385.0	2388.0	0	12000.0	Black-and-white Warbler	bawwar	0.1073	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2385.0
+416	Spectrogram 1	1	2388.0	2391.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2265	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2388.0
+417	Spectrogram 1	1	2394.0	2397.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9532	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2394.0
+418	Spectrogram 1	1	2406.0	2409.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9894	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2406.0
+419	Spectrogram 1	1	2409.0	2412.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9811	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2409.0
+420	Spectrogram 1	1	2418.0	2421.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9510	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2418.0
+421	Spectrogram 1	1	2421.0	2424.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9934	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2421.0
+422	Spectrogram 1	1	2427.0	2430.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9728	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2427.0
+423	Spectrogram 1	1	2430.0	2433.0	0	12000.0	Black-and-white Warbler	bawwar	0.1065	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2430.0
+424	Spectrogram 1	1	2436.0	2439.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6091	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2436.0
+425	Spectrogram 1	1	2439.0	2442.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9471	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2439.0
+426	Spectrogram 1	1	2445.0	2448.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2256	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2445.0
+427	Spectrogram 1	1	2448.0	2451.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9598	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2448.0
+428	Spectrogram 1	1	2451.0	2454.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6204	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2451.0
+429	Spectrogram 1	1	2451.0	2454.0	0	12000.0	Black-and-white Warbler	bawwar	0.1180	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2451.0
+430	Spectrogram 1	1	2460.0	2463.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9825	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2460.0
+431	Spectrogram 1	1	2463.0	2466.0	0	12000.0	Northern Parula	norpar	0.4918	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2463.0
+432	Spectrogram 1	1	2469.0	2472.0	0	12000.0	Palm Warbler	palwar	0.1245	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2469.0
+433	Spectrogram 1	1	2472.0	2475.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9811	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2472.0
+434	Spectrogram 1	1	2475.0	2478.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9612	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2475.0
+435	Spectrogram 1	1	2478.0	2481.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8423	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2478.0
+436	Spectrogram 1	1	2484.0	2487.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2427	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2484.0
+437	Spectrogram 1	1	2487.0	2490.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3638	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2487.0
+438	Spectrogram 1	1	2493.0	2496.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7222	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2493.0
+439	Spectrogram 1	1	2502.0	2505.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7297	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2502.0
+440	Spectrogram 1	1	2505.0	2508.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6527	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2505.0
+441	Spectrogram 1	1	2511.0	2514.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8731	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2511.0
+442	Spectrogram 1	1	2514.0	2517.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5846	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2514.0
+443	Spectrogram 1	1	2517.0	2520.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4178	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2517.0
+444	Spectrogram 1	1	2517.0	2520.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.2675	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2517.0
+445	Spectrogram 1	1	2520.0	2523.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9507	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2520.0
+446	Spectrogram 1	1	2529.0	2532.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7717	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2529.0
+447	Spectrogram 1	1	2529.0	2532.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1442	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2529.0
+448	Spectrogram 1	1	2535.0	2538.0	0	12000.0	Northern Parula	norpar	0.5040	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2535.0
+449	Spectrogram 1	1	2538.0	2541.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1678	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2538.0
+450	Spectrogram 1	1	2541.0	2544.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3159	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2541.0
+451	Spectrogram 1	1	2544.0	2547.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2313	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2544.0
+452	Spectrogram 1	1	2547.0	2550.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1711	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2547.0
+453	Spectrogram 1	1	2550.0	2553.0	0	12000.0	Dark-eyed Junco	daejun	0.1343	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2550.0
+454	Spectrogram 1	1	2556.0	2559.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9345	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2556.0
+455	Spectrogram 1	1	2559.0	2562.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6554	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2559.0
+456	Spectrogram 1	1	2562.0	2565.0	0	12000.0	Northern Parula	norpar	0.3827	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2562.0
+457	Spectrogram 1	1	2565.0	2568.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5860	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2565.0
+458	Spectrogram 1	1	2568.0	2571.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6445	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2568.0
+459	Spectrogram 1	1	2571.0	2574.0	0	12000.0	Savannah Sparrow	savspa	0.1956	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2571.0
+460	Spectrogram 1	1	2574.0	2577.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8410	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2574.0
+461	Spectrogram 1	1	2580.0	2583.0	0	12000.0	Northern Parula	norpar	0.7045	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2580.0
+462	Spectrogram 1	1	2583.0	2586.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9532	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2583.0
+463	Spectrogram 1	1	2589.0	2592.0	0	12000.0	Northern Parula	norpar	0.8485	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2589.0
+464	Spectrogram 1	1	2595.0	2598.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9557	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2595.0
+465	Spectrogram 1	1	2607.0	2610.0	0	12000.0	Northern Parula	norpar	0.3522	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2607.0
+466	Spectrogram 1	1	2607.0	2610.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1181	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2607.0
+467	Spectrogram 1	1	2616.0	2619.0	0	12000.0	Northern Parula	norpar	0.2004	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2616.0
+468	Spectrogram 1	1	2619.0	2622.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9399	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2619.0
+469	Spectrogram 1	1	2631.0	2634.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4779	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2631.0
+470	Spectrogram 1	1	2640.0	2643.0	0	12000.0	Song Sparrow	sonspa	0.1464	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2640.0
+471	Spectrogram 1	1	2646.0	2649.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8916	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2646.0
+472	Spectrogram 1	1	2655.0	2658.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3301	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2655.0
+473	Spectrogram 1	1	2658.0	2661.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3135	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2658.0
+474	Spectrogram 1	1	2670.0	2673.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7696	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2670.0
+475	Spectrogram 1	1	2679.0	2682.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3426	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2679.0
+476	Spectrogram 1	1	2688.0	2691.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4189	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2688.0
+477	Spectrogram 1	1	2715.0	2718.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4513	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2715.0
+478	Spectrogram 1	1	2730.0	2733.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9440	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2730.0
+479	Spectrogram 1	1	2757.0	2760.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1540	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2757.0
+480	Spectrogram 1	1	2760.0	2763.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2101	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2760.0
+481	Spectrogram 1	1	2769.0	2772.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4489	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2769.0
+482	Spectrogram 1	1	2772.0	2775.0	0	12000.0	American Goldfinch	amegfi	0.1645	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2772.0
+483	Spectrogram 1	1	2778.0	2781.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1864	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2778.0
+484	Spectrogram 1	1	2781.0	2784.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6565	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2781.0
+485	Spectrogram 1	1	2796.0	2799.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6087	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2796.0
+486	Spectrogram 1	1	2799.0	2802.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1204	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2799.0
+487	Spectrogram 1	1	2826.0	2829.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8232	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2826.0
+488	Spectrogram 1	1	2892.0	2895.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8239	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2892.0
+489	Spectrogram 1	1	2916.0	2919.0	0	12000.0	Song Sparrow	sonspa	0.1653	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2916.0
+490	Spectrogram 1	1	2919.0	2922.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7119	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2919.0
+491	Spectrogram 1	1	2922.0	2925.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5523	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2922.0
+492	Spectrogram 1	1	2925.0	2928.0	0	12000.0	American Crow	amecro	0.5610	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2925.0
+493	Spectrogram 1	1	2928.0	2931.0	0	12000.0	American Crow	amecro	0.8389	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2928.0
+494	Spectrogram 1	1	2970.0	2973.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2995	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2970.0
+495	Spectrogram 1	1	2973.0	2976.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4450	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2973.0
+496	Spectrogram 1	1	2982.0	2985.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1210	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2982.0
+497	Spectrogram 1	1	2988.0	2991.0	0	12000.0	American Crow	amecro	0.6331	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2988.0
+498	Spectrogram 1	1	2991.0	2994.0	0	12000.0	American Crow	amecro	0.5791	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2991.0
+499	Spectrogram 1	1	2997.0	3000.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3944	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	2997.0
+500	Spectrogram 1	1	3000.0	3003.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8424	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3000.0
+501	Spectrogram 1	1	3009.0	3012.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7526	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3009.0
+502	Spectrogram 1	1	3012.0	3015.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9775	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3012.0
+503	Spectrogram 1	1	3015.0	3018.0	0	12000.0	Song Sparrow	sonspa	0.1457	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3015.0
+504	Spectrogram 1	1	3018.0	3021.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7242	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3018.0
+505	Spectrogram 1	1	3018.0	3021.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1521	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3018.0
+506	Spectrogram 1	1	3027.0	3030.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4919	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3027.0
+507	Spectrogram 1	1	3036.0	3039.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8396	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3036.0
+508	Spectrogram 1	1	3054.0	3057.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6021	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3054.0
+509	Spectrogram 1	1	3057.0	3060.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5325	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3057.0
+510	Spectrogram 1	1	3069.0	3072.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8531	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3069.0
+511	Spectrogram 1	1	3087.0	3090.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.4355	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3087.0
+512	Spectrogram 1	1	3093.0	3096.0	0	12000.0	Brown Creeper	brncre	0.2725	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3093.0
+513	Spectrogram 1	1	3093.0	3096.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1393	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3093.0
+514	Spectrogram 1	1	3096.0	3099.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2358	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3096.0
+515	Spectrogram 1	1	3099.0	3102.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9573	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3099.0
+516	Spectrogram 1	1	3126.0	3129.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3377	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3126.0
+517	Spectrogram 1	1	3132.0	3135.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8742	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3132.0
+518	Spectrogram 1	1	3138.0	3141.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7398	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3138.0
+519	Spectrogram 1	1	3147.0	3150.0	0	12000.0	Common Raven	comrav	0.2323	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3147.0
+520	Spectrogram 1	1	3150.0	3153.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4541	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3150.0
+521	Spectrogram 1	1	3162.0	3165.0	0	12000.0	Brown Creeper	brncre	0.4158	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3162.0
+522	Spectrogram 1	1	3162.0	3165.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1720	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3162.0
+523	Spectrogram 1	1	3174.0	3177.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9076	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3174.0
+524	Spectrogram 1	1	3177.0	3180.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6483	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3177.0
+525	Spectrogram 1	1	3192.0	3195.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3770	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3192.0
+526	Spectrogram 1	1	3192.0	3195.0	0	12000.0	Brown Creeper	brncre	0.2939	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3192.0
+527	Spectrogram 1	1	3195.0	3198.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8691	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3195.0
+528	Spectrogram 1	1	3201.0	3204.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8651	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3201.0
+529	Spectrogram 1	1	3210.0	3213.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8563	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3210.0
+530	Spectrogram 1	1	3222.0	3225.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8820	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3222.0
+531	Spectrogram 1	1	3228.0	3231.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9608	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3228.0
+532	Spectrogram 1	1	3234.0	3237.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5231	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3234.0
+533	Spectrogram 1	1	3237.0	3240.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7371	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3237.0
+534	Spectrogram 1	1	3237.0	3240.0	0	12000.0	Brown Creeper	brncre	0.1551	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3237.0
+535	Spectrogram 1	1	3243.0	3246.0	0	12000.0	Brown Creeper	brncre	0.4469	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3243.0
+536	Spectrogram 1	1	3243.0	3246.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2394	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3243.0
+537	Spectrogram 1	1	3249.0	3252.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6428	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3249.0
+538	Spectrogram 1	1	3252.0	3255.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7546	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3252.0
+539	Spectrogram 1	1	3261.0	3264.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8478	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3261.0
+540	Spectrogram 1	1	3264.0	3267.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4417	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3264.0
+541	Spectrogram 1	1	3270.0	3273.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9193	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3270.0
+542	Spectrogram 1	1	3273.0	3276.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7912	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3273.0
+543	Spectrogram 1	1	3285.0	3288.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7127	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3285.0
+544	Spectrogram 1	1	3291.0	3294.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8523	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3291.0
+545	Spectrogram 1	1	3303.0	3306.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9227	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3303.0
+546	Spectrogram 1	1	3318.0	3321.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8964	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3318.0
+547	Spectrogram 1	1	3333.0	3336.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9069	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3333.0
+548	Spectrogram 1	1	3351.0	3354.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6360	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3351.0
+549	Spectrogram 1	1	3372.0	3375.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9214	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3372.0
+550	Spectrogram 1	1	3375.0	3378.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8937	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3375.0
+551	Spectrogram 1	1	3381.0	3384.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1007	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3381.0
+552	Spectrogram 1	1	3387.0	3390.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8726	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3387.0
+553	Spectrogram 1	1	3390.0	3393.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7638	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3390.0
+554	Spectrogram 1	1	3390.0	3393.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4202	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3390.0
+555	Spectrogram 1	1	3408.0	3411.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1919	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3408.0
+556	Spectrogram 1	1	3411.0	3414.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2385	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3411.0
+557	Spectrogram 1	1	3414.0	3417.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8410	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3414.0
+558	Spectrogram 1	1	3417.0	3420.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4386	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3417.0
+559	Spectrogram 1	1	3426.0	3429.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4859	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3426.0
+560	Spectrogram 1	1	3432.0	3435.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1195	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3432.0
+561	Spectrogram 1	1	3435.0	3438.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4837	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3435.0
+562	Spectrogram 1	1	3438.0	3441.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9051	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3438.0
+563	Spectrogram 1	1	3441.0	3444.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9288	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3441.0
+564	Spectrogram 1	1	3453.0	3456.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5088	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3453.0
+565	Spectrogram 1	1	3456.0	3459.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6659	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3456.0
+566	Spectrogram 1	1	3456.0	3459.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1180	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3456.0
+567	Spectrogram 1	1	3468.0	3471.0	0	12000.0	Brown Creeper	brncre	0.5095	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3468.0
+568	Spectrogram 1	1	3468.0	3471.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2305	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3468.0
+569	Spectrogram 1	1	3471.0	3474.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4963	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3471.0
+570	Spectrogram 1	1	3483.0	3486.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3289	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3483.0
+571	Spectrogram 1	1	3486.0	3489.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6241	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3486.0
+572	Spectrogram 1	1	3498.0	3501.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9403	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3498.0
+573	Spectrogram 1	1	3510.0	3513.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2953	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3510.0
+574	Spectrogram 1	1	3510.0	3513.0	0	12000.0	Brown Creeper	brncre	0.2149	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3510.0
+575	Spectrogram 1	1	3519.0	3522.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6874	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3519.0
+576	Spectrogram 1	1	3519.0	3522.0	0	12000.0	Brown Creeper	brncre	0.2459	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3519.0
+577	Spectrogram 1	1	3522.0	3525.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8417	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3522.0
+578	Spectrogram 1	1	3531.0	3534.0	0	12000.0	Song Sparrow	sonspa	0.1660	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3531.0
+579	Spectrogram 1	1	3534.0	3537.0	0	12000.0	Song Sparrow	sonspa	0.3930	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3534.0
+580	Spectrogram 1	1	3540.0	3543.0	0	12000.0	Song Sparrow	sonspa	0.3008	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3540.0
+581	Spectrogram 1	1	3543.0	3546.0	0	12000.0	Song Sparrow	sonspa	0.3344	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3543.0
+582	Spectrogram 1	1	3546.0	3549.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9752	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3546.0
+583	Spectrogram 1	1	3549.0	3552.0	0	12000.0	American Crow	amecro	0.6416	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3549.0
+584	Spectrogram 1	1	3552.0	3555.0	0	12000.0	American Crow	amecro	0.3133	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3552.0
+585	Spectrogram 1	1	3564.0	3567.0	0	12000.0	Song Sparrow	sonspa	0.1753	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3564.0
+586	Spectrogram 1	1	3579.0	3582.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1529	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3579.0
+587	Spectrogram 1	1	3579.0	3582.0	0	12000.0	Winter Wren	winwre3	0.1039	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240525_045502.wav	3579.0

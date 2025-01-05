@@ -1,0 +1,3 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1611.0	1614.0	0	12000.0	Scarlet Tanager	scatan	0.1047	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240927_052200.wav	1611.0
+2	Spectrogram 1	1	2397.0	2400.0	0	12000.0	American Crow	amecro	0.1094	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240927_052200.wav	2397.0

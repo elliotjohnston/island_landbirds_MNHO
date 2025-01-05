@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	345.0	348.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1604	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240725_193300.wav	345.0
+2	Spectrogram 1	1	645.0	648.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1264	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240725_193300.wav	645.0
+3	Spectrogram 1	1	834.0	837.0	0	12000.0	Dark-eyed Junco	daejun	0.1748	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240725_193300.wav	834.0
+4	Spectrogram 1	1	942.0	945.0	0	12000.0	Dark-eyed Junco	daejun	0.1889	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240725_193300.wav	942.0
+5	Spectrogram 1	1	945.0	948.0	0	12000.0	Dark-eyed Junco	daejun	0.1189	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240725_193300.wav	945.0
+6	Spectrogram 1	1	987.0	990.0	0	12000.0	Dark-eyed Junco	daejun	0.1084	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240725_193300.wav	987.0
+7	Spectrogram 1	1	1227.0	1230.0	0	12000.0	Dark-eyed Junco	daejun	0.1029	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240725_193300.wav	1227.0

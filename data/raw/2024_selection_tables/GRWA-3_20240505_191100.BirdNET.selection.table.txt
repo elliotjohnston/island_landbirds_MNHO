@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	75.0	78.0	0	12000.0	Dark-eyed Junco	daejun	0.2516	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240505_191100.wav	75.0
+2	Spectrogram 1	1	675.0	678.0	0	12000.0	Winter Wren	winwre3	0.5924	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240505_191100.wav	675.0
+3	Spectrogram 1	1	678.0	681.0	0	12000.0	Winter Wren	winwre3	0.1619	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240505_191100.wav	678.0
+4	Spectrogram 1	1	1053.0	1056.0	0	12000.0	Winter Wren	winwre3	0.1185	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240505_191100.wav	1053.0
+5	Spectrogram 1	1	1809.0	1812.0	0	12000.0	Pine Warbler	pinwar	0.6911	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240505_191100.wav	1809.0
+6	Spectrogram 1	1	1809.0	1812.0	0	12000.0	Palm Warbler	palwar	0.5048	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240505_191100.wav	1809.0
+7	Spectrogram 1	1	1959.0	1962.0	0	12000.0	Dark-eyed Junco	daejun	0.2911	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240505_191100.wav	1959.0
+8	Spectrogram 1	1	1962.0	1965.0	0	12000.0	Dark-eyed Junco	daejun	0.1298	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240505_191100.wav	1962.0
+9	Spectrogram 1	1	1962.0	1965.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1093	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240505_191100.wav	1962.0
+10	Spectrogram 1	1	2016.0	2019.0	0	12000.0	Dark-eyed Junco	daejun	0.1924	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240505_191100.wav	2016.0
+11	Spectrogram 1	1	2019.0	2022.0	0	12000.0	Dark-eyed Junco	daejun	0.3475	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240505_191100.wav	2019.0
+12	Spectrogram 1	1	2022.0	2025.0	0	12000.0	Dark-eyed Junco	daejun	0.3096	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240505_191100.wav	2022.0
+13	Spectrogram 1	1	2028.0	2031.0	0	12000.0	Dark-eyed Junco	daejun	0.2310	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240505_191100.wav	2028.0
+14	Spectrogram 1	1	2031.0	2034.0	0	12000.0	Dark-eyed Junco	daejun	0.1610	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240505_191100.wav	2031.0
+15	Spectrogram 1	1	2046.0	2049.0	0	12000.0	Dark-eyed Junco	daejun	0.1704	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240505_191100.wav	2046.0
+16	Spectrogram 1	1	2064.0	2067.0	0	12000.0	Dark-eyed Junco	daejun	0.3297	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240505_191100.wav	2064.0
+17	Spectrogram 1	1	2067.0	2070.0	0	12000.0	Dark-eyed Junco	daejun	0.2008	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240505_191100.wav	2067.0
+18	Spectrogram 1	1	2067.0	2070.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1404	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240505_191100.wav	2067.0
+19	Spectrogram 1	1	2172.0	2175.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2801	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240505_191100.wav	2172.0
+20	Spectrogram 1	1	3225.0	3228.0	0	12000.0	Hermit Thrush	herthr	0.8432	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240505_191100.wav	3225.0
+21	Spectrogram 1	1	3228.0	3231.0	0	12000.0	Hermit Thrush	herthr	0.8281	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240505_191100.wav	3228.0

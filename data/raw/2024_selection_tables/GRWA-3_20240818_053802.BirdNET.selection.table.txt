@@ -1,0 +1,44 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	81.0	84.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1653	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	81.0
+2	Spectrogram 1	1	180.0	183.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2403	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	180.0
+3	Spectrogram 1	1	264.0	267.0	0	12000.0	Cedar Waxwing	cedwax	0.1244	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	264.0
+4	Spectrogram 1	1	627.0	630.0	0	12000.0	Cedar Waxwing	cedwax	0.1630	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	627.0
+5	Spectrogram 1	1	1458.0	1461.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4209	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	1458.0
+6	Spectrogram 1	1	1566.0	1569.0	0	12000.0	Cedar Waxwing	cedwax	0.1623	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	1566.0
+7	Spectrogram 1	1	1572.0	1575.0	0	12000.0	Cedar Waxwing	cedwax	0.5769	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	1572.0
+8	Spectrogram 1	1	1575.0	1578.0	0	12000.0	Cedar Waxwing	cedwax	0.5088	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	1575.0
+9	Spectrogram 1	1	1578.0	1581.0	0	12000.0	Cedar Waxwing	cedwax	0.4907	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	1578.0
+10	Spectrogram 1	1	1584.0	1587.0	0	12000.0	Cedar Waxwing	cedwax	0.2994	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	1584.0
+11	Spectrogram 1	1	1644.0	1647.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1598	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	1644.0
+12	Spectrogram 1	1	1662.0	1665.0	0	12000.0	Cape May Warbler	camwar	0.1431	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	1662.0
+13	Spectrogram 1	1	1935.0	1938.0	0	12000.0	Cape May Warbler	camwar	0.1421	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	1935.0
+14	Spectrogram 1	1	2307.0	2310.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2318	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	2307.0
+15	Spectrogram 1	1	2307.0	2310.0	0	12000.0	Brown Creeper	brncre	0.1720	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	2307.0
+16	Spectrogram 1	1	2472.0	2475.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1046	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	2472.0
+17	Spectrogram 1	1	2502.0	2505.0	0	12000.0	American Redstart	amered	0.4947	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	2502.0
+18	Spectrogram 1	1	2502.0	2505.0	0	12000.0	Cape May Warbler	camwar	0.1198	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	2502.0
+19	Spectrogram 1	1	2544.0	2547.0	0	12000.0	Bay-breasted Warbler	babwar	0.2111	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	2544.0
+20	Spectrogram 1	1	2544.0	2547.0	0	12000.0	Cape May Warbler	camwar	0.1061	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	2544.0
+21	Spectrogram 1	1	2595.0	2598.0	0	12000.0	American Redstart	amered	0.5104	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	2595.0
+22	Spectrogram 1	1	2607.0	2610.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1476	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	2607.0
+23	Spectrogram 1	1	2712.0	2715.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1029	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	2712.0
+24	Spectrogram 1	1	2739.0	2742.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2240	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	2739.0
+25	Spectrogram 1	1	2742.0	2745.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1653	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	2742.0
+26	Spectrogram 1	1	2745.0	2748.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2319	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	2745.0
+27	Spectrogram 1	1	2754.0	2757.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2505	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	2754.0
+28	Spectrogram 1	1	2781.0	2784.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1341	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	2781.0
+29	Spectrogram 1	1	3045.0	3048.0	0	12000.0	Cape May Warbler	camwar	0.1418	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	3045.0
+30	Spectrogram 1	1	3534.0	3537.0	0	12000.0	Cedar Waxwing	cedwax	0.1413	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	3534.0
+31	Spectrogram 1	1	3537.0	3540.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1966	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	3537.0
+32	Spectrogram 1	1	3540.0	3543.0	0	12000.0	Cedar Waxwing	cedwax	0.5477	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	3540.0
+33	Spectrogram 1	1	3543.0	3546.0	0	12000.0	Cedar Waxwing	cedwax	0.8585	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	3543.0
+34	Spectrogram 1	1	3549.0	3552.0	0	12000.0	Cedar Waxwing	cedwax	0.8064	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	3549.0
+35	Spectrogram 1	1	3555.0	3558.0	0	12000.0	Cedar Waxwing	cedwax	0.6948	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	3555.0
+36	Spectrogram 1	1	3561.0	3564.0	0	12000.0	Cedar Waxwing	cedwax	0.6220	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	3561.0
+37	Spectrogram 1	1	3564.0	3567.0	0	12000.0	Cedar Waxwing	cedwax	0.8782	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	3564.0
+38	Spectrogram 1	1	3570.0	3573.0	0	12000.0	Cedar Waxwing	cedwax	0.8068	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	3570.0
+39	Spectrogram 1	1	3573.0	3576.0	0	12000.0	Cedar Waxwing	cedwax	0.6704	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	3573.0
+40	Spectrogram 1	1	3579.0	3582.0	0	12000.0	Cedar Waxwing	cedwax	0.3647	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	3579.0
+41	Spectrogram 1	1	3585.0	3588.0	0	12000.0	Cedar Waxwing	cedwax	0.8108	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	3585.0
+42	Spectrogram 1	1	3588.0	3591.0	0	12000.0	Cedar Waxwing	cedwax	0.6552	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	3588.0
+43	Spectrogram 1	1	3594.0	3597.0	0	12000.0	Cedar Waxwing	cedwax	0.6566	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240818_053802.wav	3594.0

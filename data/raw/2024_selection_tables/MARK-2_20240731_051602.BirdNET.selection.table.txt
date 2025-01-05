@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1917.0	1920.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1474	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240731_051602.wav	1917.0
+2	Spectrogram 1	1	2238.0	2241.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3774	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240731_051602.wav	2238.0
+3	Spectrogram 1	1	2244.0	2247.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3811	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240731_051602.wav	2244.0
+4	Spectrogram 1	1	2247.0	2250.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3104	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240731_051602.wav	2247.0
+5	Spectrogram 1	1	2316.0	2319.0	0	12000.0	Brown Creeper	brncre	0.3266	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240731_051602.wav	2316.0
+6	Spectrogram 1	1	2316.0	2319.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2335	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240731_051602.wav	2316.0
+7	Spectrogram 1	1	2322.0	2325.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1467	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240731_051602.wav	2322.0
+8	Spectrogram 1	1	2337.0	2340.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5945	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240731_051602.wav	2337.0
+9	Spectrogram 1	1	2343.0	2346.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3589	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240731_051602.wav	2343.0
+10	Spectrogram 1	1	2349.0	2352.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1932	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240731_051602.wav	2349.0
+11	Spectrogram 1	1	2355.0	2358.0	0	12000.0	Brown Creeper	brncre	0.4324	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240731_051602.wav	2355.0
+12	Spectrogram 1	1	2355.0	2358.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1436	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240731_051602.wav	2355.0
+13	Spectrogram 1	1	2361.0	2364.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3371	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240731_051602.wav	2361.0
+14	Spectrogram 1	1	2388.0	2391.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1802	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240731_051602.wav	2388.0
+15	Spectrogram 1	1	2391.0	2394.0	0	12000.0	Brown Creeper	brncre	0.2696	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240731_051602.wav	2391.0
+16	Spectrogram 1	1	2409.0	2412.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2073	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240731_051602.wav	2409.0
+17	Spectrogram 1	1	2631.0	2634.0	0	12000.0	Downy Woodpecker	dowwoo	0.4284	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240731_051602.wav	2631.0
+18	Spectrogram 1	1	2634.0	2637.0	0	12000.0	Downy Woodpecker	dowwoo	0.3535	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240731_051602.wav	2634.0

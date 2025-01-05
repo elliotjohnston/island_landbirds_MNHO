@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	564.0	567.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2453	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240503_190600.wav	564.0
+2	Spectrogram 1	1	708.0	711.0	0	12000.0	Brown Creeper	brncre	0.1400	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240503_190600.wav	708.0
+3	Spectrogram 1	1	840.0	843.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1861	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240503_190600.wav	840.0
+4	Spectrogram 1	1	1104.0	1107.0	0	12000.0	American Crow	amecro	0.1685	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240503_190600.wav	1104.0
+5	Spectrogram 1	1	1794.0	1797.0	0	12000.0	Dark-eyed Junco	daejun	0.1821	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240503_190600.wav	1794.0
+6	Spectrogram 1	1	1797.0	1800.0	0	12000.0	Dark-eyed Junco	daejun	0.6557	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240503_190600.wav	1797.0
+7	Spectrogram 1	1	1806.0	1809.0	0	12000.0	Dark-eyed Junco	daejun	0.1530	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240503_190600.wav	1806.0
+8	Spectrogram 1	1	1839.0	1842.0	0	12000.0	Dark-eyed Junco	daejun	0.7906	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240503_190600.wav	1839.0
+9	Spectrogram 1	1	2742.0	2745.0	0	12000.0	Winter Wren	winwre3	0.5802	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240503_190600.wav	2742.0
+10	Spectrogram 1	1	3078.0	3081.0	0	12000.0	Hermit Thrush	herthr	0.4961	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240503_190600.wav	3078.0
+11	Spectrogram 1	1	3084.0	3087.0	0	12000.0	Hermit Thrush	herthr	0.3130	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240503_190600.wav	3084.0
+12	Spectrogram 1	1	3090.0	3093.0	0	12000.0	Hermit Thrush	herthr	0.3238	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240503_190600.wav	3090.0
+13	Spectrogram 1	1	3093.0	3096.0	0	12000.0	Hermit Thrush	herthr	0.4563	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240503_190600.wav	3093.0
+14	Spectrogram 1	1	3096.0	3099.0	0	12000.0	Hermit Thrush	herthr	0.5088	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240503_190600.wav	3096.0
+15	Spectrogram 1	1	3099.0	3102.0	0	12000.0	Hermit Thrush	herthr	0.5002	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240503_190600.wav	3099.0
+16	Spectrogram 1	1	3204.0	3207.0	0	12000.0	Hermit Thrush	herthr	0.4059	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240503_190600.wav	3204.0
+17	Spectrogram 1	1	3216.0	3219.0	0	12000.0	Hermit Thrush	herthr	0.5857	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240503_190600.wav	3216.0
+18	Spectrogram 1	1	3219.0	3222.0	0	12000.0	Hermit Thrush	herthr	0.3210	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240503_190600.wav	3219.0

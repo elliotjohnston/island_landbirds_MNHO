@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	165.0	168.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9634	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240505_191000.wav	165.0
+2	Spectrogram 1	1	477.0	480.0	0	12000.0	Common Raven	comrav	0.1998	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240505_191000.wav	477.0
+3	Spectrogram 1	1	1155.0	1158.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9308	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240505_191000.wav	1155.0
+4	Spectrogram 1	1	1158.0	1161.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.8769	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240505_191000.wav	1158.0
+5	Spectrogram 1	1	1383.0	1386.0	0	12000.0	White-crowned Sparrow	whcspa	0.2660	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240505_191000.wav	1383.0
+6	Spectrogram 1	1	1518.0	1521.0	0	12000.0	White-crowned Sparrow	whcspa	0.1654	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240505_191000.wav	1518.0

@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	36.0	39.0	0	12000.0	Song Sparrow	sonspa	0.6617	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240527_193300.wav	36.0
+2	Spectrogram 1	1	60.0	63.0	0	12000.0	Song Sparrow	sonspa	0.3851	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240527_193300.wav	60.0
+3	Spectrogram 1	1	81.0	84.0	0	12000.0	Song Sparrow	sonspa	0.3584	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240527_193300.wav	81.0
+4	Spectrogram 1	1	84.0	87.0	0	12000.0	Song Sparrow	sonspa	0.2757	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240527_193300.wav	84.0
+5	Spectrogram 1	1	99.0	102.0	0	12000.0	Pine Grosbeak	pingro	0.3848	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240527_193300.wav	99.0
+6	Spectrogram 1	1	189.0	192.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9692	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240527_193300.wav	189.0
+7	Spectrogram 1	1	384.0	387.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5297	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240527_193300.wav	384.0
+8	Spectrogram 1	1	1359.0	1362.0	0	12000.0	Song Sparrow	sonspa	0.1839	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240527_193300.wav	1359.0
+9	Spectrogram 1	1	2133.0	2136.0	0	12000.0	Field Sparrow	fiespa	0.1348	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240527_193300.wav	2133.0
+10	Spectrogram 1	1	2160.0	2163.0	0	12000.0	Field Sparrow	fiespa	0.1039	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240527_193300.wav	2160.0
+11	Spectrogram 1	1	2196.0	2199.0	0	12000.0	Winter Wren	winwre3	0.1006	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240527_193300.wav	2196.0
+12	Spectrogram 1	1	2742.0	2745.0	0	12000.0	Song Sparrow	sonspa	0.1208	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240527_193300.wav	2742.0

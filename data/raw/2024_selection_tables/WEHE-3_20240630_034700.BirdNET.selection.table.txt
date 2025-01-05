@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	3030.0	3033.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1462	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240630_034700.wav	3030.0
+2	Spectrogram 1	1	3339.0	3342.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1560	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240630_034700.wav	3339.0
+3	Spectrogram 1	1	3348.0	3351.0	0	12000.0	White-winged Crossbill	whwcro	0.1200	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240630_034700.wav	3348.0
+4	Spectrogram 1	1	3372.0	3375.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2776	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240630_034700.wav	3372.0
+5	Spectrogram 1	1	3420.0	3423.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4495	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240630_034700.wav	3420.0
+6	Spectrogram 1	1	3426.0	3429.0	0	12000.0	White-winged Crossbill	whwcro	0.1440	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240630_034700.wav	3426.0
+7	Spectrogram 1	1	3432.0	3435.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1506	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240630_034700.wav	3432.0

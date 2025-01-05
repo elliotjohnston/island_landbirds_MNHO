@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2319.0	2322.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1040	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240809_191400.wav	2319.0
+2	Spectrogram 1	1	3114.0	3117.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1170	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240809_191400.wav	3114.0
+3	Spectrogram 1	1	3567.0	3570.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1007	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240809_191400.wav	3567.0

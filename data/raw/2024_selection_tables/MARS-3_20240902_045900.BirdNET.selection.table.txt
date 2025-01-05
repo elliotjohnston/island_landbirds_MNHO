@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1749.0	1752.0	0	12000.0	Least Flycatcher	leafly	0.1192	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240902_045900.wav	1749.0
+2	Spectrogram 1	1	2052.0	2055.0	0	12000.0	Dark-eyed Junco	daejun	0.1179	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240902_045900.wav	2052.0
+3	Spectrogram 1	1	2271.0	2274.0	0	12000.0	Dark-eyed Junco	daejun	0.4884	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240902_045900.wav	2271.0
+4	Spectrogram 1	1	2274.0	2277.0	0	12000.0	Dark-eyed Junco	daejun	0.8516	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240902_045900.wav	2274.0
+5	Spectrogram 1	1	2280.0	2283.0	0	12000.0	Dark-eyed Junco	daejun	0.2431	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240902_045900.wav	2280.0
+6	Spectrogram 1	1	2283.0	2286.0	0	12000.0	Dark-eyed Junco	daejun	0.3811	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240902_045900.wav	2283.0
+7	Spectrogram 1	1	2337.0	2340.0	0	12000.0	Dark-eyed Junco	daejun	0.8704	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240902_045900.wav	2337.0
+8	Spectrogram 1	1	2340.0	2343.0	0	12000.0	Dark-eyed Junco	daejun	0.1777	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240902_045900.wav	2340.0
+9	Spectrogram 1	1	2346.0	2349.0	0	12000.0	Dark-eyed Junco	daejun	0.2073	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240902_045900.wav	2346.0
+10	Spectrogram 1	1	2370.0	2373.0	0	12000.0	Dark-eyed Junco	daejun	0.3890	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240902_045900.wav	2370.0
+11	Spectrogram 1	1	2373.0	2376.0	0	12000.0	Dark-eyed Junco	daejun	0.8077	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240902_045900.wav	2373.0
+12	Spectrogram 1	1	2412.0	2415.0	0	12000.0	Dark-eyed Junco	daejun	0.5385	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240902_045900.wav	2412.0
+13	Spectrogram 1	1	3267.0	3270.0	0	12000.0	Dark-eyed Junco	daejun	0.1299	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240902_045900.wav	3267.0
+14	Spectrogram 1	1	3534.0	3537.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8021	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240902_045900.wav	3534.0

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	396.0	399.0	0	12000.0	Black-capped Chickadee	bkcchi	0.1807	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240909_182600.wav	396.0
+2	Spectrogram 1	1	414.0	417.0	0	12000.0	Black-capped Chickadee	bkcchi	0.1024	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240909_182600.wav	414.0
+3	Spectrogram 1	1	636.0	639.0	0	12000.0	Dark-eyed Junco	daejun	0.1660	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240909_182600.wav	636.0

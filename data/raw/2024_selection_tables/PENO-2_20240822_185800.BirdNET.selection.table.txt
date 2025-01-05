@@ -1,0 +1,65 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	15.0	18.0	0	12000.0	Common Raven	comrav	0.1343	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	15.0
+2	Spectrogram 1	1	42.0	45.0	0	12000.0	Pileated Woodpecker	pilwoo	0.1135	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	42.0
+3	Spectrogram 1	1	45.0	48.0	0	12000.0	Pileated Woodpecker	pilwoo	0.6031	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	45.0
+4	Spectrogram 1	1	135.0	138.0	0	12000.0	Black-capped Chickadee	bkcchi	0.4759	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	135.0
+5	Spectrogram 1	1	159.0	162.0	0	12000.0	Ruby-throated Hummingbird	rthhum	0.1098	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	159.0
+6	Spectrogram 1	1	264.0	267.0	0	12000.0	American Crow	amecro	0.1449	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	264.0
+7	Spectrogram 1	1	330.0	333.0	0	12000.0	Cedar Waxwing	cedwax	0.3297	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	330.0
+8	Spectrogram 1	1	333.0	336.0	0	12000.0	Cedar Waxwing	cedwax	0.6895	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	333.0
+9	Spectrogram 1	1	336.0	339.0	0	12000.0	Cedar Waxwing	cedwax	0.9406	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	336.0
+10	Spectrogram 1	1	339.0	342.0	0	12000.0	Cedar Waxwing	cedwax	0.8996	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	339.0
+11	Spectrogram 1	1	342.0	345.0	0	12000.0	Cedar Waxwing	cedwax	0.6550	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	342.0
+12	Spectrogram 1	1	663.0	666.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1897	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	663.0
+13	Spectrogram 1	1	804.0	807.0	0	12000.0	Pileated Woodpecker	pilwoo	0.2645	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	804.0
+14	Spectrogram 1	1	813.0	816.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1257	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	813.0
+15	Spectrogram 1	1	897.0	900.0	0	12000.0	Pileated Woodpecker	pilwoo	0.1284	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	897.0
+16	Spectrogram 1	1	1017.0	1020.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3453	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	1017.0
+17	Spectrogram 1	1	1068.0	1071.0	0	12000.0	Pileated Woodpecker	pilwoo	0.1427	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	1068.0
+18	Spectrogram 1	1	1119.0	1122.0	0	12000.0	Ruby-throated Hummingbird	rthhum	0.1067	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	1119.0
+19	Spectrogram 1	1	1143.0	1146.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1158	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	1143.0
+20	Spectrogram 1	1	1155.0	1158.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1286	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	1155.0
+21	Spectrogram 1	1	1935.0	1938.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1222	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	1935.0
+22	Spectrogram 1	1	1944.0	1947.0	0	12000.0	Brown Creeper	brncre	0.1595	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	1944.0
+23	Spectrogram 1	1	2166.0	2169.0	0	12000.0	Ovenbird	ovenbi1	0.4855	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2166.0
+24	Spectrogram 1	1	2166.0	2169.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1854	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2166.0
+25	Spectrogram 1	1	2289.0	2292.0	0	12000.0	Dark-eyed Junco	daejun	0.5648	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2289.0
+26	Spectrogram 1	1	2301.0	2304.0	0	12000.0	Dark-eyed Junco	daejun	0.1267	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2301.0
+27	Spectrogram 1	1	2307.0	2310.0	0	12000.0	Dark-eyed Junco	daejun	0.5922	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2307.0
+28	Spectrogram 1	1	2310.0	2313.0	0	12000.0	Ruby-throated Hummingbird	rthhum	0.1126	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2310.0
+29	Spectrogram 1	1	2313.0	2316.0	0	12000.0	Dark-eyed Junco	daejun	0.3174	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2313.0
+30	Spectrogram 1	1	2343.0	2346.0	0	12000.0	Wood Thrush	woothr	0.1354	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2343.0
+31	Spectrogram 1	1	2604.0	2607.0	0	12000.0	Hermit Thrush	herthr	0.3628	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2604.0
+32	Spectrogram 1	1	2607.0	2610.0	0	12000.0	Hermit Thrush	herthr	0.8537	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2607.0
+33	Spectrogram 1	1	2610.0	2613.0	0	12000.0	Hermit Thrush	herthr	0.5516	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2610.0
+34	Spectrogram 1	1	2613.0	2616.0	0	12000.0	Hermit Thrush	herthr	0.7791	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2613.0
+35	Spectrogram 1	1	2655.0	2658.0	0	12000.0	Hermit Thrush	herthr	0.1930	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2655.0
+36	Spectrogram 1	1	2658.0	2661.0	0	12000.0	Hermit Thrush	herthr	0.5058	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2658.0
+37	Spectrogram 1	1	2661.0	2664.0	0	12000.0	Hermit Thrush	herthr	0.5208	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2661.0
+38	Spectrogram 1	1	2664.0	2667.0	0	12000.0	Hermit Thrush	herthr	0.6053	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2664.0
+39	Spectrogram 1	1	2667.0	2670.0	0	12000.0	Hermit Thrush	herthr	0.4610	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2667.0
+40	Spectrogram 1	1	2670.0	2673.0	0	12000.0	Hermit Thrush	herthr	0.1109	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2670.0
+41	Spectrogram 1	1	2679.0	2682.0	0	12000.0	Hermit Thrush	herthr	0.4342	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2679.0
+42	Spectrogram 1	1	2682.0	2685.0	0	12000.0	Hermit Thrush	herthr	0.1953	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2682.0
+43	Spectrogram 1	1	2694.0	2697.0	0	12000.0	Hermit Thrush	herthr	0.1983	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2694.0
+44	Spectrogram 1	1	2697.0	2700.0	0	12000.0	Hermit Thrush	herthr	0.1262	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2697.0
+45	Spectrogram 1	1	2703.0	2706.0	0	12000.0	Hermit Thrush	herthr	0.9274	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2703.0
+46	Spectrogram 1	1	2706.0	2709.0	0	12000.0	Hermit Thrush	herthr	0.2222	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2706.0
+47	Spectrogram 1	1	2709.0	2712.0	0	12000.0	Hermit Thrush	herthr	0.6842	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2709.0
+48	Spectrogram 1	1	2712.0	2715.0	0	12000.0	Hermit Thrush	herthr	0.9029	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2712.0
+49	Spectrogram 1	1	2715.0	2718.0	0	12000.0	Hermit Thrush	herthr	0.1355	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2715.0
+50	Spectrogram 1	1	2721.0	2724.0	0	12000.0	Hermit Thrush	herthr	0.9759	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2721.0
+51	Spectrogram 1	1	2724.0	2727.0	0	12000.0	Hermit Thrush	herthr	0.4286	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2724.0
+52	Spectrogram 1	1	2727.0	2730.0	0	12000.0	Hermit Thrush	herthr	0.9832	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2727.0
+53	Spectrogram 1	1	2730.0	2733.0	0	12000.0	Hermit Thrush	herthr	0.2405	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2730.0
+54	Spectrogram 1	1	2733.0	2736.0	0	12000.0	Hermit Thrush	herthr	0.9307	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2733.0
+55	Spectrogram 1	1	2736.0	2739.0	0	12000.0	Hermit Thrush	herthr	0.9664	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2736.0
+56	Spectrogram 1	1	2742.0	2745.0	0	12000.0	Hermit Thrush	herthr	0.8493	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2742.0
+57	Spectrogram 1	1	2745.0	2748.0	0	12000.0	Hermit Thrush	herthr	0.9513	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2745.0
+58	Spectrogram 1	1	2748.0	2751.0	0	12000.0	Hermit Thrush	herthr	0.7823	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2748.0
+59	Spectrogram 1	1	2751.0	2754.0	0	12000.0	Hermit Thrush	herthr	0.6939	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2751.0
+60	Spectrogram 1	1	2754.0	2757.0	0	12000.0	Hermit Thrush	herthr	0.3229	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2754.0
+61	Spectrogram 1	1	2757.0	2760.0	0	12000.0	Hermit Thrush	herthr	0.9135	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2757.0
+62	Spectrogram 1	1	2769.0	2772.0	0	12000.0	Hermit Thrush	herthr	0.1434	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2769.0
+63	Spectrogram 1	1	2772.0	2775.0	0	12000.0	Hermit Thrush	herthr	0.5231	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2772.0
+64	Spectrogram 1	1	2775.0	2778.0	0	12000.0	Hermit Thrush	herthr	0.1208	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240822_185800.wav	2775.0

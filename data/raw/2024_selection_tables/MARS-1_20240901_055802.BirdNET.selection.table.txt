@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	12.0	15.0	0	12000.0	Cedar Waxwing	cedwax	0.2994	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240901_055802.wav	12.0
+2	Spectrogram 1	1	24.0	27.0	0	12000.0	Brown Creeper	brncre	0.1763	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240901_055802.wav	24.0
+3	Spectrogram 1	1	30.0	33.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3483	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240901_055802.wav	30.0
+4	Spectrogram 1	1	30.0	33.0	0	12000.0	Brown Creeper	brncre	0.1096	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240901_055802.wav	30.0
+5	Spectrogram 1	1	36.0	39.0	0	12000.0	Brown Creeper	brncre	0.4038	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240901_055802.wav	36.0
+6	Spectrogram 1	1	39.0	42.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1893	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240901_055802.wav	39.0
+7	Spectrogram 1	1	42.0	45.0	0	12000.0	Cedar Waxwing	cedwax	0.2133	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240901_055802.wav	42.0
+8	Spectrogram 1	1	513.0	516.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1333	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240901_055802.wav	513.0
+9	Spectrogram 1	1	660.0	663.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1381	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240901_055802.wav	660.0
+10	Spectrogram 1	1	1095.0	1098.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6383	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240901_055802.wav	1095.0
+11	Spectrogram 1	1	1095.0	1098.0	0	12000.0	Brown Creeper	brncre	0.1027	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240901_055802.wav	1095.0
+12	Spectrogram 1	1	1107.0	1110.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1548	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240901_055802.wav	1107.0
+13	Spectrogram 1	1	1539.0	1542.0	0	12000.0	American Robin	amerob	0.2532	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240901_055802.wav	1539.0
+14	Spectrogram 1	1	1539.0	1542.0	0	12000.0	Hermit Thrush	herthr	0.2191	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240901_055802.wav	1539.0
+15	Spectrogram 1	1	1626.0	1629.0	0	12000.0	Hermit Thrush	herthr	0.2380	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240901_055802.wav	1626.0
+16	Spectrogram 1	1	1635.0	1638.0	0	12000.0	Pileated Woodpecker	pilwoo	0.1030	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240901_055802.wav	1635.0
+17	Spectrogram 1	1	1779.0	1782.0	0	12000.0	American Crow	amecro	0.1377	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240901_055802.wav	1779.0
+18	Spectrogram 1	1	1809.0	1812.0	0	12000.0	Common Raven	comrav	0.1002	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240901_055802.wav	1809.0
+19	Spectrogram 1	1	2460.0	2463.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2361	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240901_055802.wav	2460.0
+20	Spectrogram 1	1	2469.0	2472.0	0	12000.0	Brown Creeper	brncre	0.1905	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240901_055802.wav	2469.0
+21	Spectrogram 1	1	2901.0	2904.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2525	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240901_055802.wav	2901.0
+22	Spectrogram 1	1	2901.0	2904.0	0	12000.0	Brown Creeper	brncre	0.1253	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240901_055802.wav	2901.0
+23	Spectrogram 1	1	3519.0	3522.0	0	12000.0	Dark-eyed Junco	daejun	0.2830	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240901_055802.wav	3519.0

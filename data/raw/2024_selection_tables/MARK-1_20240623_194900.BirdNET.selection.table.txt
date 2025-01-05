@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1281.0	1284.0	0	12000.0	White-throated Sparrow	whtspa	0.1075	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240623_194900.wav	1281.0
+2	Spectrogram 1	1	1476.0	1479.0	0	12000.0	White-throated Sparrow	whtspa	0.2051	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240623_194900.wav	1476.0
+3	Spectrogram 1	1	1476.0	1479.0	0	12000.0	White-crowned Sparrow	whcspa	0.1126	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240623_194900.wav	1476.0

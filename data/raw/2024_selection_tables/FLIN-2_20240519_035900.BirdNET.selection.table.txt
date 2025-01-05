@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2517.0	2520.0	0	12000.0	White-winged Crossbill	whwcro	0.2485	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240519_035900.wav	2517.0
+2	Spectrogram 1	1	2610.0	2613.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1906	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240519_035900.wav	2610.0
+3	Spectrogram 1	1	2616.0	2619.0	0	12000.0	Dark-eyed Junco	daejun	0.1179	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240519_035900.wav	2616.0
+4	Spectrogram 1	1	2748.0	2751.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1007	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240519_035900.wav	2748.0
+5	Spectrogram 1	1	2763.0	2766.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2940	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240519_035900.wav	2763.0
+6	Spectrogram 1	1	2769.0	2772.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4560	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240519_035900.wav	2769.0
+7	Spectrogram 1	1	2811.0	2814.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1183	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240519_035900.wav	2811.0
+8	Spectrogram 1	1	2943.0	2946.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.2636	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240519_035900.wav	2943.0
+9	Spectrogram 1	1	3096.0	3099.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1314	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240519_035900.wav	3096.0
+10	Spectrogram 1	1	3114.0	3117.0	0	12000.0	Winter Wren	winwre3	0.1684	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240519_035900.wav	3114.0
+11	Spectrogram 1	1	3144.0	3147.0	0	12000.0	Winter Wren	winwre3	0.1064	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240519_035900.wav	3144.0
+12	Spectrogram 1	1	3495.0	3498.0	0	12000.0	Brown Creeper	brncre	0.1467	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240519_035900.wav	3495.0
+13	Spectrogram 1	1	3558.0	3561.0	0	12000.0	Brown Creeper	brncre	0.1402	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240519_035900.wav	3558.0
+14	Spectrogram 1	1	3561.0	3564.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1871	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240519_035900.wav	3561.0

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2496.0	2499.0	0	12000.0	Downy Woodpecker	dowwoo	0.5116	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240803_192100.wav	2496.0
+2	Spectrogram 1	1	3402.0	3405.0	0	12000.0	Swainson's Thrush	swathr	0.3540	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240803_192100.wav	3402.0
+3	Spectrogram 1	1	3405.0	3408.0	0	12000.0	Swainson's Thrush	swathr	0.8870	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240803_192100.wav	3405.0

@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	114.0	117.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2358	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240701_194800.wav	114.0
+2	Spectrogram 1	1	570.0	573.0	0	12000.0	Song Sparrow	sonspa	0.1405	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240701_194800.wav	570.0
+3	Spectrogram 1	1	669.0	672.0	0	12000.0	White-crowned Sparrow	whcspa	0.2190	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240701_194800.wav	669.0
+4	Spectrogram 1	1	690.0	693.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7412	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240701_194800.wav	690.0
+5	Spectrogram 1	1	1080.0	1083.0	0	12000.0	Song Sparrow	sonspa	0.5988	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240701_194800.wav	1080.0
+6	Spectrogram 1	1	1095.0	1098.0	0	12000.0	Song Sparrow	sonspa	0.1676	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240701_194800.wav	1095.0
+7	Spectrogram 1	1	1104.0	1107.0	0	12000.0	Song Sparrow	sonspa	0.1052	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240701_194800.wav	1104.0
+8	Spectrogram 1	1	1638.0	1641.0	0	12000.0	Song Sparrow	sonspa	0.2795	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240701_194800.wav	1638.0
+9	Spectrogram 1	1	1647.0	1650.0	0	12000.0	Song Sparrow	sonspa	0.1139	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240701_194800.wav	1647.0
+10	Spectrogram 1	1	1665.0	1668.0	0	12000.0	Song Sparrow	sonspa	0.1117	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240701_194800.wav	1665.0
+11	Spectrogram 1	1	1674.0	1677.0	0	12000.0	Song Sparrow	sonspa	0.2388	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240701_194800.wav	1674.0
+12	Spectrogram 1	1	1704.0	1707.0	0	12000.0	Song Sparrow	sonspa	0.2368	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240701_194800.wav	1704.0
+13	Spectrogram 1	1	1890.0	1893.0	0	12000.0	Song Sparrow	sonspa	0.1411	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240701_194800.wav	1890.0
+14	Spectrogram 1	1	1950.0	1953.0	0	12000.0	Song Sparrow	sonspa	0.4012	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240701_194800.wav	1950.0
+15	Spectrogram 1	1	1989.0	1992.0	0	12000.0	Song Sparrow	sonspa	0.1985	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240701_194800.wav	1989.0
+16	Spectrogram 1	1	2169.0	2172.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2463	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240701_194800.wav	2169.0

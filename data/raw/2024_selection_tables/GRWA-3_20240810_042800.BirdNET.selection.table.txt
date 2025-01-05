@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2367.0	2370.0	0	12000.0	Mourning Dove	moudov	0.3022	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240810_042800.wav	2367.0
+2	Spectrogram 1	1	2406.0	2409.0	0	12000.0	Mourning Dove	moudov	0.1709	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240810_042800.wav	2406.0
+3	Spectrogram 1	1	2481.0	2484.0	0	12000.0	Mourning Dove	moudov	0.1140	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240810_042800.wav	2481.0
+4	Spectrogram 1	1	2742.0	2745.0	0	12000.0	Mourning Dove	moudov	0.1687	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240810_042800.wav	2742.0

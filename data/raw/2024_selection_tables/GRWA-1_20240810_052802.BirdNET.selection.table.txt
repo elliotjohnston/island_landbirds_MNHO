@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	153.0	156.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4231	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240810_052802.wav	153.0
+2	Spectrogram 1	1	153.0	156.0	0	12000.0	Brown Creeper	brncre	0.3723	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240810_052802.wav	153.0
+3	Spectrogram 1	1	198.0	201.0	0	12000.0	Brown Creeper	brncre	0.4334	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240810_052802.wav	198.0
+4	Spectrogram 1	1	1248.0	1251.0	0	12000.0	Hermit Thrush	herthr	0.3132	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240810_052802.wav	1248.0

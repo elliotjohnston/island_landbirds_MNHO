@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	15.0	18.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3268	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240515_192200.wav	15.0
+2	Spectrogram 1	1	21.0	24.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1745	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240515_192200.wav	21.0
+3	Spectrogram 1	1	27.0	30.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1468	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240515_192200.wav	27.0
+4	Spectrogram 1	1	57.0	60.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1515	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240515_192200.wav	57.0
+5	Spectrogram 1	1	117.0	120.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1353	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240515_192200.wav	117.0
+6	Spectrogram 1	1	147.0	150.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1203	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240515_192200.wav	147.0
+7	Spectrogram 1	1	162.0	165.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6741	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240515_192200.wav	162.0
+8	Spectrogram 1	1	165.0	168.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5559	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240515_192200.wav	165.0
+9	Spectrogram 1	1	171.0	174.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8475	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240515_192200.wav	171.0
+10	Spectrogram 1	1	180.0	183.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1150	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240515_192200.wav	180.0
+11	Spectrogram 1	1	183.0	186.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1121	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240515_192200.wav	183.0
+12	Spectrogram 1	1	189.0	192.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1513	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240515_192200.wav	189.0
+13	Spectrogram 1	1	210.0	213.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2547	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240515_192200.wav	210.0
+14	Spectrogram 1	1	219.0	222.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2042	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240515_192200.wav	219.0
+15	Spectrogram 1	1	264.0	267.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1668	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240515_192200.wav	264.0
+16	Spectrogram 1	1	294.0	297.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1973	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240515_192200.wav	294.0
+17	Spectrogram 1	1	354.0	357.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2777	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240515_192200.wav	354.0
+18	Spectrogram 1	1	363.0	366.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1624	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240515_192200.wav	363.0
+19	Spectrogram 1	1	369.0	372.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1137	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240515_192200.wav	369.0
+20	Spectrogram 1	1	429.0	432.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4919	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240515_192200.wav	429.0
+21	Spectrogram 1	1	441.0	444.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1121	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240515_192200.wav	441.0
+22	Spectrogram 1	1	459.0	462.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1135	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240515_192200.wav	459.0
+23	Spectrogram 1	1	2796.0	2799.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1544	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240515_192200.wav	2796.0
+24	Spectrogram 1	1	2985.0	2988.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1747	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240515_192200.wav	2985.0

@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	537.0	540.0	0	12000.0	Cedar Waxwing	cedwax	0.1649	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240810_052802.wav	537.0
+2	Spectrogram 1	1	549.0	552.0	0	12000.0	Cedar Waxwing	cedwax	0.7778	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240810_052802.wav	549.0
+3	Spectrogram 1	1	594.0	597.0	0	12000.0	Cedar Waxwing	cedwax	0.2452	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240810_052802.wav	594.0
+4	Spectrogram 1	1	1446.0	1449.0	0	12000.0	Cedar Waxwing	cedwax	0.1027	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240810_052802.wav	1446.0

@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2076.0	2079.0	0	12000.0	Common Raven	comrav	0.3350	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240824_184900.wav	2076.0

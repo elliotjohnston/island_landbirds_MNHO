@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	432.0	435.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2300	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241008_063602.wav	432.0
+2	Spectrogram 1	1	1080.0	1083.0	0	12000.0	Brown Creeper	brncre	0.1135	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241008_063602.wav	1080.0
+3	Spectrogram 1	1	1365.0	1368.0	0	12000.0	Brown Creeper	brncre	0.1242	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241008_063602.wav	1365.0
+4	Spectrogram 1	1	1389.0	1392.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1809	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241008_063602.wav	1389.0
+5	Spectrogram 1	1	2952.0	2955.0	0	12000.0	American Crow	amecro	0.1033	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241008_063602.wav	2952.0
+6	Spectrogram 1	1	3015.0	3018.0	0	12000.0	American Crow	amecro	0.1023	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241008_063602.wav	3015.0

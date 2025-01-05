@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	228.0	231.0	0	12000.0	Winter Wren	winwre3	0.1116	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240810_052602.wav	228.0
+2	Spectrogram 1	1	231.0	234.0	0	12000.0	Winter Wren	winwre3	0.1860	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240810_052602.wav	231.0
+3	Spectrogram 1	1	240.0	243.0	0	12000.0	Winter Wren	winwre3	0.1430	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240810_052602.wav	240.0
+4	Spectrogram 1	1	591.0	594.0	0	12000.0	Canada Warbler	canwar	0.1627	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240810_052602.wav	591.0
+5	Spectrogram 1	1	1020.0	1023.0	0	12000.0	Brown Creeper	brncre	0.1302	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240810_052602.wav	1020.0
+6	Spectrogram 1	1	1023.0	1026.0	0	12000.0	Brown Creeper	brncre	0.1155	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240810_052602.wav	1023.0
+7	Spectrogram 1	1	1083.0	1086.0	0	12000.0	Pine Siskin	pinsis	0.1231	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240810_052602.wav	1083.0
+8	Spectrogram 1	1	1383.0	1386.0	0	12000.0	Brown Creeper	brncre	0.2180	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240810_052602.wav	1383.0
+9	Spectrogram 1	1	2070.0	2073.0	0	12000.0	Canada Warbler	canwar	0.1187	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240810_052602.wav	2070.0
+10	Spectrogram 1	1	2094.0	2097.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1139	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240810_052602.wav	2094.0
+11	Spectrogram 1	1	2121.0	2124.0	0	12000.0	Brown Creeper	brncre	0.7389	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240810_052602.wav	2121.0
+12	Spectrogram 1	1	2127.0	2130.0	0	12000.0	Brown Creeper	brncre	0.4089	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240810_052602.wav	2127.0
+13	Spectrogram 1	1	2199.0	2202.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1242	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240810_052602.wav	2199.0
+14	Spectrogram 1	1	2208.0	2211.0	0	12000.0	Brown Creeper	brncre	0.1831	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240810_052602.wav	2208.0
+15	Spectrogram 1	1	2250.0	2253.0	0	12000.0	Brown Creeper	brncre	0.4110	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240810_052602.wav	2250.0
+16	Spectrogram 1	1	2472.0	2475.0	0	12000.0	Brown Creeper	brncre	0.3133	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240810_052602.wav	2472.0
+17	Spectrogram 1	1	2475.0	2478.0	0	12000.0	Brown Creeper	brncre	0.3654	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240810_052602.wav	2475.0
+18	Spectrogram 1	1	2475.0	2478.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1137	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240810_052602.wav	2475.0
+19	Spectrogram 1	1	3204.0	3207.0	0	12000.0	Wilson's Warbler	wlswar	0.1745	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240810_052602.wav	3204.0

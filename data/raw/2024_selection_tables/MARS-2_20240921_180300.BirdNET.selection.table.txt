@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	0	3.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3090	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240921_180300.wav	0
+2	Spectrogram 1	1	6.0	9.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4734	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240921_180300.wav	6.0
+3	Spectrogram 1	1	153.0	156.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7764	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240921_180300.wav	153.0
+4	Spectrogram 1	1	153.0	156.0	0	12000.0	Brown Creeper	brncre	0.2337	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240921_180300.wav	153.0
+5	Spectrogram 1	1	174.0	177.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1947	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240921_180300.wav	174.0
+6	Spectrogram 1	1	1782.0	1785.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9219	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240921_180300.wav	1782.0
+7	Spectrogram 1	1	1785.0	1788.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8574	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240921_180300.wav	1785.0
+8	Spectrogram 1	1	1797.0	1800.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4896	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240921_180300.wav	1797.0
+9	Spectrogram 1	1	2010.0	2013.0	0	12000.0	Dark-eyed Junco	daejun	0.2535	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240921_180300.wav	2010.0
+10	Spectrogram 1	1	2013.0	2016.0	0	12000.0	Dark-eyed Junco	daejun	0.2656	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240921_180300.wav	2013.0
+11	Spectrogram 1	1	2082.0	2085.0	0	12000.0	Yellow-bellied Sapsucker	yebsap	0.1695	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240921_180300.wav	2082.0
+12	Spectrogram 1	1	2082.0	2085.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1587	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240921_180300.wav	2082.0
+13	Spectrogram 1	1	2556.0	2559.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1298	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240921_180300.wav	2556.0

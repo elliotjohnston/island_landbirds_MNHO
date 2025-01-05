@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	3198.0	3201.0	0	12000.0	Cedar Waxwing	cedwax	0.5406	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240807_042200.wav	3198.0
+2	Spectrogram 1	1	3201.0	3204.0	0	12000.0	Cedar Waxwing	cedwax	0.8391	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240807_042200.wav	3201.0
+3	Spectrogram 1	1	3204.0	3207.0	0	12000.0	Cedar Waxwing	cedwax	0.4997	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240807_042200.wav	3204.0
+4	Spectrogram 1	1	3207.0	3210.0	0	12000.0	Winter Wren	winwre3	0.1906	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240807_042200.wav	3207.0
+5	Spectrogram 1	1	3210.0	3213.0	0	12000.0	Brown Creeper	brncre	0.2930	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240807_042200.wav	3210.0
+6	Spectrogram 1	1	3261.0	3264.0	0	12000.0	Cedar Waxwing	cedwax	0.1374	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240807_042200.wav	3261.0
+7	Spectrogram 1	1	3276.0	3279.0	0	12000.0	Cedar Waxwing	cedwax	0.7972	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240807_042200.wav	3276.0
+8	Spectrogram 1	1	3288.0	3291.0	0	12000.0	Cedar Waxwing	cedwax	0.2048	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240807_042200.wav	3288.0
+9	Spectrogram 1	1	3303.0	3306.0	0	12000.0	Cedar Waxwing	cedwax	0.8811	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240807_042200.wav	3303.0
+10	Spectrogram 1	1	3327.0	3330.0	0	12000.0	Brown Creeper	brncre	0.1099	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240807_042200.wav	3327.0
+11	Spectrogram 1	1	3363.0	3366.0	0	12000.0	Cedar Waxwing	cedwax	0.3490	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240807_042200.wav	3363.0
+12	Spectrogram 1	1	3390.0	3393.0	0	12000.0	Cedar Waxwing	cedwax	0.1283	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240807_042200.wav	3390.0
+13	Spectrogram 1	1	3405.0	3408.0	0	12000.0	Cedar Waxwing	cedwax	0.3990	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240807_042200.wav	3405.0
+14	Spectrogram 1	1	3408.0	3411.0	0	12000.0	Cedar Waxwing	cedwax	0.4028	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240807_042200.wav	3408.0

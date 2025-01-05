@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2871.0	2874.0	0	12000.0	Swainson's Thrush	swathr	0.2164	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240810_042700.wav	2871.0
+2	Spectrogram 1	1	3174.0	3177.0	0	12000.0	Brown Creeper	brncre	0.1821	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240810_042700.wav	3174.0
+3	Spectrogram 1	1	3180.0	3183.0	0	12000.0	Brown Creeper	brncre	0.1796	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240810_042700.wav	3180.0
+4	Spectrogram 1	1	3189.0	3192.0	0	12000.0	Brown Creeper	brncre	0.2745	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240810_042700.wav	3189.0
+5	Spectrogram 1	1	3213.0	3216.0	0	12000.0	Brown Creeper	brncre	0.1985	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240810_042700.wav	3213.0
+6	Spectrogram 1	1	3219.0	3222.0	0	12000.0	Brown Creeper	brncre	0.1139	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240810_042700.wav	3219.0
+7	Spectrogram 1	1	3228.0	3231.0	0	12000.0	Brown Creeper	brncre	0.1795	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240810_042700.wav	3228.0
+8	Spectrogram 1	1	3312.0	3315.0	0	12000.0	Brown Creeper	brncre	0.4569	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240810_042700.wav	3312.0

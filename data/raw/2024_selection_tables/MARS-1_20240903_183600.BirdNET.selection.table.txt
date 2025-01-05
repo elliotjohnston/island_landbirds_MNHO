@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2847.0	2850.0	0	12000.0	Hermit Thrush	herthr	0.1167	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240903_183600.wav	2847.0
+2	Spectrogram 1	1	2850.0	2853.0	0	12000.0	Hermit Thrush	herthr	0.1446	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240903_183600.wav	2850.0
+3	Spectrogram 1	1	2853.0	2856.0	0	12000.0	Hermit Thrush	herthr	0.3822	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240903_183600.wav	2853.0

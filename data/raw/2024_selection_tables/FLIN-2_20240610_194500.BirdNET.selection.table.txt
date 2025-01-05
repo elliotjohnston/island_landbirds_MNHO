@@ -1,0 +1,28 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	3.0	6.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1739	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240610_194500.wav	3.0
+2	Spectrogram 1	1	72.0	75.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1650	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240610_194500.wav	72.0
+3	Spectrogram 1	1	168.0	171.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1080	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240610_194500.wav	168.0
+4	Spectrogram 1	1	180.0	183.0	0	12000.0	Brown Creeper	brncre	0.2126	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240610_194500.wav	180.0
+5	Spectrogram 1	1	180.0	183.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1213	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240610_194500.wav	180.0
+6	Spectrogram 1	1	183.0	186.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1954	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240610_194500.wav	183.0
+7	Spectrogram 1	1	183.0	186.0	0	12000.0	Brown Creeper	brncre	0.1941	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240610_194500.wav	183.0
+8	Spectrogram 1	1	192.0	195.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4446	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240610_194500.wav	192.0
+9	Spectrogram 1	1	198.0	201.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2725	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240610_194500.wav	198.0
+10	Spectrogram 1	1	201.0	204.0	0	12000.0	Brown Creeper	brncre	0.5474	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240610_194500.wav	201.0
+11	Spectrogram 1	1	636.0	639.0	0	12000.0	Brown Creeper	brncre	0.2566	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240610_194500.wav	636.0
+12	Spectrogram 1	1	810.0	813.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1389	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240610_194500.wav	810.0
+13	Spectrogram 1	1	1077.0	1080.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1160	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240610_194500.wav	1077.0
+14	Spectrogram 1	1	1119.0	1122.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1735	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240610_194500.wav	1119.0
+15	Spectrogram 1	1	1131.0	1134.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1646	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240610_194500.wav	1131.0
+16	Spectrogram 1	1	1146.0	1149.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2543	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240610_194500.wav	1146.0
+17	Spectrogram 1	1	1692.0	1695.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1291	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240610_194500.wav	1692.0
+18	Spectrogram 1	1	1704.0	1707.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2398	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240610_194500.wav	1704.0
+19	Spectrogram 1	1	1707.0	1710.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2967	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240610_194500.wav	1707.0
+20	Spectrogram 1	1	1716.0	1719.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7505	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240610_194500.wav	1716.0
+21	Spectrogram 1	1	1728.0	1731.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6968	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240610_194500.wav	1728.0
+22	Spectrogram 1	1	1857.0	1860.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1021	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240610_194500.wav	1857.0
+23	Spectrogram 1	1	1992.0	1995.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1258	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240610_194500.wav	1992.0
+24	Spectrogram 1	1	2007.0	2010.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1715	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240610_194500.wav	2007.0
+25	Spectrogram 1	1	2019.0	2022.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1349	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240610_194500.wav	2019.0
+26	Spectrogram 1	1	2055.0	2058.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1116	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240610_194500.wav	2055.0
+27	Spectrogram 1	1	2076.0	2079.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1009	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240610_194500.wav	2076.0

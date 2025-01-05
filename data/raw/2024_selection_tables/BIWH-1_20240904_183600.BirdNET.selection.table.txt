@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	93.0	96.0	0	12000.0	Brown Creeper	brncre	0.4865	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240904_183600.wav	93.0
+2	Spectrogram 1	1	111.0	114.0	0	12000.0	Brown Creeper	brncre	0.1311	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240904_183600.wav	111.0
+3	Spectrogram 1	1	111.0	114.0	0	12000.0	Cedar Waxwing	cedwax	0.1144	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240904_183600.wav	111.0
+4	Spectrogram 1	1	195.0	198.0	0	12000.0	Brown Creeper	brncre	0.1020	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240904_183600.wav	195.0
+5	Spectrogram 1	1	201.0	204.0	0	12000.0	Brown Creeper	brncre	0.1013	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240904_183600.wav	201.0
+6	Spectrogram 1	1	378.0	381.0	0	12000.0	Brown Creeper	brncre	0.4169	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240904_183600.wav	378.0
+7	Spectrogram 1	1	1389.0	1392.0	0	12000.0	Brown Creeper	brncre	0.2946	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240904_183600.wav	1389.0
+8	Spectrogram 1	1	1563.0	1566.0	0	12000.0	Brown Creeper	brncre	0.4055	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240904_183600.wav	1563.0

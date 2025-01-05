@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	180.0	183.0	0	12000.0	Brown Creeper	brncre	0.2951	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240727_193000.wav	180.0
+2	Spectrogram 1	1	537.0	540.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3033	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240727_193000.wav	537.0
+3	Spectrogram 1	1	549.0	552.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1242	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240727_193000.wav	549.0
+4	Spectrogram 1	1	603.0	606.0	0	12000.0	Brown Creeper	brncre	0.3826	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240727_193000.wav	603.0
+5	Spectrogram 1	1	3393.0	3396.0	0	12000.0	Swainson's Thrush	swathr	0.2963	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240727_193000.wav	3393.0
+6	Spectrogram 1	1	3537.0	3540.0	0	12000.0	Swainson's Thrush	swathr	0.4561	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240727_193000.wav	3537.0
+7	Spectrogram 1	1	3543.0	3546.0	0	12000.0	Swainson's Thrush	swathr	0.8750	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240727_193000.wav	3543.0
+8	Spectrogram 1	1	3546.0	3549.0	0	12000.0	Swainson's Thrush	swathr	0.7723	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240727_193000.wav	3546.0
+9	Spectrogram 1	1	3552.0	3555.0	0	12000.0	Swainson's Thrush	swathr	0.9278	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240727_193000.wav	3552.0
+10	Spectrogram 1	1	3555.0	3558.0	0	12000.0	Swainson's Thrush	swathr	0.6888	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240727_193000.wav	3555.0

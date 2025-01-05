@@ -1,0 +1,105 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	231.0	234.0	0	12000.0	American Crow	amecro	0.3702	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	231.0
+2	Spectrogram 1	1	657.0	660.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1236	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	657.0
+3	Spectrogram 1	1	663.0	666.0	0	12000.0	American Crow	amecro	0.6095	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	663.0
+4	Spectrogram 1	1	672.0	675.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1402	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	672.0
+5	Spectrogram 1	1	672.0	675.0	0	12000.0	Black-and-white Warbler	bawwar	0.1110	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	672.0
+6	Spectrogram 1	1	678.0	681.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1021	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	678.0
+7	Spectrogram 1	1	687.0	690.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2574	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	687.0
+8	Spectrogram 1	1	687.0	690.0	0	12000.0	Nashville Warbler	naswar	0.1785	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	687.0
+9	Spectrogram 1	1	690.0	693.0	0	12000.0	Nashville Warbler	naswar	0.3570	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	690.0
+10	Spectrogram 1	1	690.0	693.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2360	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	690.0
+11	Spectrogram 1	1	690.0	693.0	0	12000.0	Black-and-white Warbler	bawwar	0.2053	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	690.0
+12	Spectrogram 1	1	693.0	696.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1415	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	693.0
+13	Spectrogram 1	1	711.0	714.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1026	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	711.0
+14	Spectrogram 1	1	732.0	735.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1935	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	732.0
+15	Spectrogram 1	1	756.0	759.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1613	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	756.0
+16	Spectrogram 1	1	765.0	768.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1078	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	765.0
+17	Spectrogram 1	1	777.0	780.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3579	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	777.0
+18	Spectrogram 1	1	783.0	786.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1048	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	783.0
+19	Spectrogram 1	1	822.0	825.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3719	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	822.0
+20	Spectrogram 1	1	891.0	894.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1007	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	891.0
+21	Spectrogram 1	1	897.0	900.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1607	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	897.0
+22	Spectrogram 1	1	900.0	903.0	0	12000.0	American Redstart	amered	0.1033	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	900.0
+23	Spectrogram 1	1	1041.0	1044.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1452	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	1041.0
+24	Spectrogram 1	1	1107.0	1110.0	0	12000.0	American Crow	amecro	0.4335	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	1107.0
+25	Spectrogram 1	1	1110.0	1113.0	0	12000.0	American Crow	amecro	0.8668	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	1110.0
+26	Spectrogram 1	1	1113.0	1116.0	0	12000.0	American Crow	amecro	0.7391	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	1113.0
+27	Spectrogram 1	1	1254.0	1257.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2839	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	1254.0
+28	Spectrogram 1	1	1425.0	1428.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.3490	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	1425.0
+29	Spectrogram 1	1	1428.0	1431.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.1190	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	1428.0
+30	Spectrogram 1	1	1434.0	1437.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.7947	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	1434.0
+31	Spectrogram 1	1	1440.0	1443.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.3905	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	1440.0
+32	Spectrogram 1	1	1443.0	1446.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.6678	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	1443.0
+33	Spectrogram 1	1	1458.0	1461.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.5627	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	1458.0
+34	Spectrogram 1	1	1464.0	1467.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.8164	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	1464.0
+35	Spectrogram 1	1	1470.0	1473.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.5987	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	1470.0
+36	Spectrogram 1	1	1473.0	1476.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.2738	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	1473.0
+37	Spectrogram 1	1	1479.0	1482.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.6194	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	1479.0
+38	Spectrogram 1	1	1482.0	1485.0	0	12000.0	Olive-sided Flycatcher	olsfly	0.1587	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	1482.0
+39	Spectrogram 1	1	1485.0	1488.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.6322	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	1485.0
+40	Spectrogram 1	1	1491.0	1494.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.4727	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	1491.0
+41	Spectrogram 1	1	1497.0	1500.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.7883	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	1497.0
+42	Spectrogram 1	1	1500.0	1503.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.1350	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	1500.0
+43	Spectrogram 1	1	1509.0	1512.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.8546	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	1509.0
+44	Spectrogram 1	1	1515.0	1518.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.2948	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	1515.0
+45	Spectrogram 1	1	1521.0	1524.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.4586	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	1521.0
+46	Spectrogram 1	1	1533.0	1536.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.5782	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	1533.0
+47	Spectrogram 1	1	2097.0	2100.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1340	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2097.0
+48	Spectrogram 1	1	2118.0	2121.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2485	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2118.0
+49	Spectrogram 1	1	2130.0	2133.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1456	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2130.0
+50	Spectrogram 1	1	2151.0	2154.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2565	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2151.0
+51	Spectrogram 1	1	2154.0	2157.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6609	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2154.0
+52	Spectrogram 1	1	2169.0	2172.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2875	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2169.0
+53	Spectrogram 1	1	2190.0	2193.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3707	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2190.0
+54	Spectrogram 1	1	2202.0	2205.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6161	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2202.0
+55	Spectrogram 1	1	2220.0	2223.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6549	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2220.0
+56	Spectrogram 1	1	2250.0	2253.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.7726	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2250.0
+57	Spectrogram 1	1	2265.0	2268.0	0	12000.0	Nashville Warbler	naswar	0.1141	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2265.0
+58	Spectrogram 1	1	2274.0	2277.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2894	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2274.0
+59	Spectrogram 1	1	2286.0	2289.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2164	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2286.0
+60	Spectrogram 1	1	2301.0	2304.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2723	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2301.0
+61	Spectrogram 1	1	2316.0	2319.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3760	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2316.0
+62	Spectrogram 1	1	2331.0	2334.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2848	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2331.0
+63	Spectrogram 1	1	2358.0	2361.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2169	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2358.0
+64	Spectrogram 1	1	2373.0	2376.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3657	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2373.0
+65	Spectrogram 1	1	2388.0	2391.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1691	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2388.0
+66	Spectrogram 1	1	2391.0	2394.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3084	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2391.0
+67	Spectrogram 1	1	2403.0	2406.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3332	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2403.0
+68	Spectrogram 1	1	2412.0	2415.0	0	12000.0	Magnolia Warbler	magwar	0.1907	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2412.0
+69	Spectrogram 1	1	2412.0	2415.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1151	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2412.0
+70	Spectrogram 1	1	2415.0	2418.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1683	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2415.0
+71	Spectrogram 1	1	2427.0	2430.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3278	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2427.0
+72	Spectrogram 1	1	2445.0	2448.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2456	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2445.0
+73	Spectrogram 1	1	2448.0	2451.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1145	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2448.0
+74	Spectrogram 1	1	2448.0	2451.0	0	12000.0	Brown Creeper	brncre	0.1145	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2448.0
+75	Spectrogram 1	1	2481.0	2484.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1687	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2481.0
+76	Spectrogram 1	1	2481.0	2484.0	0	12000.0	Dark-eyed Junco	daejun	0.1175	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2481.0
+77	Spectrogram 1	1	2535.0	2538.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2613	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2535.0
+78	Spectrogram 1	1	2538.0	2541.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3855	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2538.0
+79	Spectrogram 1	1	2553.0	2556.0	0	12000.0	Downy Woodpecker	dowwoo	0.1121	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2553.0
+80	Spectrogram 1	1	2553.0	2556.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1011	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2553.0
+81	Spectrogram 1	1	2556.0	2559.0	0	12000.0	Downy Woodpecker	dowwoo	0.1472	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2556.0
+82	Spectrogram 1	1	2562.0	2565.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2201	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2562.0
+83	Spectrogram 1	1	2565.0	2568.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1640	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2565.0
+84	Spectrogram 1	1	2613.0	2616.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2571	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2613.0
+85	Spectrogram 1	1	2652.0	2655.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1667	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2652.0
+86	Spectrogram 1	1	2688.0	2691.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2017	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2688.0
+87	Spectrogram 1	1	2718.0	2721.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1756	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2718.0
+88	Spectrogram 1	1	2727.0	2730.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2851	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2727.0
+89	Spectrogram 1	1	2739.0	2742.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1594	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2739.0
+90	Spectrogram 1	1	2751.0	2754.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3049	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2751.0
+91	Spectrogram 1	1	2775.0	2778.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2960	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2775.0
+92	Spectrogram 1	1	2781.0	2784.0	0	12000.0	Brown Creeper	brncre	0.1012	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2781.0
+93	Spectrogram 1	1	2784.0	2787.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1042	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2784.0
+94	Spectrogram 1	1	2808.0	2811.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1442	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2808.0
+95	Spectrogram 1	1	2820.0	2823.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2578	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2820.0
+96	Spectrogram 1	1	2823.0	2826.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1089	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2823.0
+97	Spectrogram 1	1	2835.0	2838.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2780	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2835.0
+98	Spectrogram 1	1	2865.0	2868.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1200	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2865.0
+99	Spectrogram 1	1	2883.0	2886.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2175	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2883.0
+100	Spectrogram 1	1	2901.0	2904.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1378	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2901.0
+101	Spectrogram 1	1	2934.0	2937.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1456	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2934.0
+102	Spectrogram 1	1	2961.0	2964.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3277	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2961.0
+103	Spectrogram 1	1	2979.0	2982.0	0	12000.0	American Crow	amecro	0.3431	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2979.0
+104	Spectrogram 1	1	2982.0	2985.0	0	12000.0	American Crow	amecro	0.3291	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240524_193100.wav	2982.0

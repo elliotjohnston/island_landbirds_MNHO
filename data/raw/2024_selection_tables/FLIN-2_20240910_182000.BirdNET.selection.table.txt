@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	396.0	399.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9560	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240910_182000.wav	396.0
+2	Spectrogram 1	1	399.0	402.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9910	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240910_182000.wav	399.0
+3	Spectrogram 1	1	402.0	405.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.6785	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240910_182000.wav	402.0
+4	Spectrogram 1	1	852.0	855.0	0	12000.0	Dark-eyed Junco	daejun	0.3152	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240910_182000.wav	852.0
+5	Spectrogram 1	1	858.0	861.0	0	12000.0	Dark-eyed Junco	daejun	0.2768	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240910_182000.wav	858.0

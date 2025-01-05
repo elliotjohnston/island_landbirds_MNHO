@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	702.0	705.0	0	12000.0	Palm Warbler	palwar	0.3410	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240813_190700.wav	702.0
+2	Spectrogram 1	1	723.0	726.0	0	12000.0	Brown Creeper	brncre	0.2514	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240813_190700.wav	723.0
+3	Spectrogram 1	1	732.0	735.0	0	12000.0	Brown Creeper	brncre	0.2502	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240813_190700.wav	732.0
+4	Spectrogram 1	1	1707.0	1710.0	0	12000.0	Dark-eyed Junco	daejun	0.5662	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240813_190700.wav	1707.0
+5	Spectrogram 1	1	1710.0	1713.0	0	12000.0	Dark-eyed Junco	daejun	0.3586	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240813_190700.wav	1710.0

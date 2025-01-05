@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1152.0	1155.0	0	12000.0	Song Sparrow	sonspa	0.4923	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240712_194300.wav	1152.0
+2	Spectrogram 1	1	1176.0	1179.0	0	12000.0	Song Sparrow	sonspa	0.4942	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240712_194300.wav	1176.0
+3	Spectrogram 1	1	1179.0	1182.0	0	12000.0	Song Sparrow	sonspa	0.2534	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240712_194300.wav	1179.0
+4	Spectrogram 1	1	1452.0	1455.0	0	12000.0	Song Sparrow	sonspa	0.2551	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240712_194300.wav	1452.0
+5	Spectrogram 1	1	1497.0	1500.0	0	12000.0	Cedar Waxwing	cedwax	0.1297	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240712_194300.wav	1497.0

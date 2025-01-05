@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1866.0	1869.0	0	12000.0	Song Sparrow	sonspa	0.2944	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240805_042100.wav	1866.0
+2	Spectrogram 1	1	2550.0	2553.0	0	12000.0	White-throated Sparrow	whtspa	0.1116	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240805_042100.wav	2550.0
+3	Spectrogram 1	1	2754.0	2757.0	0	12000.0	American Crow	amecro	0.2279	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240805_042100.wav	2754.0
+4	Spectrogram 1	1	2952.0	2955.0	0	12000.0	Eastern Towhee	eastow	0.1018	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240805_042100.wav	2952.0
+5	Spectrogram 1	1	2955.0	2958.0	0	12000.0	White-throated Sparrow	whtspa	0.1892	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240805_042100.wav	2955.0
+6	Spectrogram 1	1	3165.0	3168.0	0	12000.0	Song Sparrow	sonspa	0.3816	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240805_042100.wav	3165.0
+7	Spectrogram 1	1	3195.0	3198.0	0	12000.0	American Crow	amecro	0.1079	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240805_042100.wav	3195.0
+8	Spectrogram 1	1	3231.0	3234.0	0	12000.0	American Crow	amecro	0.1772	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240805_042100.wav	3231.0
+9	Spectrogram 1	1	3234.0	3237.0	0	12000.0	American Crow	amecro	0.1440	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240805_042100.wav	3234.0
+10	Spectrogram 1	1	3336.0	3339.0	0	12000.0	American Crow	amecro	0.1995	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240805_042100.wav	3336.0
+11	Spectrogram 1	1	3405.0	3408.0	0	12000.0	American Crow	amecro	0.1750	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240805_042100.wav	3405.0

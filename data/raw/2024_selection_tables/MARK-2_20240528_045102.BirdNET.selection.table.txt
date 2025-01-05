@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	165.0	168.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3097	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240528_045102.wav	165.0
+2	Spectrogram 1	1	231.0	234.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1777	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240528_045102.wav	231.0
+3	Spectrogram 1	1	243.0	246.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1747	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240528_045102.wav	243.0
+4	Spectrogram 1	1	288.0	291.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1664	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240528_045102.wav	288.0
+5	Spectrogram 1	1	342.0	345.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1158	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240528_045102.wav	342.0
+6	Spectrogram 1	1	348.0	351.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1787	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240528_045102.wav	348.0
+7	Spectrogram 1	1	357.0	360.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1497	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240528_045102.wav	357.0
+8	Spectrogram 1	1	657.0	660.0	0	12000.0	White-throated Sparrow	whtspa	0.1058	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240528_045102.wav	657.0
+9	Spectrogram 1	1	837.0	840.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1135	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240528_045102.wav	837.0

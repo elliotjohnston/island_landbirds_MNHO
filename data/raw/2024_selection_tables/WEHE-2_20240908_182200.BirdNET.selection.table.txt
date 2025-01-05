@@ -1,0 +1,3 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1899.0	1902.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5444	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240908_182200.wav	1899.0
+2	Spectrogram 1	1	1974.0	1977.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3708	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240908_182200.wav	1974.0

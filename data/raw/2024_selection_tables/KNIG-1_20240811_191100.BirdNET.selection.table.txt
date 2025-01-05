@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	48.0	51.0	0	12000.0	American Crow	amecro	0.4708	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240811_191100.wav	48.0
+2	Spectrogram 1	1	51.0	54.0	0	12000.0	American Crow	amecro	0.3499	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240811_191100.wav	51.0
+3	Spectrogram 1	1	243.0	246.0	0	12000.0	American Crow	amecro	0.7730	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240811_191100.wav	243.0
+4	Spectrogram 1	1	564.0	567.0	0	12000.0	American Crow	amecro	0.8018	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240811_191100.wav	564.0
+5	Spectrogram 1	1	582.0	585.0	0	12000.0	American Crow	amecro	0.7248	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240811_191100.wav	582.0
+6	Spectrogram 1	1	585.0	588.0	0	12000.0	American Crow	amecro	0.2860	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240811_191100.wav	585.0
+7	Spectrogram 1	1	588.0	591.0	0	12000.0	American Crow	amecro	0.8389	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240811_191100.wav	588.0
+8	Spectrogram 1	1	591.0	594.0	0	12000.0	Common Raven	comrav	0.1214	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240811_191100.wav	591.0
+9	Spectrogram 1	1	1023.0	1026.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.5387	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240811_191100.wav	1023.0

@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2217.0	2220.0	0	12000.0	Swainson's Thrush	swathr	0.5820	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240828_045400.wav	2217.0
+2	Spectrogram 1	1	2505.0	2508.0	0	12000.0	White-throated Sparrow	whtspa	0.1201	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240828_045400.wav	2505.0
+3	Spectrogram 1	1	2514.0	2517.0	0	12000.0	White-throated Sparrow	whtspa	0.5715	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240828_045400.wav	2514.0
+4	Spectrogram 1	1	2520.0	2523.0	0	12000.0	White-throated Sparrow	whtspa	0.1175	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240828_045400.wav	2520.0
+5	Spectrogram 1	1	2544.0	2547.0	0	12000.0	White-throated Sparrow	whtspa	0.2280	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240828_045400.wav	2544.0
+6	Spectrogram 1	1	2547.0	2550.0	0	12000.0	White-throated Sparrow	whtspa	0.6241	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240828_045400.wav	2547.0
+7	Spectrogram 1	1	2547.0	2550.0	0	12000.0	Northern Waterthrush	norwat	0.1156	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240828_045400.wav	2547.0
+8	Spectrogram 1	1	2559.0	2562.0	0	12000.0	White-throated Sparrow	whtspa	0.3917	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240828_045400.wav	2559.0
+9	Spectrogram 1	1	2568.0	2571.0	0	12000.0	White-throated Sparrow	whtspa	0.1365	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240828_045400.wav	2568.0
+10	Spectrogram 1	1	2571.0	2574.0	0	12000.0	White-throated Sparrow	whtspa	0.8605	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240828_045400.wav	2571.0
+11	Spectrogram 1	1	2577.0	2580.0	0	12000.0	White-throated Sparrow	whtspa	0.1411	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240828_045400.wav	2577.0
+12	Spectrogram 1	1	2589.0	2592.0	0	12000.0	Hairy Woodpecker	haiwoo	0.1692	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240828_045400.wav	2589.0
+13	Spectrogram 1	1	2592.0	2595.0	0	12000.0	White-throated Sparrow	whtspa	0.5139	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240828_045400.wav	2592.0
+14	Spectrogram 1	1	2709.0	2712.0	0	12000.0	White-throated Sparrow	whtspa	0.5180	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240828_045400.wav	2709.0
+15	Spectrogram 1	1	3432.0	3435.0	0	12000.0	Mourning Dove	moudov	0.5269	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240828_045400.wav	3432.0
+16	Spectrogram 1	1	3456.0	3459.0	0	12000.0	Mourning Dove	moudov	0.9695	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240828_045400.wav	3456.0
+17	Spectrogram 1	1	3492.0	3495.0	0	12000.0	Cedar Waxwing	cedwax	0.1616	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240828_045400.wav	3492.0

@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	24.0	27.0	0	12000.0	Brown Creeper	brncre	0.3271	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240730_192600.wav	24.0
+2	Spectrogram 1	1	1986.0	1989.0	0	12000.0	Hermit Thrush	herthr	0.7184	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240730_192600.wav	1986.0
+3	Spectrogram 1	1	1989.0	1992.0	0	12000.0	Hermit Thrush	herthr	0.7340	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240730_192600.wav	1989.0
+4	Spectrogram 1	1	1995.0	1998.0	0	12000.0	Hermit Thrush	herthr	0.7355	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240730_192600.wav	1995.0
+5	Spectrogram 1	1	1998.0	2001.0	0	12000.0	Hermit Thrush	herthr	0.5150	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240730_192600.wav	1998.0
+6	Spectrogram 1	1	3021.0	3024.0	0	12000.0	Common Nighthawk	comnig	0.9458	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240730_192600.wav	3021.0
+7	Spectrogram 1	1	3024.0	3027.0	0	12000.0	Common Nighthawk	comnig	0.9536	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240730_192600.wav	3024.0

@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	498.0	501.0	0	12000.0	Dark-eyed Junco	daejun	0.1311	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240512_191900.wav	498.0
+2	Spectrogram 1	1	501.0	504.0	0	12000.0	Dark-eyed Junco	daejun	0.3418	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240512_191900.wav	501.0
+3	Spectrogram 1	1	504.0	507.0	0	12000.0	Dark-eyed Junco	daejun	0.1122	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240512_191900.wav	504.0
+4	Spectrogram 1	1	519.0	522.0	0	12000.0	Dark-eyed Junco	daejun	0.1478	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240512_191900.wav	519.0
+5	Spectrogram 1	1	525.0	528.0	0	12000.0	Dark-eyed Junco	daejun	0.1508	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240512_191900.wav	525.0
+6	Spectrogram 1	1	1617.0	1620.0	0	12000.0	Winter Wren	winwre3	0.1329	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240512_191900.wav	1617.0
+7	Spectrogram 1	1	1620.0	1623.0	0	12000.0	Winter Wren	winwre3	0.1144	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240512_191900.wav	1620.0
+8	Spectrogram 1	1	1623.0	1626.0	0	12000.0	Winter Wren	winwre3	0.1945	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240512_191900.wav	1623.0
+9	Spectrogram 1	1	1935.0	1938.0	0	12000.0	Winter Wren	winwre3	0.1611	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240512_191900.wav	1935.0
+10	Spectrogram 1	1	1938.0	1941.0	0	12000.0	Winter Wren	winwre3	0.3277	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240512_191900.wav	1938.0
+11	Spectrogram 1	1	2751.0	2754.0	0	12000.0	Hermit Thrush	herthr	0.9528	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240512_191900.wav	2751.0
+12	Spectrogram 1	1	2757.0	2760.0	0	12000.0	Hermit Thrush	herthr	0.4165	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240512_191900.wav	2757.0
+13	Spectrogram 1	1	2760.0	2763.0	0	12000.0	Hermit Thrush	herthr	0.7810	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240512_191900.wav	2760.0
+14	Spectrogram 1	1	2763.0	2766.0	0	12000.0	Hermit Thrush	herthr	0.4256	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240512_191900.wav	2763.0
+15	Spectrogram 1	1	2766.0	2769.0	0	12000.0	Hermit Thrush	herthr	0.8104	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240512_191900.wav	2766.0
+16	Spectrogram 1	1	2769.0	2772.0	0	12000.0	Hermit Thrush	herthr	0.5495	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240512_191900.wav	2769.0
+17	Spectrogram 1	1	2772.0	2775.0	0	12000.0	Hermit Thrush	herthr	0.4319	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240512_191900.wav	2772.0
+18	Spectrogram 1	1	2775.0	2778.0	0	12000.0	Hermit Thrush	herthr	0.5767	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240512_191900.wav	2775.0
+19	Spectrogram 1	1	2787.0	2790.0	0	12000.0	Hermit Thrush	herthr	0.3656	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240512_191900.wav	2787.0
+20	Spectrogram 1	1	2796.0	2799.0	0	12000.0	Hermit Thrush	herthr	0.2041	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240512_191900.wav	2796.0
+21	Spectrogram 1	1	2799.0	2802.0	0	12000.0	Hermit Thrush	herthr	0.3052	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240512_191900.wav	2799.0
+22	Spectrogram 1	1	2811.0	2814.0	0	12000.0	Hermit Thrush	herthr	0.1614	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240512_191900.wav	2811.0
+23	Spectrogram 1	1	2814.0	2817.0	0	12000.0	Hermit Thrush	herthr	0.2447	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240512_191900.wav	2814.0

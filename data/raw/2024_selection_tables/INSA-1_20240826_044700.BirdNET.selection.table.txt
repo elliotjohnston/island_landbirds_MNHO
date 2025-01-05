@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2010.0	2013.0	0	12000.0	American Crow	amecro	0.3711	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240826_044700.wav	2010.0
+2	Spectrogram 1	1	2013.0	2016.0	0	12000.0	American Crow	amecro	0.9114	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240826_044700.wav	2013.0
+3	Spectrogram 1	1	2016.0	2019.0	0	12000.0	American Crow	amecro	0.8366	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240826_044700.wav	2016.0
+4	Spectrogram 1	1	2022.0	2025.0	0	12000.0	American Crow	amecro	0.9349	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240826_044700.wav	2022.0
+5	Spectrogram 1	1	2034.0	2037.0	0	12000.0	American Crow	amecro	0.9574	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240826_044700.wav	2034.0
+6	Spectrogram 1	1	2043.0	2046.0	0	12000.0	American Crow	amecro	0.8910	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240826_044700.wav	2043.0
+7	Spectrogram 1	1	2052.0	2055.0	0	12000.0	Common Raven	comrav	0.7223	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240826_044700.wav	2052.0
+8	Spectrogram 1	1	2055.0	2058.0	0	12000.0	American Crow	amecro	0.5334	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240826_044700.wav	2055.0
+9	Spectrogram 1	1	2058.0	2061.0	0	12000.0	American Crow	amecro	0.6919	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240826_044700.wav	2058.0
+10	Spectrogram 1	1	2064.0	2067.0	0	12000.0	American Crow	amecro	0.9194	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240826_044700.wav	2064.0
+11	Spectrogram 1	1	2085.0	2088.0	0	12000.0	American Crow	amecro	0.8166	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240826_044700.wav	2085.0
+12	Spectrogram 1	1	2127.0	2130.0	0	12000.0	Common Raven	comrav	0.7151	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240826_044700.wav	2127.0
+13	Spectrogram 1	1	2130.0	2133.0	0	12000.0	American Crow	amecro	0.5901	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240826_044700.wav	2130.0
+14	Spectrogram 1	1	2133.0	2136.0	0	12000.0	American Crow	amecro	0.5429	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240826_044700.wav	2133.0
+15	Spectrogram 1	1	2145.0	2148.0	0	12000.0	American Crow	amecro	0.7611	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240826_044700.wav	2145.0

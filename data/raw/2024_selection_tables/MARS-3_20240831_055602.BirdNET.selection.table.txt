@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	261.0	264.0	0	12000.0	Cedar Waxwing	cedwax	0.3084	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240831_055602.wav	261.0
+2	Spectrogram 1	1	576.0	579.0	0	12000.0	Cedar Waxwing	cedwax	0.7125	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240831_055602.wav	576.0
+3	Spectrogram 1	1	579.0	582.0	0	12000.0	Cedar Waxwing	cedwax	0.8457	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240831_055602.wav	579.0
+4	Spectrogram 1	1	1026.0	1029.0	0	12000.0	American Crow	amecro	0.2834	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240831_055602.wav	1026.0
+5	Spectrogram 1	1	1221.0	1224.0	0	12000.0	Common Raven	comrav	0.1272	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240831_055602.wav	1221.0
+6	Spectrogram 1	1	1374.0	1377.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.7413	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240831_055602.wav	1374.0
+7	Spectrogram 1	1	1377.0	1380.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2989	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240831_055602.wav	1377.0
+8	Spectrogram 1	1	1380.0	1383.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4065	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240831_055602.wav	1380.0
+9	Spectrogram 1	1	1383.0	1386.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1094	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240831_055602.wav	1383.0
+10	Spectrogram 1	1	1488.0	1491.0	0	12000.0	American Crow	amecro	0.1414	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240831_055602.wav	1488.0
+11	Spectrogram 1	1	1494.0	1497.0	0	12000.0	American Crow	amecro	0.1098	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240831_055602.wav	1494.0
+12	Spectrogram 1	1	1863.0	1866.0	0	12000.0	American Crow	amecro	0.2726	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240831_055602.wav	1863.0
+13	Spectrogram 1	1	2643.0	2646.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1650	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240831_055602.wav	2643.0
+14	Spectrogram 1	1	2961.0	2964.0	0	12000.0	American Crow	amecro	0.1040	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240831_055602.wav	2961.0
+15	Spectrogram 1	1	3387.0	3390.0	0	12000.0	American Crow	amecro	0.2090	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240831_055602.wav	3387.0
+16	Spectrogram 1	1	3390.0	3393.0	0	12000.0	American Crow	amecro	0.3064	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240831_055602.wav	3390.0
+17	Spectrogram 1	1	3471.0	3474.0	0	12000.0	American Crow	amecro	0.3043	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240831_055602.wav	3471.0

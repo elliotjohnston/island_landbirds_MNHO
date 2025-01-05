@@ -1,0 +1,75 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	153.0	156.0	0	12000.0	American Crow	amecro	0.1572	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	153.0
+2	Spectrogram 1	1	159.0	162.0	0	12000.0	American Crow	amecro	0.4154	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	159.0
+3	Spectrogram 1	1	162.0	165.0	0	12000.0	American Crow	amecro	0.2275	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	162.0
+4	Spectrogram 1	1	165.0	168.0	0	12000.0	American Crow	amecro	0.1155	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	165.0
+5	Spectrogram 1	1	195.0	198.0	0	12000.0	American Crow	amecro	0.1931	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	195.0
+6	Spectrogram 1	1	198.0	201.0	0	12000.0	Common Raven	comrav	0.1498	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	198.0
+7	Spectrogram 1	1	255.0	258.0	0	12000.0	American Goldfinch	amegfi	0.6353	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	255.0
+8	Spectrogram 1	1	288.0	291.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1606	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	288.0
+9	Spectrogram 1	1	330.0	333.0	0	12000.0	American Crow	amecro	0.1059	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	330.0
+10	Spectrogram 1	1	504.0	507.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1051	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	504.0
+11	Spectrogram 1	1	507.0	510.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1301	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	507.0
+12	Spectrogram 1	1	519.0	522.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1136	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	519.0
+13	Spectrogram 1	1	522.0	525.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1859	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	522.0
+14	Spectrogram 1	1	525.0	528.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1788	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	525.0
+15	Spectrogram 1	1	528.0	531.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1509	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	528.0
+16	Spectrogram 1	1	531.0	534.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1864	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	531.0
+17	Spectrogram 1	1	711.0	714.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1104	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	711.0
+18	Spectrogram 1	1	729.0	732.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1102	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	729.0
+19	Spectrogram 1	1	756.0	759.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1909	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	756.0
+20	Spectrogram 1	1	762.0	765.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4626	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	762.0
+21	Spectrogram 1	1	768.0	771.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3121	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	768.0
+22	Spectrogram 1	1	771.0	774.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4369	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	771.0
+23	Spectrogram 1	1	780.0	783.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6397	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	780.0
+24	Spectrogram 1	1	780.0	783.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1362	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	780.0
+25	Spectrogram 1	1	783.0	786.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7138	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	783.0
+26	Spectrogram 1	1	783.0	786.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1172	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	783.0
+27	Spectrogram 1	1	786.0	789.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2794	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	786.0
+28	Spectrogram 1	1	789.0	792.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1056	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	789.0
+29	Spectrogram 1	1	792.0	795.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1607	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	792.0
+30	Spectrogram 1	1	798.0	801.0	0	12000.0	Common Raven	comrav	0.2338	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	798.0
+31	Spectrogram 1	1	963.0	966.0	0	12000.0	Scarlet Tanager	scatan	0.1546	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	963.0
+32	Spectrogram 1	1	993.0	996.0	0	12000.0	Scarlet Tanager	scatan	0.1546	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	993.0
+33	Spectrogram 1	1	1866.0	1869.0	0	12000.0	Dark-eyed Junco	daejun	0.1231	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1866.0
+34	Spectrogram 1	1	1869.0	1872.0	0	12000.0	Dark-eyed Junco	daejun	0.1603	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1869.0
+35	Spectrogram 1	1	1890.0	1893.0	0	12000.0	Dark-eyed Junco	daejun	0.1432	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1890.0
+36	Spectrogram 1	1	1893.0	1896.0	0	12000.0	Lincoln's Sparrow	linspa	0.6112	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1893.0
+37	Spectrogram 1	1	1893.0	1896.0	0	12000.0	Dark-eyed Junco	daejun	0.2506	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1893.0
+38	Spectrogram 1	1	1896.0	1899.0	0	12000.0	Dark-eyed Junco	daejun	0.5600	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1896.0
+39	Spectrogram 1	1	1896.0	1899.0	0	12000.0	Lincoln's Sparrow	linspa	0.1435	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1896.0
+40	Spectrogram 1	1	1896.0	1899.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1421	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1896.0
+41	Spectrogram 1	1	1899.0	1902.0	0	12000.0	Dark-eyed Junco	daejun	0.5874	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1899.0
+42	Spectrogram 1	1	1899.0	1902.0	0	12000.0	Lincoln's Sparrow	linspa	0.1698	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1899.0
+43	Spectrogram 1	1	1902.0	1905.0	0	12000.0	Dark-eyed Junco	daejun	0.5955	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1902.0
+44	Spectrogram 1	1	1902.0	1905.0	0	12000.0	Lincoln's Sparrow	linspa	0.1630	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1902.0
+45	Spectrogram 1	1	1902.0	1905.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1102	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1902.0
+46	Spectrogram 1	1	1905.0	1908.0	0	12000.0	Dark-eyed Junco	daejun	0.3428	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1905.0
+47	Spectrogram 1	1	1905.0	1908.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1636	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1905.0
+48	Spectrogram 1	1	1908.0	1911.0	0	12000.0	Dark-eyed Junco	daejun	0.4796	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1908.0
+49	Spectrogram 1	1	1908.0	1911.0	0	12000.0	Lincoln's Sparrow	linspa	0.4288	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1908.0
+50	Spectrogram 1	1	1920.0	1923.0	0	12000.0	Dark-eyed Junco	daejun	0.7030	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1920.0
+51	Spectrogram 1	1	1920.0	1923.0	0	12000.0	Lincoln's Sparrow	linspa	0.1036	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1920.0
+52	Spectrogram 1	1	1923.0	1926.0	0	12000.0	Dark-eyed Junco	daejun	0.4073	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1923.0
+53	Spectrogram 1	1	1923.0	1926.0	0	12000.0	Lincoln's Sparrow	linspa	0.1122	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1923.0
+54	Spectrogram 1	1	1926.0	1929.0	0	12000.0	Dark-eyed Junco	daejun	0.6104	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1926.0
+55	Spectrogram 1	1	1932.0	1935.0	0	12000.0	Dark-eyed Junco	daejun	0.5382	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1932.0
+56	Spectrogram 1	1	1932.0	1935.0	0	12000.0	Lincoln's Sparrow	linspa	0.2434	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1932.0
+57	Spectrogram 1	1	1932.0	1935.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1577	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1932.0
+58	Spectrogram 1	1	1935.0	1938.0	0	12000.0	Lincoln's Sparrow	linspa	0.3009	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1935.0
+59	Spectrogram 1	1	1935.0	1938.0	0	12000.0	Dark-eyed Junco	daejun	0.1075	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1935.0
+60	Spectrogram 1	1	1938.0	1941.0	0	12000.0	Dark-eyed Junco	daejun	0.2901	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1938.0
+61	Spectrogram 1	1	1938.0	1941.0	0	12000.0	Lincoln's Sparrow	linspa	0.2324	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1938.0
+62	Spectrogram 1	1	1941.0	1944.0	0	12000.0	Dark-eyed Junco	daejun	0.5178	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1941.0
+63	Spectrogram 1	1	1941.0	1944.0	0	12000.0	Lincoln's Sparrow	linspa	0.2501	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1941.0
+64	Spectrogram 1	1	1944.0	1947.0	0	12000.0	Dark-eyed Junco	daejun	0.2737	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	1944.0
+65	Spectrogram 1	1	2049.0	2052.0	0	12000.0	Dark-eyed Junco	daejun	0.2360	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	2049.0
+66	Spectrogram 1	1	2049.0	2052.0	0	12000.0	Lincoln's Sparrow	linspa	0.1241	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	2049.0
+67	Spectrogram 1	1	2091.0	2094.0	0	12000.0	Dark-eyed Junco	daejun	0.2602	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	2091.0
+68	Spectrogram 1	1	2094.0	2097.0	0	12000.0	Dark-eyed Junco	daejun	0.1130	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	2094.0
+69	Spectrogram 1	1	2097.0	2100.0	0	12000.0	Dark-eyed Junco	daejun	0.7513	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	2097.0
+70	Spectrogram 1	1	2100.0	2103.0	0	12000.0	Dark-eyed Junco	daejun	0.5970	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	2100.0
+71	Spectrogram 1	1	2103.0	2106.0	0	12000.0	Dark-eyed Junco	daejun	0.2427	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	2103.0
+72	Spectrogram 1	1	2106.0	2109.0	0	12000.0	Dark-eyed Junco	daejun	0.3457	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	2106.0
+73	Spectrogram 1	1	2109.0	2112.0	0	12000.0	Dark-eyed Junco	daejun	0.2037	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	2109.0
+74	Spectrogram 1	1	2112.0	2115.0	0	12000.0	Dark-eyed Junco	daejun	0.5748	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240820_190100.wav	2112.0

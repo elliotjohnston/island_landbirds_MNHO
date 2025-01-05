@@ -1,0 +1,28 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	18.0	21.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6300	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240518_192500.wav	18.0
+2	Spectrogram 1	1	21.0	24.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1890	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240518_192500.wav	21.0
+3	Spectrogram 1	1	81.0	84.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3528	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240518_192500.wav	81.0
+4	Spectrogram 1	1	84.0	87.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1094	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240518_192500.wav	84.0
+5	Spectrogram 1	1	96.0	99.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1328	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240518_192500.wav	96.0
+6	Spectrogram 1	1	108.0	111.0	0	12000.0	Magnolia Warbler	magwar	0.4427	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240518_192500.wav	108.0
+7	Spectrogram 1	1	108.0	111.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2789	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240518_192500.wav	108.0
+8	Spectrogram 1	1	123.0	126.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6699	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240518_192500.wav	123.0
+9	Spectrogram 1	1	297.0	300.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1558	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240518_192500.wav	297.0
+10	Spectrogram 1	1	339.0	342.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1086	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240518_192500.wav	339.0
+11	Spectrogram 1	1	456.0	459.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5457	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240518_192500.wav	456.0
+12	Spectrogram 1	1	465.0	468.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6054	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240518_192500.wav	465.0
+13	Spectrogram 1	1	486.0	489.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1073	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240518_192500.wav	486.0
+14	Spectrogram 1	1	501.0	504.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1038	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240518_192500.wav	501.0
+15	Spectrogram 1	1	510.0	513.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4557	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240518_192500.wav	510.0
+16	Spectrogram 1	1	513.0	516.0	0	12000.0	Nashville Warbler	naswar	0.2119	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240518_192500.wav	513.0
+17	Spectrogram 1	1	525.0	528.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3243	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240518_192500.wav	525.0
+18	Spectrogram 1	1	534.0	537.0	0	12000.0	Nashville Warbler	naswar	0.1417	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240518_192500.wav	534.0
+19	Spectrogram 1	1	534.0	537.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1249	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240518_192500.wav	534.0
+20	Spectrogram 1	1	537.0	540.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2414	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240518_192500.wav	537.0
+21	Spectrogram 1	1	564.0	567.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1666	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240518_192500.wav	564.0
+22	Spectrogram 1	1	585.0	588.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2789	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240518_192500.wav	585.0
+23	Spectrogram 1	1	666.0	669.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1678	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240518_192500.wav	666.0
+24	Spectrogram 1	1	1653.0	1656.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5822	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240518_192500.wav	1653.0
+25	Spectrogram 1	1	1719.0	1722.0	0	12000.0	Swainson's Thrush	swathr	0.3078	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240518_192500.wav	1719.0
+26	Spectrogram 1	1	2115.0	2118.0	0	12000.0	Swainson's Thrush	swathr	0.3341	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240518_192500.wav	2115.0
+27	Spectrogram 1	1	2118.0	2121.0	0	12000.0	Swainson's Thrush	swathr	0.5952	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240518_192500.wav	2118.0

@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	399.0	402.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.9337	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240828_184300.wav	399.0
+2	Spectrogram 1	1	411.0	414.0	0	12000.0	Yellow-bellied Sapsucker	yebsap	0.2087	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240828_184300.wav	411.0
+3	Spectrogram 1	1	423.0	426.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.1766	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240828_184300.wav	423.0
+4	Spectrogram 1	1	792.0	795.0	0	12000.0	Cedar Waxwing	cedwax	0.2185	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240828_184300.wav	792.0
+5	Spectrogram 1	1	795.0	798.0	0	12000.0	Cedar Waxwing	cedwax	0.1619	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240828_184300.wav	795.0
+6	Spectrogram 1	1	969.0	972.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1152	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240828_184300.wav	969.0
+7	Spectrogram 1	1	1926.0	1929.0	0	12000.0	Magnolia Warbler	magwar	0.2119	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240828_184300.wav	1926.0
+8	Spectrogram 1	1	1926.0	1929.0	0	12000.0	Common Yellowthroat	comyel	0.1109	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240828_184300.wav	1926.0
+9	Spectrogram 1	1	1947.0	1950.0	0	12000.0	Cedar Waxwing	cedwax	0.1880	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240828_184300.wav	1947.0
+10	Spectrogram 1	1	2241.0	2244.0	0	12000.0	House Finch	houfin	0.1217	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240828_184300.wav	2241.0
+11	Spectrogram 1	1	2346.0	2349.0	0	12000.0	Brown Creeper	brncre	0.1677	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240828_184300.wav	2346.0
+12	Spectrogram 1	1	2367.0	2370.0	0	12000.0	Hairy Woodpecker	haiwoo	0.1113	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240828_184300.wav	2367.0
+13	Spectrogram 1	1	2592.0	2595.0	0	12000.0	Brown Creeper	brncre	0.1433	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240828_184300.wav	2592.0
+14	Spectrogram 1	1	2598.0	2601.0	0	12000.0	Brown Creeper	brncre	0.2694	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240828_184300.wav	2598.0
+15	Spectrogram 1	1	2997.0	3000.0	0	12000.0	Cedar Waxwing	cedwax	0.3991	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240828_184300.wav	2997.0
+16	Spectrogram 1	1	3414.0	3417.0	0	12000.0	White-throated Sparrow	whtspa	0.1477	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240828_184300.wav	3414.0
+17	Spectrogram 1	1	3423.0	3426.0	0	12000.0	White-throated Sparrow	whtspa	0.1548	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240828_184300.wav	3423.0

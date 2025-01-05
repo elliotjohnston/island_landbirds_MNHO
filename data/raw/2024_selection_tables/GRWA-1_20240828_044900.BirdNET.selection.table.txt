@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2247.0	2250.0	0	12000.0	Hermit Thrush	herthr	0.7567	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240828_044900.wav	2247.0
+2	Spectrogram 1	1	2250.0	2253.0	0	12000.0	Hermit Thrush	herthr	0.3238	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240828_044900.wav	2250.0
+3	Spectrogram 1	1	2574.0	2577.0	0	12000.0	Winter Wren	winwre3	0.1253	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240828_044900.wav	2574.0
+4	Spectrogram 1	1	2673.0	2676.0	0	12000.0	American Crow	amecro	0.1147	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240828_044900.wav	2673.0
+5	Spectrogram 1	1	3507.0	3510.0	0	12000.0	Brown Creeper	brncre	0.1341	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240828_044900.wav	3507.0

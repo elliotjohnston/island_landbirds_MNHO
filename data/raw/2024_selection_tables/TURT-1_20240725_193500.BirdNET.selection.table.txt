@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	699.0	702.0	0	12000.0	Hermit Thrush	herthr	0.1760	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240725_193500.wav	699.0
+2	Spectrogram 1	1	702.0	705.0	0	12000.0	Hermit Thrush	herthr	0.6896	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240725_193500.wav	702.0
+3	Spectrogram 1	1	714.0	717.0	0	12000.0	Hermit Thrush	herthr	0.1002	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240725_193500.wav	714.0

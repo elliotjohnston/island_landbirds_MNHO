@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	0	3.0	0	12000.0	Dark-eyed Junco	daejun	0.1921	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_191800.wav	0
+2	Spectrogram 1	1	3.0	6.0	0	12000.0	Dark-eyed Junco	daejun	0.3483	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_191800.wav	3.0
+3	Spectrogram 1	1	6.0	9.0	0	12000.0	Dark-eyed Junco	daejun	0.1136	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_191800.wav	6.0
+4	Spectrogram 1	1	9.0	12.0	0	12000.0	Dark-eyed Junco	daejun	0.1581	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_191800.wav	9.0
+5	Spectrogram 1	1	723.0	726.0	0	12000.0	Hairy Woodpecker	haiwoo	0.1399	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_191800.wav	723.0
+6	Spectrogram 1	1	726.0	729.0	0	12000.0	Hairy Woodpecker	haiwoo	0.9468	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_191800.wav	726.0
+7	Spectrogram 1	1	804.0	807.0	0	12000.0	Hairy Woodpecker	haiwoo	0.3266	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_191800.wav	804.0
+8	Spectrogram 1	1	966.0	969.0	0	12000.0	Hairy Woodpecker	haiwoo	0.9347	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_191800.wav	966.0
+9	Spectrogram 1	1	969.0	972.0	0	12000.0	Hairy Woodpecker	haiwoo	0.9824	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_191800.wav	969.0
+10	Spectrogram 1	1	972.0	975.0	0	12000.0	Hairy Woodpecker	haiwoo	0.8925	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_191800.wav	972.0
+11	Spectrogram 1	1	975.0	978.0	0	12000.0	Hairy Woodpecker	haiwoo	0.9302	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_191800.wav	975.0
+12	Spectrogram 1	1	978.0	981.0	0	12000.0	Hairy Woodpecker	haiwoo	0.9673	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_191800.wav	978.0
+13	Spectrogram 1	1	981.0	984.0	0	12000.0	Hairy Woodpecker	haiwoo	0.9585	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_191800.wav	981.0
+14	Spectrogram 1	1	984.0	987.0	0	12000.0	Hairy Woodpecker	haiwoo	0.7381	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_191800.wav	984.0
+15	Spectrogram 1	1	987.0	990.0	0	12000.0	Hairy Woodpecker	haiwoo	0.9160	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_191800.wav	987.0
+16	Spectrogram 1	1	990.0	993.0	0	12000.0	Hairy Woodpecker	haiwoo	0.9283	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_191800.wav	990.0
+17	Spectrogram 1	1	993.0	996.0	0	12000.0	Hairy Woodpecker	haiwoo	0.9321	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_191800.wav	993.0
+18	Spectrogram 1	1	996.0	999.0	0	12000.0	Hairy Woodpecker	haiwoo	0.9103	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_191800.wav	996.0
+19	Spectrogram 1	1	1143.0	1146.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1314	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_191800.wav	1143.0

@@ -1,0 +1,268 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	27.0	30.0	0	12000.0	American Crow	amecro	0.2012	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	27.0
+2	Spectrogram 1	1	33.0	36.0	0	12000.0	American Crow	amecro	0.4013	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	33.0
+3	Spectrogram 1	1	36.0	39.0	0	12000.0	American Crow	amecro	0.1852	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	36.0
+4	Spectrogram 1	1	39.0	42.0	0	12000.0	American Crow	amecro	0.1391	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	39.0
+5	Spectrogram 1	1	42.0	45.0	0	12000.0	American Crow	amecro	0.2454	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	42.0
+6	Spectrogram 1	1	45.0	48.0	0	12000.0	American Crow	amecro	0.2070	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	45.0
+7	Spectrogram 1	1	48.0	51.0	0	12000.0	American Crow	amecro	0.3376	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	48.0
+8	Spectrogram 1	1	48.0	51.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1408	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	48.0
+9	Spectrogram 1	1	51.0	54.0	0	12000.0	American Crow	amecro	0.4383	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	51.0
+10	Spectrogram 1	1	54.0	57.0	0	12000.0	American Crow	amecro	0.1841	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	54.0
+11	Spectrogram 1	1	57.0	60.0	0	12000.0	American Crow	amecro	0.5081	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	57.0
+12	Spectrogram 1	1	60.0	63.0	0	12000.0	American Crow	amecro	0.4846	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	60.0
+13	Spectrogram 1	1	60.0	63.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1047	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	60.0
+14	Spectrogram 1	1	63.0	66.0	0	12000.0	American Crow	amecro	0.5809	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	63.0
+15	Spectrogram 1	1	66.0	69.0	0	12000.0	American Crow	amecro	0.5220	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	66.0
+16	Spectrogram 1	1	69.0	72.0	0	12000.0	American Crow	amecro	0.4075	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	69.0
+17	Spectrogram 1	1	72.0	75.0	0	12000.0	American Crow	amecro	0.2714	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	72.0
+18	Spectrogram 1	1	72.0	75.0	0	12000.0	Brown Creeper	brncre	0.1049	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	72.0
+19	Spectrogram 1	1	75.0	78.0	0	12000.0	American Crow	amecro	0.4935	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	75.0
+20	Spectrogram 1	1	78.0	81.0	0	12000.0	American Crow	amecro	0.1645	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	78.0
+21	Spectrogram 1	1	78.0	81.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1100	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	78.0
+22	Spectrogram 1	1	87.0	90.0	0	12000.0	American Crow	amecro	0.2618	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	87.0
+23	Spectrogram 1	1	87.0	90.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1167	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	87.0
+24	Spectrogram 1	1	90.0	93.0	0	12000.0	American Crow	amecro	0.7452	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	90.0
+25	Spectrogram 1	1	93.0	96.0	0	12000.0	American Crow	amecro	0.5987	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	93.0
+26	Spectrogram 1	1	96.0	99.0	0	12000.0	American Crow	amecro	0.4246	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	96.0
+27	Spectrogram 1	1	99.0	102.0	0	12000.0	American Crow	amecro	0.2357	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	99.0
+28	Spectrogram 1	1	102.0	105.0	0	12000.0	American Crow	amecro	0.3627	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	102.0
+29	Spectrogram 1	1	105.0	108.0	0	12000.0	American Crow	amecro	0.3905	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	105.0
+30	Spectrogram 1	1	108.0	111.0	0	12000.0	American Crow	amecro	0.1822	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	108.0
+31	Spectrogram 1	1	120.0	123.0	0	12000.0	American Crow	amecro	0.2345	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	120.0
+32	Spectrogram 1	1	123.0	126.0	0	12000.0	American Crow	amecro	0.2367	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	123.0
+33	Spectrogram 1	1	138.0	141.0	0	12000.0	American Crow	amecro	0.2755	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	138.0
+34	Spectrogram 1	1	144.0	147.0	0	12000.0	American Crow	amecro	0.3814	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	144.0
+35	Spectrogram 1	1	147.0	150.0	0	12000.0	American Crow	amecro	0.6293	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	147.0
+36	Spectrogram 1	1	150.0	153.0	0	12000.0	American Crow	amecro	0.5697	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	150.0
+37	Spectrogram 1	1	153.0	156.0	0	12000.0	American Crow	amecro	0.3636	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	153.0
+38	Spectrogram 1	1	156.0	159.0	0	12000.0	American Crow	amecro	0.3849	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	156.0
+39	Spectrogram 1	1	159.0	162.0	0	12000.0	American Crow	amecro	0.6702	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	159.0
+40	Spectrogram 1	1	162.0	165.0	0	12000.0	American Crow	amecro	0.5617	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	162.0
+41	Spectrogram 1	1	177.0	180.0	0	12000.0	American Crow	amecro	0.4675	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	177.0
+42	Spectrogram 1	1	201.0	204.0	0	12000.0	American Crow	amecro	0.2028	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	201.0
+43	Spectrogram 1	1	204.0	207.0	0	12000.0	American Crow	amecro	0.3608	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	204.0
+44	Spectrogram 1	1	207.0	210.0	0	12000.0	American Crow	amecro	0.2820	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	207.0
+45	Spectrogram 1	1	210.0	213.0	0	12000.0	American Crow	amecro	0.1799	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	210.0
+46	Spectrogram 1	1	213.0	216.0	0	12000.0	American Crow	amecro	0.2138	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	213.0
+47	Spectrogram 1	1	216.0	219.0	0	12000.0	American Crow	amecro	0.1421	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	216.0
+48	Spectrogram 1	1	264.0	267.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.3620	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	264.0
+49	Spectrogram 1	1	297.0	300.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1942	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	297.0
+50	Spectrogram 1	1	366.0	369.0	0	12000.0	American Crow	amecro	0.1673	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	366.0
+51	Spectrogram 1	1	369.0	372.0	0	12000.0	American Crow	amecro	0.1047	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	369.0
+52	Spectrogram 1	1	444.0	447.0	0	12000.0	American Crow	amecro	0.2204	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	444.0
+53	Spectrogram 1	1	528.0	531.0	0	12000.0	Brown Creeper	brncre	0.2637	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	528.0
+54	Spectrogram 1	1	528.0	531.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1845	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	528.0
+55	Spectrogram 1	1	531.0	534.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1239	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	531.0
+56	Spectrogram 1	1	555.0	558.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2484	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	555.0
+57	Spectrogram 1	1	555.0	558.0	0	12000.0	Brown Creeper	brncre	0.1010	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	555.0
+58	Spectrogram 1	1	654.0	657.0	0	12000.0	American Crow	amecro	0.1007	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	654.0
+59	Spectrogram 1	1	699.0	702.0	0	12000.0	American Crow	amecro	0.1333	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	699.0
+60	Spectrogram 1	1	753.0	756.0	0	12000.0	American Crow	amecro	0.1191	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	753.0
+61	Spectrogram 1	1	1389.0	1392.0	0	12000.0	American Crow	amecro	0.2457	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1389.0
+62	Spectrogram 1	1	1419.0	1422.0	0	12000.0	American Crow	amecro	0.1159	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1419.0
+63	Spectrogram 1	1	1434.0	1437.0	0	12000.0	American Crow	amecro	0.1244	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1434.0
+64	Spectrogram 1	1	1446.0	1449.0	0	12000.0	American Crow	amecro	0.2408	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1446.0
+65	Spectrogram 1	1	1464.0	1467.0	0	12000.0	American Crow	amecro	0.1943	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1464.0
+66	Spectrogram 1	1	1470.0	1473.0	0	12000.0	American Crow	amecro	0.1145	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1470.0
+67	Spectrogram 1	1	1551.0	1554.0	0	12000.0	American Crow	amecro	0.1721	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1551.0
+68	Spectrogram 1	1	1554.0	1557.0	0	12000.0	American Crow	amecro	0.1581	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1554.0
+69	Spectrogram 1	1	1584.0	1587.0	0	12000.0	Mourning Dove	moudov	0.1787	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1584.0
+70	Spectrogram 1	1	1587.0	1590.0	0	12000.0	American Crow	amecro	0.1552	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1587.0
+71	Spectrogram 1	1	1602.0	1605.0	0	12000.0	American Crow	amecro	0.1696	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1602.0
+72	Spectrogram 1	1	1626.0	1629.0	0	12000.0	American Crow	amecro	0.1205	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1626.0
+73	Spectrogram 1	1	1629.0	1632.0	0	12000.0	American Crow	amecro	0.2015	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1629.0
+74	Spectrogram 1	1	1671.0	1674.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1203	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1671.0
+75	Spectrogram 1	1	1674.0	1677.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1594	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1674.0
+76	Spectrogram 1	1	1689.0	1692.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1463	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1689.0
+77	Spectrogram 1	1	1692.0	1695.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2646	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1692.0
+78	Spectrogram 1	1	1698.0	1701.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2319	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1698.0
+79	Spectrogram 1	1	1698.0	1701.0	0	12000.0	American Crow	amecro	0.1316	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1698.0
+80	Spectrogram 1	1	1701.0	1704.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3942	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1701.0
+81	Spectrogram 1	1	1704.0	1707.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2161	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1704.0
+82	Spectrogram 1	1	1713.0	1716.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1362	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1713.0
+83	Spectrogram 1	1	1722.0	1725.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1604	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1722.0
+84	Spectrogram 1	1	1740.0	1743.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1761	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1740.0
+85	Spectrogram 1	1	1743.0	1746.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3172	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1743.0
+86	Spectrogram 1	1	1746.0	1749.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1778	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1746.0
+87	Spectrogram 1	1	1752.0	1755.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2905	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1752.0
+88	Spectrogram 1	1	1755.0	1758.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1832	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1755.0
+89	Spectrogram 1	1	1761.0	1764.0	0	12000.0	American Crow	amecro	0.1023	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1761.0
+90	Spectrogram 1	1	1803.0	1806.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1512	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1803.0
+91	Spectrogram 1	1	1806.0	1809.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2509	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1806.0
+92	Spectrogram 1	1	1818.0	1821.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1240	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1818.0
+93	Spectrogram 1	1	1824.0	1827.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1449	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1824.0
+94	Spectrogram 1	1	1824.0	1827.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1002	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1824.0
+95	Spectrogram 1	1	1827.0	1830.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1387	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1827.0
+96	Spectrogram 1	1	1848.0	1851.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1798	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1848.0
+97	Spectrogram 1	1	1854.0	1857.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2552	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1854.0
+98	Spectrogram 1	1	1860.0	1863.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1899	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1860.0
+99	Spectrogram 1	1	1863.0	1866.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2077	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1863.0
+100	Spectrogram 1	1	1866.0	1869.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1066	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1866.0
+101	Spectrogram 1	1	1869.0	1872.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1448	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1869.0
+102	Spectrogram 1	1	1872.0	1875.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2355	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1872.0
+103	Spectrogram 1	1	1878.0	1881.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2999	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1878.0
+104	Spectrogram 1	1	1884.0	1887.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1489	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1884.0
+105	Spectrogram 1	1	1908.0	1911.0	0	12000.0	Cedar Waxwing	cedwax	0.7173	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1908.0
+106	Spectrogram 1	1	1911.0	1914.0	0	12000.0	American Crow	amecro	0.1174	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1911.0
+107	Spectrogram 1	1	1929.0	1932.0	0	12000.0	Cedar Waxwing	cedwax	0.2043	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1929.0
+108	Spectrogram 1	1	1938.0	1941.0	0	12000.0	Cedar Waxwing	cedwax	0.6009	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1938.0
+109	Spectrogram 1	1	1953.0	1956.0	0	12000.0	Cedar Waxwing	cedwax	0.4904	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1953.0
+110	Spectrogram 1	1	1956.0	1959.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5745	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1956.0
+111	Spectrogram 1	1	1974.0	1977.0	0	12000.0	Cedar Waxwing	cedwax	0.1791	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1974.0
+112	Spectrogram 1	1	1986.0	1989.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1002	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1986.0
+113	Spectrogram 1	1	1998.0	2001.0	0	12000.0	Brown Creeper	brncre	0.2486	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1998.0
+114	Spectrogram 1	1	1998.0	2001.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1022	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	1998.0
+115	Spectrogram 1	1	2019.0	2022.0	0	12000.0	Brown Creeper	brncre	0.2359	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2019.0
+116	Spectrogram 1	1	2019.0	2022.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2134	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2019.0
+117	Spectrogram 1	1	2022.0	2025.0	0	12000.0	Cedar Waxwing	cedwax	0.4030	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2022.0
+118	Spectrogram 1	1	2025.0	2028.0	0	12000.0	Cedar Waxwing	cedwax	0.4677	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2025.0
+119	Spectrogram 1	1	2028.0	2031.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1013	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2028.0
+120	Spectrogram 1	1	2034.0	2037.0	0	12000.0	Cedar Waxwing	cedwax	0.2692	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2034.0
+121	Spectrogram 1	1	2049.0	2052.0	0	12000.0	Cedar Waxwing	cedwax	0.3025	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2049.0
+122	Spectrogram 1	1	2052.0	2055.0	0	12000.0	Cedar Waxwing	cedwax	0.4921	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2052.0
+123	Spectrogram 1	1	2058.0	2061.0	0	12000.0	Cedar Waxwing	cedwax	0.1097	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2058.0
+124	Spectrogram 1	1	2061.0	2064.0	0	12000.0	Cedar Waxwing	cedwax	0.4026	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2061.0
+125	Spectrogram 1	1	2073.0	2076.0	0	12000.0	Cedar Waxwing	cedwax	0.4311	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2073.0
+126	Spectrogram 1	1	2085.0	2088.0	0	12000.0	Cedar Waxwing	cedwax	0.8035	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2085.0
+127	Spectrogram 1	1	2088.0	2091.0	0	12000.0	American Crow	amecro	0.1073	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2088.0
+128	Spectrogram 1	1	2091.0	2094.0	0	12000.0	Cedar Waxwing	cedwax	0.8249	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2091.0
+129	Spectrogram 1	1	2100.0	2103.0	0	12000.0	Cedar Waxwing	cedwax	0.5016	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2100.0
+130	Spectrogram 1	1	2106.0	2109.0	0	12000.0	Cedar Waxwing	cedwax	0.6565	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2106.0
+131	Spectrogram 1	1	2112.0	2115.0	0	12000.0	Cedar Waxwing	cedwax	0.7853	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2112.0
+132	Spectrogram 1	1	2118.0	2121.0	0	12000.0	Cedar Waxwing	cedwax	0.2349	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2118.0
+133	Spectrogram 1	1	2127.0	2130.0	0	12000.0	Cedar Waxwing	cedwax	0.3958	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2127.0
+134	Spectrogram 1	1	2130.0	2133.0	0	12000.0	Cedar Waxwing	cedwax	0.8671	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2130.0
+135	Spectrogram 1	1	2139.0	2142.0	0	12000.0	Cedar Waxwing	cedwax	0.7780	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2139.0
+136	Spectrogram 1	1	2142.0	2145.0	0	12000.0	Cedar Waxwing	cedwax	0.5786	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2142.0
+137	Spectrogram 1	1	2148.0	2151.0	0	12000.0	Cedar Waxwing	cedwax	0.5649	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2148.0
+138	Spectrogram 1	1	2160.0	2163.0	0	12000.0	Cedar Waxwing	cedwax	0.2486	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2160.0
+139	Spectrogram 1	1	2166.0	2169.0	0	12000.0	Cedar Waxwing	cedwax	0.5555	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2166.0
+140	Spectrogram 1	1	2169.0	2172.0	0	12000.0	Cedar Waxwing	cedwax	0.8829	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2169.0
+141	Spectrogram 1	1	2175.0	2178.0	0	12000.0	Cedar Waxwing	cedwax	0.9162	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2175.0
+142	Spectrogram 1	1	2181.0	2184.0	0	12000.0	Cedar Waxwing	cedwax	0.3400	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2181.0
+143	Spectrogram 1	1	2187.0	2190.0	0	12000.0	Cedar Waxwing	cedwax	0.7764	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2187.0
+144	Spectrogram 1	1	2190.0	2193.0	0	12000.0	Cedar Waxwing	cedwax	0.5934	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2190.0
+145	Spectrogram 1	1	2196.0	2199.0	0	12000.0	Cedar Waxwing	cedwax	0.5102	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2196.0
+146	Spectrogram 1	1	2202.0	2205.0	0	12000.0	Cedar Waxwing	cedwax	0.4510	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2202.0
+147	Spectrogram 1	1	2208.0	2211.0	0	12000.0	Cedar Waxwing	cedwax	0.8526	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2208.0
+148	Spectrogram 1	1	2214.0	2217.0	0	12000.0	Cedar Waxwing	cedwax	0.6977	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2214.0
+149	Spectrogram 1	1	2217.0	2220.0	0	12000.0	Cedar Waxwing	cedwax	0.5922	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2217.0
+150	Spectrogram 1	1	2220.0	2223.0	0	12000.0	Cedar Waxwing	cedwax	0.6665	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2220.0
+151	Spectrogram 1	1	2229.0	2232.0	0	12000.0	Cedar Waxwing	cedwax	0.7695	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2229.0
+152	Spectrogram 1	1	2232.0	2235.0	0	12000.0	Cedar Waxwing	cedwax	0.2562	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2232.0
+153	Spectrogram 1	1	2235.0	2238.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3230	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2235.0
+154	Spectrogram 1	1	2235.0	2238.0	0	12000.0	Cedar Waxwing	cedwax	0.1157	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2235.0
+155	Spectrogram 1	1	2247.0	2250.0	0	12000.0	Cedar Waxwing	cedwax	0.7645	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2247.0
+156	Spectrogram 1	1	2253.0	2256.0	0	12000.0	Cedar Waxwing	cedwax	0.7142	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2253.0
+157	Spectrogram 1	1	2259.0	2262.0	0	12000.0	Cedar Waxwing	cedwax	0.8031	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2259.0
+158	Spectrogram 1	1	2268.0	2271.0	0	12000.0	Cedar Waxwing	cedwax	0.7843	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2268.0
+159	Spectrogram 1	1	2274.0	2277.0	0	12000.0	Cedar Waxwing	cedwax	0.7819	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2274.0
+160	Spectrogram 1	1	2283.0	2286.0	0	12000.0	Cedar Waxwing	cedwax	0.8182	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2283.0
+161	Spectrogram 1	1	2289.0	2292.0	0	12000.0	Cedar Waxwing	cedwax	0.8263	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2289.0
+162	Spectrogram 1	1	2292.0	2295.0	0	12000.0	Cedar Waxwing	cedwax	0.1245	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2292.0
+163	Spectrogram 1	1	2295.0	2298.0	0	12000.0	Cedar Waxwing	cedwax	0.4679	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2295.0
+164	Spectrogram 1	1	2298.0	2301.0	0	12000.0	Cedar Waxwing	cedwax	0.2188	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2298.0
+165	Spectrogram 1	1	2301.0	2304.0	0	12000.0	Cedar Waxwing	cedwax	0.2070	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2301.0
+166	Spectrogram 1	1	2307.0	2310.0	0	12000.0	Cedar Waxwing	cedwax	0.5038	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2307.0
+167	Spectrogram 1	1	2310.0	2313.0	0	12000.0	Cedar Waxwing	cedwax	0.5349	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2310.0
+168	Spectrogram 1	1	2328.0	2331.0	0	12000.0	Dark-eyed Junco	daejun	0.2321	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2328.0
+169	Spectrogram 1	1	2331.0	2334.0	0	12000.0	Dark-eyed Junco	daejun	0.4459	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2331.0
+170	Spectrogram 1	1	2334.0	2337.0	0	12000.0	Dark-eyed Junco	daejun	0.2696	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2334.0
+171	Spectrogram 1	1	2337.0	2340.0	0	12000.0	Dark-eyed Junco	daejun	0.2979	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2337.0
+172	Spectrogram 1	1	2340.0	2343.0	0	12000.0	Dark-eyed Junco	daejun	0.6558	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2340.0
+173	Spectrogram 1	1	2343.0	2346.0	0	12000.0	Dark-eyed Junco	daejun	0.2582	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2343.0
+174	Spectrogram 1	1	2349.0	2352.0	0	12000.0	Dark-eyed Junco	daejun	0.5386	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2349.0
+175	Spectrogram 1	1	2352.0	2355.0	0	12000.0	Dark-eyed Junco	daejun	0.2930	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2352.0
+176	Spectrogram 1	1	2355.0	2358.0	0	12000.0	American Crow	amecro	0.1171	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2355.0
+177	Spectrogram 1	1	2358.0	2361.0	0	12000.0	Dark-eyed Junco	daejun	0.7285	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2358.0
+178	Spectrogram 1	1	2364.0	2367.0	0	12000.0	Dark-eyed Junco	daejun	0.4115	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2364.0
+179	Spectrogram 1	1	2376.0	2379.0	0	12000.0	Dark-eyed Junco	daejun	0.7004	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2376.0
+180	Spectrogram 1	1	2394.0	2397.0	0	12000.0	Dark-eyed Junco	daejun	0.1638	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2394.0
+181	Spectrogram 1	1	2397.0	2400.0	0	12000.0	Dark-eyed Junco	daejun	0.1292	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2397.0
+182	Spectrogram 1	1	2403.0	2406.0	0	12000.0	Dark-eyed Junco	daejun	0.2742	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2403.0
+183	Spectrogram 1	1	2409.0	2412.0	0	12000.0	Dark-eyed Junco	daejun	0.4014	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2409.0
+184	Spectrogram 1	1	2418.0	2421.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9301	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2418.0
+185	Spectrogram 1	1	2421.0	2424.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5069	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2421.0
+186	Spectrogram 1	1	2424.0	2427.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9412	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2424.0
+187	Spectrogram 1	1	2424.0	2427.0	0	12000.0	Brown Creeper	brncre	0.1092	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2424.0
+188	Spectrogram 1	1	2427.0	2430.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5318	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2427.0
+189	Spectrogram 1	1	2430.0	2433.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8615	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2430.0
+190	Spectrogram 1	1	2433.0	2436.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7850	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2433.0
+191	Spectrogram 1	1	2439.0	2442.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6343	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2439.0
+192	Spectrogram 1	1	2442.0	2445.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7460	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2442.0
+193	Spectrogram 1	1	2445.0	2448.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3619	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2445.0
+194	Spectrogram 1	1	2448.0	2451.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4647	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2448.0
+195	Spectrogram 1	1	2457.0	2460.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5942	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2457.0
+196	Spectrogram 1	1	2457.0	2460.0	0	12000.0	Brown Creeper	brncre	0.2787	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2457.0
+197	Spectrogram 1	1	2460.0	2463.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3492	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2460.0
+198	Spectrogram 1	1	2469.0	2472.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1749	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2469.0
+199	Spectrogram 1	1	2472.0	2475.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1382	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2472.0
+200	Spectrogram 1	1	2475.0	2478.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2789	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2475.0
+201	Spectrogram 1	1	2478.0	2481.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5473	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2478.0
+202	Spectrogram 1	1	2478.0	2481.0	0	12000.0	Brown Creeper	brncre	0.2940	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2478.0
+203	Spectrogram 1	1	2481.0	2484.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4236	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2481.0
+204	Spectrogram 1	1	2484.0	2487.0	0	12000.0	Brown Creeper	brncre	0.4053	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2484.0
+205	Spectrogram 1	1	2484.0	2487.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3506	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2484.0
+206	Spectrogram 1	1	2487.0	2490.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1878	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2487.0
+207	Spectrogram 1	1	2490.0	2493.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2142	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2490.0
+208	Spectrogram 1	1	2490.0	2493.0	0	12000.0	Brown Creeper	brncre	0.1630	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2490.0
+209	Spectrogram 1	1	2493.0	2496.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6597	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2493.0
+210	Spectrogram 1	1	2499.0	2502.0	0	12000.0	Brown Creeper	brncre	0.1121	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2499.0
+211	Spectrogram 1	1	2529.0	2532.0	0	12000.0	Brown Creeper	brncre	0.1532	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2529.0
+212	Spectrogram 1	1	2532.0	2535.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5344	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2532.0
+213	Spectrogram 1	1	2544.0	2547.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8022	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2544.0
+214	Spectrogram 1	1	2544.0	2547.0	0	12000.0	Brown Creeper	brncre	0.1706	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2544.0
+215	Spectrogram 1	1	2547.0	2550.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4156	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2547.0
+216	Spectrogram 1	1	2550.0	2553.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2298	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2550.0
+217	Spectrogram 1	1	2553.0	2556.0	0	12000.0	Brown Creeper	brncre	0.1213	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2553.0
+218	Spectrogram 1	1	2553.0	2556.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1149	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2553.0
+219	Spectrogram 1	1	2559.0	2562.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5705	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2559.0
+220	Spectrogram 1	1	2562.0	2565.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4400	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2562.0
+221	Spectrogram 1	1	2568.0	2571.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1334	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2568.0
+222	Spectrogram 1	1	2583.0	2586.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2552	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2583.0
+223	Spectrogram 1	1	2589.0	2592.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2828	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2589.0
+224	Spectrogram 1	1	2595.0	2598.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5686	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2595.0
+225	Spectrogram 1	1	2601.0	2604.0	0	12000.0	Brown Creeper	brncre	0.1244	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2601.0
+226	Spectrogram 1	1	2604.0	2607.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4196	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2604.0
+227	Spectrogram 1	1	2616.0	2619.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4027	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2616.0
+228	Spectrogram 1	1	2622.0	2625.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2719	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2622.0
+229	Spectrogram 1	1	2622.0	2625.0	0	12000.0	Brown Creeper	brncre	0.1362	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2622.0
+230	Spectrogram 1	1	2631.0	2634.0	0	12000.0	Brown Creeper	brncre	0.2156	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2631.0
+231	Spectrogram 1	1	2631.0	2634.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1178	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2631.0
+232	Spectrogram 1	1	2634.0	2637.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3450	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2634.0
+233	Spectrogram 1	1	2634.0	2637.0	0	12000.0	Brown Creeper	brncre	0.1428	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2634.0
+234	Spectrogram 1	1	2640.0	2643.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2334	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2640.0
+235	Spectrogram 1	1	2643.0	2646.0	0	12000.0	Brown Creeper	brncre	0.1518	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2643.0
+236	Spectrogram 1	1	2643.0	2646.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1248	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2643.0
+237	Spectrogram 1	1	2661.0	2664.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3253	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2661.0
+238	Spectrogram 1	1	2670.0	2673.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2422	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2670.0
+239	Spectrogram 1	1	2742.0	2745.0	0	12000.0	American Crow	amecro	0.1358	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2742.0
+240	Spectrogram 1	1	2748.0	2751.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2071	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2748.0
+241	Spectrogram 1	1	2760.0	2763.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7937	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2760.0
+242	Spectrogram 1	1	2769.0	2772.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4714	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2769.0
+243	Spectrogram 1	1	2787.0	2790.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6284	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2787.0
+244	Spectrogram 1	1	2799.0	2802.0	0	12000.0	Brown Creeper	brncre	0.1162	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2799.0
+245	Spectrogram 1	1	2934.0	2937.0	0	12000.0	American Crow	amecro	0.1009	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2934.0
+246	Spectrogram 1	1	2961.0	2964.0	0	12000.0	Cedar Waxwing	cedwax	0.2803	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2961.0
+247	Spectrogram 1	1	2967.0	2970.0	0	12000.0	Cedar Waxwing	cedwax	0.1321	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	2967.0
+248	Spectrogram 1	1	3000.0	3003.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5717	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	3000.0
+249	Spectrogram 1	1	3021.0	3024.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6247	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	3021.0
+250	Spectrogram 1	1	3024.0	3027.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6687	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	3024.0
+251	Spectrogram 1	1	3027.0	3030.0	0	12000.0	American Crow	amecro	0.1203	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	3027.0
+252	Spectrogram 1	1	3030.0	3033.0	0	12000.0	American Crow	amecro	0.2412	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	3030.0
+253	Spectrogram 1	1	3033.0	3036.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8035	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	3033.0
+254	Spectrogram 1	1	3057.0	3060.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5950	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	3057.0
+255	Spectrogram 1	1	3315.0	3318.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1043	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	3315.0
+256	Spectrogram 1	1	3426.0	3429.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5032	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	3426.0
+257	Spectrogram 1	1	3429.0	3432.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1173	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	3429.0
+258	Spectrogram 1	1	3432.0	3435.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2917	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	3432.0
+259	Spectrogram 1	1	3432.0	3435.0	0	12000.0	Brown Creeper	brncre	0.2557	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	3432.0
+260	Spectrogram 1	1	3435.0	3438.0	0	12000.0	Brown Creeper	brncre	0.1989	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	3435.0
+261	Spectrogram 1	1	3435.0	3438.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1506	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	3435.0
+262	Spectrogram 1	1	3438.0	3441.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6972	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	3438.0
+263	Spectrogram 1	1	3444.0	3447.0	0	12000.0	Brown Creeper	brncre	0.3358	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	3444.0
+264	Spectrogram 1	1	3444.0	3447.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1365	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	3444.0
+265	Spectrogram 1	1	3447.0	3450.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1222	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	3447.0
+266	Spectrogram 1	1	3450.0	3453.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1355	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	3450.0
+267	Spectrogram 1	1	3591.0	3594.0	0	12000.0	American Crow	amecro	0.1678	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240804_052102.wav	3591.0

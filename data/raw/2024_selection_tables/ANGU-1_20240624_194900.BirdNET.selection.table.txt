@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	585.0	588.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1154	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240624_194900.wav	585.0
+2	Spectrogram 1	1	2961.0	2964.0	0	12000.0	Swainson's Thrush	swathr	0.2219	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240624_194900.wav	2961.0
+3	Spectrogram 1	1	2967.0	2970.0	0	12000.0	Swainson's Thrush	swathr	0.6082	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240624_194900.wav	2967.0

@@ -1,0 +1,30 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	87.0	90.0	0	12000.0	Brown Creeper	brncre	0.3694	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	87.0
+2	Spectrogram 1	1	225.0	228.0	0	12000.0	American Crow	amecro	0.1642	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	225.0
+3	Spectrogram 1	1	657.0	660.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4010	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	657.0
+4	Spectrogram 1	1	657.0	660.0	0	12000.0	Brown Creeper	brncre	0.1267	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	657.0
+5	Spectrogram 1	1	663.0	666.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3422	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	663.0
+6	Spectrogram 1	1	663.0	666.0	0	12000.0	Brown Creeper	brncre	0.1447	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	663.0
+7	Spectrogram 1	1	1011.0	1014.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.1771	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	1011.0
+8	Spectrogram 1	1	1125.0	1128.0	0	12000.0	Swainson's Thrush	swathr	0.3679	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	1125.0
+9	Spectrogram 1	1	1275.0	1278.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4460	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	1275.0
+10	Spectrogram 1	1	1362.0	1365.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8972	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	1362.0
+11	Spectrogram 1	1	1392.0	1395.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8586	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	1392.0
+12	Spectrogram 1	1	1416.0	1419.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9031	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	1416.0
+13	Spectrogram 1	1	1536.0	1539.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3723	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	1536.0
+14	Spectrogram 1	1	1845.0	1848.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4382	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	1845.0
+15	Spectrogram 1	1	1869.0	1872.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5245	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	1869.0
+16	Spectrogram 1	1	3183.0	3186.0	0	12000.0	Swainson's Thrush	swathr	0.1411	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	3183.0
+17	Spectrogram 1	1	3228.0	3231.0	0	12000.0	Swainson's Thrush	swathr	0.2197	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	3228.0
+18	Spectrogram 1	1	3237.0	3240.0	0	12000.0	Swainson's Thrush	swathr	0.2425	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	3237.0
+19	Spectrogram 1	1	3243.0	3246.0	0	12000.0	Swainson's Thrush	swathr	0.4420	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	3243.0
+20	Spectrogram 1	1	3246.0	3249.0	0	12000.0	Swainson's Thrush	swathr	0.6331	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	3246.0
+21	Spectrogram 1	1	3249.0	3252.0	0	12000.0	Swainson's Thrush	swathr	0.8415	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	3249.0
+22	Spectrogram 1	1	3252.0	3255.0	0	12000.0	Swainson's Thrush	swathr	0.3516	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	3252.0
+23	Spectrogram 1	1	3255.0	3258.0	0	12000.0	Swainson's Thrush	swathr	0.3449	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	3255.0
+24	Spectrogram 1	1	3258.0	3261.0	0	12000.0	Swainson's Thrush	swathr	0.6755	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	3258.0
+25	Spectrogram 1	1	3261.0	3264.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1961	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	3261.0
+26	Spectrogram 1	1	3261.0	3264.0	0	12000.0	Swainson's Thrush	swathr	0.1940	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	3261.0
+27	Spectrogram 1	1	3264.0	3267.0	0	12000.0	Swainson's Thrush	swathr	0.5137	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	3264.0
+28	Spectrogram 1	1	3267.0	3270.0	0	12000.0	Swainson's Thrush	swathr	0.1757	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	3267.0
+29	Spectrogram 1	1	3270.0	3273.0	0	12000.0	Swainson's Thrush	swathr	0.3815	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240718_194000.wav	3270.0

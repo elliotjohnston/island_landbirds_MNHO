@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	840.0	843.0	0	12000.0	Brown Creeper	brncre	0.1037	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_045400.wav	840.0
+2	Spectrogram 1	1	1161.0	1164.0	0	12000.0	Common Raven	comrav	0.2225	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_045400.wav	1161.0
+3	Spectrogram 1	1	1500.0	1503.0	0	12000.0	Ovenbird	ovenbi1	0.1286	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_045400.wav	1500.0
+4	Spectrogram 1	1	2520.0	2523.0	0	12000.0	American Crow	amecro	0.9751	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_045400.wav	2520.0
+5	Spectrogram 1	1	2523.0	2526.0	0	12000.0	American Crow	amecro	0.7132	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_045400.wav	2523.0
+6	Spectrogram 1	1	2526.0	2529.0	0	12000.0	American Crow	amecro	0.9810	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_045400.wav	2526.0
+7	Spectrogram 1	1	2799.0	2802.0	0	12000.0	Pileated Woodpecker	pilwoo	0.2439	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_045400.wav	2799.0
+8	Spectrogram 1	1	2853.0	2856.0	0	12000.0	American Crow	amecro	0.1638	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_045400.wav	2853.0
+9	Spectrogram 1	1	3084.0	3087.0	0	12000.0	American Crow	amecro	0.6780	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_045400.wav	3084.0
+10	Spectrogram 1	1	3144.0	3147.0	0	12000.0	Common Raven	comrav	0.1063	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_045400.wav	3144.0
+11	Spectrogram 1	1	3309.0	3312.0	0	12000.0	American Redstart	amered	0.2606	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_045400.wav	3309.0
+12	Spectrogram 1	1	3312.0	3315.0	0	12000.0	American Redstart	amered	0.1793	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_045400.wav	3312.0
+13	Spectrogram 1	1	3315.0	3318.0	0	12000.0	American Redstart	amered	0.6325	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_045400.wav	3315.0
+14	Spectrogram 1	1	3318.0	3321.0	0	12000.0	American Redstart	amered	0.2558	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_045400.wav	3318.0
+15	Spectrogram 1	1	3330.0	3333.0	0	12000.0	American Redstart	amered	0.1379	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_045400.wav	3330.0
+16	Spectrogram 1	1	3333.0	3336.0	0	12000.0	American Redstart	amered	0.2095	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_045400.wav	3333.0
+17	Spectrogram 1	1	3339.0	3342.0	0	12000.0	American Redstart	amered	0.6050	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_045400.wav	3339.0
+18	Spectrogram 1	1	3348.0	3351.0	0	12000.0	American Redstart	amered	0.3275	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_045400.wav	3348.0
+19	Spectrogram 1	1	3354.0	3357.0	0	12000.0	American Redstart	amered	0.1229	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_045400.wav	3354.0
+20	Spectrogram 1	1	3357.0	3360.0	0	12000.0	American Redstart	amered	0.1310	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_045400.wav	3357.0
+21	Spectrogram 1	1	3489.0	3492.0	0	12000.0	Downy Woodpecker	dowwoo	0.1262	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240827_045400.wav	3489.0

@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	414.0	417.0	0	12000.0	Brown Creeper	brncre	0.1056	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240818_190000.wav	414.0
+2	Spectrogram 1	1	417.0	420.0	0	12000.0	Brown Creeper	brncre	0.3153	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240818_190000.wav	417.0
+3	Spectrogram 1	1	429.0	432.0	0	12000.0	Brown Creeper	brncre	0.1285	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240818_190000.wav	429.0
+4	Spectrogram 1	1	432.0	435.0	0	12000.0	Brown Creeper	brncre	0.2148	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240818_190000.wav	432.0
+5	Spectrogram 1	1	435.0	438.0	0	12000.0	Brown Creeper	brncre	0.2272	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240818_190000.wav	435.0
+6	Spectrogram 1	1	447.0	450.0	0	12000.0	Brown Creeper	brncre	0.1133	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240818_190000.wav	447.0
+7	Spectrogram 1	1	456.0	459.0	0	12000.0	Brown Creeper	brncre	0.2644	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240818_190000.wav	456.0
+8	Spectrogram 1	1	459.0	462.0	0	12000.0	Brown Creeper	brncre	0.1664	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240818_190000.wav	459.0
+9	Spectrogram 1	1	501.0	504.0	0	12000.0	Brown Creeper	brncre	0.3304	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240818_190000.wav	501.0
+10	Spectrogram 1	1	504.0	507.0	0	12000.0	Brown Creeper	brncre	0.3569	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240818_190000.wav	504.0
+11	Spectrogram 1	1	516.0	519.0	0	12000.0	Brown Creeper	brncre	0.4011	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240818_190000.wav	516.0
+12	Spectrogram 1	1	522.0	525.0	0	12000.0	Brown Creeper	brncre	0.3724	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240818_190000.wav	522.0
+13	Spectrogram 1	1	522.0	525.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2913	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240818_190000.wav	522.0
+14	Spectrogram 1	1	528.0	531.0	0	12000.0	Brown Creeper	brncre	0.5623	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240818_190000.wav	528.0
+15	Spectrogram 1	1	534.0	537.0	0	12000.0	Brown Creeper	brncre	0.5444	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240818_190000.wav	534.0
+16	Spectrogram 1	1	546.0	549.0	0	12000.0	Brown Creeper	brncre	0.2831	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240818_190000.wav	546.0
+17	Spectrogram 1	1	681.0	684.0	0	12000.0	Brown Creeper	brncre	0.2817	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240818_190000.wav	681.0
+18	Spectrogram 1	1	699.0	702.0	0	12000.0	Brown Creeper	brncre	0.1408	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240818_190000.wav	699.0
+19	Spectrogram 1	1	732.0	735.0	0	12000.0	Brown Creeper	brncre	0.3562	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240818_190000.wav	732.0
+20	Spectrogram 1	1	750.0	753.0	0	12000.0	Brown Creeper	brncre	0.2932	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240818_190000.wav	750.0

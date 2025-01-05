@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1308.0	1311.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2297	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240729_192900.wav	1308.0
+2	Spectrogram 1	1	1416.0	1419.0	0	12000.0	Swainson's Thrush	swathr	0.1288	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240729_192900.wav	1416.0
+3	Spectrogram 1	1	1791.0	1794.0	0	12000.0	Swainson's Thrush	swathr	0.1178	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240729_192900.wav	1791.0
+4	Spectrogram 1	1	1827.0	1830.0	0	12000.0	Swainson's Thrush	swathr	0.1873	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240729_192900.wav	1827.0
+5	Spectrogram 1	1	1839.0	1842.0	0	12000.0	Swainson's Thrush	swathr	0.3316	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240729_192900.wav	1839.0
+6	Spectrogram 1	1	1842.0	1845.0	0	12000.0	Swainson's Thrush	swathr	0.2581	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240729_192900.wav	1842.0
+7	Spectrogram 1	1	1845.0	1848.0	0	12000.0	Swainson's Thrush	swathr	0.2001	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240729_192900.wav	1845.0
+8	Spectrogram 1	1	1848.0	1851.0	0	12000.0	Swainson's Thrush	swathr	0.3989	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240729_192900.wav	1848.0
+9	Spectrogram 1	1	2835.0	2838.0	0	12000.0	Hermit Thrush	herthr	0.4724	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240729_192900.wav	2835.0
+10	Spectrogram 1	1	2841.0	2844.0	0	12000.0	Hermit Thrush	herthr	0.4221	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240729_192900.wav	2841.0
+11	Spectrogram 1	1	2844.0	2847.0	0	12000.0	Hermit Thrush	herthr	0.3086	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240729_192900.wav	2844.0

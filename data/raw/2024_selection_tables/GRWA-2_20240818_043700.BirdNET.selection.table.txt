@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1791.0	1794.0	0	12000.0	Hermit Thrush	herthr	0.3117	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_043700.wav	1791.0
+2	Spectrogram 1	1	1851.0	1854.0	0	12000.0	Hermit Thrush	herthr	0.4790	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_043700.wav	1851.0
+3	Spectrogram 1	1	1857.0	1860.0	0	12000.0	Hermit Thrush	herthr	0.3410	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_043700.wav	1857.0
+4	Spectrogram 1	1	1869.0	1872.0	0	12000.0	Hermit Thrush	herthr	0.4767	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_043700.wav	1869.0
+5	Spectrogram 1	1	1878.0	1881.0	0	12000.0	Brown Creeper	brncre	0.1177	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_043700.wav	1878.0
+6	Spectrogram 1	1	1890.0	1893.0	0	12000.0	Hermit Thrush	herthr	0.1752	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_043700.wav	1890.0
+7	Spectrogram 1	1	1947.0	1950.0	0	12000.0	Hermit Thrush	herthr	0.2427	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_043700.wav	1947.0
+8	Spectrogram 1	1	1959.0	1962.0	0	12000.0	Hermit Thrush	herthr	0.2120	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_043700.wav	1959.0
+9	Spectrogram 1	1	2064.0	2067.0	0	12000.0	Hermit Thrush	herthr	0.2097	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_043700.wav	2064.0
+10	Spectrogram 1	1	2073.0	2076.0	0	12000.0	Hermit Thrush	herthr	0.5327	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_043700.wav	2073.0
+11	Spectrogram 1	1	2073.0	2076.0	0	12000.0	Swainson's Thrush	swathr	0.1047	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_043700.wav	2073.0
+12	Spectrogram 1	1	2127.0	2130.0	0	12000.0	Hermit Thrush	herthr	0.7021	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_043700.wav	2127.0
+13	Spectrogram 1	1	2250.0	2253.0	0	12000.0	Hermit Thrush	herthr	0.1462	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_043700.wav	2250.0
+14	Spectrogram 1	1	2262.0	2265.0	0	12000.0	Hermit Thrush	herthr	0.1897	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_043700.wav	2262.0
+15	Spectrogram 1	1	2268.0	2271.0	0	12000.0	Hermit Thrush	herthr	0.7598	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_043700.wav	2268.0
+16	Spectrogram 1	1	2298.0	2301.0	0	12000.0	Hermit Thrush	herthr	0.6943	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_043700.wav	2298.0
+17	Spectrogram 1	1	2562.0	2565.0	0	12000.0	Hermit Thrush	herthr	0.3748	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_043700.wav	2562.0
+18	Spectrogram 1	1	2679.0	2682.0	0	12000.0	Hermit Thrush	herthr	0.1902	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_043700.wav	2679.0
+19	Spectrogram 1	1	3087.0	3090.0	0	12000.0	Brown Creeper	brncre	0.1015	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_043700.wav	3087.0
+20	Spectrogram 1	1	3453.0	3456.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2349	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_043700.wav	3453.0
+21	Spectrogram 1	1	3507.0	3510.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1340	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_043700.wav	3507.0
+22	Spectrogram 1	1	3519.0	3522.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2579	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_043700.wav	3519.0
+23	Spectrogram 1	1	3555.0	3558.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1201	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_043700.wav	3555.0

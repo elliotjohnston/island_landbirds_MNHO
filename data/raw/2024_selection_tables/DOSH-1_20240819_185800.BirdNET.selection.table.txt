@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	63.0	66.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7509	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240819_185800.wav	63.0
+2	Spectrogram 1	1	63.0	66.0	0	12000.0	Brown Creeper	brncre	0.1373	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240819_185800.wav	63.0
+3	Spectrogram 1	1	69.0	72.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3060	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240819_185800.wav	69.0
+4	Spectrogram 1	1	111.0	114.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1318	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240819_185800.wav	111.0
+5	Spectrogram 1	1	138.0	141.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2087	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240819_185800.wav	138.0
+6	Spectrogram 1	1	264.0	267.0	0	12000.0	Dark-eyed Junco	daejun	0.1024	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240819_185800.wav	264.0
+7	Spectrogram 1	1	282.0	285.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1052	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240819_185800.wav	282.0
+8	Spectrogram 1	1	297.0	300.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2171	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240819_185800.wav	297.0
+9	Spectrogram 1	1	312.0	315.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1940	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240819_185800.wav	312.0
+10	Spectrogram 1	1	339.0	342.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1162	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240819_185800.wav	339.0
+11	Spectrogram 1	1	519.0	522.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1849	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240819_185800.wav	519.0
+12	Spectrogram 1	1	525.0	528.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1951	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240819_185800.wav	525.0
+13	Spectrogram 1	1	555.0	558.0	0	12000.0	Dark-eyed Junco	daejun	0.1111	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240819_185800.wav	555.0
+14	Spectrogram 1	1	573.0	576.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2440	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240819_185800.wav	573.0
+15	Spectrogram 1	1	639.0	642.0	0	12000.0	Dark-eyed Junco	daejun	0.1821	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240819_185800.wav	639.0
+16	Spectrogram 1	1	1044.0	1047.0	0	12000.0	Black-capped Chickadee	bkcchi	0.1264	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240819_185800.wav	1044.0

@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	99.0	102.0	0	12000.0	Scarlet Tanager	scatan	0.1388	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240804_192100.wav	99.0
+2	Spectrogram 1	1	468.0	471.0	0	12000.0	Black-capped Chickadee	bkcchi	0.1223	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240804_192100.wav	468.0
+3	Spectrogram 1	1	1032.0	1035.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1206	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240804_192100.wav	1032.0
+4	Spectrogram 1	1	2229.0	2232.0	0	12000.0	Swainson's Thrush	swathr	0.4403	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240804_192100.wav	2229.0
+5	Spectrogram 1	1	2232.0	2235.0	0	12000.0	Swainson's Thrush	swathr	0.3477	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240804_192100.wav	2232.0
+6	Spectrogram 1	1	3036.0	3039.0	0	12000.0	Scarlet Tanager	scatan	0.2057	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240804_192100.wav	3036.0
+7	Spectrogram 1	1	3201.0	3204.0	0	12000.0	Hairy Woodpecker	haiwoo	0.6497	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240804_192100.wav	3201.0
+8	Spectrogram 1	1	3216.0	3219.0	0	12000.0	Hairy Woodpecker	haiwoo	0.5022	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240804_192100.wav	3216.0

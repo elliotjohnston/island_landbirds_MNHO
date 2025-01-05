@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	0	3.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3092	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240505_191200.wav	0
+2	Spectrogram 1	1	0	3.0	0	12000.0	Brown Creeper	brncre	0.1342	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240505_191200.wav	0
+3	Spectrogram 1	1	21.0	24.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1490	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240505_191200.wav	21.0
+4	Spectrogram 1	1	105.0	108.0	0	12000.0	Brown Creeper	brncre	0.2071	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240505_191200.wav	105.0
+5	Spectrogram 1	1	105.0	108.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1139	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240505_191200.wav	105.0
+6	Spectrogram 1	1	135.0	138.0	0	12000.0	Winter Wren	winwre3	0.1529	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240505_191200.wav	135.0
+7	Spectrogram 1	1	138.0	141.0	0	12000.0	Winter Wren	winwre3	0.1555	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240505_191200.wav	138.0
+8	Spectrogram 1	1	171.0	174.0	0	12000.0	Winter Wren	winwre3	0.1239	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240505_191200.wav	171.0
+9	Spectrogram 1	1	186.0	189.0	0	12000.0	Winter Wren	winwre3	0.9208	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240505_191200.wav	186.0
+10	Spectrogram 1	1	312.0	315.0	0	12000.0	Winter Wren	winwre3	0.1328	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240505_191200.wav	312.0
+11	Spectrogram 1	1	633.0	636.0	0	12000.0	Brown Creeper	brncre	0.2133	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240505_191200.wav	633.0
+12	Spectrogram 1	1	705.0	708.0	0	12000.0	Winter Wren	winwre3	0.3350	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240505_191200.wav	705.0
+13	Spectrogram 1	1	708.0	711.0	0	12000.0	Winter Wren	winwre3	0.2943	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240505_191200.wav	708.0
+14	Spectrogram 1	1	813.0	816.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6593	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240505_191200.wav	813.0
+15	Spectrogram 1	1	1326.0	1329.0	0	12000.0	Winter Wren	winwre3	0.8932	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240505_191200.wav	1326.0
+16	Spectrogram 1	1	1329.0	1332.0	0	12000.0	Winter Wren	winwre3	0.7779	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240505_191200.wav	1329.0
+17	Spectrogram 1	1	1557.0	1560.0	0	12000.0	Winter Wren	winwre3	0.6571	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240505_191200.wav	1557.0
+18	Spectrogram 1	1	1716.0	1719.0	0	12000.0	Winter Wren	winwre3	0.9655	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240505_191200.wav	1716.0
+19	Spectrogram 1	1	1719.0	1722.0	0	12000.0	Winter Wren	winwre3	0.9313	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240505_191200.wav	1719.0
+20	Spectrogram 1	1	1848.0	1851.0	0	12000.0	Winter Wren	winwre3	0.6075	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240505_191200.wav	1848.0
+21	Spectrogram 1	1	1851.0	1854.0	0	12000.0	Winter Wren	winwre3	0.1677	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240505_191200.wav	1851.0

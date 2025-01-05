@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1110.0	1113.0	0	12000.0	American Crow	amecro	0.1429	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240802_192300.wav	1110.0
+2	Spectrogram 1	1	1161.0	1164.0	0	12000.0	Song Sparrow	sonspa	0.1355	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240802_192300.wav	1161.0
+3	Spectrogram 1	1	1194.0	1197.0	0	12000.0	Song Sparrow	sonspa	0.1354	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240802_192300.wav	1194.0
+4	Spectrogram 1	1	1215.0	1218.0	0	12000.0	Winter Wren	winwre3	0.1195	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240802_192300.wav	1215.0
+5	Spectrogram 1	1	1251.0	1254.0	0	12000.0	Song Sparrow	sonspa	0.2212	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240802_192300.wav	1251.0
+6	Spectrogram 1	1	1254.0	1257.0	0	12000.0	Brown Creeper	brncre	0.6250	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240802_192300.wav	1254.0
+7	Spectrogram 1	1	1263.0	1266.0	0	12000.0	Song Sparrow	sonspa	0.2735	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240802_192300.wav	1263.0
+8	Spectrogram 1	1	1275.0	1278.0	0	12000.0	Song Sparrow	sonspa	0.2480	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240802_192300.wav	1275.0
+9	Spectrogram 1	1	1362.0	1365.0	0	12000.0	Song Sparrow	sonspa	0.2108	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240802_192300.wav	1362.0
+10	Spectrogram 1	1	1365.0	1368.0	0	12000.0	Song Sparrow	sonspa	0.4088	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240802_192300.wav	1365.0
+11	Spectrogram 1	1	1365.0	1368.0	0	12000.0	White-crowned Sparrow	whcspa	0.2112	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240802_192300.wav	1365.0
+12	Spectrogram 1	1	1506.0	1509.0	0	12000.0	Song Sparrow	sonspa	0.2420	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240802_192300.wav	1506.0
+13	Spectrogram 1	1	1575.0	1578.0	0	12000.0	Song Sparrow	sonspa	0.2563	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240802_192300.wav	1575.0
+14	Spectrogram 1	1	1596.0	1599.0	0	12000.0	Brown Creeper	brncre	0.3648	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240802_192300.wav	1596.0
+15	Spectrogram 1	1	1695.0	1698.0	0	12000.0	Song Sparrow	sonspa	0.5797	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240802_192300.wav	1695.0
+16	Spectrogram 1	1	2259.0	2262.0	0	12000.0	Song Sparrow	sonspa	0.1164	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240802_192300.wav	2259.0
+17	Spectrogram 1	1	2370.0	2373.0	0	12000.0	Song Sparrow	sonspa	0.3429	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240802_192300.wav	2370.0
+18	Spectrogram 1	1	2373.0	2376.0	0	12000.0	Black-capped Chickadee	bkcchi	0.1874	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240802_192300.wav	2373.0
+19	Spectrogram 1	1	2451.0	2454.0	0	12000.0	Song Sparrow	sonspa	0.1769	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240802_192300.wav	2451.0

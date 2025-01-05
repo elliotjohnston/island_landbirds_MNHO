@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	3036.0	3039.0	0	12000.0	American Crow	amecro	0.2682	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240828_045300.wav	3036.0
+2	Spectrogram 1	1	3522.0	3525.0	0	12000.0	Pileated Woodpecker	pilwoo	0.9803	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240828_045300.wav	3522.0
+3	Spectrogram 1	1	3525.0	3528.0	0	12000.0	Pileated Woodpecker	pilwoo	0.1490	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240828_045300.wav	3525.0

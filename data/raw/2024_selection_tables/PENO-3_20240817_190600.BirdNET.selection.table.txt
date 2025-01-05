@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	102.0	105.0	0	12000.0	Great Crested Flycatcher	grcfly	0.1371	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240817_190600.wav	102.0
+2	Spectrogram 1	1	219.0	222.0	0	12000.0	Northern Waterthrush	norwat	0.1369	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240817_190600.wav	219.0
+3	Spectrogram 1	1	354.0	357.0	0	12000.0	American Crow	amecro	0.1106	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240817_190600.wav	354.0
+4	Spectrogram 1	1	549.0	552.0	0	12000.0	Common Raven	comrav	0.1510	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240817_190600.wav	549.0
+5	Spectrogram 1	1	1125.0	1128.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1065	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240817_190600.wav	1125.0
+6	Spectrogram 1	1	1188.0	1191.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1337	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240817_190600.wav	1188.0
+7	Spectrogram 1	1	1194.0	1197.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3802	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240817_190600.wav	1194.0
+8	Spectrogram 1	1	1278.0	1281.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2228	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240817_190600.wav	1278.0

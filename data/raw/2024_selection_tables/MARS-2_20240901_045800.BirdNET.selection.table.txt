@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	600.0	603.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.2107	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240901_045800.wav	600.0
+2	Spectrogram 1	1	2742.0	2745.0	0	12000.0	American Crow	amecro	0.2089	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240901_045800.wav	2742.0
+3	Spectrogram 1	1	3381.0	3384.0	0	12000.0	American Crow	amecro	0.1720	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240901_045800.wav	3381.0

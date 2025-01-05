@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	33.0	36.0	0	12000.0	White-winged Crossbill	whwcro	0.3267	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240829_184600.wav	33.0
+2	Spectrogram 1	1	498.0	501.0	0	12000.0	Cedar Waxwing	cedwax	0.1417	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240829_184600.wav	498.0
+3	Spectrogram 1	1	660.0	663.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1328	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240829_184600.wav	660.0
+4	Spectrogram 1	1	693.0	696.0	0	12000.0	Brown Creeper	brncre	0.2607	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240829_184600.wav	693.0
+5	Spectrogram 1	1	693.0	696.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1419	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240829_184600.wav	693.0
+6	Spectrogram 1	1	1335.0	1338.0	0	12000.0	Chipping Sparrow	chispa	0.1506	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240829_184600.wav	1335.0
+7	Spectrogram 1	1	1398.0	1401.0	0	12000.0	Chipping Sparrow	chispa	0.1415	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240829_184600.wav	1398.0
+8	Spectrogram 1	1	1710.0	1713.0	0	12000.0	American Crow	amecro	0.1497	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240829_184600.wav	1710.0
+9	Spectrogram 1	1	1770.0	1773.0	0	12000.0	Brown Creeper	brncre	0.1229	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240829_184600.wav	1770.0
+10	Spectrogram 1	1	2349.0	2352.0	0	12000.0	Dark-eyed Junco	daejun	0.2266	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240829_184600.wav	2349.0

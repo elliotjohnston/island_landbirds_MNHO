@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	312.0	315.0	0	12000.0	Cedar Waxwing	cedwax	0.1969	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240809_191700.wav	312.0
+2	Spectrogram 1	1	324.0	327.0	0	12000.0	Cedar Waxwing	cedwax	0.6329	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240809_191700.wav	324.0
+3	Spectrogram 1	1	1563.0	1566.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.3420	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240809_191700.wav	1563.0
+4	Spectrogram 1	1	2184.0	2187.0	0	12000.0	Cedar Waxwing	cedwax	0.2516	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240809_191700.wav	2184.0
+5	Spectrogram 1	1	3573.0	3576.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1055	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240809_191700.wav	3573.0

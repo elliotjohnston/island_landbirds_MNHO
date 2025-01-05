@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2697.0	2700.0	0	12000.0	American Crow	amecro	0.3515	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240908_050100.wav	2697.0
+2	Spectrogram 1	1	2697.0	2700.0	0	12000.0	Common Raven	comrav	0.2231	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240908_050100.wav	2697.0
+3	Spectrogram 1	1	3246.0	3249.0	0	12000.0	Common Raven	comrav	0.1740	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240908_050100.wav	3246.0
+4	Spectrogram 1	1	3249.0	3252.0	0	12000.0	Common Raven	comrav	0.1352	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240908_050100.wav	3249.0
+5	Spectrogram 1	1	3279.0	3282.0	0	12000.0	Common Raven	comrav	0.9520	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240908_050100.wav	3279.0
+6	Spectrogram 1	1	3282.0	3285.0	0	12000.0	Common Raven	comrav	0.2808	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240908_050100.wav	3282.0
+7	Spectrogram 1	1	3285.0	3288.0	0	12000.0	Common Raven	comrav	0.7801	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240908_050100.wav	3285.0

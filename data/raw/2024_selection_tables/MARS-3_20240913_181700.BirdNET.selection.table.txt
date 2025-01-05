@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1158.0	1161.0	0	12000.0	American Crow	amecro	0.2502	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240913_181700.wav	1158.0
+2	Spectrogram 1	1	1221.0	1224.0	0	12000.0	Common Raven	comrav	0.1309	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240913_181700.wav	1221.0
+3	Spectrogram 1	1	1311.0	1314.0	0	12000.0	American Crow	amecro	0.1029	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240913_181700.wav	1311.0
+4	Spectrogram 1	1	1647.0	1650.0	0	12000.0	American Crow	amecro	0.1580	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240913_181700.wav	1647.0
+5	Spectrogram 1	1	1665.0	1668.0	0	12000.0	American Crow	amecro	0.2238	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240913_181700.wav	1665.0
+6	Spectrogram 1	1	1674.0	1677.0	0	12000.0	American Crow	amecro	0.1958	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240913_181700.wav	1674.0
+7	Spectrogram 1	1	2130.0	2133.0	0	12000.0	Lincoln's Sparrow	linspa	0.1002	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240913_181700.wav	2130.0
+8	Spectrogram 1	1	2175.0	2178.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2292	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240913_181700.wav	2175.0
+9	Spectrogram 1	1	2187.0	2190.0	0	12000.0	Lincoln's Sparrow	linspa	0.1321	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240913_181700.wav	2187.0
+10	Spectrogram 1	1	2205.0	2208.0	0	12000.0	Lincoln's Sparrow	linspa	0.2326	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240913_181700.wav	2205.0
+11	Spectrogram 1	1	2208.0	2211.0	0	12000.0	Dark-eyed Junco	daejun	0.1054	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240913_181700.wav	2208.0
+12	Spectrogram 1	1	2217.0	2220.0	0	12000.0	Dark-eyed Junco	daejun	0.2739	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240913_181700.wav	2217.0
+13	Spectrogram 1	1	2217.0	2220.0	0	12000.0	Lincoln's Sparrow	linspa	0.1205	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240913_181700.wav	2217.0
+14	Spectrogram 1	1	2220.0	2223.0	0	12000.0	Dark-eyed Junco	daejun	0.1729	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240913_181700.wav	2220.0
+15	Spectrogram 1	1	2223.0	2226.0	0	12000.0	Dark-eyed Junco	daejun	0.2159	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240913_181700.wav	2223.0
+16	Spectrogram 1	1	2223.0	2226.0	0	12000.0	Lincoln's Sparrow	linspa	0.1166	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240913_181700.wav	2223.0
+17	Spectrogram 1	1	2226.0	2229.0	0	12000.0	Dark-eyed Junco	daejun	0.2616	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240913_181700.wav	2226.0
+18	Spectrogram 1	1	2301.0	2304.0	0	12000.0	Dark-eyed Junco	daejun	0.1162	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240913_181700.wav	2301.0
+19	Spectrogram 1	1	2319.0	2322.0	0	12000.0	Dark-eyed Junco	daejun	0.1730	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240913_181700.wav	2319.0
+20	Spectrogram 1	1	2346.0	2349.0	0	12000.0	Dark-eyed Junco	daejun	0.1700	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240913_181700.wav	2346.0

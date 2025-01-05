@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	15.0	18.0	0	12000.0	Cape May Warbler	camwar	0.1428	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240811_052702.wav	15.0
+2	Spectrogram 1	1	2445.0	2448.0	0	12000.0	American Crow	amecro	0.1722	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240811_052702.wav	2445.0
+3	Spectrogram 1	1	3198.0	3201.0	0	12000.0	Brown Creeper	brncre	0.2906	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240811_052702.wav	3198.0
+4	Spectrogram 1	1	3204.0	3207.0	0	12000.0	Brown Creeper	brncre	0.4819	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240811_052702.wav	3204.0
+5	Spectrogram 1	1	3210.0	3213.0	0	12000.0	Brown Creeper	brncre	0.5677	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240811_052702.wav	3210.0
+6	Spectrogram 1	1	3516.0	3519.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5570	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240811_052702.wav	3516.0
+7	Spectrogram 1	1	3540.0	3543.0	0	12000.0	Bay-breasted Warbler	babwar	0.1055	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240811_052702.wav	3540.0

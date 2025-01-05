@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2982.0	2985.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1413	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240706_035100.wav	2982.0
+2	Spectrogram 1	1	2994.0	2997.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2764	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240706_035100.wav	2994.0
+3	Spectrogram 1	1	3006.0	3009.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1764	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240706_035100.wav	3006.0
+4	Spectrogram 1	1	3018.0	3021.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1035	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240706_035100.wav	3018.0
+5	Spectrogram 1	1	3027.0	3030.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2661	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240706_035100.wav	3027.0
+6	Spectrogram 1	1	3084.0	3087.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2516	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240706_035100.wav	3084.0
+7	Spectrogram 1	1	3507.0	3510.0	0	12000.0	White-winged Crossbill	whwcro	0.1697	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240706_035100.wav	3507.0
+8	Spectrogram 1	1	3522.0	3525.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2276	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240706_035100.wav	3522.0
+9	Spectrogram 1	1	3543.0	3546.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1777	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240706_035100.wav	3543.0
+10	Spectrogram 1	1	3552.0	3555.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1987	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240706_035100.wav	3552.0
+11	Spectrogram 1	1	3555.0	3558.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2298	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240706_035100.wav	3555.0
+12	Spectrogram 1	1	3564.0	3567.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5345	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240706_035100.wav	3564.0
+13	Spectrogram 1	1	3573.0	3576.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1161	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240706_035100.wav	3573.0
+14	Spectrogram 1	1	3582.0	3585.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2376	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240706_035100.wav	3582.0
+15	Spectrogram 1	1	3591.0	3594.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2597	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240706_035100.wav	3591.0

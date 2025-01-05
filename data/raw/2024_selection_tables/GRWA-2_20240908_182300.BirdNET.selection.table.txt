@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2514.0	2517.0	0	12000.0	White-throated Sparrow	whtspa	0.1564	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240908_182300.wav	2514.0

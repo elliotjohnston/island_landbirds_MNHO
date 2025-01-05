@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	285.0	288.0	0	12000.0	Evening Grosbeak	evegro	0.1258	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240817_190100.wav	285.0
+2	Spectrogram 1	1	510.0	513.0	0	12000.0	Evening Grosbeak	evegro	0.8555	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240817_190100.wav	510.0
+3	Spectrogram 1	1	1587.0	1590.0	0	12000.0	American Crow	amecro	0.1120	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240817_190100.wav	1587.0

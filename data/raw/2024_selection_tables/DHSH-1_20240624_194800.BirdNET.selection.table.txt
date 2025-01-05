@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	402.0	405.0	0	12000.0	White-throated Sparrow	whtspa	0.1319	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240624_194800.wav	402.0
+2	Spectrogram 1	1	1086.0	1089.0	0	12000.0	Song Sparrow	sonspa	0.1341	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240624_194800.wav	1086.0
+3	Spectrogram 1	1	1104.0	1107.0	0	12000.0	Song Sparrow	sonspa	0.1567	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240624_194800.wav	1104.0
+4	Spectrogram 1	1	1113.0	1116.0	0	12000.0	Song Sparrow	sonspa	0.2502	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240624_194800.wav	1113.0
+5	Spectrogram 1	1	1125.0	1128.0	0	12000.0	Song Sparrow	sonspa	0.1970	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240624_194800.wav	1125.0
+6	Spectrogram 1	1	1134.0	1137.0	0	12000.0	Song Sparrow	sonspa	0.3166	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240624_194800.wav	1134.0
+7	Spectrogram 1	1	1146.0	1149.0	0	12000.0	Song Sparrow	sonspa	0.1866	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240624_194800.wav	1146.0
+8	Spectrogram 1	1	1158.0	1161.0	0	12000.0	Savannah Sparrow	savspa	0.1229	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240624_194800.wav	1158.0
+9	Spectrogram 1	1	1164.0	1167.0	0	12000.0	Song Sparrow	sonspa	0.2021	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240624_194800.wav	1164.0
+10	Spectrogram 1	1	1236.0	1239.0	0	12000.0	Savannah Sparrow	savspa	0.1428	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240624_194800.wav	1236.0
+11	Spectrogram 1	1	1338.0	1341.0	0	12000.0	Song Sparrow	sonspa	0.2935	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240624_194800.wav	1338.0
+12	Spectrogram 1	1	1350.0	1353.0	0	12000.0	Song Sparrow	sonspa	0.4425	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240624_194800.wav	1350.0
+13	Spectrogram 1	1	1353.0	1356.0	0	12000.0	Song Sparrow	sonspa	0.1331	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240624_194800.wav	1353.0
+14	Spectrogram 1	1	2319.0	2322.0	0	12000.0	Dark-eyed Junco	daejun	0.1712	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240624_194800.wav	2319.0

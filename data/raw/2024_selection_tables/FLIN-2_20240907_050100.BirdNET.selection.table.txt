@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2832.0	2835.0	0	12000.0	American Crow	amecro	0.2425	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240907_050100.wav	2832.0
+2	Spectrogram 1	1	2835.0	2838.0	0	12000.0	American Crow	amecro	0.1804	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240907_050100.wav	2835.0
+3	Spectrogram 1	1	2838.0	2841.0	0	12000.0	American Crow	amecro	0.1676	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240907_050100.wav	2838.0

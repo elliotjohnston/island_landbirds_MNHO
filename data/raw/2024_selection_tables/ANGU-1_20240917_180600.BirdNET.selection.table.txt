@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	213.0	216.0	0	12000.0	American Crow	amecro	0.1228	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240917_180600.wav	213.0
+2	Spectrogram 1	1	540.0	543.0	0	12000.0	American Crow	amecro	0.1151	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240917_180600.wav	540.0
+3	Spectrogram 1	1	555.0	558.0	0	12000.0	American Crow	amecro	0.1223	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240917_180600.wav	555.0
+4	Spectrogram 1	1	558.0	561.0	0	12000.0	American Crow	amecro	0.1920	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240917_180600.wav	558.0
+5	Spectrogram 1	1	567.0	570.0	0	12000.0	American Crow	amecro	0.1348	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240917_180600.wav	567.0
+6	Spectrogram 1	1	570.0	573.0	0	12000.0	American Crow	amecro	0.2516	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240917_180600.wav	570.0
+7	Spectrogram 1	1	573.0	576.0	0	12000.0	American Crow	amecro	0.1951	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240917_180600.wav	573.0
+8	Spectrogram 1	1	576.0	579.0	0	12000.0	American Crow	amecro	0.1631	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240917_180600.wav	576.0
+9	Spectrogram 1	1	579.0	582.0	0	12000.0	American Crow	amecro	0.1306	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240917_180600.wav	579.0
+10	Spectrogram 1	1	582.0	585.0	0	12000.0	American Crow	amecro	0.1047	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240917_180600.wav	582.0
+11	Spectrogram 1	1	585.0	588.0	0	12000.0	American Crow	amecro	0.2869	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240917_180600.wav	585.0
+12	Spectrogram 1	1	588.0	591.0	0	12000.0	American Crow	amecro	0.1655	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240917_180600.wav	588.0
+13	Spectrogram 1	1	657.0	660.0	0	12000.0	American Crow	amecro	0.1791	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240917_180600.wav	657.0
+14	Spectrogram 1	1	660.0	663.0	0	12000.0	American Crow	amecro	0.3145	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240917_180600.wav	660.0
+15	Spectrogram 1	1	663.0	666.0	0	12000.0	American Crow	amecro	0.4883	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240917_180600.wav	663.0
+16	Spectrogram 1	1	666.0	669.0	0	12000.0	American Crow	amecro	0.2329	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240917_180600.wav	666.0
+17	Spectrogram 1	1	669.0	672.0	0	12000.0	American Crow	amecro	0.4379	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240917_180600.wav	669.0
+18	Spectrogram 1	1	672.0	675.0	0	12000.0	American Crow	amecro	0.1364	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240917_180600.wav	672.0
+19	Spectrogram 1	1	672.0	675.0	0	12000.0	Common Raven	comrav	0.1098	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240917_180600.wav	672.0
+20	Spectrogram 1	1	678.0	681.0	0	12000.0	American Crow	amecro	0.2360	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240917_180600.wav	678.0
+21	Spectrogram 1	1	738.0	741.0	0	12000.0	Brown Creeper	brncre	0.1167	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240917_180600.wav	738.0
+22	Spectrogram 1	1	852.0	855.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2867	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240917_180600.wav	852.0
+23	Spectrogram 1	1	978.0	981.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4577	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240917_180600.wav	978.0

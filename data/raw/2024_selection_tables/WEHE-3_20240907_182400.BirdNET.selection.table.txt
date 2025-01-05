@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	537.0	540.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1455	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240907_182400.wav	537.0
+2	Spectrogram 1	1	540.0	543.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9423	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240907_182400.wav	540.0
+3	Spectrogram 1	1	546.0	549.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6093	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240907_182400.wav	546.0
+4	Spectrogram 1	1	783.0	786.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7527	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240907_182400.wav	783.0
+5	Spectrogram 1	1	840.0	843.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6312	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240907_182400.wav	840.0
+6	Spectrogram 1	1	840.0	843.0	0	12000.0	Brown Creeper	brncre	0.1460	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240907_182400.wav	840.0
+7	Spectrogram 1	1	849.0	852.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8173	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240907_182400.wav	849.0
+8	Spectrogram 1	1	1017.0	1020.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7580	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240907_182400.wav	1017.0
+9	Spectrogram 1	1	1035.0	1038.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4635	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240907_182400.wav	1035.0
+10	Spectrogram 1	1	1041.0	1044.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1661	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240907_182400.wav	1041.0
+11	Spectrogram 1	1	1044.0	1047.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1258	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240907_182400.wav	1044.0
+12	Spectrogram 1	1	1053.0	1056.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4439	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240907_182400.wav	1053.0
+13	Spectrogram 1	1	1065.0	1068.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3174	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240907_182400.wav	1065.0

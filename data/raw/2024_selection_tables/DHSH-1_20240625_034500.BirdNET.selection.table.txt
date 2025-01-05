@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2220.0	2223.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2407	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240625_034500.wav	2220.0
+2	Spectrogram 1	1	2244.0	2247.0	0	12000.0	Dark-eyed Junco	daejun	0.1295	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240625_034500.wav	2244.0
+3	Spectrogram 1	1	2262.0	2265.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1705	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240625_034500.wav	2262.0
+4	Spectrogram 1	1	2679.0	2682.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3379	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240625_034500.wav	2679.0
+5	Spectrogram 1	1	3027.0	3030.0	0	12000.0	American Crow	amecro	0.4298	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240625_034500.wav	3027.0
+6	Spectrogram 1	1	3147.0	3150.0	0	12000.0	American Crow	amecro	0.3805	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240625_034500.wav	3147.0
+7	Spectrogram 1	1	3150.0	3153.0	0	12000.0	American Crow	amecro	0.5646	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240625_034500.wav	3150.0
+8	Spectrogram 1	1	3153.0	3156.0	0	12000.0	American Crow	amecro	0.1390	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240625_034500.wav	3153.0
+9	Spectrogram 1	1	3156.0	3159.0	0	12000.0	American Crow	amecro	0.2430	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240625_034500.wav	3156.0
+10	Spectrogram 1	1	3171.0	3174.0	0	12000.0	Common Raven	comrav	0.2349	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240625_034500.wav	3171.0

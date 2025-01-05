@@ -1,0 +1,254 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	42.0	45.0	0	12000.0	Veery	veery	0.3111	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	42.0
+2	Spectrogram 1	1	369.0	372.0	0	12000.0	Swainson's Thrush	swathr	0.2885	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	369.0
+3	Spectrogram 1	1	369.0	372.0	0	12000.0	Hermit Thrush	herthr	0.1727	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	369.0
+4	Spectrogram 1	1	381.0	384.0	0	12000.0	Swainson's Thrush	swathr	0.2226	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	381.0
+5	Spectrogram 1	1	405.0	408.0	0	12000.0	Tufted Titmouse	tuftit	0.1378	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	405.0
+6	Spectrogram 1	1	414.0	417.0	0	12000.0	Swainson's Thrush	swathr	0.3085	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	414.0
+7	Spectrogram 1	1	420.0	423.0	0	12000.0	Tufted Titmouse	tuftit	0.1557	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	420.0
+8	Spectrogram 1	1	528.0	531.0	0	12000.0	Swainson's Thrush	swathr	0.1228	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	528.0
+9	Spectrogram 1	1	768.0	771.0	0	12000.0	Hermit Thrush	herthr	0.3087	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	768.0
+10	Spectrogram 1	1	768.0	771.0	0	12000.0	Swainson's Thrush	swathr	0.3076	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	768.0
+11	Spectrogram 1	1	774.0	777.0	0	12000.0	Swainson's Thrush	swathr	0.3290	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	774.0
+12	Spectrogram 1	1	801.0	804.0	0	12000.0	Veery	veery	0.5930	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	801.0
+13	Spectrogram 1	1	801.0	804.0	0	12000.0	Swainson's Thrush	swathr	0.4588	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	801.0
+14	Spectrogram 1	1	801.0	804.0	0	12000.0	Hermit Thrush	herthr	0.1091	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	801.0
+15	Spectrogram 1	1	804.0	807.0	0	12000.0	Hermit Thrush	herthr	0.4212	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	804.0
+16	Spectrogram 1	1	804.0	807.0	0	12000.0	Swainson's Thrush	swathr	0.1135	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	804.0
+17	Spectrogram 1	1	807.0	810.0	0	12000.0	Swainson's Thrush	swathr	0.2402	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	807.0
+18	Spectrogram 1	1	807.0	810.0	0	12000.0	Hermit Thrush	herthr	0.1122	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	807.0
+19	Spectrogram 1	1	810.0	813.0	0	12000.0	Veery	veery	0.4531	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	810.0
+20	Spectrogram 1	1	819.0	822.0	0	12000.0	Swainson's Thrush	swathr	0.5500	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	819.0
+21	Spectrogram 1	1	825.0	828.0	0	12000.0	Swainson's Thrush	swathr	0.2270	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	825.0
+22	Spectrogram 1	1	828.0	831.0	0	12000.0	Hermit Thrush	herthr	0.4363	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	828.0
+23	Spectrogram 1	1	828.0	831.0	0	12000.0	Swainson's Thrush	swathr	0.2803	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	828.0
+24	Spectrogram 1	1	831.0	834.0	0	12000.0	Swainson's Thrush	swathr	0.2398	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	831.0
+25	Spectrogram 1	1	831.0	834.0	0	12000.0	Veery	veery	0.1807	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	831.0
+26	Spectrogram 1	1	837.0	840.0	0	12000.0	Swainson's Thrush	swathr	0.2075	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	837.0
+27	Spectrogram 1	1	846.0	849.0	0	12000.0	Veery	veery	0.4993	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	846.0
+28	Spectrogram 1	1	849.0	852.0	0	12000.0	Swainson's Thrush	swathr	0.2759	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	849.0
+29	Spectrogram 1	1	855.0	858.0	0	12000.0	Swainson's Thrush	swathr	0.2496	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	855.0
+30	Spectrogram 1	1	864.0	867.0	0	12000.0	Swainson's Thrush	swathr	0.3985	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	864.0
+31	Spectrogram 1	1	870.0	873.0	0	12000.0	Swainson's Thrush	swathr	0.1491	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	870.0
+32	Spectrogram 1	1	870.0	873.0	0	12000.0	Hermit Thrush	herthr	0.1391	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	870.0
+33	Spectrogram 1	1	876.0	879.0	0	12000.0	Swainson's Thrush	swathr	0.6282	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	876.0
+34	Spectrogram 1	1	876.0	879.0	0	12000.0	Hermit Thrush	herthr	0.1417	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	876.0
+35	Spectrogram 1	1	882.0	885.0	0	12000.0	Swainson's Thrush	swathr	0.3946	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	882.0
+36	Spectrogram 1	1	882.0	885.0	0	12000.0	Hermit Thrush	herthr	0.1036	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	882.0
+37	Spectrogram 1	1	888.0	891.0	0	12000.0	Swainson's Thrush	swathr	0.3686	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	888.0
+38	Spectrogram 1	1	888.0	891.0	0	12000.0	Hermit Thrush	herthr	0.1099	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	888.0
+39	Spectrogram 1	1	894.0	897.0	0	12000.0	Hermit Thrush	herthr	0.2628	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	894.0
+40	Spectrogram 1	1	894.0	897.0	0	12000.0	Swainson's Thrush	swathr	0.2206	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	894.0
+41	Spectrogram 1	1	903.0	906.0	0	12000.0	Swainson's Thrush	swathr	0.3952	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	903.0
+42	Spectrogram 1	1	903.0	906.0	0	12000.0	Hermit Thrush	herthr	0.1433	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	903.0
+43	Spectrogram 1	1	909.0	912.0	0	12000.0	Swainson's Thrush	swathr	0.3584	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	909.0
+44	Spectrogram 1	1	915.0	918.0	0	12000.0	Swainson's Thrush	swathr	0.4784	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	915.0
+45	Spectrogram 1	1	918.0	921.0	0	12000.0	Swainson's Thrush	swathr	0.3987	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	918.0
+46	Spectrogram 1	1	918.0	921.0	0	12000.0	Hermit Thrush	herthr	0.3472	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	918.0
+47	Spectrogram 1	1	918.0	921.0	0	12000.0	Veery	veery	0.2143	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	918.0
+48	Spectrogram 1	1	921.0	924.0	0	12000.0	Song Sparrow	sonspa	0.1094	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	921.0
+49	Spectrogram 1	1	924.0	927.0	0	12000.0	Swainson's Thrush	swathr	0.2152	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	924.0
+50	Spectrogram 1	1	924.0	927.0	0	12000.0	Veery	veery	0.1718	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	924.0
+51	Spectrogram 1	1	927.0	930.0	0	12000.0	Swainson's Thrush	swathr	0.1643	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	927.0
+52	Spectrogram 1	1	933.0	936.0	0	12000.0	Swainson's Thrush	swathr	0.1110	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	933.0
+53	Spectrogram 1	1	936.0	939.0	0	12000.0	Swainson's Thrush	swathr	0.1804	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	936.0
+54	Spectrogram 1	1	939.0	942.0	0	12000.0	Swainson's Thrush	swathr	0.3965	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	939.0
+55	Spectrogram 1	1	942.0	945.0	0	12000.0	Swainson's Thrush	swathr	0.4297	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	942.0
+56	Spectrogram 1	1	942.0	945.0	0	12000.0	Veery	veery	0.2993	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	942.0
+57	Spectrogram 1	1	948.0	951.0	0	12000.0	Swainson's Thrush	swathr	0.5968	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	948.0
+58	Spectrogram 1	1	948.0	951.0	0	12000.0	Hermit Thrush	herthr	0.2839	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	948.0
+59	Spectrogram 1	1	954.0	957.0	0	12000.0	Swainson's Thrush	swathr	0.6506	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	954.0
+60	Spectrogram 1	1	993.0	996.0	0	12000.0	Hermit Thrush	herthr	0.1190	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	993.0
+61	Spectrogram 1	1	1005.0	1008.0	0	12000.0	Swainson's Thrush	swathr	0.6176	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1005.0
+62	Spectrogram 1	1	1092.0	1095.0	0	12000.0	Swainson's Thrush	swathr	0.5518	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1092.0
+63	Spectrogram 1	1	1098.0	1101.0	0	12000.0	Swainson's Thrush	swathr	0.4771	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1098.0
+64	Spectrogram 1	1	1137.0	1140.0	0	12000.0	Swainson's Thrush	swathr	0.5347	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1137.0
+65	Spectrogram 1	1	1137.0	1140.0	0	12000.0	Hermit Thrush	herthr	0.2040	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1137.0
+66	Spectrogram 1	1	1140.0	1143.0	0	12000.0	Swainson's Thrush	swathr	0.5443	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1140.0
+67	Spectrogram 1	1	1146.0	1149.0	0	12000.0	Swainson's Thrush	swathr	0.1161	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1146.0
+68	Spectrogram 1	1	1152.0	1155.0	0	12000.0	Swainson's Thrush	swathr	0.4338	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1152.0
+69	Spectrogram 1	1	1152.0	1155.0	0	12000.0	Hermit Thrush	herthr	0.2297	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1152.0
+70	Spectrogram 1	1	1155.0	1158.0	0	12000.0	Swainson's Thrush	swathr	0.5589	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1155.0
+71	Spectrogram 1	1	1161.0	1164.0	0	12000.0	Swainson's Thrush	swathr	0.3960	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1161.0
+72	Spectrogram 1	1	1170.0	1173.0	0	12000.0	Hermit Thrush	herthr	0.2574	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1170.0
+73	Spectrogram 1	1	1170.0	1173.0	0	12000.0	Swainson's Thrush	swathr	0.1774	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1170.0
+74	Spectrogram 1	1	1179.0	1182.0	0	12000.0	Swainson's Thrush	swathr	0.3178	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1179.0
+75	Spectrogram 1	1	1179.0	1182.0	0	12000.0	Veery	veery	0.1575	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1179.0
+76	Spectrogram 1	1	1185.0	1188.0	0	12000.0	Swainson's Thrush	swathr	0.4069	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1185.0
+77	Spectrogram 1	1	1185.0	1188.0	0	12000.0	Hermit Thrush	herthr	0.1191	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1185.0
+78	Spectrogram 1	1	1203.0	1206.0	0	12000.0	Swainson's Thrush	swathr	0.2063	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1203.0
+79	Spectrogram 1	1	1203.0	1206.0	0	12000.0	Hermit Thrush	herthr	0.1461	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1203.0
+80	Spectrogram 1	1	1209.0	1212.0	0	12000.0	Swainson's Thrush	swathr	0.3615	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1209.0
+81	Spectrogram 1	1	1209.0	1212.0	0	12000.0	Veery	veery	0.1346	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1209.0
+82	Spectrogram 1	1	1215.0	1218.0	0	12000.0	Swainson's Thrush	swathr	0.4245	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1215.0
+83	Spectrogram 1	1	1215.0	1218.0	0	12000.0	Hermit Thrush	herthr	0.1009	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1215.0
+84	Spectrogram 1	1	1218.0	1221.0	0	12000.0	Hermit Thrush	herthr	0.2600	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1218.0
+85	Spectrogram 1	1	1218.0	1221.0	0	12000.0	Swainson's Thrush	swathr	0.1899	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1218.0
+86	Spectrogram 1	1	1221.0	1224.0	0	12000.0	Swainson's Thrush	swathr	0.5312	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1221.0
+87	Spectrogram 1	1	1224.0	1227.0	0	12000.0	Swainson's Thrush	swathr	0.5983	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1224.0
+88	Spectrogram 1	1	1236.0	1239.0	0	12000.0	Swainson's Thrush	swathr	0.7234	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1236.0
+89	Spectrogram 1	1	1248.0	1251.0	0	12000.0	Veery	veery	0.1417	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1248.0
+90	Spectrogram 1	1	1251.0	1254.0	0	12000.0	Swainson's Thrush	swathr	0.6080	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1251.0
+91	Spectrogram 1	1	1251.0	1254.0	0	12000.0	Hermit Thrush	herthr	0.5638	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1251.0
+92	Spectrogram 1	1	1257.0	1260.0	0	12000.0	Swainson's Thrush	swathr	0.5862	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1257.0
+93	Spectrogram 1	1	1257.0	1260.0	0	12000.0	Hermit Thrush	herthr	0.1980	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1257.0
+94	Spectrogram 1	1	1269.0	1272.0	0	12000.0	Swainson's Thrush	swathr	0.5440	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1269.0
+95	Spectrogram 1	1	1275.0	1278.0	0	12000.0	Swainson's Thrush	swathr	0.3658	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1275.0
+96	Spectrogram 1	1	1281.0	1284.0	0	12000.0	Swainson's Thrush	swathr	0.2438	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1281.0
+97	Spectrogram 1	1	1281.0	1284.0	0	12000.0	Veery	veery	0.1141	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1281.0
+98	Spectrogram 1	1	1290.0	1293.0	0	12000.0	Swainson's Thrush	swathr	0.3666	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1290.0
+99	Spectrogram 1	1	1290.0	1293.0	0	12000.0	Hermit Thrush	herthr	0.1183	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1290.0
+100	Spectrogram 1	1	1296.0	1299.0	0	12000.0	Swainson's Thrush	swathr	0.7806	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1296.0
+101	Spectrogram 1	1	1302.0	1305.0	0	12000.0	Swainson's Thrush	swathr	0.3841	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1302.0
+102	Spectrogram 1	1	1305.0	1308.0	0	12000.0	Hermit Thrush	herthr	0.5976	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1305.0
+103	Spectrogram 1	1	1305.0	1308.0	0	12000.0	Swainson's Thrush	swathr	0.1636	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1305.0
+104	Spectrogram 1	1	1311.0	1314.0	0	12000.0	Swainson's Thrush	swathr	0.6584	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1311.0
+105	Spectrogram 1	1	1311.0	1314.0	0	12000.0	Hermit Thrush	herthr	0.1636	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1311.0
+106	Spectrogram 1	1	1317.0	1320.0	0	12000.0	Swainson's Thrush	swathr	0.8695	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1317.0
+107	Spectrogram 1	1	1326.0	1329.0	0	12000.0	Swainson's Thrush	swathr	0.2434	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1326.0
+108	Spectrogram 1	1	1332.0	1335.0	0	12000.0	Swainson's Thrush	swathr	0.6062	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1332.0
+109	Spectrogram 1	1	1332.0	1335.0	0	12000.0	Hermit Thrush	herthr	0.1518	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1332.0
+110	Spectrogram 1	1	1335.0	1338.0	0	12000.0	Hermit Thrush	herthr	0.1982	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1335.0
+111	Spectrogram 1	1	1341.0	1344.0	0	12000.0	Swainson's Thrush	swathr	0.5394	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1341.0
+112	Spectrogram 1	1	1350.0	1353.0	0	12000.0	Swainson's Thrush	swathr	0.3822	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1350.0
+113	Spectrogram 1	1	1350.0	1353.0	0	12000.0	Hermit Thrush	herthr	0.2487	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1350.0
+114	Spectrogram 1	1	1353.0	1356.0	0	12000.0	Swainson's Thrush	swathr	0.4214	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1353.0
+115	Spectrogram 1	1	1356.0	1359.0	0	12000.0	Swainson's Thrush	swathr	0.6234	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1356.0
+116	Spectrogram 1	1	1356.0	1359.0	0	12000.0	Hermit Thrush	herthr	0.1938	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1356.0
+117	Spectrogram 1	1	1362.0	1365.0	0	12000.0	Swainson's Thrush	swathr	0.2375	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1362.0
+118	Spectrogram 1	1	1368.0	1371.0	0	12000.0	Swainson's Thrush	swathr	0.6818	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1368.0
+119	Spectrogram 1	1	1371.0	1374.0	0	12000.0	Swainson's Thrush	swathr	0.2628	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1371.0
+120	Spectrogram 1	1	1374.0	1377.0	0	12000.0	Veery	veery	0.6626	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1374.0
+121	Spectrogram 1	1	1374.0	1377.0	0	12000.0	Swainson's Thrush	swathr	0.1080	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1374.0
+122	Spectrogram 1	1	1380.0	1383.0	0	12000.0	Hermit Thrush	herthr	0.2474	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1380.0
+123	Spectrogram 1	1	1386.0	1389.0	0	12000.0	Swainson's Thrush	swathr	0.6903	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1386.0
+124	Spectrogram 1	1	1392.0	1395.0	0	12000.0	Swainson's Thrush	swathr	0.2173	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1392.0
+125	Spectrogram 1	1	1398.0	1401.0	0	12000.0	Swainson's Thrush	swathr	0.6556	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1398.0
+126	Spectrogram 1	1	1398.0	1401.0	0	12000.0	Hermit Thrush	herthr	0.1291	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1398.0
+127	Spectrogram 1	1	1404.0	1407.0	0	12000.0	Swainson's Thrush	swathr	0.3194	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1404.0
+128	Spectrogram 1	1	1407.0	1410.0	0	12000.0	Swainson's Thrush	swathr	0.6072	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1407.0
+129	Spectrogram 1	1	1410.0	1413.0	0	12000.0	Swainson's Thrush	swathr	0.7591	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1410.0
+130	Spectrogram 1	1	1410.0	1413.0	0	12000.0	Veery	veery	0.2966	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1410.0
+131	Spectrogram 1	1	1413.0	1416.0	0	12000.0	Swainson's Thrush	swathr	0.1996	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1413.0
+132	Spectrogram 1	1	1413.0	1416.0	0	12000.0	Hermit Thrush	herthr	0.1746	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1413.0
+133	Spectrogram 1	1	1422.0	1425.0	0	12000.0	Hermit Thrush	herthr	0.4306	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1422.0
+134	Spectrogram 1	1	1422.0	1425.0	0	12000.0	Swainson's Thrush	swathr	0.2631	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1422.0
+135	Spectrogram 1	1	1425.0	1428.0	0	12000.0	Swainson's Thrush	swathr	0.2524	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1425.0
+136	Spectrogram 1	1	1431.0	1434.0	0	12000.0	Swainson's Thrush	swathr	0.4490	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1431.0
+137	Spectrogram 1	1	1437.0	1440.0	0	12000.0	Swainson's Thrush	swathr	0.3587	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1437.0
+138	Spectrogram 1	1	1437.0	1440.0	0	12000.0	Hermit Thrush	herthr	0.1225	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1437.0
+139	Spectrogram 1	1	1443.0	1446.0	0	12000.0	Swainson's Thrush	swathr	0.7315	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1443.0
+140	Spectrogram 1	1	1446.0	1449.0	0	12000.0	Swainson's Thrush	swathr	0.3381	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1446.0
+141	Spectrogram 1	1	1449.0	1452.0	0	12000.0	Swainson's Thrush	swathr	0.3659	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1449.0
+142	Spectrogram 1	1	1455.0	1458.0	0	12000.0	Swainson's Thrush	swathr	0.4990	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1455.0
+143	Spectrogram 1	1	1455.0	1458.0	0	12000.0	Hermit Thrush	herthr	0.3242	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1455.0
+144	Spectrogram 1	1	1455.0	1458.0	0	12000.0	Veery	veery	0.2350	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1455.0
+145	Spectrogram 1	1	1461.0	1464.0	0	12000.0	Swainson's Thrush	swathr	0.5499	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1461.0
+146	Spectrogram 1	1	1464.0	1467.0	0	12000.0	Swainson's Thrush	swathr	0.2241	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1464.0
+147	Spectrogram 1	1	1470.0	1473.0	0	12000.0	Swainson's Thrush	swathr	0.3221	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1470.0
+148	Spectrogram 1	1	1476.0	1479.0	0	12000.0	Hermit Thrush	herthr	0.2155	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1476.0
+149	Spectrogram 1	1	1479.0	1482.0	0	12000.0	Swainson's Thrush	swathr	0.2854	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1479.0
+150	Spectrogram 1	1	1482.0	1485.0	0	12000.0	Hermit Thrush	herthr	0.4437	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1482.0
+151	Spectrogram 1	1	1482.0	1485.0	0	12000.0	Veery	veery	0.3651	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1482.0
+152	Spectrogram 1	1	1482.0	1485.0	0	12000.0	Swainson's Thrush	swathr	0.3267	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1482.0
+153	Spectrogram 1	1	1485.0	1488.0	0	12000.0	Veery	veery	0.1900	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1485.0
+154	Spectrogram 1	1	1485.0	1488.0	0	12000.0	Hermit Thrush	herthr	0.1721	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1485.0
+155	Spectrogram 1	1	1485.0	1488.0	0	12000.0	Swainson's Thrush	swathr	0.1602	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1485.0
+156	Spectrogram 1	1	1497.0	1500.0	0	12000.0	Swainson's Thrush	swathr	0.3586	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1497.0
+157	Spectrogram 1	1	1503.0	1506.0	0	12000.0	Hermit Thrush	herthr	0.5252	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1503.0
+158	Spectrogram 1	1	1503.0	1506.0	0	12000.0	Swainson's Thrush	swathr	0.4630	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1503.0
+159	Spectrogram 1	1	1509.0	1512.0	0	12000.0	Swainson's Thrush	swathr	0.2016	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1509.0
+160	Spectrogram 1	1	1524.0	1527.0	0	12000.0	Swainson's Thrush	swathr	0.3030	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1524.0
+161	Spectrogram 1	1	1530.0	1533.0	0	12000.0	Swainson's Thrush	swathr	0.6236	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1530.0
+162	Spectrogram 1	1	1530.0	1533.0	0	12000.0	Veery	veery	0.4027	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1530.0
+163	Spectrogram 1	1	1533.0	1536.0	0	12000.0	Swainson's Thrush	swathr	0.4350	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1533.0
+164	Spectrogram 1	1	1536.0	1539.0	0	12000.0	Swainson's Thrush	swathr	0.5686	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1536.0
+165	Spectrogram 1	1	1536.0	1539.0	0	12000.0	Hermit Thrush	herthr	0.2086	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1536.0
+166	Spectrogram 1	1	1539.0	1542.0	0	12000.0	Swainson's Thrush	swathr	0.4540	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1539.0
+167	Spectrogram 1	1	1545.0	1548.0	0	12000.0	Swainson's Thrush	swathr	0.2863	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1545.0
+168	Spectrogram 1	1	1545.0	1548.0	0	12000.0	Veery	veery	0.2157	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1545.0
+169	Spectrogram 1	1	1551.0	1554.0	0	12000.0	Swainson's Thrush	swathr	0.4436	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1551.0
+170	Spectrogram 1	1	1551.0	1554.0	0	12000.0	Hermit Thrush	herthr	0.1690	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1551.0
+171	Spectrogram 1	1	1563.0	1566.0	0	12000.0	Hermit Thrush	herthr	0.1213	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1563.0
+172	Spectrogram 1	1	1569.0	1572.0	0	12000.0	Swainson's Thrush	swathr	0.4220	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1569.0
+173	Spectrogram 1	1	1575.0	1578.0	0	12000.0	Hermit Thrush	herthr	0.1129	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1575.0
+174	Spectrogram 1	1	1578.0	1581.0	0	12000.0	Swainson's Thrush	swathr	0.3008	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1578.0
+175	Spectrogram 1	1	1578.0	1581.0	0	12000.0	Veery	veery	0.1320	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1578.0
+176	Spectrogram 1	1	1590.0	1593.0	0	12000.0	Swainson's Thrush	swathr	0.3264	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1590.0
+177	Spectrogram 1	1	1590.0	1593.0	0	12000.0	Veery	veery	0.1258	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1590.0
+178	Spectrogram 1	1	1596.0	1599.0	0	12000.0	Swainson's Thrush	swathr	0.4991	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1596.0
+179	Spectrogram 1	1	1617.0	1620.0	0	12000.0	Veery	veery	0.3816	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1617.0
+180	Spectrogram 1	1	1617.0	1620.0	0	12000.0	Hermit Thrush	herthr	0.2032	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1617.0
+181	Spectrogram 1	1	1617.0	1620.0	0	12000.0	Swainson's Thrush	swathr	0.1104	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	1617.0
+182	Spectrogram 1	1	2091.0	2094.0	0	12000.0	Veery	veery	0.2367	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2091.0
+183	Spectrogram 1	1	2091.0	2094.0	0	12000.0	Swainson's Thrush	swathr	0.1312	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2091.0
+184	Spectrogram 1	1	2097.0	2100.0	0	12000.0	Swainson's Thrush	swathr	0.5979	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2097.0
+185	Spectrogram 1	1	2097.0	2100.0	0	12000.0	Hermit Thrush	herthr	0.2223	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2097.0
+186	Spectrogram 1	1	2106.0	2109.0	0	12000.0	Swainson's Thrush	swathr	0.2346	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2106.0
+187	Spectrogram 1	1	2118.0	2121.0	0	12000.0	Swainson's Thrush	swathr	0.4086	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2118.0
+188	Spectrogram 1	1	2124.0	2127.0	0	12000.0	Swainson's Thrush	swathr	0.3765	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2124.0
+189	Spectrogram 1	1	2124.0	2127.0	0	12000.0	Hermit Thrush	herthr	0.1656	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2124.0
+190	Spectrogram 1	1	2130.0	2133.0	0	12000.0	Swainson's Thrush	swathr	0.5399	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2130.0
+191	Spectrogram 1	1	2130.0	2133.0	0	12000.0	Hermit Thrush	herthr	0.1485	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2130.0
+192	Spectrogram 1	1	2136.0	2139.0	0	12000.0	Hermit Thrush	herthr	0.1202	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2136.0
+193	Spectrogram 1	1	2310.0	2313.0	0	12000.0	Swainson's Thrush	swathr	0.3516	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2310.0
+194	Spectrogram 1	1	2310.0	2313.0	0	12000.0	Hermit Thrush	herthr	0.1549	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2310.0
+195	Spectrogram 1	1	2331.0	2334.0	0	12000.0	Hermit Thrush	herthr	0.4572	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2331.0
+196	Spectrogram 1	1	2400.0	2403.0	0	12000.0	Swainson's Thrush	swathr	0.4202	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2400.0
+197	Spectrogram 1	1	2481.0	2484.0	0	12000.0	Swainson's Thrush	swathr	0.1932	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2481.0
+198	Spectrogram 1	1	2487.0	2490.0	0	12000.0	Swainson's Thrush	swathr	0.3497	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2487.0
+199	Spectrogram 1	1	2490.0	2493.0	0	12000.0	Swainson's Thrush	swathr	0.9651	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2490.0
+200	Spectrogram 1	1	2493.0	2496.0	0	12000.0	Swainson's Thrush	swathr	0.3575	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2493.0
+201	Spectrogram 1	1	2493.0	2496.0	0	12000.0	Veery	veery	0.1816	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2493.0
+202	Spectrogram 1	1	2499.0	2502.0	0	12000.0	Swainson's Thrush	swathr	0.9466	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2499.0
+203	Spectrogram 1	1	2502.0	2505.0	0	12000.0	Swainson's Thrush	swathr	0.7780	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2502.0
+204	Spectrogram 1	1	2508.0	2511.0	0	12000.0	Swainson's Thrush	swathr	0.2488	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2508.0
+205	Spectrogram 1	1	2508.0	2511.0	0	12000.0	Hermit Thrush	herthr	0.2178	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2508.0
+206	Spectrogram 1	1	2511.0	2514.0	0	12000.0	Swainson's Thrush	swathr	0.2728	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2511.0
+207	Spectrogram 1	1	2517.0	2520.0	0	12000.0	Swainson's Thrush	swathr	0.8751	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2517.0
+208	Spectrogram 1	1	2517.0	2520.0	0	12000.0	Hermit Thrush	herthr	0.1419	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2517.0
+209	Spectrogram 1	1	2520.0	2523.0	0	12000.0	Swainson's Thrush	swathr	0.8888	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2520.0
+210	Spectrogram 1	1	2520.0	2523.0	0	12000.0	Hermit Thrush	herthr	0.2751	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2520.0
+211	Spectrogram 1	1	2523.0	2526.0	0	12000.0	Swainson's Thrush	swathr	0.9476	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2523.0
+212	Spectrogram 1	1	2526.0	2529.0	0	12000.0	Swainson's Thrush	swathr	0.6798	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2526.0
+213	Spectrogram 1	1	2526.0	2529.0	0	12000.0	Veery	veery	0.1801	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2526.0
+214	Spectrogram 1	1	2595.0	2598.0	0	12000.0	Swainson's Thrush	swathr	0.1907	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2595.0
+215	Spectrogram 1	1	2658.0	2661.0	0	12000.0	Veery	veery	0.1697	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2658.0
+216	Spectrogram 1	1	2664.0	2667.0	0	12000.0	Swainson's Thrush	swathr	0.1380	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2664.0
+217	Spectrogram 1	1	2739.0	2742.0	0	12000.0	Hermit Thrush	herthr	0.4853	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2739.0
+218	Spectrogram 1	1	2739.0	2742.0	0	12000.0	Swainson's Thrush	swathr	0.3841	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2739.0
+219	Spectrogram 1	1	2742.0	2745.0	0	12000.0	Hermit Thrush	herthr	0.2714	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2742.0
+220	Spectrogram 1	1	2742.0	2745.0	0	12000.0	Swainson's Thrush	swathr	0.1854	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2742.0
+221	Spectrogram 1	1	2751.0	2754.0	0	12000.0	Swainson's Thrush	swathr	0.7272	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2751.0
+222	Spectrogram 1	1	2757.0	2760.0	0	12000.0	Swainson's Thrush	swathr	0.9426	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2757.0
+223	Spectrogram 1	1	2763.0	2766.0	0	12000.0	Swainson's Thrush	swathr	0.3075	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2763.0
+224	Spectrogram 1	1	2772.0	2775.0	0	12000.0	Swainson's Thrush	swathr	0.9328	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2772.0
+225	Spectrogram 1	1	2775.0	2778.0	0	12000.0	Swainson's Thrush	swathr	0.8239	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2775.0
+226	Spectrogram 1	1	2781.0	2784.0	0	12000.0	Swainson's Thrush	swathr	0.7670	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2781.0
+227	Spectrogram 1	1	2784.0	2787.0	0	12000.0	Swainson's Thrush	swathr	0.1430	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2784.0
+228	Spectrogram 1	1	2787.0	2790.0	0	12000.0	Swainson's Thrush	swathr	0.9799	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2787.0
+229	Spectrogram 1	1	2790.0	2793.0	0	12000.0	Swainson's Thrush	swathr	0.8456	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2790.0
+230	Spectrogram 1	1	2793.0	2796.0	0	12000.0	Swainson's Thrush	swathr	0.1465	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2793.0
+231	Spectrogram 1	1	2796.0	2799.0	0	12000.0	Swainson's Thrush	swathr	0.9681	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2796.0
+232	Spectrogram 1	1	2805.0	2808.0	0	12000.0	Swainson's Thrush	swathr	0.2503	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2805.0
+233	Spectrogram 1	1	2811.0	2814.0	0	12000.0	Swainson's Thrush	swathr	0.3619	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2811.0
+234	Spectrogram 1	1	2814.0	2817.0	0	12000.0	Swainson's Thrush	swathr	0.4400	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2814.0
+235	Spectrogram 1	1	2814.0	2817.0	0	12000.0	Hermit Thrush	herthr	0.2428	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2814.0
+236	Spectrogram 1	1	2817.0	2820.0	0	12000.0	Hermit Thrush	herthr	0.7860	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2817.0
+237	Spectrogram 1	1	2817.0	2820.0	0	12000.0	Swainson's Thrush	swathr	0.6225	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2817.0
+238	Spectrogram 1	1	2823.0	2826.0	0	12000.0	Swainson's Thrush	swathr	0.9684	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2823.0
+239	Spectrogram 1	1	2826.0	2829.0	0	12000.0	Swainson's Thrush	swathr	0.9793	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2826.0
+240	Spectrogram 1	1	2829.0	2832.0	0	12000.0	Swainson's Thrush	swathr	0.9940	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2829.0
+241	Spectrogram 1	1	2832.0	2835.0	0	12000.0	Swainson's Thrush	swathr	0.9609	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2832.0
+242	Spectrogram 1	1	2832.0	2835.0	0	12000.0	Hermit Thrush	herthr	0.1971	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2832.0
+243	Spectrogram 1	1	2835.0	2838.0	0	12000.0	Swainson's Thrush	swathr	0.9915	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2835.0
+244	Spectrogram 1	1	2868.0	2871.0	0	12000.0	Veery	veery	0.1371	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2868.0
+245	Spectrogram 1	1	2949.0	2952.0	0	12000.0	Swainson's Thrush	swathr	0.1465	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2949.0
+246	Spectrogram 1	1	2955.0	2958.0	0	12000.0	Hermit Thrush	herthr	0.2112	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2955.0
+247	Spectrogram 1	1	2955.0	2958.0	0	12000.0	Swainson's Thrush	swathr	0.1787	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2955.0
+248	Spectrogram 1	1	2961.0	2964.0	0	12000.0	Swainson's Thrush	swathr	0.1856	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	2961.0
+249	Spectrogram 1	1	3039.0	3042.0	0	12000.0	Tufted Titmouse	tuftit	0.3407	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	3039.0
+250	Spectrogram 1	1	3075.0	3078.0	0	12000.0	Swainson's Thrush	swathr	0.4092	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	3075.0
+251	Spectrogram 1	1	3075.0	3078.0	0	12000.0	Hermit Thrush	herthr	0.1824	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	3075.0
+252	Spectrogram 1	1	3078.0	3081.0	0	12000.0	Swainson's Thrush	swathr	0.4096	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	3078.0
+253	Spectrogram 1	1	3078.0	3081.0	0	12000.0	Hermit Thrush	herthr	0.1602	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240711_194600.wav	3078.0

@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1254.0	1257.0	0	12000.0	Song Sparrow	sonspa	0.1614	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240730_192700.wav	1254.0
+2	Spectrogram 1	1	1269.0	1272.0	0	12000.0	Song Sparrow	sonspa	0.3625	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240730_192700.wav	1269.0
+3	Spectrogram 1	1	1278.0	1281.0	0	12000.0	Song Sparrow	sonspa	0.2426	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240730_192700.wav	1278.0
+4	Spectrogram 1	1	1281.0	1284.0	0	12000.0	Song Sparrow	sonspa	0.2094	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240730_192700.wav	1281.0
+5	Spectrogram 1	1	1548.0	1551.0	0	12000.0	Song Sparrow	sonspa	0.2234	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240730_192700.wav	1548.0
+6	Spectrogram 1	1	1578.0	1581.0	0	12000.0	Song Sparrow	sonspa	0.3447	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240730_192700.wav	1578.0
+7	Spectrogram 1	1	1998.0	2001.0	0	12000.0	Song Sparrow	sonspa	0.4456	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240730_192700.wav	1998.0

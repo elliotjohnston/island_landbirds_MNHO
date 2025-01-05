@@ -1,0 +1,3 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2865.0	2868.0	0	12000.0	Hermit Thrush	herthr	0.2351	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240620_195200.wav	2865.0
+2	Spectrogram 1	1	2889.0	2892.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.1786	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240620_195200.wav	2889.0

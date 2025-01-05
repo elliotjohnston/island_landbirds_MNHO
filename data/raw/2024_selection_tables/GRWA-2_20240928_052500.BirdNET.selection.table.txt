@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2184.0	2187.0	0	12000.0	White-throated Sparrow	whtspa	0.1464	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240928_052500.wav	2184.0
+2	Spectrogram 1	1	2781.0	2784.0	0	12000.0	Downy Woodpecker	dowwoo	0.1085	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240928_052500.wav	2781.0
+3	Spectrogram 1	1	2877.0	2880.0	0	12000.0	American Crow	amecro	0.2623	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240928_052500.wav	2877.0
+4	Spectrogram 1	1	2937.0	2940.0	0	12000.0	American Crow	amecro	0.1391	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240928_052500.wav	2937.0
+5	Spectrogram 1	1	3066.0	3069.0	0	12000.0	American Crow	amecro	0.2361	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240928_052500.wav	3066.0
+6	Spectrogram 1	1	3078.0	3081.0	0	12000.0	American Crow	amecro	0.1038	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240928_052500.wav	3078.0
+7	Spectrogram 1	1	3084.0	3087.0	0	12000.0	American Crow	amecro	0.1569	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240928_052500.wav	3084.0
+8	Spectrogram 1	1	3357.0	3360.0	0	12000.0	American Crow	amecro	0.2869	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240928_052500.wav	3357.0
+9	Spectrogram 1	1	3375.0	3378.0	0	12000.0	American Crow	amecro	0.4316	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240928_052500.wav	3375.0
+10	Spectrogram 1	1	3390.0	3393.0	0	12000.0	American Crow	amecro	0.7214	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240928_052500.wav	3390.0
+11	Spectrogram 1	1	3399.0	3402.0	0	12000.0	American Crow	amecro	0.1112	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240928_052500.wav	3399.0
+12	Spectrogram 1	1	3402.0	3405.0	0	12000.0	American Crow	amecro	0.2062	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240928_052500.wav	3402.0
+13	Spectrogram 1	1	3408.0	3411.0	0	12000.0	American Crow	amecro	0.4698	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240928_052500.wav	3408.0
+14	Spectrogram 1	1	3420.0	3423.0	0	12000.0	American Crow	amecro	0.2090	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240928_052500.wav	3420.0

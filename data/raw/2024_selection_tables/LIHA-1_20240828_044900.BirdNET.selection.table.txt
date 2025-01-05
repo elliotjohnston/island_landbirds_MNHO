@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1833.0	1836.0	0	12000.0	Great Crested Flycatcher	grcfly	0.1077	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240828_044900.wav	1833.0
+2	Spectrogram 1	1	2073.0	2076.0	0	12000.0	White-throated Sparrow	whtspa	0.1731	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240828_044900.wav	2073.0
+3	Spectrogram 1	1	2082.0	2085.0	0	12000.0	White-throated Sparrow	whtspa	0.2471	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240828_044900.wav	2082.0
+4	Spectrogram 1	1	2088.0	2091.0	0	12000.0	White-throated Sparrow	whtspa	0.1290	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240828_044900.wav	2088.0
+5	Spectrogram 1	1	2100.0	2103.0	0	12000.0	Song Sparrow	sonspa	0.5183	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240828_044900.wav	2100.0
+6	Spectrogram 1	1	2190.0	2193.0	0	12000.0	Eastern Kingbird	easkin	0.7540	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240828_044900.wav	2190.0
+7	Spectrogram 1	1	2307.0	2310.0	0	12000.0	Great Crested Flycatcher	grcfly	0.4356	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240828_044900.wav	2307.0
+8	Spectrogram 1	1	2445.0	2448.0	0	12000.0	Great Crested Flycatcher	grcfly	0.1213	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240828_044900.wav	2445.0
+9	Spectrogram 1	1	2748.0	2751.0	0	12000.0	Ruby-throated Hummingbird	rthhum	0.1094	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240828_044900.wav	2748.0
+10	Spectrogram 1	1	2754.0	2757.0	0	12000.0	Song Sparrow	sonspa	0.1063	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240828_044900.wav	2754.0
+11	Spectrogram 1	1	3423.0	3426.0	0	12000.0	White-crowned Sparrow	whcspa	0.1145	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240828_044900.wav	3423.0
+12	Spectrogram 1	1	3426.0	3429.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.7712	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240828_044900.wav	3426.0
+13	Spectrogram 1	1	3432.0	3435.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.9867	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240828_044900.wav	3432.0
+14	Spectrogram 1	1	3435.0	3438.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1540	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240828_044900.wav	3435.0
+15	Spectrogram 1	1	3438.0	3441.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.8424	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240828_044900.wav	3438.0

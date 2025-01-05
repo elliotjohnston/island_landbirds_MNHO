@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2460.0	2463.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8984	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240922_051800.wav	2460.0
+2	Spectrogram 1	1	2463.0	2466.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7916	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240922_051800.wav	2463.0
+3	Spectrogram 1	1	2472.0	2475.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3904	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240922_051800.wav	2472.0
+4	Spectrogram 1	1	2478.0	2481.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1227	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240922_051800.wav	2478.0
+5	Spectrogram 1	1	2481.0	2484.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6009	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240922_051800.wav	2481.0
+6	Spectrogram 1	1	2484.0	2487.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3500	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240922_051800.wav	2484.0
+7	Spectrogram 1	1	2499.0	2502.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2604	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240922_051800.wav	2499.0
+8	Spectrogram 1	1	2505.0	2508.0	0	12000.0	Brown Creeper	brncre	0.3889	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240922_051800.wav	2505.0
+9	Spectrogram 1	1	2505.0	2508.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2726	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240922_051800.wav	2505.0
+10	Spectrogram 1	1	2526.0	2529.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6656	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240922_051800.wav	2526.0
+11	Spectrogram 1	1	3018.0	3021.0	0	12000.0	Palm Warbler	palwar	0.3016	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240922_051800.wav	3018.0
+12	Spectrogram 1	1	3021.0	3024.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1454	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240922_051800.wav	3021.0
+13	Spectrogram 1	1	3021.0	3024.0	0	12000.0	Swamp Sparrow	swaspa	0.1163	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240922_051800.wav	3021.0
+14	Spectrogram 1	1	3207.0	3210.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1795	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240922_051800.wav	3207.0

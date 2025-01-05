@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	15.0	18.0	0	12000.0	Brown Creeper	brncre	0.2746	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240819_190300.wav	15.0
+2	Spectrogram 1	1	15.0	18.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2099	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240819_190300.wav	15.0
+3	Spectrogram 1	1	18.0	21.0	0	12000.0	Brown Creeper	brncre	0.1941	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240819_190300.wav	18.0
+4	Spectrogram 1	1	126.0	129.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1497	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240819_190300.wav	126.0
+5	Spectrogram 1	1	378.0	381.0	0	12000.0	Brown Creeper	brncre	0.3090	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240819_190300.wav	378.0
+6	Spectrogram 1	1	447.0	450.0	0	12000.0	Brown Creeper	brncre	0.1442	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240819_190300.wav	447.0
+7	Spectrogram 1	1	465.0	468.0	0	12000.0	Brown Creeper	brncre	0.2326	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240819_190300.wav	465.0
+8	Spectrogram 1	1	480.0	483.0	0	12000.0	Brown Creeper	brncre	0.5047	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240819_190300.wav	480.0
+9	Spectrogram 1	1	549.0	552.0	0	12000.0	Brown Creeper	brncre	0.4569	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240819_190300.wav	549.0
+10	Spectrogram 1	1	885.0	888.0	0	12000.0	Brown Creeper	brncre	0.1436	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240819_190300.wav	885.0
+11	Spectrogram 1	1	1080.0	1083.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4418	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240819_190300.wav	1080.0
+12	Spectrogram 1	1	1122.0	1125.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2990	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240819_190300.wav	1122.0
+13	Spectrogram 1	1	1122.0	1125.0	0	12000.0	Brown Creeper	brncre	0.1490	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240819_190300.wav	1122.0
+14	Spectrogram 1	1	1125.0	1128.0	0	12000.0	Brown Creeper	brncre	0.4522	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240819_190300.wav	1125.0
+15	Spectrogram 1	1	1125.0	1128.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1216	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240819_190300.wav	1125.0

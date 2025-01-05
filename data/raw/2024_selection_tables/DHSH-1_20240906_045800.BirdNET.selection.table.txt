@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	21.0	24.0	0	12000.0	Mourning Dove	moudov	0.1214	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240906_045800.wav	21.0
+2	Spectrogram 1	1	81.0	84.0	0	12000.0	Mourning Dove	moudov	0.2382	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240906_045800.wav	81.0
+3	Spectrogram 1	1	156.0	159.0	0	12000.0	Mourning Dove	moudov	0.1105	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240906_045800.wav	156.0
+4	Spectrogram 1	1	438.0	441.0	0	12000.0	Brown Creeper	brncre	0.1360	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240906_045800.wav	438.0
+5	Spectrogram 1	1	783.0	786.0	0	12000.0	American Goldfinch	amegfi	0.2983	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240906_045800.wav	783.0
+6	Spectrogram 1	1	906.0	909.0	0	12000.0	Mourning Dove	moudov	0.5816	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240906_045800.wav	906.0
+7	Spectrogram 1	1	1935.0	1938.0	0	12000.0	Mourning Dove	moudov	0.2582	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240906_045800.wav	1935.0
+8	Spectrogram 1	1	1986.0	1989.0	0	12000.0	Red-bellied Woodpecker	rebwoo	0.1472	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240906_045800.wav	1986.0
+9	Spectrogram 1	1	2382.0	2385.0	0	12000.0	Mourning Dove	moudov	0.1511	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240906_045800.wav	2382.0
+10	Spectrogram 1	1	2463.0	2466.0	0	12000.0	Mourning Dove	moudov	0.2054	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240906_045800.wav	2463.0
+11	Spectrogram 1	1	3213.0	3216.0	0	12000.0	Mourning Dove	moudov	0.2358	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240906_045800.wav	3213.0

@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	834.0	837.0	0	12000.0	Pine Grosbeak	pingro	0.1979	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240813_190900.wav	834.0
+2	Spectrogram 1	1	2013.0	2016.0	0	12000.0	Hermit Thrush	herthr	0.1082	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240813_190900.wav	2013.0
+3	Spectrogram 1	1	2076.0	2079.0	0	12000.0	Hermit Thrush	herthr	0.4318	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240813_190900.wav	2076.0
+4	Spectrogram 1	1	2088.0	2091.0	0	12000.0	Hermit Thrush	herthr	0.5875	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240813_190900.wav	2088.0
+5	Spectrogram 1	1	3456.0	3459.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.1559	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240813_190900.wav	3456.0
+6	Spectrogram 1	1	3468.0	3471.0	0	12000.0	Pine Grosbeak	pingro	0.1467	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240813_190900.wav	3468.0
+7	Spectrogram 1	1	3492.0	3495.0	0	12000.0	Pine Grosbeak	pingro	0.1536	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240813_190900.wav	3492.0

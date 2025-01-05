@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	240.0	243.0	0	12000.0	Hermit Thrush	herthr	0.3416	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240508_191500.wav	240.0
+2	Spectrogram 1	1	2184.0	2187.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.2414	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240508_191500.wav	2184.0
+3	Spectrogram 1	1	2694.0	2697.0	0	12000.0	Hermit Thrush	herthr	0.4421	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240508_191500.wav	2694.0
+4	Spectrogram 1	1	2709.0	2712.0	0	12000.0	Hermit Thrush	herthr	0.1563	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240508_191500.wav	2709.0

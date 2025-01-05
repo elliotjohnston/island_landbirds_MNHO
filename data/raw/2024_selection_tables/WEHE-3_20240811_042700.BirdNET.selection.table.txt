@@ -1,0 +1,3 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	3249.0	3252.0	0	12000.0	House Sparrow	houspa	0.2032	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240811_042700.wav	3249.0
+2	Spectrogram 1	1	3276.0	3279.0	0	12000.0	Rusty Blackbird	rusbla	0.2373	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240811_042700.wav	3276.0

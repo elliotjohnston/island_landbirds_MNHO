@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	69.0	72.0	0	12000.0	Common Raven	comrav	0.1099	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240824_185000.wav	69.0
+2	Spectrogram 1	1	633.0	636.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1184	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240824_185000.wav	633.0
+3	Spectrogram 1	1	1038.0	1041.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1039	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240824_185000.wav	1038.0
+4	Spectrogram 1	1	1194.0	1197.0	0	12000.0	Evening Grosbeak	evegro	0.3843	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240824_185000.wav	1194.0
+5	Spectrogram 1	1	2514.0	2517.0	0	12000.0	Eastern Bluebird	easblu	0.1547	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240824_185000.wav	2514.0
+6	Spectrogram 1	1	2712.0	2715.0	0	12000.0	White-throated Sparrow	whtspa	0.3311	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240824_185000.wav	2712.0
+7	Spectrogram 1	1	3150.0	3153.0	0	12000.0	Northern Waterthrush	norwat	0.7061	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240824_185000.wav	3150.0
+8	Spectrogram 1	1	3465.0	3468.0	0	12000.0	Hermit Thrush	herthr	0.7625	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240824_185000.wav	3465.0

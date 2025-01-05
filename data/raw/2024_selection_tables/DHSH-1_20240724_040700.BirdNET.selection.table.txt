@@ -1,0 +1,35 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1935.0	1938.0	0	12000.0	Lincoln's Sparrow	linspa	0.1255	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	1935.0
+2	Spectrogram 1	1	1992.0	1995.0	0	12000.0	Lincoln's Sparrow	linspa	0.1207	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	1992.0
+3	Spectrogram 1	1	2142.0	2145.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1310	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	2142.0
+4	Spectrogram 1	1	2163.0	2166.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1007	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	2163.0
+5	Spectrogram 1	1	2268.0	2271.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1879	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	2268.0
+6	Spectrogram 1	1	2280.0	2283.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1022	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	2280.0
+7	Spectrogram 1	1	2325.0	2328.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2195	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	2325.0
+8	Spectrogram 1	1	2334.0	2337.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1604	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	2334.0
+9	Spectrogram 1	1	2430.0	2433.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1354	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	2430.0
+10	Spectrogram 1	1	2574.0	2577.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1608	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	2574.0
+11	Spectrogram 1	1	2577.0	2580.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2174	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	2577.0
+12	Spectrogram 1	1	2613.0	2616.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1562	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	2613.0
+13	Spectrogram 1	1	2880.0	2883.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1080	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	2880.0
+14	Spectrogram 1	1	2889.0	2892.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2150	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	2889.0
+15	Spectrogram 1	1	2916.0	2919.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2526	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	2916.0
+16	Spectrogram 1	1	3060.0	3063.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2394	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	3060.0
+17	Spectrogram 1	1	3267.0	3270.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2161	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	3267.0
+18	Spectrogram 1	1	3312.0	3315.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3404	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	3312.0
+19	Spectrogram 1	1	3312.0	3315.0	0	12000.0	Northern Parula	norpar	0.1055	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	3312.0
+20	Spectrogram 1	1	3315.0	3318.0	0	12000.0	Brown Creeper	brncre	0.1136	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	3315.0
+21	Spectrogram 1	1	3336.0	3339.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8751	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	3336.0
+22	Spectrogram 1	1	3354.0	3357.0	0	12000.0	American Crow	amecro	0.2541	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	3354.0
+23	Spectrogram 1	1	3384.0	3387.0	0	12000.0	American Crow	amecro	0.1633	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	3384.0
+24	Spectrogram 1	1	3393.0	3396.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9100	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	3393.0
+25	Spectrogram 1	1	3408.0	3411.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7544	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	3408.0
+26	Spectrogram 1	1	3462.0	3465.0	0	12000.0	American Crow	amecro	0.1242	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	3462.0
+27	Spectrogram 1	1	3480.0	3483.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5541	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	3480.0
+28	Spectrogram 1	1	3495.0	3498.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2836	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	3495.0
+29	Spectrogram 1	1	3507.0	3510.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1337	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	3507.0
+30	Spectrogram 1	1	3519.0	3522.0	0	12000.0	Ruby-crowned Kinglet	ruckin	0.1630	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	3519.0
+31	Spectrogram 1	1	3522.0	3525.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1615	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	3522.0
+32	Spectrogram 1	1	3525.0	3528.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3404	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	3525.0
+33	Spectrogram 1	1	3552.0	3555.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1641	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	3552.0
+34	Spectrogram 1	1	3591.0	3594.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5448	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240724_040700.wav	3591.0

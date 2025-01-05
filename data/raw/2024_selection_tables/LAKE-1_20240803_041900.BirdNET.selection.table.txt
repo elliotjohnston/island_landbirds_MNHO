@@ -1,0 +1,97 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1641.0	1644.0	0	12000.0	Great Crested Flycatcher	grcfly	0.1294	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1641.0
+2	Spectrogram 1	1	1650.0	1653.0	0	12000.0	Swainson's Thrush	swathr	0.2898	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1650.0
+3	Spectrogram 1	1	1653.0	1656.0	0	12000.0	Swainson's Thrush	swathr	0.1431	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1653.0
+4	Spectrogram 1	1	1674.0	1677.0	0	12000.0	Swainson's Thrush	swathr	0.1243	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1674.0
+5	Spectrogram 1	1	1680.0	1683.0	0	12000.0	Great Crested Flycatcher	grcfly	0.1597	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1680.0
+6	Spectrogram 1	1	1692.0	1695.0	0	12000.0	Swainson's Thrush	swathr	0.5873	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1692.0
+7	Spectrogram 1	1	1695.0	1698.0	0	12000.0	Great Crested Flycatcher	grcfly	0.3347	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1695.0
+8	Spectrogram 1	1	1719.0	1722.0	0	12000.0	Swainson's Thrush	swathr	0.1176	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1719.0
+9	Spectrogram 1	1	1725.0	1728.0	0	12000.0	Swainson's Thrush	swathr	0.4637	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1725.0
+10	Spectrogram 1	1	1728.0	1731.0	0	12000.0	Swainson's Thrush	swathr	0.1249	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1728.0
+11	Spectrogram 1	1	1731.0	1734.0	0	12000.0	Swainson's Thrush	swathr	0.1745	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1731.0
+12	Spectrogram 1	1	1734.0	1737.0	0	12000.0	Swainson's Thrush	swathr	0.1969	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1734.0
+13	Spectrogram 1	1	1737.0	1740.0	0	12000.0	Swainson's Thrush	swathr	0.1462	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1737.0
+14	Spectrogram 1	1	1740.0	1743.0	0	12000.0	Swainson's Thrush	swathr	0.1644	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1740.0
+15	Spectrogram 1	1	1743.0	1746.0	0	12000.0	Swainson's Thrush	swathr	0.1092	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1743.0
+16	Spectrogram 1	1	1746.0	1749.0	0	12000.0	Swainson's Thrush	swathr	0.3035	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1746.0
+17	Spectrogram 1	1	1749.0	1752.0	0	12000.0	Swainson's Thrush	swathr	0.6141	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1749.0
+18	Spectrogram 1	1	1752.0	1755.0	0	12000.0	Swainson's Thrush	swathr	0.3434	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1752.0
+19	Spectrogram 1	1	1755.0	1758.0	0	12000.0	Swainson's Thrush	swathr	0.5432	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1755.0
+20	Spectrogram 1	1	1758.0	1761.0	0	12000.0	Swainson's Thrush	swathr	0.3728	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1758.0
+21	Spectrogram 1	1	1761.0	1764.0	0	12000.0	Swainson's Thrush	swathr	0.5163	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1761.0
+22	Spectrogram 1	1	1761.0	1764.0	0	12000.0	Great Crested Flycatcher	grcfly	0.1168	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1761.0
+23	Spectrogram 1	1	1764.0	1767.0	0	12000.0	Swainson's Thrush	swathr	0.4178	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1764.0
+24	Spectrogram 1	1	1767.0	1770.0	0	12000.0	Swainson's Thrush	swathr	0.2062	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1767.0
+25	Spectrogram 1	1	1770.0	1773.0	0	12000.0	Great Crested Flycatcher	grcfly	0.1081	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1770.0
+26	Spectrogram 1	1	1773.0	1776.0	0	12000.0	Great Crested Flycatcher	grcfly	0.1974	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1773.0
+27	Spectrogram 1	1	1773.0	1776.0	0	12000.0	Swainson's Thrush	swathr	0.1419	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1773.0
+28	Spectrogram 1	1	1779.0	1782.0	0	12000.0	Swainson's Thrush	swathr	0.6435	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1779.0
+29	Spectrogram 1	1	1782.0	1785.0	0	12000.0	Swainson's Thrush	swathr	0.1582	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1782.0
+30	Spectrogram 1	1	1791.0	1794.0	0	12000.0	Swainson's Thrush	swathr	0.1816	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1791.0
+31	Spectrogram 1	1	1794.0	1797.0	0	12000.0	Swainson's Thrush	swathr	0.4705	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1794.0
+32	Spectrogram 1	1	1797.0	1800.0	0	12000.0	Swainson's Thrush	swathr	0.6714	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1797.0
+33	Spectrogram 1	1	1800.0	1803.0	0	12000.0	Swainson's Thrush	swathr	0.1529	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1800.0
+34	Spectrogram 1	1	1803.0	1806.0	0	12000.0	Swainson's Thrush	swathr	0.9493	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1803.0
+35	Spectrogram 1	1	1806.0	1809.0	0	12000.0	Swainson's Thrush	swathr	0.2295	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1806.0
+36	Spectrogram 1	1	1821.0	1824.0	0	12000.0	Swainson's Thrush	swathr	0.1802	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1821.0
+37	Spectrogram 1	1	1839.0	1842.0	0	12000.0	Great Crested Flycatcher	grcfly	0.1960	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1839.0
+38	Spectrogram 1	1	1842.0	1845.0	0	12000.0	Swainson's Thrush	swathr	0.1055	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1842.0
+39	Spectrogram 1	1	1875.0	1878.0	0	12000.0	Swainson's Thrush	swathr	0.2138	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1875.0
+40	Spectrogram 1	1	1884.0	1887.0	0	12000.0	Swainson's Thrush	swathr	0.4614	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1884.0
+41	Spectrogram 1	1	1893.0	1896.0	0	12000.0	Eastern Whip-poor-will	easwpw1	0.1469	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1893.0
+42	Spectrogram 1	1	1950.0	1953.0	0	12000.0	Eastern Whip-poor-will	easwpw1	0.1168	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	1950.0
+43	Spectrogram 1	1	2013.0	2016.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.1376	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	2013.0
+44	Spectrogram 1	1	2304.0	2307.0	0	12000.0	Winter Wren	winwre3	0.8154	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	2304.0
+45	Spectrogram 1	1	2307.0	2310.0	0	12000.0	Winter Wren	winwre3	0.9533	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	2307.0
+46	Spectrogram 1	1	2343.0	2346.0	0	12000.0	Winter Wren	winwre3	0.9872	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	2343.0
+47	Spectrogram 1	1	2367.0	2370.0	0	12000.0	Swainson's Thrush	swathr	0.7314	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	2367.0
+48	Spectrogram 1	1	2373.0	2376.0	0	12000.0	Swainson's Thrush	swathr	0.1184	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	2373.0
+49	Spectrogram 1	1	2391.0	2394.0	0	12000.0	Winter Wren	winwre3	0.9557	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	2391.0
+50	Spectrogram 1	1	2394.0	2397.0	0	12000.0	Winter Wren	winwre3	0.9807	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	2394.0
+51	Spectrogram 1	1	2409.0	2412.0	0	12000.0	Winter Wren	winwre3	0.9911	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	2409.0
+52	Spectrogram 1	1	2412.0	2415.0	0	12000.0	Winter Wren	winwre3	0.9628	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	2412.0
+53	Spectrogram 1	1	2703.0	2706.0	0	12000.0	Dark-eyed Junco	daejun	0.6692	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	2703.0
+54	Spectrogram 1	1	2847.0	2850.0	0	12000.0	Brown Creeper	brncre	0.4360	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	2847.0
+55	Spectrogram 1	1	2853.0	2856.0	0	12000.0	Brown Creeper	brncre	0.1388	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	2853.0
+56	Spectrogram 1	1	2856.0	2859.0	0	12000.0	Brown Creeper	brncre	0.1319	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	2856.0
+57	Spectrogram 1	1	2862.0	2865.0	0	12000.0	Brown Creeper	brncre	0.1134	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	2862.0
+58	Spectrogram 1	1	3081.0	3084.0	0	12000.0	Brown Creeper	brncre	0.5441	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3081.0
+59	Spectrogram 1	1	3081.0	3084.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1187	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3081.0
+60	Spectrogram 1	1	3084.0	3087.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4408	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3084.0
+61	Spectrogram 1	1	3084.0	3087.0	0	12000.0	Brown Creeper	brncre	0.3137	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3084.0
+62	Spectrogram 1	1	3093.0	3096.0	0	12000.0	Brown Creeper	brncre	0.1768	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3093.0
+63	Spectrogram 1	1	3093.0	3096.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1700	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3093.0
+64	Spectrogram 1	1	3108.0	3111.0	0	12000.0	Brown Creeper	brncre	0.6330	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3108.0
+65	Spectrogram 1	1	3117.0	3120.0	0	12000.0	Brown Creeper	brncre	0.9306	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3117.0
+66	Spectrogram 1	1	3123.0	3126.0	0	12000.0	Brown Creeper	brncre	0.2690	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3123.0
+67	Spectrogram 1	1	3126.0	3129.0	0	12000.0	Brown Creeper	brncre	0.6006	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3126.0
+68	Spectrogram 1	1	3132.0	3135.0	0	12000.0	Brown Creeper	brncre	0.6815	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3132.0
+69	Spectrogram 1	1	3132.0	3135.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1140	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3132.0
+70	Spectrogram 1	1	3135.0	3138.0	0	12000.0	Brown Creeper	brncre	0.1097	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3135.0
+71	Spectrogram 1	1	3165.0	3168.0	0	12000.0	Brown Creeper	brncre	0.1228	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3165.0
+72	Spectrogram 1	1	3168.0	3171.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2892	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3168.0
+73	Spectrogram 1	1	3168.0	3171.0	0	12000.0	Brown Creeper	brncre	0.2419	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3168.0
+74	Spectrogram 1	1	3192.0	3195.0	0	12000.0	Brown Creeper	brncre	0.2320	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3192.0
+75	Spectrogram 1	1	3213.0	3216.0	0	12000.0	Brown Creeper	brncre	0.3949	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3213.0
+76	Spectrogram 1	1	3327.0	3330.0	0	12000.0	Brown Creeper	brncre	0.5660	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3327.0
+77	Spectrogram 1	1	3327.0	3330.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2233	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3327.0
+78	Spectrogram 1	1	3360.0	3363.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1204	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3360.0
+79	Spectrogram 1	1	3363.0	3366.0	0	12000.0	Brown Creeper	brncre	0.1807	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3363.0
+80	Spectrogram 1	1	3369.0	3372.0	0	12000.0	Brown Creeper	brncre	0.4179	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3369.0
+81	Spectrogram 1	1	3369.0	3372.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1252	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3369.0
+82	Spectrogram 1	1	3393.0	3396.0	0	12000.0	Brown Creeper	brncre	0.1325	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3393.0
+83	Spectrogram 1	1	3396.0	3399.0	0	12000.0	Brown Creeper	brncre	0.3298	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3396.0
+84	Spectrogram 1	1	3399.0	3402.0	0	12000.0	Brown Creeper	brncre	0.4967	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3399.0
+85	Spectrogram 1	1	3402.0	3405.0	0	12000.0	Winter Wren	winwre3	0.4817	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3402.0
+86	Spectrogram 1	1	3405.0	3408.0	0	12000.0	Winter Wren	winwre3	0.5786	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3405.0
+87	Spectrogram 1	1	3408.0	3411.0	0	12000.0	Winter Wren	winwre3	0.2768	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3408.0
+88	Spectrogram 1	1	3411.0	3414.0	0	12000.0	Winter Wren	winwre3	0.1388	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3411.0
+89	Spectrogram 1	1	3414.0	3417.0	0	12000.0	Winter Wren	winwre3	0.3355	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3414.0
+90	Spectrogram 1	1	3522.0	3525.0	0	12000.0	Brown Creeper	brncre	0.1332	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3522.0
+91	Spectrogram 1	1	3522.0	3525.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1114	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3522.0
+92	Spectrogram 1	1	3540.0	3543.0	0	12000.0	Cedar Waxwing	cedwax	0.3001	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3540.0
+93	Spectrogram 1	1	3546.0	3549.0	0	12000.0	Brown Creeper	brncre	0.1870	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3546.0
+94	Spectrogram 1	1	3546.0	3549.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1452	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3546.0
+95	Spectrogram 1	1	3555.0	3558.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1386	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3555.0
+96	Spectrogram 1	1	3564.0	3567.0	0	12000.0	Brown Creeper	brncre	0.2890	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240803_041900.wav	3564.0

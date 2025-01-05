@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	615.0	618.0	0	12000.0	Brown Creeper	brncre	0.5802	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240823_185700.wav	615.0
+2	Spectrogram 1	1	771.0	774.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.3185	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240823_185700.wav	771.0
+3	Spectrogram 1	1	1083.0	1086.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1282	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240823_185700.wav	1083.0
+4	Spectrogram 1	1	1089.0	1092.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3521	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240823_185700.wav	1089.0
+5	Spectrogram 1	1	1089.0	1092.0	0	12000.0	Brown Creeper	brncre	0.1156	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240823_185700.wav	1089.0
+6	Spectrogram 1	1	1092.0	1095.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8273	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240823_185700.wav	1092.0
+7	Spectrogram 1	1	1098.0	1101.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1233	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240823_185700.wav	1098.0
+8	Spectrogram 1	1	1107.0	1110.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5721	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240823_185700.wav	1107.0
+9	Spectrogram 1	1	1383.0	1386.0	0	12000.0	Brown Creeper	brncre	0.2000	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240823_185700.wav	1383.0
+10	Spectrogram 1	1	1707.0	1710.0	0	12000.0	Canada Warbler	canwar	0.9638	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240823_185700.wav	1707.0
+11	Spectrogram 1	1	1710.0	1713.0	0	12000.0	Canada Warbler	canwar	0.9853	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240823_185700.wav	1710.0
+12	Spectrogram 1	1	1713.0	1716.0	0	12000.0	Canada Warbler	canwar	0.9414	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240823_185700.wav	1713.0
+13	Spectrogram 1	1	1716.0	1719.0	0	12000.0	Canada Warbler	canwar	0.9808	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240823_185700.wav	1716.0
+14	Spectrogram 1	1	2223.0	2226.0	0	12000.0	Baltimore Oriole	balori	0.2060	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240823_185700.wav	2223.0
+15	Spectrogram 1	1	2232.0	2235.0	0	12000.0	Eastern Bluebird	easblu	0.1484	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240823_185700.wav	2232.0
+16	Spectrogram 1	1	2235.0	2238.0	0	12000.0	Baltimore Oriole	balori	0.1251	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240823_185700.wav	2235.0
+17	Spectrogram 1	1	2238.0	2241.0	0	12000.0	Evening Grosbeak	evegro	0.2599	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240823_185700.wav	2238.0
+18	Spectrogram 1	1	2745.0	2748.0	0	12000.0	Common Raven	comrav	0.3323	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240823_185700.wav	2745.0
+19	Spectrogram 1	1	2883.0	2886.0	0	12000.0	Savannah Sparrow	savspa	0.1159	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240823_185700.wav	2883.0

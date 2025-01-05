@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	489.0	492.0	0	12000.0	Brown Creeper	brncre	0.2383	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240905_182700.wav	489.0
+2	Spectrogram 1	1	888.0	891.0	0	12000.0	Common Raven	comrav	0.7918	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240905_182700.wav	888.0
+3	Spectrogram 1	1	912.0	915.0	0	12000.0	Common Raven	comrav	0.2099	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240905_182700.wav	912.0
+4	Spectrogram 1	1	939.0	942.0	0	12000.0	Common Raven	comrav	0.8709	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240905_182700.wav	939.0
+5	Spectrogram 1	1	942.0	945.0	0	12000.0	Common Raven	comrav	0.1719	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240905_182700.wav	942.0
+6	Spectrogram 1	1	1011.0	1014.0	0	12000.0	Brown Creeper	brncre	0.3055	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240905_182700.wav	1011.0
+7	Spectrogram 1	1	1143.0	1146.0	0	12000.0	Common Raven	comrav	0.1011	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240905_182700.wav	1143.0
+8	Spectrogram 1	1	1158.0	1161.0	0	12000.0	Common Raven	comrav	0.2296	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240905_182700.wav	1158.0
+9	Spectrogram 1	1	1164.0	1167.0	0	12000.0	Common Raven	comrav	0.7523	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240905_182700.wav	1164.0
+10	Spectrogram 1	1	1167.0	1170.0	0	12000.0	Common Raven	comrav	0.1068	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240905_182700.wav	1167.0
+11	Spectrogram 1	1	1179.0	1182.0	0	12000.0	Common Raven	comrav	0.1007	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240905_182700.wav	1179.0
+12	Spectrogram 1	1	1302.0	1305.0	0	12000.0	Common Raven	comrav	0.2344	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240905_182700.wav	1302.0
+13	Spectrogram 1	1	1341.0	1344.0	0	12000.0	Brown Creeper	brncre	0.6134	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240905_182700.wav	1341.0

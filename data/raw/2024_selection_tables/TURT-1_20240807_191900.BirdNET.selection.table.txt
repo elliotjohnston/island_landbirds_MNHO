@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	291.0	294.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8074	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240807_191900.wav	291.0
+2	Spectrogram 1	1	1416.0	1419.0	0	12000.0	Hermit Thrush	herthr	0.1994	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240807_191900.wav	1416.0
+3	Spectrogram 1	1	1854.0	1857.0	0	12000.0	Hermit Thrush	herthr	0.4909	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240807_191900.wav	1854.0
+4	Spectrogram 1	1	1857.0	1860.0	0	12000.0	Hermit Thrush	herthr	0.9353	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240807_191900.wav	1857.0
+5	Spectrogram 1	1	1860.0	1863.0	0	12000.0	Hermit Thrush	herthr	0.4904	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240807_191900.wav	1860.0
+6	Spectrogram 1	1	1863.0	1866.0	0	12000.0	Hermit Thrush	herthr	0.7417	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240807_191900.wav	1863.0
+7	Spectrogram 1	1	1866.0	1869.0	0	12000.0	Hermit Thrush	herthr	0.2649	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240807_191900.wav	1866.0
+8	Spectrogram 1	1	1869.0	1872.0	0	12000.0	Hermit Thrush	herthr	0.2477	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240807_191900.wav	1869.0
+9	Spectrogram 1	1	1992.0	1995.0	0	12000.0	Hermit Thrush	herthr	0.3098	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240807_191900.wav	1992.0

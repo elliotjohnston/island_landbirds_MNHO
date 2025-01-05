@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1314.0	1317.0	0	12000.0	Brown Creeper	brncre	0.2359	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240927_175000.wav	1314.0
+2	Spectrogram 1	1	1374.0	1377.0	0	12000.0	Brown Creeper	brncre	0.4618	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240927_175000.wav	1374.0
+3	Spectrogram 1	1	1374.0	1377.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2960	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240927_175000.wav	1374.0
+4	Spectrogram 1	1	1377.0	1380.0	0	12000.0	Brown Creeper	brncre	0.2136	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240927_175000.wav	1377.0
+5	Spectrogram 1	1	1386.0	1389.0	0	12000.0	Brown Creeper	brncre	0.1808	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240927_175000.wav	1386.0
+6	Spectrogram 1	1	1392.0	1395.0	0	12000.0	Brown Creeper	brncre	0.1871	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240927_175000.wav	1392.0
+7	Spectrogram 1	1	1422.0	1425.0	0	12000.0	Brown Creeper	brncre	0.5950	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240927_175000.wav	1422.0
+8	Spectrogram 1	1	1425.0	1428.0	0	12000.0	Brown Creeper	brncre	0.3886	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240927_175000.wav	1425.0
+9	Spectrogram 1	1	1626.0	1629.0	0	12000.0	Brown Creeper	brncre	0.8786	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240927_175000.wav	1626.0
+10	Spectrogram 1	1	1740.0	1743.0	0	12000.0	Brown Creeper	brncre	0.9012	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240927_175000.wav	1740.0
+11	Spectrogram 1	1	1881.0	1884.0	0	12000.0	Brown Creeper	brncre	0.2733	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240927_175000.wav	1881.0
+12	Spectrogram 1	1	1884.0	1887.0	0	12000.0	Brown Creeper	brncre	0.1347	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240927_175000.wav	1884.0
+13	Spectrogram 1	1	1917.0	1920.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.2429	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240927_175000.wav	1917.0
+14	Spectrogram 1	1	2364.0	2367.0	0	12000.0	Brown Creeper	brncre	0.1398	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240927_175000.wav	2364.0

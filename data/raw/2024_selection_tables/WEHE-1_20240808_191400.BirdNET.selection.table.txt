@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	897.0	900.0	0	12000.0	Pileated Woodpecker	pilwoo	0.1207	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240808_191400.wav	897.0
+2	Spectrogram 1	1	942.0	945.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.7282	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240808_191400.wav	942.0
+3	Spectrogram 1	1	948.0	951.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.3370	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240808_191400.wav	948.0
+4	Spectrogram 1	1	1401.0	1404.0	0	12000.0	Common Raven	comrav	0.3451	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240808_191400.wav	1401.0
+5	Spectrogram 1	1	1410.0	1413.0	0	12000.0	Common Raven	comrav	0.1174	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240808_191400.wav	1410.0
+6	Spectrogram 1	1	1548.0	1551.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.1002	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240808_191400.wav	1548.0
+7	Spectrogram 1	1	1743.0	1746.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1302	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240808_191400.wav	1743.0
+8	Spectrogram 1	1	3006.0	3009.0	0	12000.0	Hermit Thrush	herthr	0.6878	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240808_191400.wav	3006.0
+9	Spectrogram 1	1	3009.0	3012.0	0	12000.0	Hermit Thrush	herthr	0.7661	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240808_191400.wav	3009.0
+10	Spectrogram 1	1	3012.0	3015.0	0	12000.0	Hermit Thrush	herthr	0.6234	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240808_191400.wav	3012.0
+11	Spectrogram 1	1	3015.0	3018.0	0	12000.0	Hermit Thrush	herthr	0.6153	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240808_191400.wav	3015.0
+12	Spectrogram 1	1	3102.0	3105.0	0	12000.0	Common Nighthawk	comnig	0.7201	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240808_191400.wav	3102.0
+13	Spectrogram 1	1	3102.0	3105.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.1127	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240808_191400.wav	3102.0
+14	Spectrogram 1	1	3111.0	3114.0	0	12000.0	Common Nighthawk	comnig	0.1695	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240808_191400.wav	3111.0
+15	Spectrogram 1	1	3114.0	3117.0	0	12000.0	Common Nighthawk	comnig	0.7366	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240808_191400.wav	3114.0
+16	Spectrogram 1	1	3117.0	3120.0	0	12000.0	Common Nighthawk	comnig	0.5755	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240808_191400.wav	3117.0
+17	Spectrogram 1	1	3120.0	3123.0	0	12000.0	Common Nighthawk	comnig	0.5155	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240808_191400.wav	3120.0
+18	Spectrogram 1	1	3129.0	3132.0	0	12000.0	Common Nighthawk	comnig	0.9597	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240808_191400.wav	3129.0
+19	Spectrogram 1	1	3132.0	3135.0	0	12000.0	Common Nighthawk	comnig	0.7462	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240808_191400.wav	3132.0

@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	27.0	30.0	0	12000.0	Cedar Waxwing	cedwax	0.1492	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240812_043100.wav	27.0
+2	Spectrogram 1	1	30.0	33.0	0	12000.0	Cedar Waxwing	cedwax	0.9270	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240812_043100.wav	30.0
+3	Spectrogram 1	1	561.0	564.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.6267	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240812_043100.wav	561.0
+4	Spectrogram 1	1	1224.0	1227.0	0	12000.0	Swainson's Thrush	swathr	0.1016	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240812_043100.wav	1224.0
+5	Spectrogram 1	1	1236.0	1239.0	0	12000.0	Swainson's Thrush	swathr	0.6836	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240812_043100.wav	1236.0
+6	Spectrogram 1	1	1242.0	1245.0	0	12000.0	Swainson's Thrush	swathr	0.4572	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240812_043100.wav	1242.0
+7	Spectrogram 1	1	1245.0	1248.0	0	12000.0	Swainson's Thrush	swathr	0.4215	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240812_043100.wav	1245.0
+8	Spectrogram 1	1	1248.0	1251.0	0	12000.0	Swainson's Thrush	swathr	0.6920	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240812_043100.wav	1248.0
+9	Spectrogram 1	1	1251.0	1254.0	0	12000.0	Swainson's Thrush	swathr	0.8907	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240812_043100.wav	1251.0
+10	Spectrogram 1	1	1254.0	1257.0	0	12000.0	Swainson's Thrush	swathr	0.3523	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240812_043100.wav	1254.0
+11	Spectrogram 1	1	1263.0	1266.0	0	12000.0	Swainson's Thrush	swathr	0.6241	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240812_043100.wav	1263.0
+12	Spectrogram 1	1	3264.0	3267.0	0	12000.0	Cedar Waxwing	cedwax	0.9345	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240812_043100.wav	3264.0
+13	Spectrogram 1	1	3267.0	3270.0	0	12000.0	Cedar Waxwing	cedwax	0.4590	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240812_043100.wav	3267.0
+14	Spectrogram 1	1	3270.0	3273.0	0	12000.0	Cedar Waxwing	cedwax	0.9362	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240812_043100.wav	3270.0
+15	Spectrogram 1	1	3438.0	3441.0	0	12000.0	Cedar Waxwing	cedwax	0.1659	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240812_043100.wav	3438.0

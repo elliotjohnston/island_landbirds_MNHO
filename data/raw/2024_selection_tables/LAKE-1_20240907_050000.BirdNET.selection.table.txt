@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	297.0	300.0	0	12000.0	Northern Flicker	norfli	0.3466	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240907_050000.wav	297.0
+2	Spectrogram 1	1	1659.0	1662.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.2056	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240907_050000.wav	1659.0
+3	Spectrogram 1	1	2874.0	2877.0	0	12000.0	Winter Wren	winwre3	0.1033	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240907_050000.wav	2874.0
+4	Spectrogram 1	1	3348.0	3351.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1283	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240907_050000.wav	3348.0
+5	Spectrogram 1	1	3561.0	3564.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3838	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240907_050000.wav	3561.0
+6	Spectrogram 1	1	3573.0	3576.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1870	D:/Island_Songbirds_2024/LAKE-1/Data\LAKE-1_20240907_050000.wav	3573.0

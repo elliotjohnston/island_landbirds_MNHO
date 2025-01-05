@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	375.0	378.0	0	12000.0	Brown Creeper	brncre	0.2702	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240726_193400.wav	375.0
+2	Spectrogram 1	1	1011.0	1014.0	0	12000.0	Cedar Waxwing	cedwax	0.4361	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240726_193400.wav	1011.0
+3	Spectrogram 1	1	1089.0	1092.0	0	12000.0	Cedar Waxwing	cedwax	0.6170	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240726_193400.wav	1089.0
+4	Spectrogram 1	1	1137.0	1140.0	0	12000.0	Cedar Waxwing	cedwax	0.5044	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240726_193400.wav	1137.0
+5	Spectrogram 1	1	1632.0	1635.0	0	12000.0	Cedar Waxwing	cedwax	0.1704	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240726_193400.wav	1632.0
+6	Spectrogram 1	1	2043.0	2046.0	0	12000.0	Swainson's Thrush	swathr	0.3420	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240726_193400.wav	2043.0
+7	Spectrogram 1	1	2076.0	2079.0	0	12000.0	Swainson's Thrush	swathr	0.5153	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240726_193400.wav	2076.0

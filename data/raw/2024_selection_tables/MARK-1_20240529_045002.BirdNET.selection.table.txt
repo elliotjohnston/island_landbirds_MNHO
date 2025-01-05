@@ -1,0 +1,505 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	3.0	6.0	0	12000.0	Northern Parula	norpar	0.4135	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3.0
+2	Spectrogram 1	1	9.0	12.0	0	12000.0	Blackpoll Warbler	bkpwar	0.3794	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	9.0
+3	Spectrogram 1	1	18.0	21.0	0	12000.0	Winter Wren	winwre3	0.2040	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	18.0
+4	Spectrogram 1	1	24.0	27.0	0	12000.0	Blackpoll Warbler	bkpwar	0.2125	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	24.0
+5	Spectrogram 1	1	39.0	42.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.6922	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	39.0
+6	Spectrogram 1	1	42.0	45.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.8759	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	42.0
+7	Spectrogram 1	1	45.0	48.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.8917	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	45.0
+8	Spectrogram 1	1	48.0	51.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.5335	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	48.0
+9	Spectrogram 1	1	51.0	54.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.7286	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	51.0
+10	Spectrogram 1	1	87.0	90.0	0	12000.0	White-throated Sparrow	whtspa	0.1160	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	87.0
+11	Spectrogram 1	1	93.0	96.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9092	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	93.0
+12	Spectrogram 1	1	96.0	99.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.2363	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	96.0
+13	Spectrogram 1	1	99.0	102.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.2533	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	99.0
+14	Spectrogram 1	1	105.0	108.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.8818	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	105.0
+15	Spectrogram 1	1	111.0	114.0	0	12000.0	White-throated Sparrow	whtspa	0.8316	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	111.0
+16	Spectrogram 1	1	120.0	123.0	0	12000.0	Northern Parula	norpar	0.1332	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	120.0
+17	Spectrogram 1	1	123.0	126.0	0	12000.0	White-throated Sparrow	whtspa	0.6851	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	123.0
+18	Spectrogram 1	1	123.0	126.0	0	12000.0	Black-capped Chickadee	bkcchi	0.2504	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	123.0
+19	Spectrogram 1	1	129.0	132.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1874	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	129.0
+20	Spectrogram 1	1	135.0	138.0	0	12000.0	White-throated Sparrow	whtspa	0.3257	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	135.0
+21	Spectrogram 1	1	138.0	141.0	0	12000.0	White-throated Sparrow	whtspa	0.1897	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	138.0
+22	Spectrogram 1	1	141.0	144.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1059	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	141.0
+23	Spectrogram 1	1	147.0	150.0	0	12000.0	White-throated Sparrow	whtspa	0.1685	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	147.0
+24	Spectrogram 1	1	153.0	156.0	0	12000.0	Northern Parula	norpar	0.1844	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	153.0
+25	Spectrogram 1	1	159.0	162.0	0	12000.0	Bay-breasted Warbler	babwar	0.1061	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	159.0
+26	Spectrogram 1	1	159.0	162.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1000	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	159.0
+27	Spectrogram 1	1	162.0	165.0	0	12000.0	White-throated Sparrow	whtspa	0.5288	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	162.0
+28	Spectrogram 1	1	168.0	171.0	0	12000.0	Bay-breasted Warbler	babwar	0.1053	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	168.0
+29	Spectrogram 1	1	177.0	180.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1863	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	177.0
+30	Spectrogram 1	1	192.0	195.0	0	12000.0	White-throated Sparrow	whtspa	0.1010	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	192.0
+31	Spectrogram 1	1	204.0	207.0	0	12000.0	American Redstart	amered	0.2355	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	204.0
+32	Spectrogram 1	1	210.0	213.0	0	12000.0	White-throated Sparrow	whtspa	0.5969	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	210.0
+33	Spectrogram 1	1	216.0	219.0	0	12000.0	Northern Parula	norpar	0.3455	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	216.0
+34	Spectrogram 1	1	222.0	225.0	0	12000.0	Blackpoll Warbler	bkpwar	0.4382	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	222.0
+35	Spectrogram 1	1	225.0	228.0	0	12000.0	White-throated Sparrow	whtspa	0.4052	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	225.0
+36	Spectrogram 1	1	228.0	231.0	0	12000.0	American Redstart	amered	0.1182	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	228.0
+37	Spectrogram 1	1	243.0	246.0	0	12000.0	Northern Parula	norpar	0.3571	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	243.0
+38	Spectrogram 1	1	273.0	276.0	0	12000.0	White-throated Sparrow	whtspa	0.4190	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	273.0
+39	Spectrogram 1	1	282.0	285.0	0	12000.0	American Redstart	amered	0.1808	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	282.0
+40	Spectrogram 1	1	288.0	291.0	0	12000.0	White-throated Sparrow	whtspa	0.2712	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	288.0
+41	Spectrogram 1	1	297.0	300.0	0	12000.0	White-throated Sparrow	whtspa	0.7712	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	297.0
+42	Spectrogram 1	1	303.0	306.0	0	12000.0	White-throated Sparrow	whtspa	0.3341	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	303.0
+43	Spectrogram 1	1	327.0	330.0	0	12000.0	White-throated Sparrow	whtspa	0.1684	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	327.0
+44	Spectrogram 1	1	333.0	336.0	0	12000.0	White-throated Sparrow	whtspa	0.3277	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	333.0
+45	Spectrogram 1	1	381.0	384.0	0	12000.0	American Redstart	amered	0.1308	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	381.0
+46	Spectrogram 1	1	381.0	384.0	0	12000.0	Northern Parula	norpar	0.1043	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	381.0
+47	Spectrogram 1	1	387.0	390.0	0	12000.0	Northern Parula	norpar	0.3369	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	387.0
+48	Spectrogram 1	1	432.0	435.0	0	12000.0	Blackpoll Warbler	bkpwar	0.2911	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	432.0
+49	Spectrogram 1	1	432.0	435.0	0	12000.0	Northern Parula	norpar	0.1900	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	432.0
+50	Spectrogram 1	1	468.0	471.0	0	12000.0	Northern Parula	norpar	0.1050	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	468.0
+51	Spectrogram 1	1	480.0	483.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1814	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	480.0
+52	Spectrogram 1	1	504.0	507.0	0	12000.0	Northern Parula	norpar	0.6324	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	504.0
+53	Spectrogram 1	1	513.0	516.0	0	12000.0	American Redstart	amered	0.1247	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	513.0
+54	Spectrogram 1	1	519.0	522.0	0	12000.0	American Redstart	amered	0.1296	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	519.0
+55	Spectrogram 1	1	528.0	531.0	0	12000.0	American Redstart	amered	0.3015	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	528.0
+56	Spectrogram 1	1	543.0	546.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1966	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	543.0
+57	Spectrogram 1	1	546.0	549.0	0	12000.0	Northern Parula	norpar	0.3505	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	546.0
+58	Spectrogram 1	1	561.0	564.0	0	12000.0	American Redstart	amered	0.4126	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	561.0
+59	Spectrogram 1	1	564.0	567.0	0	12000.0	Northern Parula	norpar	0.4175	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	564.0
+60	Spectrogram 1	1	570.0	573.0	0	12000.0	Northern Parula	norpar	0.1574	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	570.0
+61	Spectrogram 1	1	570.0	573.0	0	12000.0	American Redstart	amered	0.1043	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	570.0
+62	Spectrogram 1	1	573.0	576.0	0	12000.0	American Redstart	amered	0.1198	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	573.0
+63	Spectrogram 1	1	579.0	582.0	0	12000.0	American Redstart	amered	0.1966	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	579.0
+64	Spectrogram 1	1	597.0	600.0	0	12000.0	American Redstart	amered	0.1094	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	597.0
+65	Spectrogram 1	1	606.0	609.0	0	12000.0	American Redstart	amered	0.2450	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	606.0
+66	Spectrogram 1	1	615.0	618.0	0	12000.0	American Redstart	amered	0.3030	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	615.0
+67	Spectrogram 1	1	615.0	618.0	0	12000.0	Northern Parula	norpar	0.1657	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	615.0
+68	Spectrogram 1	1	636.0	639.0	0	12000.0	American Redstart	amered	0.2230	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	636.0
+69	Spectrogram 1	1	654.0	657.0	0	12000.0	Northern Parula	norpar	0.3707	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	654.0
+70	Spectrogram 1	1	654.0	657.0	0	12000.0	American Redstart	amered	0.2481	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	654.0
+71	Spectrogram 1	1	663.0	666.0	0	12000.0	American Redstart	amered	0.1860	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	663.0
+72	Spectrogram 1	1	669.0	672.0	0	12000.0	Northern Parula	norpar	0.1287	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	669.0
+73	Spectrogram 1	1	672.0	675.0	0	12000.0	Northern Parula	norpar	0.3279	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	672.0
+74	Spectrogram 1	1	672.0	675.0	0	12000.0	American Redstart	amered	0.1433	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	672.0
+75	Spectrogram 1	1	678.0	681.0	0	12000.0	Northern Parula	norpar	0.3063	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	678.0
+76	Spectrogram 1	1	678.0	681.0	0	12000.0	American Redstart	amered	0.2021	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	678.0
+77	Spectrogram 1	1	684.0	687.0	0	12000.0	Northern Parula	norpar	0.5543	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	684.0
+78	Spectrogram 1	1	699.0	702.0	0	12000.0	Northern Parula	norpar	0.1432	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	699.0
+79	Spectrogram 1	1	699.0	702.0	0	12000.0	American Redstart	amered	0.1290	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	699.0
+80	Spectrogram 1	1	720.0	723.0	0	12000.0	American Redstart	amered	0.1975	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	720.0
+81	Spectrogram 1	1	723.0	726.0	0	12000.0	Northern Parula	norpar	0.6675	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	723.0
+82	Spectrogram 1	1	738.0	741.0	0	12000.0	American Redstart	amered	0.1520	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	738.0
+83	Spectrogram 1	1	738.0	741.0	0	12000.0	Bay-breasted Warbler	babwar	0.1207	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	738.0
+84	Spectrogram 1	1	741.0	744.0	0	12000.0	Northern Parula	norpar	0.2756	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	741.0
+85	Spectrogram 1	1	750.0	753.0	0	12000.0	American Redstart	amered	0.4622	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	750.0
+86	Spectrogram 1	1	756.0	759.0	0	12000.0	American Redstart	amered	0.1064	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	756.0
+87	Spectrogram 1	1	765.0	768.0	0	12000.0	American Redstart	amered	0.6745	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	765.0
+88	Spectrogram 1	1	768.0	771.0	0	12000.0	American Redstart	amered	0.4473	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	768.0
+89	Spectrogram 1	1	771.0	774.0	0	12000.0	Northern Parula	norpar	0.5824	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	771.0
+90	Spectrogram 1	1	774.0	777.0	0	12000.0	American Redstart	amered	0.1400	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	774.0
+91	Spectrogram 1	1	777.0	780.0	0	12000.0	American Redstart	amered	0.3198	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	777.0
+92	Spectrogram 1	1	780.0	783.0	0	12000.0	American Redstart	amered	0.3077	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	780.0
+93	Spectrogram 1	1	789.0	792.0	0	12000.0	American Redstart	amered	0.8077	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	789.0
+94	Spectrogram 1	1	792.0	795.0	0	12000.0	Northern Parula	norpar	0.5543	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	792.0
+95	Spectrogram 1	1	795.0	798.0	0	12000.0	American Redstart	amered	0.2162	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	795.0
+96	Spectrogram 1	1	801.0	804.0	0	12000.0	American Redstart	amered	0.6315	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	801.0
+97	Spectrogram 1	1	801.0	804.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1273	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	801.0
+98	Spectrogram 1	1	807.0	810.0	0	12000.0	American Redstart	amered	0.2532	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	807.0
+99	Spectrogram 1	1	813.0	816.0	0	12000.0	American Redstart	amered	0.5870	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	813.0
+100	Spectrogram 1	1	816.0	819.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3677	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	816.0
+101	Spectrogram 1	1	825.0	828.0	0	12000.0	American Redstart	amered	0.4257	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	825.0
+102	Spectrogram 1	1	828.0	831.0	0	12000.0	American Redstart	amered	0.1220	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	828.0
+103	Spectrogram 1	1	831.0	834.0	0	12000.0	American Redstart	amered	0.2228	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	831.0
+104	Spectrogram 1	1	831.0	834.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1315	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	831.0
+105	Spectrogram 1	1	837.0	840.0	0	12000.0	American Redstart	amered	0.1621	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	837.0
+106	Spectrogram 1	1	837.0	840.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1486	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	837.0
+107	Spectrogram 1	1	849.0	852.0	0	12000.0	American Redstart	amered	0.3975	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	849.0
+108	Spectrogram 1	1	861.0	864.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7799	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	861.0
+109	Spectrogram 1	1	864.0	867.0	0	12000.0	Blackpoll Warbler	bkpwar	0.8230	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	864.0
+110	Spectrogram 1	1	873.0	876.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1322	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	873.0
+111	Spectrogram 1	1	879.0	882.0	0	12000.0	Bay-breasted Warbler	babwar	0.1131	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	879.0
+112	Spectrogram 1	1	903.0	906.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1160	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	903.0
+113	Spectrogram 1	1	909.0	912.0	0	12000.0	American Redstart	amered	0.1351	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	909.0
+114	Spectrogram 1	1	924.0	927.0	0	12000.0	Chimney Swift	chiswi	0.1372	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	924.0
+115	Spectrogram 1	1	939.0	942.0	0	12000.0	American Redstart	amered	0.1045	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	939.0
+116	Spectrogram 1	1	948.0	951.0	0	12000.0	American Redstart	amered	0.1582	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	948.0
+117	Spectrogram 1	1	948.0	951.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1338	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	948.0
+118	Spectrogram 1	1	954.0	957.0	0	12000.0	American Redstart	amered	0.3303	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	954.0
+119	Spectrogram 1	1	960.0	963.0	0	12000.0	American Redstart	amered	0.4515	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	960.0
+120	Spectrogram 1	1	963.0	966.0	0	12000.0	Blackpoll Warbler	bkpwar	0.2515	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	963.0
+121	Spectrogram 1	1	966.0	969.0	0	12000.0	American Redstart	amered	0.6213	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	966.0
+122	Spectrogram 1	1	972.0	975.0	0	12000.0	American Redstart	amered	0.4620	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	972.0
+123	Spectrogram 1	1	978.0	981.0	0	12000.0	American Redstart	amered	0.2535	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	978.0
+124	Spectrogram 1	1	981.0	984.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9446	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	981.0
+125	Spectrogram 1	1	984.0	987.0	0	12000.0	American Redstart	amered	0.3642	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	984.0
+126	Spectrogram 1	1	984.0	987.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2456	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	984.0
+127	Spectrogram 1	1	993.0	996.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3482	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	993.0
+128	Spectrogram 1	1	993.0	996.0	0	12000.0	American Redstart	amered	0.1932	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	993.0
+129	Spectrogram 1	1	996.0	999.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7510	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	996.0
+130	Spectrogram 1	1	999.0	1002.0	0	12000.0	American Redstart	amered	0.4605	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	999.0
+131	Spectrogram 1	1	1008.0	1011.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9457	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1008.0
+132	Spectrogram 1	1	1011.0	1014.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1373	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1011.0
+133	Spectrogram 1	1	1020.0	1023.0	0	12000.0	American Redstart	amered	0.2007	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1020.0
+134	Spectrogram 1	1	1029.0	1032.0	0	12000.0	American Redstart	amered	0.2189	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1029.0
+135	Spectrogram 1	1	1053.0	1056.0	0	12000.0	American Redstart	amered	0.5188	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1053.0
+136	Spectrogram 1	1	1056.0	1059.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1458	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1056.0
+137	Spectrogram 1	1	1059.0	1062.0	0	12000.0	Blackpoll Warbler	bkpwar	0.2043	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1059.0
+138	Spectrogram 1	1	1068.0	1071.0	0	12000.0	American Redstart	amered	0.1875	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1068.0
+139	Spectrogram 1	1	1080.0	1083.0	0	12000.0	American Redstart	amered	0.1345	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1080.0
+140	Spectrogram 1	1	1086.0	1089.0	0	12000.0	Blackpoll Warbler	bkpwar	0.6103	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1086.0
+141	Spectrogram 1	1	1092.0	1095.0	0	12000.0	Northern Parula	norpar	0.3811	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1092.0
+142	Spectrogram 1	1	1101.0	1104.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6953	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1101.0
+143	Spectrogram 1	1	1110.0	1113.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1180	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1110.0
+144	Spectrogram 1	1	1110.0	1113.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1029	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1110.0
+145	Spectrogram 1	1	1113.0	1116.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9783	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1113.0
+146	Spectrogram 1	1	1119.0	1122.0	0	12000.0	Blackpoll Warbler	bkpwar	0.7450	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1119.0
+147	Spectrogram 1	1	1122.0	1125.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5335	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1122.0
+148	Spectrogram 1	1	1134.0	1137.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1140	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1134.0
+149	Spectrogram 1	1	1140.0	1143.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1025	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1140.0
+150	Spectrogram 1	1	1143.0	1146.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8536	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1143.0
+151	Spectrogram 1	1	1146.0	1149.0	0	12000.0	Blackpoll Warbler	bkpwar	0.5973	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1146.0
+152	Spectrogram 1	1	1158.0	1161.0	0	12000.0	Blackpoll Warbler	bkpwar	0.6299	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1158.0
+153	Spectrogram 1	1	1161.0	1164.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9354	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1161.0
+154	Spectrogram 1	1	1170.0	1173.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1573	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1170.0
+155	Spectrogram 1	1	1173.0	1176.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8542	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1173.0
+156	Spectrogram 1	1	1179.0	1182.0	0	12000.0	American Redstart	amered	0.1449	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1179.0
+157	Spectrogram 1	1	1179.0	1182.0	0	12000.0	Northern Parula	norpar	0.1057	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1179.0
+158	Spectrogram 1	1	1182.0	1185.0	0	12000.0	Blackpoll Warbler	bkpwar	0.6808	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1182.0
+159	Spectrogram 1	1	1185.0	1188.0	0	12000.0	American Redstart	amered	0.1044	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1185.0
+160	Spectrogram 1	1	1197.0	1200.0	0	12000.0	Blackpoll Warbler	bkpwar	0.4021	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1197.0
+161	Spectrogram 1	1	1203.0	1206.0	0	12000.0	Northern Parula	norpar	0.1267	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1203.0
+162	Spectrogram 1	1	1209.0	1212.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6142	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1209.0
+163	Spectrogram 1	1	1224.0	1227.0	0	12000.0	Blackpoll Warbler	bkpwar	0.2739	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1224.0
+164	Spectrogram 1	1	1236.0	1239.0	0	12000.0	Blackpoll Warbler	bkpwar	0.2228	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1236.0
+165	Spectrogram 1	1	1263.0	1266.0	0	12000.0	Blackpoll Warbler	bkpwar	0.3886	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1263.0
+166	Spectrogram 1	1	1269.0	1272.0	0	12000.0	Northern Parula	norpar	0.7646	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1269.0
+167	Spectrogram 1	1	1275.0	1278.0	0	12000.0	Blackpoll Warbler	bkpwar	0.5289	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1275.0
+168	Spectrogram 1	1	1290.0	1293.0	0	12000.0	Blackpoll Warbler	bkpwar	0.4038	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1290.0
+169	Spectrogram 1	1	1296.0	1299.0	0	12000.0	American Redstart	amered	0.1800	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1296.0
+170	Spectrogram 1	1	1314.0	1317.0	0	12000.0	Blackpoll Warbler	bkpwar	0.3422	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1314.0
+171	Spectrogram 1	1	1317.0	1320.0	0	12000.0	American Redstart	amered	0.1810	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1317.0
+172	Spectrogram 1	1	1326.0	1329.0	0	12000.0	American Redstart	amered	0.5875	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1326.0
+173	Spectrogram 1	1	1335.0	1338.0	0	12000.0	American Redstart	amered	0.4964	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1335.0
+174	Spectrogram 1	1	1338.0	1341.0	0	12000.0	Blackpoll Warbler	bkpwar	0.2635	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1338.0
+175	Spectrogram 1	1	1341.0	1344.0	0	12000.0	Blackpoll Warbler	bkpwar	0.5749	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1341.0
+176	Spectrogram 1	1	1353.0	1356.0	0	12000.0	Blackpoll Warbler	bkpwar	0.5500	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1353.0
+177	Spectrogram 1	1	1365.0	1368.0	0	12000.0	American Redstart	amered	0.2008	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1365.0
+178	Spectrogram 1	1	1368.0	1371.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1173	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1368.0
+179	Spectrogram 1	1	1407.0	1410.0	0	12000.0	Northern Parula	norpar	0.5457	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1407.0
+180	Spectrogram 1	1	1410.0	1413.0	0	12000.0	Northern Parula	norpar	0.2988	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1410.0
+181	Spectrogram 1	1	1416.0	1419.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1547	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1416.0
+182	Spectrogram 1	1	1431.0	1434.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1247	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1431.0
+183	Spectrogram 1	1	1431.0	1434.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1100	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1431.0
+184	Spectrogram 1	1	1449.0	1452.0	0	12000.0	Northern Parula	norpar	0.1576	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1449.0
+185	Spectrogram 1	1	1452.0	1455.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1515	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1452.0
+186	Spectrogram 1	1	1455.0	1458.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3661	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1455.0
+187	Spectrogram 1	1	1458.0	1461.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1325	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1458.0
+188	Spectrogram 1	1	1464.0	1467.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8915	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1464.0
+189	Spectrogram 1	1	1473.0	1476.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1741	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1473.0
+190	Spectrogram 1	1	1476.0	1479.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7007	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1476.0
+191	Spectrogram 1	1	1488.0	1491.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8908	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1488.0
+192	Spectrogram 1	1	1491.0	1494.0	0	12000.0	American Redstart	amered	0.2392	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1491.0
+193	Spectrogram 1	1	1506.0	1509.0	0	12000.0	Northern Parula	norpar	0.7565	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1506.0
+194	Spectrogram 1	1	1509.0	1512.0	0	12000.0	Northern Parula	norpar	0.3563	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1509.0
+195	Spectrogram 1	1	1512.0	1515.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8908	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1512.0
+196	Spectrogram 1	1	1524.0	1527.0	0	12000.0	Northern Parula	norpar	0.2371	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1524.0
+197	Spectrogram 1	1	1524.0	1527.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1135	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1524.0
+198	Spectrogram 1	1	1539.0	1542.0	0	12000.0	Northern Parula	norpar	0.1645	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1539.0
+199	Spectrogram 1	1	1545.0	1548.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8337	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1545.0
+200	Spectrogram 1	1	1548.0	1551.0	0	12000.0	Northern Parula	norpar	0.5095	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1548.0
+201	Spectrogram 1	1	1557.0	1560.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3428	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1557.0
+202	Spectrogram 1	1	1566.0	1569.0	0	12000.0	Northern Parula	norpar	0.2353	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1566.0
+203	Spectrogram 1	1	1566.0	1569.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1233	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1566.0
+204	Spectrogram 1	1	1569.0	1572.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8554	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1569.0
+205	Spectrogram 1	1	1572.0	1575.0	0	12000.0	Northern Parula	norpar	0.2137	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1572.0
+206	Spectrogram 1	1	1578.0	1581.0	0	12000.0	Northern Parula	norpar	0.6709	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1578.0
+207	Spectrogram 1	1	1581.0	1584.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1555	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1581.0
+208	Spectrogram 1	1	1584.0	1587.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9126	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1584.0
+209	Spectrogram 1	1	1587.0	1590.0	0	12000.0	American Redstart	amered	0.2623	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1587.0
+210	Spectrogram 1	1	1596.0	1599.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7751	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1596.0
+211	Spectrogram 1	1	1596.0	1599.0	0	12000.0	Northern Parula	norpar	0.1143	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1596.0
+212	Spectrogram 1	1	1608.0	1611.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9791	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1608.0
+213	Spectrogram 1	1	1611.0	1614.0	0	12000.0	Northern Parula	norpar	0.8876	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1611.0
+214	Spectrogram 1	1	1614.0	1617.0	0	12000.0	Northern Parula	norpar	0.3898	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1614.0
+215	Spectrogram 1	1	1614.0	1617.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1161	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1614.0
+216	Spectrogram 1	1	1617.0	1620.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2371	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1617.0
+217	Spectrogram 1	1	1620.0	1623.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2373	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1620.0
+218	Spectrogram 1	1	1620.0	1623.0	0	12000.0	Northern Parula	norpar	0.1538	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1620.0
+219	Spectrogram 1	1	1623.0	1626.0	0	12000.0	Northern Parula	norpar	0.7328	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1623.0
+220	Spectrogram 1	1	1623.0	1626.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1760	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1623.0
+221	Spectrogram 1	1	1626.0	1629.0	0	12000.0	Northern Parula	norpar	0.2582	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1626.0
+222	Spectrogram 1	1	1626.0	1629.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1081	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1626.0
+223	Spectrogram 1	1	1629.0	1632.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9078	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1629.0
+224	Spectrogram 1	1	1638.0	1641.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5622	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1638.0
+225	Spectrogram 1	1	1638.0	1641.0	0	12000.0	American Redstart	amered	0.2454	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1638.0
+226	Spectrogram 1	1	1641.0	1644.0	0	12000.0	Northern Parula	norpar	0.4147	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1641.0
+227	Spectrogram 1	1	1647.0	1650.0	0	12000.0	Northern Parula	norpar	0.1785	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1647.0
+228	Spectrogram 1	1	1650.0	1653.0	0	12000.0	Northern Parula	norpar	0.1538	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1650.0
+229	Spectrogram 1	1	1650.0	1653.0	0	12000.0	American Redstart	amered	0.1053	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1650.0
+230	Spectrogram 1	1	1653.0	1656.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1816	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1653.0
+231	Spectrogram 1	1	1656.0	1659.0	0	12000.0	Northern Parula	norpar	0.8487	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1656.0
+232	Spectrogram 1	1	1659.0	1662.0	0	12000.0	Northern Parula	norpar	0.2902	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1659.0
+233	Spectrogram 1	1	1659.0	1662.0	0	12000.0	American Redstart	amered	0.1887	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1659.0
+234	Spectrogram 1	1	1671.0	1674.0	0	12000.0	Northern Parula	norpar	0.2362	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1671.0
+235	Spectrogram 1	1	1683.0	1686.0	0	12000.0	American Redstart	amered	0.1175	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1683.0
+236	Spectrogram 1	1	1689.0	1692.0	0	12000.0	Northern Parula	norpar	0.1613	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1689.0
+237	Spectrogram 1	1	1695.0	1698.0	0	12000.0	Northern Parula	norpar	0.1645	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1695.0
+238	Spectrogram 1	1	1704.0	1707.0	0	12000.0	Northern Parula	norpar	0.1407	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1704.0
+239	Spectrogram 1	1	1713.0	1716.0	0	12000.0	Northern Parula	norpar	0.3076	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1713.0
+240	Spectrogram 1	1	1728.0	1731.0	0	12000.0	Northern Parula	norpar	0.7399	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1728.0
+241	Spectrogram 1	1	1734.0	1737.0	0	12000.0	Northern Parula	norpar	0.2261	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1734.0
+242	Spectrogram 1	1	1743.0	1746.0	0	12000.0	Northern Parula	norpar	0.8090	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1743.0
+243	Spectrogram 1	1	1749.0	1752.0	0	12000.0	Northern Parula	norpar	0.6789	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1749.0
+244	Spectrogram 1	1	1758.0	1761.0	0	12000.0	Northern Parula	norpar	0.2505	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1758.0
+245	Spectrogram 1	1	1767.0	1770.0	0	12000.0	Northern Parula	norpar	0.7668	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1767.0
+246	Spectrogram 1	1	1773.0	1776.0	0	12000.0	Northern Parula	norpar	0.2198	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1773.0
+247	Spectrogram 1	1	1788.0	1791.0	0	12000.0	Northern Parula	norpar	0.3649	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1788.0
+248	Spectrogram 1	1	1794.0	1797.0	0	12000.0	Northern Parula	norpar	0.5521	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1794.0
+249	Spectrogram 1	1	1803.0	1806.0	0	12000.0	Northern Parula	norpar	0.6630	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1803.0
+250	Spectrogram 1	1	1809.0	1812.0	0	12000.0	Northern Parula	norpar	0.8228	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1809.0
+251	Spectrogram 1	1	1815.0	1818.0	0	12000.0	Northern Parula	norpar	0.6739	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1815.0
+252	Spectrogram 1	1	1824.0	1827.0	0	12000.0	Northern Parula	norpar	0.8755	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1824.0
+253	Spectrogram 1	1	1830.0	1833.0	0	12000.0	Northern Parula	norpar	0.7942	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1830.0
+254	Spectrogram 1	1	1839.0	1842.0	0	12000.0	Northern Parula	norpar	0.7721	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1839.0
+255	Spectrogram 1	1	1842.0	1845.0	0	12000.0	Northern Parula	norpar	0.2087	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1842.0
+256	Spectrogram 1	1	1845.0	1848.0	0	12000.0	Northern Parula	norpar	0.6789	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1845.0
+257	Spectrogram 1	1	1851.0	1854.0	0	12000.0	Northern Parula	norpar	0.9034	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1851.0
+258	Spectrogram 1	1	1857.0	1860.0	0	12000.0	Northern Parula	norpar	0.3006	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1857.0
+259	Spectrogram 1	1	1866.0	1869.0	0	12000.0	Northern Parula	norpar	0.6312	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1866.0
+260	Spectrogram 1	1	1875.0	1878.0	0	12000.0	Northern Parula	norpar	0.6816	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1875.0
+261	Spectrogram 1	1	1881.0	1884.0	0	12000.0	Northern Parula	norpar	0.8399	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1881.0
+262	Spectrogram 1	1	1884.0	1887.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1332	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1884.0
+263	Spectrogram 1	1	1890.0	1893.0	0	12000.0	Northern Parula	norpar	0.8392	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1890.0
+264	Spectrogram 1	1	1896.0	1899.0	0	12000.0	Northern Parula	norpar	0.8391	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1896.0
+265	Spectrogram 1	1	1905.0	1908.0	0	12000.0	Northern Parula	norpar	0.4394	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1905.0
+266	Spectrogram 1	1	1920.0	1923.0	0	12000.0	Northern Parula	norpar	0.8684	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1920.0
+267	Spectrogram 1	1	1929.0	1932.0	0	12000.0	Northern Parula	norpar	0.4432	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1929.0
+268	Spectrogram 1	1	1938.0	1941.0	0	12000.0	Northern Parula	norpar	0.4737	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1938.0
+269	Spectrogram 1	1	1944.0	1947.0	0	12000.0	Northern Parula	norpar	0.9100	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1944.0
+270	Spectrogram 1	1	1947.0	1950.0	0	12000.0	Blackpoll Warbler	bkpwar	0.2831	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1947.0
+271	Spectrogram 1	1	1956.0	1959.0	0	12000.0	Northern Parula	norpar	0.2701	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1956.0
+272	Spectrogram 1	1	1959.0	1962.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1852	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1959.0
+273	Spectrogram 1	1	1965.0	1968.0	0	12000.0	Northern Parula	norpar	0.7147	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1965.0
+274	Spectrogram 1	1	1974.0	1977.0	0	12000.0	Northern Parula	norpar	0.6305	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1974.0
+275	Spectrogram 1	1	1983.0	1986.0	0	12000.0	Northern Parula	norpar	0.8057	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1983.0
+276	Spectrogram 1	1	1992.0	1995.0	0	12000.0	Northern Parula	norpar	0.8483	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	1992.0
+277	Spectrogram 1	1	2001.0	2004.0	0	12000.0	Northern Parula	norpar	0.9049	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2001.0
+278	Spectrogram 1	1	2010.0	2013.0	0	12000.0	Northern Parula	norpar	0.4436	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2010.0
+279	Spectrogram 1	1	2016.0	2019.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2139	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2016.0
+280	Spectrogram 1	1	2019.0	2022.0	0	12000.0	Northern Parula	norpar	0.3418	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2019.0
+281	Spectrogram 1	1	2019.0	2022.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1382	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2019.0
+282	Spectrogram 1	1	2025.0	2028.0	0	12000.0	Northern Parula	norpar	0.7457	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2025.0
+283	Spectrogram 1	1	2034.0	2037.0	0	12000.0	Northern Parula	norpar	0.6550	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2034.0
+284	Spectrogram 1	1	2040.0	2043.0	0	12000.0	Northern Parula	norpar	0.7226	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2040.0
+285	Spectrogram 1	1	2049.0	2052.0	0	12000.0	Northern Parula	norpar	0.5508	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2049.0
+286	Spectrogram 1	1	2055.0	2058.0	0	12000.0	Northern Parula	norpar	0.7542	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2055.0
+287	Spectrogram 1	1	2061.0	2064.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1940	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2061.0
+288	Spectrogram 1	1	2064.0	2067.0	0	12000.0	Northern Parula	norpar	0.2488	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2064.0
+289	Spectrogram 1	1	2070.0	2073.0	0	12000.0	Northern Parula	norpar	0.8190	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2070.0
+290	Spectrogram 1	1	2076.0	2079.0	0	12000.0	Northern Parula	norpar	0.1468	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2076.0
+291	Spectrogram 1	1	2085.0	2088.0	0	12000.0	Northern Parula	norpar	0.6093	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2085.0
+292	Spectrogram 1	1	2091.0	2094.0	0	12000.0	Northern Parula	norpar	0.3173	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2091.0
+293	Spectrogram 1	1	2094.0	2097.0	0	12000.0	American Redstart	amered	0.4026	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2094.0
+294	Spectrogram 1	1	2094.0	2097.0	0	12000.0	Northern Parula	norpar	0.1221	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2094.0
+295	Spectrogram 1	1	2100.0	2103.0	0	12000.0	Northern Parula	norpar	0.4553	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2100.0
+296	Spectrogram 1	1	2106.0	2109.0	0	12000.0	Northern Parula	norpar	0.9232	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2106.0
+297	Spectrogram 1	1	2112.0	2115.0	0	12000.0	Northern Parula	norpar	0.6846	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2112.0
+298	Spectrogram 1	1	2115.0	2118.0	0	12000.0	Blackpoll Warbler	bkpwar	0.3090	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2115.0
+299	Spectrogram 1	1	2121.0	2124.0	0	12000.0	Northern Parula	norpar	0.2134	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2121.0
+300	Spectrogram 1	1	2133.0	2136.0	0	12000.0	Northern Parula	norpar	0.7636	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2133.0
+301	Spectrogram 1	1	2139.0	2142.0	0	12000.0	Northern Parula	norpar	0.8237	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2139.0
+302	Spectrogram 1	1	2145.0	2148.0	0	12000.0	Northern Parula	norpar	0.2642	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2145.0
+303	Spectrogram 1	1	2145.0	2148.0	0	12000.0	American Redstart	amered	0.1059	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2145.0
+304	Spectrogram 1	1	2148.0	2151.0	0	12000.0	Northern Parula	norpar	0.7108	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2148.0
+305	Spectrogram 1	1	2154.0	2157.0	0	12000.0	Northern Parula	norpar	0.4953	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2154.0
+306	Spectrogram 1	1	2163.0	2166.0	0	12000.0	Northern Parula	norpar	0.4089	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2163.0
+307	Spectrogram 1	1	2169.0	2172.0	0	12000.0	Northern Parula	norpar	0.5926	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2169.0
+308	Spectrogram 1	1	2175.0	2178.0	0	12000.0	Northern Parula	norpar	0.2446	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2175.0
+309	Spectrogram 1	1	2178.0	2181.0	0	12000.0	Northern Parula	norpar	0.2383	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2178.0
+310	Spectrogram 1	1	2178.0	2181.0	0	12000.0	American Redstart	amered	0.1906	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2178.0
+311	Spectrogram 1	1	2181.0	2184.0	0	12000.0	Northern Parula	norpar	0.6855	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2181.0
+312	Spectrogram 1	1	2190.0	2193.0	0	12000.0	Northern Parula	norpar	0.6146	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2190.0
+313	Spectrogram 1	1	2196.0	2199.0	0	12000.0	Northern Parula	norpar	0.7258	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2196.0
+314	Spectrogram 1	1	2199.0	2202.0	0	12000.0	American Redstart	amered	0.4825	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2199.0
+315	Spectrogram 1	1	2205.0	2208.0	0	12000.0	Northern Parula	norpar	0.5408	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2205.0
+316	Spectrogram 1	1	2208.0	2211.0	0	12000.0	American Redstart	amered	0.6600	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2208.0
+317	Spectrogram 1	1	2211.0	2214.0	0	12000.0	Northern Parula	norpar	0.5870	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2211.0
+318	Spectrogram 1	1	2217.0	2220.0	0	12000.0	Northern Parula	norpar	0.1370	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2217.0
+319	Spectrogram 1	1	2226.0	2229.0	0	12000.0	Northern Parula	norpar	0.6949	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2226.0
+320	Spectrogram 1	1	2232.0	2235.0	0	12000.0	Northern Parula	norpar	0.4163	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2232.0
+321	Spectrogram 1	1	2235.0	2238.0	0	12000.0	American Redstart	amered	0.6606	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2235.0
+322	Spectrogram 1	1	2241.0	2244.0	0	12000.0	Northern Parula	norpar	0.8458	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2241.0
+323	Spectrogram 1	1	2244.0	2247.0	0	12000.0	Northern Parula	norpar	0.3757	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2244.0
+324	Spectrogram 1	1	2244.0	2247.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1238	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2244.0
+325	Spectrogram 1	1	2250.0	2253.0	0	12000.0	Northern Parula	norpar	0.8116	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2250.0
+326	Spectrogram 1	1	2256.0	2259.0	0	12000.0	American Redstart	amered	0.8936	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2256.0
+327	Spectrogram 1	1	2259.0	2262.0	0	12000.0	Northern Parula	norpar	0.8216	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2259.0
+328	Spectrogram 1	1	2262.0	2265.0	0	12000.0	American Redstart	amered	0.2677	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2262.0
+329	Spectrogram 1	1	2265.0	2268.0	0	12000.0	Northern Parula	norpar	0.7265	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2265.0
+330	Spectrogram 1	1	2265.0	2268.0	0	12000.0	American Redstart	amered	0.1664	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2265.0
+331	Spectrogram 1	1	2274.0	2277.0	0	12000.0	American Redstart	amered	0.4501	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2274.0
+332	Spectrogram 1	1	2283.0	2286.0	0	12000.0	American Redstart	amered	0.8158	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2283.0
+333	Spectrogram 1	1	2286.0	2289.0	0	12000.0	Northern Parula	norpar	0.8361	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2286.0
+334	Spectrogram 1	1	2298.0	2301.0	0	12000.0	Northern Parula	norpar	0.5328	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2298.0
+335	Spectrogram 1	1	2304.0	2307.0	0	12000.0	Northern Parula	norpar	0.5825	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2304.0
+336	Spectrogram 1	1	2307.0	2310.0	0	12000.0	American Redstart	amered	0.8762	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2307.0
+337	Spectrogram 1	1	2313.0	2316.0	0	12000.0	American Redstart	amered	0.5361	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2313.0
+338	Spectrogram 1	1	2319.0	2322.0	0	12000.0	Northern Parula	norpar	0.6531	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2319.0
+339	Spectrogram 1	1	2322.0	2325.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1651	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2322.0
+340	Spectrogram 1	1	2322.0	2325.0	0	12000.0	Northern Parula	norpar	0.1326	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2322.0
+341	Spectrogram 1	1	2322.0	2325.0	0	12000.0	American Redstart	amered	0.1313	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2322.0
+342	Spectrogram 1	1	2325.0	2328.0	0	12000.0	American Redstart	amered	0.9255	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2325.0
+343	Spectrogram 1	1	2328.0	2331.0	0	12000.0	Northern Parula	norpar	0.8886	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2328.0
+344	Spectrogram 1	1	2334.0	2337.0	0	12000.0	American Redstart	amered	0.8299	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2334.0
+345	Spectrogram 1	1	2334.0	2337.0	0	12000.0	Northern Parula	norpar	0.2362	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2334.0
+346	Spectrogram 1	1	2337.0	2340.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2873	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2337.0
+347	Spectrogram 1	1	2343.0	2346.0	0	12000.0	Northern Parula	norpar	0.9458	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2343.0
+348	Spectrogram 1	1	2346.0	2349.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4629	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2346.0
+349	Spectrogram 1	1	2349.0	2352.0	0	12000.0	Northern Parula	norpar	0.5913	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2349.0
+350	Spectrogram 1	1	2355.0	2358.0	0	12000.0	American Redstart	amered	0.3757	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2355.0
+351	Spectrogram 1	1	2370.0	2373.0	0	12000.0	Northern Parula	norpar	0.1425	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2370.0
+352	Spectrogram 1	1	2370.0	2373.0	0	12000.0	American Redstart	amered	0.1126	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2370.0
+353	Spectrogram 1	1	2373.0	2376.0	0	12000.0	American Redstart	amered	0.6904	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2373.0
+354	Spectrogram 1	1	2379.0	2382.0	0	12000.0	Northern Parula	norpar	0.6407	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2379.0
+355	Spectrogram 1	1	2379.0	2382.0	0	12000.0	American Redstart	amered	0.3281	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2379.0
+356	Spectrogram 1	1	2385.0	2388.0	0	12000.0	Northern Parula	norpar	0.2706	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2385.0
+357	Spectrogram 1	1	2385.0	2388.0	0	12000.0	American Redstart	amered	0.2504	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2385.0
+358	Spectrogram 1	1	2391.0	2394.0	0	12000.0	American Redstart	amered	0.7323	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2391.0
+359	Spectrogram 1	1	2394.0	2397.0	0	12000.0	Northern Parula	norpar	0.2129	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2394.0
+360	Spectrogram 1	1	2394.0	2397.0	0	12000.0	American Redstart	amered	0.1118	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2394.0
+361	Spectrogram 1	1	2397.0	2400.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2186	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2397.0
+362	Spectrogram 1	1	2400.0	2403.0	0	12000.0	Northern Parula	norpar	0.6676	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2400.0
+363	Spectrogram 1	1	2403.0	2406.0	0	12000.0	American Redstart	amered	0.8180	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2403.0
+364	Spectrogram 1	1	2412.0	2415.0	0	12000.0	American Redstart	amered	0.3623	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2412.0
+365	Spectrogram 1	1	2421.0	2424.0	0	12000.0	American Redstart	amered	0.3325	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2421.0
+366	Spectrogram 1	1	2427.0	2430.0	0	12000.0	American Redstart	amered	0.1870	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2427.0
+367	Spectrogram 1	1	2430.0	2433.0	0	12000.0	American Redstart	amered	0.2394	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2430.0
+368	Spectrogram 1	1	2445.0	2448.0	0	12000.0	American Redstart	amered	0.2831	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2445.0
+369	Spectrogram 1	1	2445.0	2448.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1045	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2445.0
+370	Spectrogram 1	1	2460.0	2463.0	0	12000.0	American Redstart	amered	0.5823	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2460.0
+371	Spectrogram 1	1	2559.0	2562.0	0	12000.0	Blackpoll Warbler	bkpwar	0.3093	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2559.0
+372	Spectrogram 1	1	2637.0	2640.0	0	12000.0	Blackpoll Warbler	bkpwar	0.4142	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2637.0
+373	Spectrogram 1	1	2649.0	2652.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1889	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2649.0
+374	Spectrogram 1	1	2664.0	2667.0	0	12000.0	Blackpoll Warbler	bkpwar	0.4619	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2664.0
+375	Spectrogram 1	1	2691.0	2694.0	0	12000.0	Blackpoll Warbler	bkpwar	0.3099	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2691.0
+376	Spectrogram 1	1	2706.0	2709.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1823	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2706.0
+377	Spectrogram 1	1	2730.0	2733.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1305	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2730.0
+378	Spectrogram 1	1	2745.0	2748.0	0	12000.0	Blackpoll Warbler	bkpwar	0.7418	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2745.0
+379	Spectrogram 1	1	2760.0	2763.0	0	12000.0	Blackpoll Warbler	bkpwar	0.6796	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2760.0
+380	Spectrogram 1	1	2787.0	2790.0	0	12000.0	Blackburnian Warbler	bkbwar	0.2324	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2787.0
+381	Spectrogram 1	1	2787.0	2790.0	0	12000.0	American Redstart	amered	0.1157	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2787.0
+382	Spectrogram 1	1	2787.0	2790.0	0	12000.0	Cape May Warbler	camwar	0.1028	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2787.0
+383	Spectrogram 1	1	2802.0	2805.0	0	12000.0	American Redstart	amered	0.1145	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2802.0
+384	Spectrogram 1	1	2814.0	2817.0	0	12000.0	Blackpoll Warbler	bkpwar	0.4671	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2814.0
+385	Spectrogram 1	1	2823.0	2826.0	0	12000.0	American Redstart	amered	0.1136	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2823.0
+386	Spectrogram 1	1	2838.0	2841.0	0	12000.0	American Redstart	amered	0.6761	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2838.0
+387	Spectrogram 1	1	2844.0	2847.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1739	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2844.0
+388	Spectrogram 1	1	2847.0	2850.0	0	12000.0	American Redstart	amered	0.4910	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2847.0
+389	Spectrogram 1	1	2856.0	2859.0	0	12000.0	American Redstart	amered	0.1696	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2856.0
+390	Spectrogram 1	1	2859.0	2862.0	0	12000.0	American Redstart	amered	0.4664	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2859.0
+391	Spectrogram 1	1	2859.0	2862.0	0	12000.0	Black-and-white Warbler	bawwar	0.1144	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2859.0
+392	Spectrogram 1	1	2865.0	2868.0	0	12000.0	American Crow	amecro	0.1063	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2865.0
+393	Spectrogram 1	1	2880.0	2883.0	0	12000.0	American Redstart	amered	0.3689	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2880.0
+394	Spectrogram 1	1	2883.0	2886.0	0	12000.0	Blackpoll Warbler	bkpwar	0.2572	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2883.0
+395	Spectrogram 1	1	2892.0	2895.0	0	12000.0	American Redstart	amered	0.4337	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2892.0
+396	Spectrogram 1	1	2895.0	2898.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1797	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2895.0
+397	Spectrogram 1	1	2910.0	2913.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1587	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2910.0
+398	Spectrogram 1	1	2910.0	2913.0	0	12000.0	American Redstart	amered	0.1225	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2910.0
+399	Spectrogram 1	1	2916.0	2919.0	0	12000.0	Northern Parula	norpar	0.2222	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2916.0
+400	Spectrogram 1	1	2919.0	2922.0	0	12000.0	American Redstart	amered	0.2696	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2919.0
+401	Spectrogram 1	1	2919.0	2922.0	0	12000.0	Northern Parula	norpar	0.1833	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2919.0
+402	Spectrogram 1	1	2931.0	2934.0	0	12000.0	Northern Parula	norpar	0.1906	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2931.0
+403	Spectrogram 1	1	2934.0	2937.0	0	12000.0	Northern Parula	norpar	0.4100	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2934.0
+404	Spectrogram 1	1	2934.0	2937.0	0	12000.0	American Redstart	amered	0.1954	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2934.0
+405	Spectrogram 1	1	2937.0	2940.0	0	12000.0	Blackpoll Warbler	bkpwar	0.3281	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2937.0
+406	Spectrogram 1	1	2946.0	2949.0	0	12000.0	American Redstart	amered	0.2319	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2946.0
+407	Spectrogram 1	1	2946.0	2949.0	0	12000.0	Northern Parula	norpar	0.1290	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2946.0
+408	Spectrogram 1	1	2949.0	2952.0	0	12000.0	Blackpoll Warbler	bkpwar	0.2768	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2949.0
+409	Spectrogram 1	1	2952.0	2955.0	0	12000.0	American Redstart	amered	0.1545	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2952.0
+410	Spectrogram 1	1	2961.0	2964.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1595	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2961.0
+411	Spectrogram 1	1	2967.0	2970.0	0	12000.0	American Redstart	amered	0.6341	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2967.0
+412	Spectrogram 1	1	2976.0	2979.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1683	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2976.0
+413	Spectrogram 1	1	2982.0	2985.0	0	12000.0	American Redstart	amered	0.1292	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2982.0
+414	Spectrogram 1	1	2985.0	2988.0	0	12000.0	Northern Parula	norpar	0.1269	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2985.0
+415	Spectrogram 1	1	2985.0	2988.0	0	12000.0	American Redstart	amered	0.1041	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	2985.0
+416	Spectrogram 1	1	3000.0	3003.0	0	12000.0	Blackpoll Warbler	bkpwar	0.6313	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3000.0
+417	Spectrogram 1	1	3012.0	3015.0	0	12000.0	Blackpoll Warbler	bkpwar	0.7077	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3012.0
+418	Spectrogram 1	1	3015.0	3018.0	0	12000.0	Blackpoll Warbler	bkpwar	0.2167	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3015.0
+419	Spectrogram 1	1	3021.0	3024.0	0	12000.0	American Redstart	amered	0.2768	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3021.0
+420	Spectrogram 1	1	3027.0	3030.0	0	12000.0	Blackpoll Warbler	bkpwar	0.6162	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3027.0
+421	Spectrogram 1	1	3030.0	3033.0	0	12000.0	American Redstart	amered	0.1934	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3030.0
+422	Spectrogram 1	1	3033.0	3036.0	0	12000.0	American Redstart	amered	0.1422	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3033.0
+423	Spectrogram 1	1	3051.0	3054.0	0	12000.0	Blackpoll Warbler	bkpwar	0.2184	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3051.0
+424	Spectrogram 1	1	3060.0	3063.0	0	12000.0	Northern Parula	norpar	0.4780	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3060.0
+425	Spectrogram 1	1	3063.0	3066.0	0	12000.0	Blackpoll Warbler	bkpwar	0.7622	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3063.0
+426	Spectrogram 1	1	3066.0	3069.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1506	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3066.0
+427	Spectrogram 1	1	3069.0	3072.0	0	12000.0	Northern Parula	norpar	0.3359	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3069.0
+428	Spectrogram 1	1	3087.0	3090.0	0	12000.0	Northern Parula	norpar	0.3815	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3087.0
+429	Spectrogram 1	1	3087.0	3090.0	0	12000.0	Pine Siskin	pinsis	0.1092	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3087.0
+430	Spectrogram 1	1	3090.0	3093.0	0	12000.0	Blackpoll Warbler	bkpwar	0.2574	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3090.0
+431	Spectrogram 1	1	3093.0	3096.0	0	12000.0	Northern Parula	norpar	0.2141	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3093.0
+432	Spectrogram 1	1	3099.0	3102.0	0	12000.0	American Redstart	amered	0.1152	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3099.0
+433	Spectrogram 1	1	3108.0	3111.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1196	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3108.0
+434	Spectrogram 1	1	3114.0	3117.0	0	12000.0	American Redstart	amered	0.2088	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3114.0
+435	Spectrogram 1	1	3132.0	3135.0	0	12000.0	Blackpoll Warbler	bkpwar	0.3957	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3132.0
+436	Spectrogram 1	1	3147.0	3150.0	0	12000.0	Cedar Waxwing	cedwax	0.1251	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3147.0
+437	Spectrogram 1	1	3153.0	3156.0	0	12000.0	Cedar Waxwing	cedwax	0.5073	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3153.0
+438	Spectrogram 1	1	3156.0	3159.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1254	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3156.0
+439	Spectrogram 1	1	3165.0	3168.0	0	12000.0	Northern Parula	norpar	0.2185	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3165.0
+440	Spectrogram 1	1	3171.0	3174.0	0	12000.0	Cape May Warbler	camwar	0.1158	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3171.0
+441	Spectrogram 1	1	3171.0	3174.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1146	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3171.0
+442	Spectrogram 1	1	3210.0	3213.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7991	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3210.0
+443	Spectrogram 1	1	3225.0	3228.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7136	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3225.0
+444	Spectrogram 1	1	3285.0	3288.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6549	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3285.0
+445	Spectrogram 1	1	3318.0	3321.0	0	12000.0	Winter Wren	winwre3	0.1738	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3318.0
+446	Spectrogram 1	1	3330.0	3333.0	0	12000.0	Northern Parula	norpar	0.5498	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3330.0
+447	Spectrogram 1	1	3333.0	3336.0	0	12000.0	Northern Parula	norpar	0.1353	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3333.0
+448	Spectrogram 1	1	3339.0	3342.0	0	12000.0	Northern Parula	norpar	0.3327	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3339.0
+449	Spectrogram 1	1	3339.0	3342.0	0	12000.0	American Redstart	amered	0.2373	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3339.0
+450	Spectrogram 1	1	3351.0	3354.0	0	12000.0	Northern Parula	norpar	0.1118	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3351.0
+451	Spectrogram 1	1	3354.0	3357.0	0	12000.0	Northern Parula	norpar	0.3053	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3354.0
+452	Spectrogram 1	1	3360.0	3363.0	0	12000.0	American Redstart	amered	0.3084	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3360.0
+453	Spectrogram 1	1	3366.0	3369.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3996	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3366.0
+454	Spectrogram 1	1	3366.0	3369.0	0	12000.0	Northern Parula	norpar	0.3061	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3366.0
+455	Spectrogram 1	1	3369.0	3372.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3155	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3369.0
+456	Spectrogram 1	1	3369.0	3372.0	0	12000.0	Northern Parula	norpar	0.3136	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3369.0
+457	Spectrogram 1	1	3369.0	3372.0	0	12000.0	American Redstart	amered	0.1737	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3369.0
+458	Spectrogram 1	1	3372.0	3375.0	0	12000.0	Northern Parula	norpar	0.4630	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3372.0
+459	Spectrogram 1	1	3375.0	3378.0	0	12000.0	American Redstart	amered	0.3657	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3375.0
+460	Spectrogram 1	1	3378.0	3381.0	0	12000.0	Northern Parula	norpar	0.3593	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3378.0
+461	Spectrogram 1	1	3381.0	3384.0	0	12000.0	American Redstart	amered	0.3174	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3381.0
+462	Spectrogram 1	1	3384.0	3387.0	0	12000.0	Northern Parula	norpar	0.1939	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3384.0
+463	Spectrogram 1	1	3384.0	3387.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1767	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3384.0
+464	Spectrogram 1	1	3387.0	3390.0	0	12000.0	Blackpoll Warbler	bkpwar	0.3476	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3387.0
+465	Spectrogram 1	1	3387.0	3390.0	0	12000.0	American Redstart	amered	0.1150	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3387.0
+466	Spectrogram 1	1	3417.0	3420.0	0	12000.0	American Redstart	amered	0.2588	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3417.0
+467	Spectrogram 1	1	3423.0	3426.0	0	12000.0	American Redstart	amered	0.7440	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3423.0
+468	Spectrogram 1	1	3429.0	3432.0	0	12000.0	American Redstart	amered	0.6845	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3429.0
+469	Spectrogram 1	1	3441.0	3444.0	0	12000.0	American Redstart	amered	0.1951	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3441.0
+470	Spectrogram 1	1	3450.0	3453.0	0	12000.0	American Redstart	amered	0.3622	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3450.0
+471	Spectrogram 1	1	3453.0	3456.0	0	12000.0	Northern Parula	norpar	0.1660	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3453.0
+472	Spectrogram 1	1	3456.0	3459.0	0	12000.0	Blackpoll Warbler	bkpwar	0.7732	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3456.0
+473	Spectrogram 1	1	3459.0	3462.0	0	12000.0	Blackpoll Warbler	bkpwar	0.4050	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3459.0
+474	Spectrogram 1	1	3459.0	3462.0	0	12000.0	American Redstart	amered	0.2271	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3459.0
+475	Spectrogram 1	1	3462.0	3465.0	0	12000.0	American Redstart	amered	0.1649	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3462.0
+476	Spectrogram 1	1	3477.0	3480.0	0	12000.0	American Redstart	amered	0.2716	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3477.0
+477	Spectrogram 1	1	3477.0	3480.0	0	12000.0	Northern Parula	norpar	0.1174	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3477.0
+478	Spectrogram 1	1	3483.0	3486.0	0	12000.0	Blackpoll Warbler	bkpwar	0.3500	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3483.0
+479	Spectrogram 1	1	3486.0	3489.0	0	12000.0	American Redstart	amered	0.1448	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3486.0
+480	Spectrogram 1	1	3495.0	3498.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1877	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3495.0
+481	Spectrogram 1	1	3498.0	3501.0	0	12000.0	American Redstart	amered	0.1169	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3498.0
+482	Spectrogram 1	1	3501.0	3504.0	0	12000.0	American Redstart	amered	0.3315	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3501.0
+483	Spectrogram 1	1	3507.0	3510.0	0	12000.0	American Redstart	amered	0.4290	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3507.0
+484	Spectrogram 1	1	3513.0	3516.0	0	12000.0	American Redstart	amered	0.1111	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3513.0
+485	Spectrogram 1	1	3516.0	3519.0	0	12000.0	American Redstart	amered	0.2775	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3516.0
+486	Spectrogram 1	1	3519.0	3522.0	0	12000.0	Blackpoll Warbler	bkpwar	0.2651	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3519.0
+487	Spectrogram 1	1	3522.0	3525.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1298	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3522.0
+488	Spectrogram 1	1	3525.0	3528.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6108	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3525.0
+489	Spectrogram 1	1	3528.0	3531.0	0	12000.0	Blackpoll Warbler	bkpwar	0.2762	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3528.0
+490	Spectrogram 1	1	3540.0	3543.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2185	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3540.0
+491	Spectrogram 1	1	3543.0	3546.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3199	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3543.0
+492	Spectrogram 1	1	3549.0	3552.0	0	12000.0	American Redstart	amered	0.1010	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3549.0
+493	Spectrogram 1	1	3555.0	3558.0	0	12000.0	American Redstart	amered	0.2315	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3555.0
+494	Spectrogram 1	1	3561.0	3564.0	0	12000.0	American Redstart	amered	0.3260	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3561.0
+495	Spectrogram 1	1	3567.0	3570.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1582	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3567.0
+496	Spectrogram 1	1	3567.0	3570.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1215	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3567.0
+497	Spectrogram 1	1	3570.0	3573.0	0	12000.0	American Redstart	amered	0.1786	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3570.0
+498	Spectrogram 1	1	3573.0	3576.0	0	12000.0	American Redstart	amered	0.1536	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3573.0
+499	Spectrogram 1	1	3576.0	3579.0	0	12000.0	American Redstart	amered	0.1325	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3576.0
+500	Spectrogram 1	1	3576.0	3579.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1002	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3576.0
+501	Spectrogram 1	1	3579.0	3582.0	0	12000.0	Northern Parula	norpar	0.2176	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3579.0
+502	Spectrogram 1	1	3585.0	3588.0	0	12000.0	American Redstart	amered	0.2260	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3585.0
+503	Spectrogram 1	1	3585.0	3588.0	0	12000.0	Northern Parula	norpar	0.1479	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3585.0
+504	Spectrogram 1	1	3594.0	3597.0	0	12000.0	Northern Parula	norpar	0.1123	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240529_045002.wav	3594.0

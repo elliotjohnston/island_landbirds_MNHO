@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	27.0	30.0	0	12000.0	Brown Creeper	brncre	0.2264	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240722_193700.wav	27.0
+2	Spectrogram 1	1	39.0	42.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2252	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240722_193700.wav	39.0
+3	Spectrogram 1	1	39.0	42.0	0	12000.0	Brown Creeper	brncre	0.1580	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240722_193700.wav	39.0
+4	Spectrogram 1	1	42.0	45.0	0	12000.0	Brown Creeper	brncre	0.1456	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240722_193700.wav	42.0
+5	Spectrogram 1	1	48.0	51.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1299	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240722_193700.wav	48.0
+6	Spectrogram 1	1	192.0	195.0	0	12000.0	Brown Creeper	brncre	0.2682	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240722_193700.wav	192.0
+7	Spectrogram 1	1	201.0	204.0	0	12000.0	Brown Creeper	brncre	0.1214	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240722_193700.wav	201.0
+8	Spectrogram 1	1	213.0	216.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1953	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240722_193700.wav	213.0
+9	Spectrogram 1	1	216.0	219.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1049	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240722_193700.wav	216.0
+10	Spectrogram 1	1	1155.0	1158.0	0	12000.0	Hermit Thrush	herthr	0.2064	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240722_193700.wav	1155.0
+11	Spectrogram 1	1	1164.0	1167.0	0	12000.0	Hermit Thrush	herthr	0.2594	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240722_193700.wav	1164.0
+12	Spectrogram 1	1	1176.0	1179.0	0	12000.0	Hermit Thrush	herthr	0.2447	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240722_193700.wav	1176.0
+13	Spectrogram 1	1	1188.0	1191.0	0	12000.0	Hermit Thrush	herthr	0.3135	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240722_193700.wav	1188.0
+14	Spectrogram 1	1	1191.0	1194.0	0	12000.0	Hermit Thrush	herthr	0.1989	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240722_193700.wav	1191.0
+15	Spectrogram 1	1	1245.0	1248.0	0	12000.0	Hermit Thrush	herthr	0.3735	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240722_193700.wav	1245.0
+16	Spectrogram 1	1	3231.0	3234.0	0	12000.0	Hermit Thrush	herthr	0.4813	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240722_193700.wav	3231.0

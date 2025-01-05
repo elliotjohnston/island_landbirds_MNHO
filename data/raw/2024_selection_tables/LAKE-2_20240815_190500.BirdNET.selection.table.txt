@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	492.0	495.0	0	12000.0	Dark-eyed Junco	daejun	0.2399	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240815_190500.wav	492.0
+2	Spectrogram 1	1	633.0	636.0	0	12000.0	Dark-eyed Junco	daejun	0.1684	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240815_190500.wav	633.0
+3	Spectrogram 1	1	837.0	840.0	0	12000.0	Blackpoll Warbler	bkpwar	0.7361	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240815_190500.wav	837.0
+4	Spectrogram 1	1	861.0	864.0	0	12000.0	Dark-eyed Junco	daejun	0.3501	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240815_190500.wav	861.0
+5	Spectrogram 1	1	927.0	930.0	0	12000.0	Dark-eyed Junco	daejun	0.1754	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240815_190500.wav	927.0
+6	Spectrogram 1	1	936.0	939.0	0	12000.0	Dark-eyed Junco	daejun	0.4027	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240815_190500.wav	936.0
+7	Spectrogram 1	1	1011.0	1014.0	0	12000.0	Downy Woodpecker	dowwoo	0.4230	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240815_190500.wav	1011.0
+8	Spectrogram 1	1	1014.0	1017.0	0	12000.0	Downy Woodpecker	dowwoo	0.4861	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240815_190500.wav	1014.0
+9	Spectrogram 1	1	1107.0	1110.0	0	12000.0	Palm Warbler	palwar	0.1806	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240815_190500.wav	1107.0
+10	Spectrogram 1	1	1110.0	1113.0	0	12000.0	Palm Warbler	palwar	0.1667	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240815_190500.wav	1110.0
+11	Spectrogram 1	1	1254.0	1257.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1818	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240815_190500.wav	1254.0
+12	Spectrogram 1	1	1284.0	1287.0	0	12000.0	Downy Woodpecker	dowwoo	0.1058	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240815_190500.wav	1284.0
+13	Spectrogram 1	1	1452.0	1455.0	0	12000.0	Dark-eyed Junco	daejun	0.1034	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240815_190500.wav	1452.0
+14	Spectrogram 1	1	1467.0	1470.0	0	12000.0	Dark-eyed Junco	daejun	0.1952	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240815_190500.wav	1467.0
+15	Spectrogram 1	1	1563.0	1566.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1140	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240815_190500.wav	1563.0
+16	Spectrogram 1	1	1596.0	1599.0	0	12000.0	Dark-eyed Junco	daejun	0.1192	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240815_190500.wav	1596.0
+17	Spectrogram 1	1	1614.0	1617.0	0	12000.0	Dark-eyed Junco	daejun	0.1199	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240815_190500.wav	1614.0
+18	Spectrogram 1	1	2046.0	2049.0	0	12000.0	Downy Woodpecker	dowwoo	0.2045	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240815_190500.wav	2046.0

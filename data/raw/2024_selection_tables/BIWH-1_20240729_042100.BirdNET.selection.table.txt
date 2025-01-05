@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2169.0	2172.0	0	12000.0	Swainson's Thrush	swathr	0.8554	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240729_042100.wav	2169.0
+2	Spectrogram 1	1	2475.0	2478.0	0	12000.0	American Crow	amecro	0.2407	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240729_042100.wav	2475.0
+3	Spectrogram 1	1	2793.0	2796.0	0	12000.0	American Crow	amecro	0.1230	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240729_042100.wav	2793.0
+4	Spectrogram 1	1	2895.0	2898.0	0	12000.0	American Crow	amecro	0.2096	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240729_042100.wav	2895.0
+5	Spectrogram 1	1	3549.0	3552.0	0	12000.0	Cedar Waxwing	cedwax	0.7320	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240729_042100.wav	3549.0
+6	Spectrogram 1	1	3552.0	3555.0	0	12000.0	Cedar Waxwing	cedwax	0.7150	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240729_042100.wav	3552.0
+7	Spectrogram 1	1	3555.0	3558.0	0	12000.0	American Crow	amecro	0.1101	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240729_042100.wav	3555.0
+8	Spectrogram 1	1	3558.0	3561.0	0	12000.0	Cedar Waxwing	cedwax	0.4689	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240729_042100.wav	3558.0
+9	Spectrogram 1	1	3564.0	3567.0	0	12000.0	Cedar Waxwing	cedwax	0.4182	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240729_042100.wav	3564.0

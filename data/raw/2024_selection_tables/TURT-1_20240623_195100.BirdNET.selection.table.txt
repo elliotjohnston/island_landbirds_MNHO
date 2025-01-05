@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	12.0	15.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1394	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240623_195100.wav	12.0
+2	Spectrogram 1	1	30.0	33.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1002	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240623_195100.wav	30.0
+3	Spectrogram 1	1	489.0	492.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3199	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240623_195100.wav	489.0
+4	Spectrogram 1	1	585.0	588.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1669	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240623_195100.wav	585.0
+5	Spectrogram 1	1	726.0	729.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1483	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240623_195100.wav	726.0
+6	Spectrogram 1	1	1035.0	1038.0	0	12000.0	Swainson's Thrush	swathr	0.1592	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240623_195100.wav	1035.0
+7	Spectrogram 1	1	1086.0	1089.0	0	12000.0	Swainson's Thrush	swathr	0.2098	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240623_195100.wav	1086.0
+8	Spectrogram 1	1	1095.0	1098.0	0	12000.0	Swainson's Thrush	swathr	0.1280	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240623_195100.wav	1095.0
+9	Spectrogram 1	1	1101.0	1104.0	0	12000.0	Swainson's Thrush	swathr	0.3102	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240623_195100.wav	1101.0
+10	Spectrogram 1	1	1122.0	1125.0	0	12000.0	Winter Wren	winwre3	0.9619	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240623_195100.wav	1122.0
+11	Spectrogram 1	1	1125.0	1128.0	0	12000.0	Winter Wren	winwre3	0.9919	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240623_195100.wav	1125.0
+12	Spectrogram 1	1	1191.0	1194.0	0	12000.0	Swainson's Thrush	swathr	0.2669	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240623_195100.wav	1191.0
+13	Spectrogram 1	1	1200.0	1203.0	0	12000.0	Swainson's Thrush	swathr	0.4064	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240623_195100.wav	1200.0
+14	Spectrogram 1	1	1212.0	1215.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2927	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240623_195100.wav	1212.0
+15	Spectrogram 1	1	1221.0	1224.0	0	12000.0	Swainson's Thrush	swathr	0.1735	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240623_195100.wav	1221.0
+16	Spectrogram 1	1	1233.0	1236.0	0	12000.0	Swainson's Thrush	swathr	0.1110	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240623_195100.wav	1233.0
+17	Spectrogram 1	1	1245.0	1248.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3925	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240623_195100.wav	1245.0
+18	Spectrogram 1	1	1257.0	1260.0	0	12000.0	Swainson's Thrush	swathr	0.2557	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240623_195100.wav	1257.0
+19	Spectrogram 1	1	1260.0	1263.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3435	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240623_195100.wav	1260.0
+20	Spectrogram 1	1	1263.0	1266.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6475	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240623_195100.wav	1263.0
+21	Spectrogram 1	1	1269.0	1272.0	0	12000.0	Swainson's Thrush	swathr	0.3247	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240623_195100.wav	1269.0
+22	Spectrogram 1	1	1488.0	1491.0	0	12000.0	Winter Wren	winwre3	0.9876	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240623_195100.wav	1488.0

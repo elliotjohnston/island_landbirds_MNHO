@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	729.0	732.0	0	12000.0	Magnolia Warbler	magwar	0.1007	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240812_191300.wav	729.0
+2	Spectrogram 1	1	771.0	774.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1089	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240812_191300.wav	771.0
+3	Spectrogram 1	1	969.0	972.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1024	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240812_191300.wav	969.0
+4	Spectrogram 1	1	972.0	975.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4436	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240812_191300.wav	972.0
+5	Spectrogram 1	1	972.0	975.0	0	12000.0	Brown Creeper	brncre	0.1141	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240812_191300.wav	972.0
+6	Spectrogram 1	1	990.0	993.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3930	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240812_191300.wav	990.0
+7	Spectrogram 1	1	1143.0	1146.0	0	12000.0	American Crow	amecro	0.1293	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240812_191300.wav	1143.0
+8	Spectrogram 1	1	1698.0	1701.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1119	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240812_191300.wav	1698.0
+9	Spectrogram 1	1	1701.0	1704.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2515	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240812_191300.wav	1701.0
+10	Spectrogram 1	1	1707.0	1710.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1525	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240812_191300.wav	1707.0
+11	Spectrogram 1	1	1716.0	1719.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1283	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240812_191300.wav	1716.0
+12	Spectrogram 1	1	1791.0	1794.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4796	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240812_191300.wav	1791.0
+13	Spectrogram 1	1	1830.0	1833.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4187	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240812_191300.wav	1830.0
+14	Spectrogram 1	1	1836.0	1839.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3282	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240812_191300.wav	1836.0
+15	Spectrogram 1	1	1836.0	1839.0	0	12000.0	Black-capped Chickadee	bkcchi	0.1352	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240812_191300.wav	1836.0
+16	Spectrogram 1	1	1893.0	1896.0	0	12000.0	Dark-eyed Junco	daejun	0.1157	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240812_191300.wav	1893.0
+17	Spectrogram 1	1	1947.0	1950.0	0	12000.0	Downy Woodpecker	dowwoo	0.1063	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240812_191300.wav	1947.0
+18	Spectrogram 1	1	1974.0	1977.0	0	12000.0	Magnolia Warbler	magwar	0.1808	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240812_191300.wav	1974.0
+19	Spectrogram 1	1	2610.0	2613.0	0	12000.0	American Crow	amecro	0.1170	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240812_191300.wav	2610.0

@@ -1,0 +1,3 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	813.0	816.0	0	12000.0	Dark-eyed Junco	daejun	0.3030	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240510_191700.wav	813.0
+2	Spectrogram 1	1	2202.0	2205.0	0	12000.0	Winter Wren	winwre3	0.1103	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240510_191700.wav	2202.0

@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	666.0	669.0	0	12000.0	Song Sparrow	sonspa	0.4895	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240731_192500.wav	666.0
+2	Spectrogram 1	1	1305.0	1308.0	0	12000.0	Song Sparrow	sonspa	0.1655	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240731_192500.wav	1305.0
+3	Spectrogram 1	1	1308.0	1311.0	0	12000.0	Song Sparrow	sonspa	0.1149	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240731_192500.wav	1308.0
+4	Spectrogram 1	1	1308.0	1311.0	0	12000.0	Black-capped Chickadee	bkcchi	0.1110	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240731_192500.wav	1308.0
+5	Spectrogram 1	1	1332.0	1335.0	0	12000.0	Song Sparrow	sonspa	0.3256	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240731_192500.wav	1332.0

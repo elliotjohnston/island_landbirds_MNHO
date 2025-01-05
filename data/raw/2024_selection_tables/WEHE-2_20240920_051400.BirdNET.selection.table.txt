@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	258.0	261.0	0	12000.0	Least Flycatcher	leafly	0.4866	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240920_051400.wav	258.0
+2	Spectrogram 1	1	903.0	906.0	0	12000.0	Canada Warbler	canwar	0.1904	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240920_051400.wav	903.0
+3	Spectrogram 1	1	2088.0	2091.0	0	12000.0	Yellow-bellied Sapsucker	yebsap	0.3027	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240920_051400.wav	2088.0
+4	Spectrogram 1	1	2583.0	2586.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4372	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240920_051400.wav	2583.0
+5	Spectrogram 1	1	3579.0	3582.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3617	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240920_051400.wav	3579.0
+6	Spectrogram 1	1	3588.0	3591.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6066	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240920_051400.wav	3588.0

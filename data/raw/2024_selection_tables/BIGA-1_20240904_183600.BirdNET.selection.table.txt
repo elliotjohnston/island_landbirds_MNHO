@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	861.0	864.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3042	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240904_183600.wav	861.0
+2	Spectrogram 1	1	945.0	948.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1671	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240904_183600.wav	945.0
+3	Spectrogram 1	1	972.0	975.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1257	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240904_183600.wav	972.0
+4	Spectrogram 1	1	1017.0	1020.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2012	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240904_183600.wav	1017.0
+5	Spectrogram 1	1	1056.0	1059.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2729	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240904_183600.wav	1056.0
+6	Spectrogram 1	1	1065.0	1068.0	0	12000.0	Brown Creeper	brncre	0.2227	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240904_183600.wav	1065.0
+7	Spectrogram 1	1	1065.0	1068.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1724	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240904_183600.wav	1065.0
+8	Spectrogram 1	1	1533.0	1536.0	0	12000.0	Northern Flicker	norfli	0.3356	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240904_183600.wav	1533.0
+9	Spectrogram 1	1	1539.0	1542.0	0	12000.0	Dark-eyed Junco	daejun	0.2861	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240904_183600.wav	1539.0
+10	Spectrogram 1	1	1554.0	1557.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2820	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240904_183600.wav	1554.0
+11	Spectrogram 1	1	1863.0	1866.0	0	12000.0	Common Raven	comrav	0.2071	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240904_183600.wav	1863.0
+12	Spectrogram 1	1	2322.0	2325.0	0	12000.0	Hairy Woodpecker	haiwoo	0.2948	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240904_183600.wav	2322.0
+13	Spectrogram 1	1	2322.0	2325.0	0	12000.0	Downy Woodpecker	dowwoo	0.1750	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240904_183600.wav	2322.0
+14	Spectrogram 1	1	2325.0	2328.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.2529	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240904_183600.wav	2325.0
+15	Spectrogram 1	1	2352.0	2355.0	0	12000.0	American Crow	amecro	0.1543	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240904_183600.wav	2352.0

@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	27.0	30.0	0	12000.0	Common Nighthawk	comnig	0.1025	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240904_183300.wav	27.0
+2	Spectrogram 1	1	75.0	78.0	0	12000.0	Evening Grosbeak	evegro	0.7633	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240904_183300.wav	75.0
+3	Spectrogram 1	1	168.0	171.0	0	12000.0	Evening Grosbeak	evegro	0.3746	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240904_183300.wav	168.0
+4	Spectrogram 1	1	372.0	375.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1518	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240904_183300.wav	372.0
+5	Spectrogram 1	1	861.0	864.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.5409	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240904_183300.wav	861.0
+6	Spectrogram 1	1	1074.0	1077.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4271	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240904_183300.wav	1074.0
+7	Spectrogram 1	1	1908.0	1911.0	0	12000.0	Brown Creeper	brncre	0.7231	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240904_183300.wav	1908.0
+8	Spectrogram 1	1	2295.0	2298.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1930	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240904_183300.wav	2295.0
+9	Spectrogram 1	1	2334.0	2337.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1356	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240904_183300.wav	2334.0
+10	Spectrogram 1	1	3300.0	3303.0	0	12000.0	Evening Grosbeak	evegro	0.1962	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240904_183300.wav	3300.0

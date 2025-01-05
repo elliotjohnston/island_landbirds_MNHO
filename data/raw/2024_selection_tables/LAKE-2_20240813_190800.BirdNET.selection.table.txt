@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	6.0	9.0	0	12000.0	Common Raven	comrav	0.4885	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240813_190800.wav	6.0
+2	Spectrogram 1	1	9.0	12.0	0	12000.0	Common Raven	comrav	0.5188	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240813_190800.wav	9.0
+3	Spectrogram 1	1	78.0	81.0	0	12000.0	Common Raven	comrav	0.3182	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240813_190800.wav	78.0
+4	Spectrogram 1	1	90.0	93.0	0	12000.0	Common Raven	comrav	0.3819	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240813_190800.wav	90.0
+5	Spectrogram 1	1	198.0	201.0	0	12000.0	Common Raven	comrav	0.9595	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240813_190800.wav	198.0
+6	Spectrogram 1	1	201.0	204.0	0	12000.0	Common Raven	comrav	0.7911	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240813_190800.wav	201.0
+7	Spectrogram 1	1	204.0	207.0	0	12000.0	Common Raven	comrav	0.1427	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240813_190800.wav	204.0
+8	Spectrogram 1	1	207.0	210.0	0	12000.0	Common Raven	comrav	0.5825	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240813_190800.wav	207.0
+9	Spectrogram 1	1	210.0	213.0	0	12000.0	Common Raven	comrav	0.2215	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240813_190800.wav	210.0
+10	Spectrogram 1	1	213.0	216.0	0	12000.0	Common Raven	comrav	0.4133	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240813_190800.wav	213.0
+11	Spectrogram 1	1	219.0	222.0	0	12000.0	Common Raven	comrav	0.2540	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240813_190800.wav	219.0
+12	Spectrogram 1	1	222.0	225.0	0	12000.0	Common Raven	comrav	0.1319	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240813_190800.wav	222.0
+13	Spectrogram 1	1	231.0	234.0	0	12000.0	Common Raven	comrav	0.1280	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240813_190800.wav	231.0
+14	Spectrogram 1	1	1275.0	1278.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1012	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240813_190800.wav	1275.0

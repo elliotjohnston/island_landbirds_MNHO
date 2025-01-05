@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	171.0	174.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1677	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240508_191500.wav	171.0
+2	Spectrogram 1	1	357.0	360.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.8709	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240508_191500.wav	357.0
+3	Spectrogram 1	1	2190.0	2193.0	0	12000.0	Canada Jay	gryjay	0.1735	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240508_191500.wav	2190.0
+4	Spectrogram 1	1	2241.0	2244.0	0	12000.0	Canada Jay	gryjay	0.1018	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240508_191500.wav	2241.0

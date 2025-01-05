@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2250.0	2253.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1295	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240823_185300.wav	2250.0

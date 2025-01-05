@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	0	3.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1614	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240818_190500.wav	0
+2	Spectrogram 1	1	21.0	24.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4557	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240818_190500.wav	21.0
+3	Spectrogram 1	1	33.0	36.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7706	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240818_190500.wav	33.0
+4	Spectrogram 1	1	219.0	222.0	0	12000.0	Common Nighthawk	comnig	0.1647	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240818_190500.wav	219.0
+5	Spectrogram 1	1	801.0	804.0	0	12000.0	Downy Woodpecker	dowwoo	0.1197	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240818_190500.wav	801.0
+6	Spectrogram 1	1	1590.0	1593.0	0	12000.0	Dark-eyed Junco	daejun	0.1992	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240818_190500.wav	1590.0
+7	Spectrogram 1	1	2130.0	2133.0	0	12000.0	Winter Wren	winwre3	0.7035	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240818_190500.wav	2130.0
+8	Spectrogram 1	1	2139.0	2142.0	0	12000.0	Winter Wren	winwre3	0.9936	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240818_190500.wav	2139.0
+9	Spectrogram 1	1	2142.0	2145.0	0	12000.0	Winter Wren	winwre3	0.9989	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240818_190500.wav	2142.0
+10	Spectrogram 1	1	2145.0	2148.0	0	12000.0	Winter Wren	winwre3	0.1004	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240818_190500.wav	2145.0
+11	Spectrogram 1	1	2151.0	2154.0	0	12000.0	Winter Wren	winwre3	0.8931	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240818_190500.wav	2151.0
+12	Spectrogram 1	1	2157.0	2160.0	0	12000.0	Winter Wren	winwre3	0.9297	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240818_190500.wav	2157.0

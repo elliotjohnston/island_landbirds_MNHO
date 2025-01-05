@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	18.0	21.0	0	12000.0	Cedar Waxwing	cedwax	0.1030	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240728_193400.wav	18.0
+2	Spectrogram 1	1	69.0	72.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1055	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240728_193400.wav	69.0
+3	Spectrogram 1	1	330.0	333.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1335	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240728_193400.wav	330.0
+4	Spectrogram 1	1	381.0	384.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1079	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240728_193400.wav	381.0
+5	Spectrogram 1	1	390.0	393.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1193	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240728_193400.wav	390.0
+6	Spectrogram 1	1	399.0	402.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4118	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240728_193400.wav	399.0
+7	Spectrogram 1	1	408.0	411.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1192	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240728_193400.wav	408.0
+8	Spectrogram 1	1	408.0	411.0	0	12000.0	Cedar Waxwing	cedwax	0.1158	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240728_193400.wav	408.0
+9	Spectrogram 1	1	444.0	447.0	0	12000.0	Downy Woodpecker	dowwoo	0.1075	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240728_193400.wav	444.0
+10	Spectrogram 1	1	594.0	597.0	0	12000.0	Cedar Waxwing	cedwax	0.1180	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240728_193400.wav	594.0
+11	Spectrogram 1	1	690.0	693.0	0	12000.0	Cedar Waxwing	cedwax	0.2354	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240728_193400.wav	690.0
+12	Spectrogram 1	1	714.0	717.0	0	12000.0	Rose-breasted Grosbeak	robgro	0.1735	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240728_193400.wav	714.0
+13	Spectrogram 1	1	1071.0	1074.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7414	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240728_193400.wav	1071.0
+14	Spectrogram 1	1	1074.0	1077.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5905	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240728_193400.wav	1074.0
+15	Spectrogram 1	1	1116.0	1119.0	0	12000.0	Red-bellied Woodpecker	rebwoo	0.1001	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240728_193400.wav	1116.0
+16	Spectrogram 1	1	1149.0	1152.0	0	12000.0	Red-bellied Woodpecker	rebwoo	0.1194	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240728_193400.wav	1149.0
+17	Spectrogram 1	1	1149.0	1152.0	0	12000.0	Northern Flicker	norfli	0.1042	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240728_193400.wav	1149.0
+18	Spectrogram 1	1	1170.0	1173.0	0	12000.0	Ruby-crowned Kinglet	ruckin	0.1064	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240728_193400.wav	1170.0
+19	Spectrogram 1	1	1287.0	1290.0	0	12000.0	Black-and-white Warbler	bawwar	0.1133	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240728_193400.wav	1287.0
+20	Spectrogram 1	1	1437.0	1440.0	0	12000.0	Dark-eyed Junco	daejun	0.1114	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240728_193400.wav	1437.0
+21	Spectrogram 1	1	1536.0	1539.0	0	12000.0	Common Raven	comrav	0.2032	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240728_193400.wav	1536.0
+22	Spectrogram 1	1	1785.0	1788.0	0	12000.0	Yellow-billed Cuckoo	yebcuc	0.1462	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240728_193400.wav	1785.0
+23	Spectrogram 1	1	3249.0	3252.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.1452	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240728_193400.wav	3249.0

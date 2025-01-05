@@ -1,0 +1,295 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	30.0	33.0	0	12000.0	Hermit Thrush	herthr	0.1991	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	30.0
+2	Spectrogram 1	1	30.0	33.0	0	12000.0	Swainson's Thrush	swathr	0.1876	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	30.0
+3	Spectrogram 1	1	33.0	36.0	0	12000.0	Swainson's Thrush	swathr	0.5271	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	33.0
+4	Spectrogram 1	1	33.0	36.0	0	12000.0	Hermit Thrush	herthr	0.2243	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	33.0
+5	Spectrogram 1	1	42.0	45.0	0	12000.0	Swainson's Thrush	swathr	0.7773	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	42.0
+6	Spectrogram 1	1	45.0	48.0	0	12000.0	Swainson's Thrush	swathr	0.6533	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	45.0
+7	Spectrogram 1	1	51.0	54.0	0	12000.0	Swainson's Thrush	swathr	0.5605	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	51.0
+8	Spectrogram 1	1	57.0	60.0	0	12000.0	Swainson's Thrush	swathr	0.7067	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	57.0
+9	Spectrogram 1	1	60.0	63.0	0	12000.0	Hermit Thrush	herthr	0.3061	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	60.0
+10	Spectrogram 1	1	69.0	72.0	0	12000.0	Swainson's Thrush	swathr	0.7002	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	69.0
+11	Spectrogram 1	1	78.0	81.0	0	12000.0	Hermit Thrush	herthr	0.3916	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	78.0
+12	Spectrogram 1	1	78.0	81.0	0	12000.0	Swainson's Thrush	swathr	0.1817	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	78.0
+13	Spectrogram 1	1	84.0	87.0	0	12000.0	Swainson's Thrush	swathr	0.6782	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	84.0
+14	Spectrogram 1	1	93.0	96.0	0	12000.0	Swainson's Thrush	swathr	0.9282	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	93.0
+15	Spectrogram 1	1	102.0	105.0	0	12000.0	Swainson's Thrush	swathr	0.8852	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	102.0
+16	Spectrogram 1	1	114.0	117.0	0	12000.0	Swainson's Thrush	swathr	0.8586	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	114.0
+17	Spectrogram 1	1	129.0	132.0	0	12000.0	Swainson's Thrush	swathr	0.8155	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	129.0
+18	Spectrogram 1	1	141.0	144.0	0	12000.0	Swainson's Thrush	swathr	0.8730	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	141.0
+19	Spectrogram 1	1	162.0	165.0	0	12000.0	Swainson's Thrush	swathr	0.7159	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	162.0
+20	Spectrogram 1	1	183.0	186.0	0	12000.0	Swainson's Thrush	swathr	0.7052	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	183.0
+21	Spectrogram 1	1	219.0	222.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4950	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	219.0
+22	Spectrogram 1	1	234.0	237.0	0	12000.0	Swainson's Thrush	swathr	0.6961	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	234.0
+23	Spectrogram 1	1	237.0	240.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6975	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	237.0
+24	Spectrogram 1	1	252.0	255.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2291	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	252.0
+25	Spectrogram 1	1	255.0	258.0	0	12000.0	Swainson's Thrush	swathr	0.6089	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	255.0
+26	Spectrogram 1	1	264.0	267.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6497	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	264.0
+27	Spectrogram 1	1	270.0	273.0	0	12000.0	Swainson's Thrush	swathr	0.7148	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	270.0
+28	Spectrogram 1	1	273.0	276.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6082	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	273.0
+29	Spectrogram 1	1	279.0	282.0	0	12000.0	Swainson's Thrush	swathr	0.7290	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	279.0
+30	Spectrogram 1	1	282.0	285.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1574	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	282.0
+31	Spectrogram 1	1	288.0	291.0	0	12000.0	Swainson's Thrush	swathr	0.6164	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	288.0
+32	Spectrogram 1	1	294.0	297.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8704	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	294.0
+33	Spectrogram 1	1	297.0	300.0	0	12000.0	Swainson's Thrush	swathr	0.7294	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	297.0
+34	Spectrogram 1	1	306.0	309.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3038	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	306.0
+35	Spectrogram 1	1	312.0	315.0	0	12000.0	Swainson's Thrush	swathr	0.7570	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	312.0
+36	Spectrogram 1	1	318.0	321.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5865	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	318.0
+37	Spectrogram 1	1	321.0	324.0	0	12000.0	Swainson's Thrush	swathr	0.9150	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	321.0
+38	Spectrogram 1	1	351.0	354.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3085	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	351.0
+39	Spectrogram 1	1	351.0	354.0	0	12000.0	Hermit Thrush	herthr	0.2171	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	351.0
+40	Spectrogram 1	1	354.0	357.0	0	12000.0	Swainson's Thrush	swathr	0.8998	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	354.0
+41	Spectrogram 1	1	363.0	366.0	0	12000.0	Swainson's Thrush	swathr	0.3183	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	363.0
+42	Spectrogram 1	1	366.0	369.0	0	12000.0	Swainson's Thrush	swathr	0.6336	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	366.0
+43	Spectrogram 1	1	366.0	369.0	0	12000.0	Hermit Thrush	herthr	0.3279	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	366.0
+44	Spectrogram 1	1	375.0	378.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6654	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	375.0
+45	Spectrogram 1	1	384.0	387.0	0	12000.0	Swainson's Thrush	swathr	0.7048	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	384.0
+46	Spectrogram 1	1	387.0	390.0	0	12000.0	Swainson's Thrush	swathr	0.2951	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	387.0
+47	Spectrogram 1	1	390.0	393.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8288	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	390.0
+48	Spectrogram 1	1	390.0	393.0	0	12000.0	Boreal Chickadee	borchi2	0.1443	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	390.0
+49	Spectrogram 1	1	396.0	399.0	0	12000.0	Swainson's Thrush	swathr	0.9542	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	396.0
+50	Spectrogram 1	1	402.0	405.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9201	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	402.0
+51	Spectrogram 1	1	414.0	417.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1047	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	414.0
+52	Spectrogram 1	1	432.0	435.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1488	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	432.0
+53	Spectrogram 1	1	438.0	441.0	0	12000.0	Swainson's Thrush	swathr	0.4496	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	438.0
+54	Spectrogram 1	1	444.0	447.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9516	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	444.0
+55	Spectrogram 1	1	447.0	450.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6537	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	447.0
+56	Spectrogram 1	1	468.0	471.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8611	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	468.0
+57	Spectrogram 1	1	498.0	501.0	0	12000.0	Swainson's Thrush	swathr	0.4854	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	498.0
+58	Spectrogram 1	1	504.0	507.0	0	12000.0	Swainson's Thrush	swathr	0.9914	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	504.0
+59	Spectrogram 1	1	507.0	510.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8536	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	507.0
+60	Spectrogram 1	1	510.0	513.0	0	12000.0	Swainson's Thrush	swathr	0.9577	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	510.0
+61	Spectrogram 1	1	516.0	519.0	0	12000.0	Swainson's Thrush	swathr	0.9869	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	516.0
+62	Spectrogram 1	1	519.0	522.0	0	12000.0	Hermit Thrush	herthr	0.7885	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	519.0
+63	Spectrogram 1	1	519.0	522.0	0	12000.0	Swainson's Thrush	swathr	0.2447	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	519.0
+64	Spectrogram 1	1	525.0	528.0	0	12000.0	Swainson's Thrush	swathr	0.8012	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	525.0
+65	Spectrogram 1	1	525.0	528.0	0	12000.0	Hermit Thrush	herthr	0.1126	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	525.0
+66	Spectrogram 1	1	531.0	534.0	0	12000.0	Swainson's Thrush	swathr	0.3447	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	531.0
+67	Spectrogram 1	1	534.0	537.0	0	12000.0	Swainson's Thrush	swathr	0.7914	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	534.0
+68	Spectrogram 1	1	540.0	543.0	0	12000.0	Swainson's Thrush	swathr	0.9249	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	540.0
+69	Spectrogram 1	1	558.0	561.0	0	12000.0	Swainson's Thrush	swathr	0.8983	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	558.0
+70	Spectrogram 1	1	567.0	570.0	0	12000.0	Swainson's Thrush	swathr	0.5145	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	567.0
+71	Spectrogram 1	1	576.0	579.0	0	12000.0	Swainson's Thrush	swathr	0.5228	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	576.0
+72	Spectrogram 1	1	582.0	585.0	0	12000.0	Swainson's Thrush	swathr	0.2172	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	582.0
+73	Spectrogram 1	1	585.0	588.0	0	12000.0	Swainson's Thrush	swathr	0.1162	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	585.0
+74	Spectrogram 1	1	591.0	594.0	0	12000.0	Swainson's Thrush	swathr	0.4421	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	591.0
+75	Spectrogram 1	1	600.0	603.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3804	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	600.0
+76	Spectrogram 1	1	606.0	609.0	0	12000.0	Swainson's Thrush	swathr	0.7957	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	606.0
+77	Spectrogram 1	1	612.0	615.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6455	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	612.0
+78	Spectrogram 1	1	615.0	618.0	0	12000.0	Swainson's Thrush	swathr	0.7868	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	615.0
+79	Spectrogram 1	1	627.0	630.0	0	12000.0	Swainson's Thrush	swathr	0.8530	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	627.0
+80	Spectrogram 1	1	630.0	633.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7263	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	630.0
+81	Spectrogram 1	1	642.0	645.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7951	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	642.0
+82	Spectrogram 1	1	648.0	651.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1507	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	648.0
+83	Spectrogram 1	1	651.0	654.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6870	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	651.0
+84	Spectrogram 1	1	663.0	666.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9430	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	663.0
+85	Spectrogram 1	1	666.0	669.0	0	12000.0	Wood Thrush	woothr	0.1087	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	666.0
+86	Spectrogram 1	1	669.0	672.0	0	12000.0	Swainson's Thrush	swathr	0.1375	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	669.0
+87	Spectrogram 1	1	678.0	681.0	0	12000.0	Swainson's Thrush	swathr	0.1016	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	678.0
+88	Spectrogram 1	1	690.0	693.0	0	12000.0	Swainson's Thrush	swathr	0.7183	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	690.0
+89	Spectrogram 1	1	693.0	696.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8402	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	693.0
+90	Spectrogram 1	1	696.0	699.0	0	12000.0	Swainson's Thrush	swathr	0.1174	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	696.0
+91	Spectrogram 1	1	702.0	705.0	0	12000.0	Swainson's Thrush	swathr	0.4277	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	702.0
+92	Spectrogram 1	1	705.0	708.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1139	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	705.0
+93	Spectrogram 1	1	708.0	711.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5045	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	708.0
+94	Spectrogram 1	1	711.0	714.0	0	12000.0	Swainson's Thrush	swathr	0.2214	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	711.0
+95	Spectrogram 1	1	717.0	720.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3148	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	717.0
+96	Spectrogram 1	1	720.0	723.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3067	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	720.0
+97	Spectrogram 1	1	723.0	726.0	0	12000.0	Swainson's Thrush	swathr	0.3964	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	723.0
+98	Spectrogram 1	1	732.0	735.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2813	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	732.0
+99	Spectrogram 1	1	732.0	735.0	0	12000.0	Swainson's Thrush	swathr	0.2454	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	732.0
+100	Spectrogram 1	1	732.0	735.0	0	12000.0	Hermit Thrush	herthr	0.1367	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	732.0
+101	Spectrogram 1	1	735.0	738.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9527	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	735.0
+102	Spectrogram 1	1	738.0	741.0	0	12000.0	Swainson's Thrush	swathr	0.5943	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	738.0
+103	Spectrogram 1	1	750.0	753.0	0	12000.0	Swainson's Thrush	swathr	0.2591	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	750.0
+104	Spectrogram 1	1	753.0	756.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7686	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	753.0
+105	Spectrogram 1	1	762.0	765.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5747	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	762.0
+106	Spectrogram 1	1	762.0	765.0	0	12000.0	Swainson's Thrush	swathr	0.4336	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	762.0
+107	Spectrogram 1	1	765.0	768.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1781	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	765.0
+108	Spectrogram 1	1	771.0	774.0	0	12000.0	Swainson's Thrush	swathr	0.6132	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	771.0
+109	Spectrogram 1	1	774.0	777.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7844	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	774.0
+110	Spectrogram 1	1	780.0	783.0	0	12000.0	Swainson's Thrush	swathr	0.3585	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	780.0
+111	Spectrogram 1	1	783.0	786.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9573	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	783.0
+112	Spectrogram 1	1	786.0	789.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6315	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	786.0
+113	Spectrogram 1	1	792.0	795.0	0	12000.0	Swainson's Thrush	swathr	0.3717	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	792.0
+114	Spectrogram 1	1	795.0	798.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9828	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	795.0
+115	Spectrogram 1	1	798.0	801.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2708	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	798.0
+116	Spectrogram 1	1	801.0	804.0	0	12000.0	Swainson's Thrush	swathr	0.2653	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	801.0
+117	Spectrogram 1	1	804.0	807.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6572	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	804.0
+118	Spectrogram 1	1	813.0	816.0	0	12000.0	Swainson's Thrush	swathr	0.1638	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	813.0
+119	Spectrogram 1	1	819.0	822.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5711	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	819.0
+120	Spectrogram 1	1	822.0	825.0	0	12000.0	Swainson's Thrush	swathr	0.6261	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	822.0
+121	Spectrogram 1	1	828.0	831.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2430	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	828.0
+122	Spectrogram 1	1	834.0	837.0	0	12000.0	Swainson's Thrush	swathr	0.4395	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	834.0
+123	Spectrogram 1	1	840.0	843.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8602	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	840.0
+124	Spectrogram 1	1	846.0	849.0	0	12000.0	Swainson's Thrush	swathr	0.1899	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	846.0
+125	Spectrogram 1	1	852.0	855.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3300	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	852.0
+126	Spectrogram 1	1	855.0	858.0	0	12000.0	Swainson's Thrush	swathr	0.1199	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	855.0
+127	Spectrogram 1	1	864.0	867.0	0	12000.0	Swainson's Thrush	swathr	0.1377	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	864.0
+128	Spectrogram 1	1	867.0	870.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1143	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	867.0
+129	Spectrogram 1	1	876.0	879.0	0	12000.0	Swainson's Thrush	swathr	0.4601	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	876.0
+130	Spectrogram 1	1	882.0	885.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6301	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	882.0
+131	Spectrogram 1	1	885.0	888.0	0	12000.0	Swainson's Thrush	swathr	0.5931	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	885.0
+132	Spectrogram 1	1	888.0	891.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1125	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	888.0
+133	Spectrogram 1	1	894.0	897.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7276	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	894.0
+134	Spectrogram 1	1	897.0	900.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3539	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	897.0
+135	Spectrogram 1	1	924.0	927.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1910	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	924.0
+136	Spectrogram 1	1	948.0	951.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3164	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	948.0
+137	Spectrogram 1	1	951.0	954.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6250	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	951.0
+138	Spectrogram 1	1	960.0	963.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2412	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	960.0
+139	Spectrogram 1	1	975.0	978.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6522	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	975.0
+140	Spectrogram 1	1	990.0	993.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2582	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	990.0
+141	Spectrogram 1	1	1011.0	1014.0	0	12000.0	Swainson's Thrush	swathr	0.2705	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1011.0
+142	Spectrogram 1	1	1014.0	1017.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6469	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1014.0
+143	Spectrogram 1	1	1029.0	1032.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5942	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1029.0
+144	Spectrogram 1	1	1041.0	1044.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2539	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1041.0
+145	Spectrogram 1	1	1047.0	1050.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8210	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1047.0
+146	Spectrogram 1	1	1056.0	1059.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6376	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1056.0
+147	Spectrogram 1	1	1068.0	1071.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8596	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1068.0
+148	Spectrogram 1	1	1077.0	1080.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9029	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1077.0
+149	Spectrogram 1	1	1080.0	1083.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1447	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1080.0
+150	Spectrogram 1	1	1080.0	1083.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1352	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1080.0
+151	Spectrogram 1	1	1089.0	1092.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9253	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1089.0
+152	Spectrogram 1	1	1098.0	1101.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6448	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1098.0
+153	Spectrogram 1	1	1101.0	1104.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7199	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1101.0
+154	Spectrogram 1	1	1110.0	1113.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7579	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1110.0
+155	Spectrogram 1	1	1116.0	1119.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5541	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1116.0
+156	Spectrogram 1	1	1128.0	1131.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6935	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1128.0
+157	Spectrogram 1	1	1131.0	1134.0	0	12000.0	Swainson's Thrush	swathr	0.1203	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1131.0
+158	Spectrogram 1	1	1137.0	1140.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1739	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1137.0
+159	Spectrogram 1	1	1149.0	1152.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7519	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1149.0
+160	Spectrogram 1	1	1152.0	1155.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2621	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1152.0
+161	Spectrogram 1	1	1152.0	1155.0	0	12000.0	Magnolia Warbler	magwar	0.1031	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1152.0
+162	Spectrogram 1	1	1155.0	1158.0	0	12000.0	Swainson's Thrush	swathr	0.1071	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1155.0
+163	Spectrogram 1	1	1161.0	1164.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7137	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1161.0
+164	Spectrogram 1	1	1164.0	1167.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2735	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1164.0
+165	Spectrogram 1	1	1164.0	1167.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1730	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1164.0
+166	Spectrogram 1	1	1173.0	1176.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8002	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1173.0
+167	Spectrogram 1	1	1176.0	1179.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1126	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1176.0
+168	Spectrogram 1	1	1182.0	1185.0	0	12000.0	Swainson's Thrush	swathr	0.2540	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1182.0
+169	Spectrogram 1	1	1233.0	1236.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4968	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1233.0
+170	Spectrogram 1	1	1242.0	1245.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5740	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1242.0
+171	Spectrogram 1	1	1254.0	1257.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8506	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1254.0
+172	Spectrogram 1	1	1263.0	1266.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5184	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1263.0
+173	Spectrogram 1	1	1278.0	1281.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1875	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1278.0
+174	Spectrogram 1	1	1326.0	1329.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1458	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1326.0
+175	Spectrogram 1	1	1341.0	1344.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8604	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1341.0
+176	Spectrogram 1	1	1353.0	1356.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7312	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1353.0
+177	Spectrogram 1	1	1365.0	1368.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1374	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1365.0
+178	Spectrogram 1	1	1368.0	1371.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1366	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1368.0
+179	Spectrogram 1	1	1383.0	1386.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1242	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1383.0
+180	Spectrogram 1	1	1413.0	1416.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2535	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1413.0
+181	Spectrogram 1	1	1470.0	1473.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1952	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1470.0
+182	Spectrogram 1	1	1485.0	1488.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1967	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1485.0
+183	Spectrogram 1	1	1545.0	1548.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5855	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1545.0
+184	Spectrogram 1	1	1557.0	1560.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1252	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1557.0
+185	Spectrogram 1	1	1578.0	1581.0	0	12000.0	Northern Parula	norpar	0.2078	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1578.0
+186	Spectrogram 1	1	1578.0	1581.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1374	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1578.0
+187	Spectrogram 1	1	1590.0	1593.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8923	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1590.0
+188	Spectrogram 1	1	1596.0	1599.0	0	12000.0	White-throated Sparrow	whtspa	0.1047	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1596.0
+189	Spectrogram 1	1	1602.0	1605.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8443	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1602.0
+190	Spectrogram 1	1	1614.0	1617.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5356	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1614.0
+191	Spectrogram 1	1	1620.0	1623.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9209	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1620.0
+192	Spectrogram 1	1	1632.0	1635.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9570	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1632.0
+193	Spectrogram 1	1	1641.0	1644.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6130	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1641.0
+194	Spectrogram 1	1	1650.0	1653.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1008	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1650.0
+195	Spectrogram 1	1	1653.0	1656.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1886	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1653.0
+196	Spectrogram 1	1	1662.0	1665.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5037	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1662.0
+197	Spectrogram 1	1	1674.0	1677.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1408	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1674.0
+198	Spectrogram 1	1	1686.0	1689.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8581	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1686.0
+199	Spectrogram 1	1	1689.0	1692.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3072	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1689.0
+200	Spectrogram 1	1	1698.0	1701.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3219	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1698.0
+201	Spectrogram 1	1	1698.0	1701.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1653	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1698.0
+202	Spectrogram 1	1	1713.0	1716.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5055	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1713.0
+203	Spectrogram 1	1	1725.0	1728.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8701	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1725.0
+204	Spectrogram 1	1	1737.0	1740.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7086	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1737.0
+205	Spectrogram 1	1	1761.0	1764.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1598	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1761.0
+206	Spectrogram 1	1	1764.0	1767.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6183	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1764.0
+207	Spectrogram 1	1	1773.0	1776.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2321	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1773.0
+208	Spectrogram 1	1	1776.0	1779.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8054	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1776.0
+209	Spectrogram 1	1	1785.0	1788.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5239	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1785.0
+210	Spectrogram 1	1	1794.0	1797.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2725	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1794.0
+211	Spectrogram 1	1	1797.0	1800.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5383	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1797.0
+212	Spectrogram 1	1	1815.0	1818.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5506	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1815.0
+213	Spectrogram 1	1	1827.0	1830.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7499	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1827.0
+214	Spectrogram 1	1	1827.0	1830.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1341	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1827.0
+215	Spectrogram 1	1	1839.0	1842.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2678	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1839.0
+216	Spectrogram 1	1	1866.0	1869.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2276	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1866.0
+217	Spectrogram 1	1	1905.0	1908.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3559	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1905.0
+218	Spectrogram 1	1	1917.0	1920.0	0	12000.0	Swainson's Thrush	swathr	0.6499	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1917.0
+219	Spectrogram 1	1	1917.0	1920.0	0	12000.0	Hermit Thrush	herthr	0.2618	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1917.0
+220	Spectrogram 1	1	1932.0	1935.0	0	12000.0	Swainson's Thrush	swathr	0.4556	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1932.0
+221	Spectrogram 1	1	1944.0	1947.0	0	12000.0	Swainson's Thrush	swathr	0.2935	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1944.0
+222	Spectrogram 1	1	1953.0	1956.0	0	12000.0	Swainson's Thrush	swathr	0.7845	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1953.0
+223	Spectrogram 1	1	1956.0	1959.0	0	12000.0	Swainson's Thrush	swathr	0.1037	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1956.0
+224	Spectrogram 1	1	1968.0	1971.0	0	12000.0	Swainson's Thrush	swathr	0.8191	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1968.0
+225	Spectrogram 1	1	1977.0	1980.0	0	12000.0	Swainson's Thrush	swathr	0.5570	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1977.0
+226	Spectrogram 1	1	1983.0	1986.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7434	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	1983.0
+227	Spectrogram 1	1	2034.0	2037.0	0	12000.0	Swainson's Thrush	swathr	0.6876	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2034.0
+228	Spectrogram 1	1	2043.0	2046.0	0	12000.0	Swainson's Thrush	swathr	0.9707	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2043.0
+229	Spectrogram 1	1	2052.0	2055.0	0	12000.0	Swainson's Thrush	swathr	0.9831	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2052.0
+230	Spectrogram 1	1	2058.0	2061.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6094	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2058.0
+231	Spectrogram 1	1	2061.0	2064.0	0	12000.0	Swainson's Thrush	swathr	0.9794	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2061.0
+232	Spectrogram 1	1	2070.0	2073.0	0	12000.0	Swainson's Thrush	swathr	0.1357	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2070.0
+233	Spectrogram 1	1	2079.0	2082.0	0	12000.0	Swainson's Thrush	swathr	0.4767	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2079.0
+234	Spectrogram 1	1	2079.0	2082.0	0	12000.0	Hermit Thrush	herthr	0.3378	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2079.0
+235	Spectrogram 1	1	2082.0	2085.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4286	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2082.0
+236	Spectrogram 1	1	2085.0	2088.0	0	12000.0	Swainson's Thrush	swathr	0.4830	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2085.0
+237	Spectrogram 1	1	2097.0	2100.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4591	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2097.0
+238	Spectrogram 1	1	2100.0	2103.0	0	12000.0	Swainson's Thrush	swathr	0.5664	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2100.0
+239	Spectrogram 1	1	2109.0	2112.0	0	12000.0	Swainson's Thrush	swathr	0.2130	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2109.0
+240	Spectrogram 1	1	2109.0	2112.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1403	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2109.0
+241	Spectrogram 1	1	2121.0	2124.0	0	12000.0	Swainson's Thrush	swathr	0.7968	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2121.0
+242	Spectrogram 1	1	2127.0	2130.0	0	12000.0	Swainson's Thrush	swathr	0.5818	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2127.0
+243	Spectrogram 1	1	2130.0	2133.0	0	12000.0	Swainson's Thrush	swathr	0.5638	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2130.0
+244	Spectrogram 1	1	2136.0	2139.0	0	12000.0	Swainson's Thrush	swathr	0.8342	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2136.0
+245	Spectrogram 1	1	2145.0	2148.0	0	12000.0	Swainson's Thrush	swathr	0.2226	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2145.0
+246	Spectrogram 1	1	2151.0	2154.0	0	12000.0	Swainson's Thrush	swathr	0.5094	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2151.0
+247	Spectrogram 1	1	2154.0	2157.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4863	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2154.0
+248	Spectrogram 1	1	2157.0	2160.0	0	12000.0	Swainson's Thrush	swathr	0.7175	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2157.0
+249	Spectrogram 1	1	2157.0	2160.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2045	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2157.0
+250	Spectrogram 1	1	2160.0	2163.0	0	12000.0	Swainson's Thrush	swathr	0.5129	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2160.0
+251	Spectrogram 1	1	2166.0	2169.0	0	12000.0	Swainson's Thrush	swathr	0.7996	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2166.0
+252	Spectrogram 1	1	2169.0	2172.0	0	12000.0	Swainson's Thrush	swathr	0.1744	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2169.0
+253	Spectrogram 1	1	2175.0	2178.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2468	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2175.0
+254	Spectrogram 1	1	2202.0	2205.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4406	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2202.0
+255	Spectrogram 1	1	2214.0	2217.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.7013	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2214.0
+256	Spectrogram 1	1	2226.0	2229.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3416	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2226.0
+257	Spectrogram 1	1	2229.0	2232.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3970	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2229.0
+258	Spectrogram 1	1	2247.0	2250.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4297	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2247.0
+259	Spectrogram 1	1	2271.0	2274.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3967	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2271.0
+260	Spectrogram 1	1	2274.0	2277.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.9127	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2274.0
+261	Spectrogram 1	1	2295.0	2298.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1388	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2295.0
+262	Spectrogram 1	1	2313.0	2316.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2183	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2313.0
+263	Spectrogram 1	1	2334.0	2337.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1689	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2334.0
+264	Spectrogram 1	1	2337.0	2340.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3584	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2337.0
+265	Spectrogram 1	1	2355.0	2358.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5533	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2355.0
+266	Spectrogram 1	1	2367.0	2370.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4442	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2367.0
+267	Spectrogram 1	1	2379.0	2382.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6247	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	2379.0
+268	Spectrogram 1	1	3165.0	3168.0	0	12000.0	Swainson's Thrush	swathr	0.3395	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	3165.0
+269	Spectrogram 1	1	3174.0	3177.0	0	12000.0	Swainson's Thrush	swathr	0.3329	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	3174.0
+270	Spectrogram 1	1	3192.0	3195.0	0	12000.0	Swainson's Thrush	swathr	0.1072	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	3192.0
+271	Spectrogram 1	1	3201.0	3204.0	0	12000.0	Swainson's Thrush	swathr	0.4473	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	3201.0
+272	Spectrogram 1	1	3231.0	3234.0	0	12000.0	Swainson's Thrush	swathr	0.5954	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	3231.0
+273	Spectrogram 1	1	3240.0	3243.0	0	12000.0	Swainson's Thrush	swathr	0.1196	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	3240.0
+274	Spectrogram 1	1	3279.0	3282.0	0	12000.0	Swainson's Thrush	swathr	0.5147	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	3279.0
+275	Spectrogram 1	1	3306.0	3309.0	0	12000.0	Swainson's Thrush	swathr	0.1978	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	3306.0
+276	Spectrogram 1	1	3315.0	3318.0	0	12000.0	Swainson's Thrush	swathr	0.1447	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	3315.0
+277	Spectrogram 1	1	3324.0	3327.0	0	12000.0	Swainson's Thrush	swathr	0.2274	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	3324.0
+278	Spectrogram 1	1	3333.0	3336.0	0	12000.0	Swainson's Thrush	swathr	0.2676	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	3333.0
+279	Spectrogram 1	1	3333.0	3336.0	0	12000.0	Hermit Thrush	herthr	0.2017	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	3333.0
+280	Spectrogram 1	1	3354.0	3357.0	0	12000.0	Swainson's Thrush	swathr	0.5651	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	3354.0
+281	Spectrogram 1	1	3366.0	3369.0	0	12000.0	Swainson's Thrush	swathr	0.1169	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	3366.0
+282	Spectrogram 1	1	3366.0	3369.0	0	12000.0	Hermit Thrush	herthr	0.1081	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	3366.0
+283	Spectrogram 1	1	3384.0	3387.0	0	12000.0	Swainson's Thrush	swathr	0.1198	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	3384.0
+284	Spectrogram 1	1	3402.0	3405.0	0	12000.0	Swainson's Thrush	swathr	0.2606	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	3402.0
+285	Spectrogram 1	1	3411.0	3414.0	0	12000.0	Swainson's Thrush	swathr	0.5521	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	3411.0
+286	Spectrogram 1	1	3435.0	3438.0	0	12000.0	Swainson's Thrush	swathr	0.4031	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	3435.0
+287	Spectrogram 1	1	3450.0	3453.0	0	12000.0	Swainson's Thrush	swathr	0.7079	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	3450.0
+288	Spectrogram 1	1	3456.0	3459.0	0	12000.0	Wood Thrush	woothr	0.1103	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	3456.0
+289	Spectrogram 1	1	3459.0	3462.0	0	12000.0	Swainson's Thrush	swathr	0.1340	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	3459.0
+290	Spectrogram 1	1	3483.0	3486.0	0	12000.0	Swainson's Thrush	swathr	0.2448	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	3483.0
+291	Spectrogram 1	1	3495.0	3498.0	0	12000.0	Swainson's Thrush	swathr	0.6616	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	3495.0
+292	Spectrogram 1	1	3498.0	3501.0	0	12000.0	Hermit Thrush	herthr	0.1758	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	3498.0
+293	Spectrogram 1	1	3555.0	3558.0	0	12000.0	Swainson's Thrush	swathr	0.4068	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	3555.0
+294	Spectrogram 1	1	3564.0	3567.0	0	12000.0	Swainson's Thrush	swathr	0.5920	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240711_194500.wav	3564.0

@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	9.0	12.0	0	12000.0	American Crow	amecro	0.9434	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240821_053902.wav	9.0
+2	Spectrogram 1	1	18.0	21.0	0	12000.0	American Crow	amecro	0.1397	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240821_053902.wav	18.0
+3	Spectrogram 1	1	24.0	27.0	0	12000.0	American Crow	amecro	0.1072	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240821_053902.wav	24.0
+4	Spectrogram 1	1	81.0	84.0	0	12000.0	American Crow	amecro	0.3093	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240821_053902.wav	81.0
+5	Spectrogram 1	1	177.0	180.0	0	12000.0	Cape May Warbler	camwar	0.1100	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240821_053902.wav	177.0
+6	Spectrogram 1	1	177.0	180.0	0	12000.0	Nashville Warbler	naswar	0.1051	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240821_053902.wav	177.0
+7	Spectrogram 1	1	216.0	219.0	0	12000.0	Nashville Warbler	naswar	0.1272	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240821_053902.wav	216.0
+8	Spectrogram 1	1	219.0	222.0	0	12000.0	Nashville Warbler	naswar	0.2981	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240821_053902.wav	219.0
+9	Spectrogram 1	1	306.0	309.0	0	12000.0	Nashville Warbler	naswar	0.1570	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240821_053902.wav	306.0
+10	Spectrogram 1	1	339.0	342.0	0	12000.0	Nashville Warbler	naswar	0.3186	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240821_053902.wav	339.0
+11	Spectrogram 1	1	1092.0	1095.0	0	12000.0	Nashville Warbler	naswar	0.2384	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240821_053902.wav	1092.0
+12	Spectrogram 1	1	1215.0	1218.0	0	12000.0	American Crow	amecro	0.1315	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240821_053902.wav	1215.0
+13	Spectrogram 1	1	1323.0	1326.0	0	12000.0	American Crow	amecro	0.2260	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240821_053902.wav	1323.0
+14	Spectrogram 1	1	1356.0	1359.0	0	12000.0	American Crow	amecro	0.1021	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240821_053902.wav	1356.0
+15	Spectrogram 1	1	1371.0	1374.0	0	12000.0	American Crow	amecro	0.1206	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240821_053902.wav	1371.0
+16	Spectrogram 1	1	1410.0	1413.0	0	12000.0	American Crow	amecro	0.4169	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240821_053902.wav	1410.0
+17	Spectrogram 1	1	1416.0	1419.0	0	12000.0	American Crow	amecro	0.2303	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240821_053902.wav	1416.0
+18	Spectrogram 1	1	1425.0	1428.0	0	12000.0	American Crow	amecro	0.2047	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240821_053902.wav	1425.0
+19	Spectrogram 1	1	1428.0	1431.0	0	12000.0	American Crow	amecro	0.1061	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240821_053902.wav	1428.0
+20	Spectrogram 1	1	1806.0	1809.0	0	12000.0	Cedar Waxwing	cedwax	0.1310	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240821_053902.wav	1806.0
+21	Spectrogram 1	1	2412.0	2415.0	0	12000.0	American Crow	amecro	0.1472	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240821_053902.wav	2412.0
+22	Spectrogram 1	1	2415.0	2418.0	0	12000.0	American Crow	amecro	0.4521	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240821_053902.wav	2415.0
+23	Spectrogram 1	1	2733.0	2736.0	0	12000.0	American Crow	amecro	0.1155	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240821_053902.wav	2733.0
+24	Spectrogram 1	1	3207.0	3210.0	0	12000.0	Nashville Warbler	naswar	0.1307	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240821_053902.wav	3207.0
+25	Spectrogram 1	1	3516.0	3519.0	0	12000.0	Nashville Warbler	naswar	0.1661	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240821_053902.wav	3516.0
+26	Spectrogram 1	1	3588.0	3591.0	0	12000.0	Nashville Warbler	naswar	0.1172	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240821_053902.wav	3588.0

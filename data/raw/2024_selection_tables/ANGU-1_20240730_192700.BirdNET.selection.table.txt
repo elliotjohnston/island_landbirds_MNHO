@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	6.0	9.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1311	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240730_192700.wav	6.0
+2	Spectrogram 1	1	42.0	45.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1546	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240730_192700.wav	42.0
+3	Spectrogram 1	1	51.0	54.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4481	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240730_192700.wav	51.0
+4	Spectrogram 1	1	114.0	117.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6709	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240730_192700.wav	114.0
+5	Spectrogram 1	1	204.0	207.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6247	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240730_192700.wav	204.0
+6	Spectrogram 1	1	213.0	216.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1429	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240730_192700.wav	213.0
+7	Spectrogram 1	1	228.0	231.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4948	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240730_192700.wav	228.0
+8	Spectrogram 1	1	234.0	237.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6563	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240730_192700.wav	234.0
+9	Spectrogram 1	1	252.0	255.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1229	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240730_192700.wav	252.0
+10	Spectrogram 1	1	288.0	291.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1050	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240730_192700.wav	288.0
+11	Spectrogram 1	1	330.0	333.0	0	12000.0	Common Raven	comrav	0.1596	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240730_192700.wav	330.0
+12	Spectrogram 1	1	360.0	363.0	0	12000.0	Dark-eyed Junco	daejun	0.1492	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240730_192700.wav	360.0

@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1203.0	1206.0	0	12000.0	Yellow-bellied Sapsucker	yebsap	0.1908	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240907_060002.wav	1203.0
+2	Spectrogram 1	1	1311.0	1314.0	0	12000.0	Yellow-bellied Sapsucker	yebsap	0.1988	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240907_060002.wav	1311.0
+3	Spectrogram 1	1	1335.0	1338.0	0	12000.0	Gray Catbird	grycat	0.6059	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240907_060002.wav	1335.0
+4	Spectrogram 1	1	1563.0	1566.0	0	12000.0	American Crow	amecro	0.1568	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240907_060002.wav	1563.0
+5	Spectrogram 1	1	1593.0	1596.0	0	12000.0	American Crow	amecro	0.2688	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240907_060002.wav	1593.0
+6	Spectrogram 1	1	1875.0	1878.0	0	12000.0	Gray Catbird	grycat	0.2083	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240907_060002.wav	1875.0
+7	Spectrogram 1	1	2013.0	2016.0	0	12000.0	Common Raven	comrav	0.1474	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240907_060002.wav	2013.0
+8	Spectrogram 1	1	2013.0	2016.0	0	12000.0	American Crow	amecro	0.1199	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240907_060002.wav	2013.0
+9	Spectrogram 1	1	2157.0	2160.0	0	12000.0	Yellow-bellied Sapsucker	yebsap	0.6025	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240907_060002.wav	2157.0
+10	Spectrogram 1	1	2181.0	2184.0	0	12000.0	Gray Catbird	grycat	0.1461	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240907_060002.wav	2181.0
+11	Spectrogram 1	1	3201.0	3204.0	0	12000.0	Gray Catbird	grycat	0.4428	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240907_060002.wav	3201.0

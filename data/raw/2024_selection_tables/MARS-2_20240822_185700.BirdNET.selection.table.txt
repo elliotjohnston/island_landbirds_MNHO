@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	90.0	93.0	0	12000.0	Cedar Waxwing	cedwax	0.6521	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240822_185700.wav	90.0
+2	Spectrogram 1	1	174.0	177.0	0	12000.0	American Crow	amecro	0.1292	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240822_185700.wav	174.0
+3	Spectrogram 1	1	1584.0	1587.0	0	12000.0	American Crow	amecro	0.1669	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240822_185700.wav	1584.0
+4	Spectrogram 1	1	1635.0	1638.0	0	12000.0	American Crow	amecro	0.1972	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240822_185700.wav	1635.0

@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1008.0	1011.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2637	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240908_182300.wav	1008.0
+2	Spectrogram 1	1	1017.0	1020.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1233	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240908_182300.wav	1017.0
+3	Spectrogram 1	1	1026.0	1029.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7877	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240908_182300.wav	1026.0
+4	Spectrogram 1	1	1062.0	1065.0	0	12000.0	American Crow	amecro	0.1281	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240908_182300.wav	1062.0
+5	Spectrogram 1	1	1083.0	1086.0	0	12000.0	American Crow	amecro	0.2923	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240908_182300.wav	1083.0
+6	Spectrogram 1	1	1116.0	1119.0	0	12000.0	American Crow	amecro	0.2158	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240908_182300.wav	1116.0
+7	Spectrogram 1	1	1137.0	1140.0	0	12000.0	American Crow	amecro	0.1737	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240908_182300.wav	1137.0
+8	Spectrogram 1	1	1146.0	1149.0	0	12000.0	American Crow	amecro	0.4107	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240908_182300.wav	1146.0
+9	Spectrogram 1	1	1197.0	1200.0	0	12000.0	American Crow	amecro	0.1024	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240908_182300.wav	1197.0
+10	Spectrogram 1	1	1233.0	1236.0	0	12000.0	American Crow	amecro	0.1303	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240908_182300.wav	1233.0
+11	Spectrogram 1	1	1353.0	1356.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9098	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240908_182300.wav	1353.0
+12	Spectrogram 1	1	1356.0	1359.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9438	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240908_182300.wav	1356.0
+13	Spectrogram 1	1	1359.0	1362.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.8897	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240908_182300.wav	1359.0
+14	Spectrogram 1	1	1362.0	1365.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9095	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240908_182300.wav	1362.0
+15	Spectrogram 1	1	1368.0	1371.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.8388	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240908_182300.wav	1368.0
+16	Spectrogram 1	1	1644.0	1647.0	0	12000.0	American Crow	amecro	0.2199	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240908_182300.wav	1644.0

@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	240.0	243.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1946	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240509_191400.wav	240.0
+2	Spectrogram 1	1	1728.0	1731.0	0	12000.0	American Crow	amecro	0.7493	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240509_191400.wav	1728.0
+3	Spectrogram 1	1	1731.0	1734.0	0	12000.0	American Crow	amecro	0.8500	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240509_191400.wav	1731.0
+4	Spectrogram 1	1	1971.0	1974.0	0	12000.0	American Crow	amecro	0.4183	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240509_191400.wav	1971.0
+5	Spectrogram 1	1	1974.0	1977.0	0	12000.0	American Crow	amecro	0.8185	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240509_191400.wav	1974.0
+6	Spectrogram 1	1	2991.0	2994.0	0	12000.0	White-throated Sparrow	whtspa	0.3918	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240509_191400.wav	2991.0
+7	Spectrogram 1	1	3006.0	3009.0	0	12000.0	White-throated Sparrow	whtspa	0.2115	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240509_191400.wav	3006.0
+8	Spectrogram 1	1	3012.0	3015.0	0	12000.0	White-throated Sparrow	whtspa	0.2097	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240509_191400.wav	3012.0
+9	Spectrogram 1	1	3015.0	3018.0	0	12000.0	White-throated Sparrow	whtspa	0.4956	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240509_191400.wav	3015.0
+10	Spectrogram 1	1	3018.0	3021.0	0	12000.0	Northern Waterthrush	norwat	0.3020	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240509_191400.wav	3018.0
+11	Spectrogram 1	1	3021.0	3024.0	0	12000.0	White-throated Sparrow	whtspa	0.1501	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240509_191400.wav	3021.0
+12	Spectrogram 1	1	3024.0	3027.0	0	12000.0	White-throated Sparrow	whtspa	0.4069	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240509_191400.wav	3024.0
+13	Spectrogram 1	1	3024.0	3027.0	0	12000.0	Northern Waterthrush	norwat	0.1276	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240509_191400.wav	3024.0
+14	Spectrogram 1	1	3033.0	3036.0	0	12000.0	White-throated Sparrow	whtspa	0.1011	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240509_191400.wav	3033.0
+15	Spectrogram 1	1	3036.0	3039.0	0	12000.0	White-throated Sparrow	whtspa	0.1193	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240509_191400.wav	3036.0

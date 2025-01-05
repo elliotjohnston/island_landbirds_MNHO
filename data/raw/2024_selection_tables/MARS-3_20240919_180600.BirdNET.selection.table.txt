@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	159.0	162.0	0	12000.0	American Crow	amecro	0.1469	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240919_180600.wav	159.0
+2	Spectrogram 1	1	162.0	165.0	0	12000.0	American Crow	amecro	0.2219	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240919_180600.wav	162.0
+3	Spectrogram 1	1	168.0	171.0	0	12000.0	American Crow	amecro	0.2507	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240919_180600.wav	168.0
+4	Spectrogram 1	1	177.0	180.0	0	12000.0	American Crow	amecro	0.1546	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240919_180600.wav	177.0
+5	Spectrogram 1	1	180.0	183.0	0	12000.0	American Crow	amecro	0.1240	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240919_180600.wav	180.0
+6	Spectrogram 1	1	189.0	192.0	0	12000.0	American Crow	amecro	0.1460	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240919_180600.wav	189.0
+7	Spectrogram 1	1	198.0	201.0	0	12000.0	American Crow	amecro	0.2108	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240919_180600.wav	198.0
+8	Spectrogram 1	1	204.0	207.0	0	12000.0	American Crow	amecro	0.2499	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240919_180600.wav	204.0
+9	Spectrogram 1	1	219.0	222.0	0	12000.0	American Crow	amecro	0.2021	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240919_180600.wav	219.0
+10	Spectrogram 1	1	522.0	525.0	0	12000.0	American Crow	amecro	0.1377	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240919_180600.wav	522.0
+11	Spectrogram 1	1	1560.0	1563.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.6559	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240919_180600.wav	1560.0
+12	Spectrogram 1	1	1563.0	1566.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.6348	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240919_180600.wav	1563.0

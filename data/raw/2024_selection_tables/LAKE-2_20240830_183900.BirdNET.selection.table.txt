@@ -1,0 +1,35 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	108.0	111.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2331	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	108.0
+2	Spectrogram 1	1	372.0	375.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3328	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	372.0
+3	Spectrogram 1	1	372.0	375.0	0	12000.0	Brown Creeper	brncre	0.1389	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	372.0
+4	Spectrogram 1	1	510.0	513.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1638	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	510.0
+5	Spectrogram 1	1	510.0	513.0	0	12000.0	Cape May Warbler	camwar	0.1202	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	510.0
+6	Spectrogram 1	1	786.0	789.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1043	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	786.0
+7	Spectrogram 1	1	789.0	792.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7015	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	789.0
+8	Spectrogram 1	1	795.0	798.0	0	12000.0	Dark-eyed Junco	daejun	0.1527	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	795.0
+9	Spectrogram 1	1	870.0	873.0	0	12000.0	Northern Waterthrush	norwat	0.1815	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	870.0
+10	Spectrogram 1	1	987.0	990.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4797	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	987.0
+11	Spectrogram 1	1	1203.0	1206.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2496	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	1203.0
+12	Spectrogram 1	1	1206.0	1209.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1846	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	1206.0
+13	Spectrogram 1	1	1212.0	1215.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1324	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	1212.0
+14	Spectrogram 1	1	1467.0	1470.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7564	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	1467.0
+15	Spectrogram 1	1	1854.0	1857.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1308	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	1854.0
+16	Spectrogram 1	1	1950.0	1953.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8458	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	1950.0
+17	Spectrogram 1	1	1953.0	1956.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1921	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	1953.0
+18	Spectrogram 1	1	2016.0	2019.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1223	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	2016.0
+19	Spectrogram 1	1	2130.0	2133.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1307	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	2130.0
+20	Spectrogram 1	1	2178.0	2181.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7788	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	2178.0
+21	Spectrogram 1	1	2181.0	2184.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1631	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	2181.0
+22	Spectrogram 1	1	2187.0	2190.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1083	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	2187.0
+23	Spectrogram 1	1	2193.0	2196.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1142	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	2193.0
+24	Spectrogram 1	1	2199.0	2202.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6711	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	2199.0
+25	Spectrogram 1	1	2202.0	2205.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7421	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	2202.0
+26	Spectrogram 1	1	2205.0	2208.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2708	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	2205.0
+27	Spectrogram 1	1	2214.0	2217.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2944	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	2214.0
+28	Spectrogram 1	1	2217.0	2220.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9275	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	2217.0
+29	Spectrogram 1	1	2241.0	2244.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5566	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	2241.0
+30	Spectrogram 1	1	2244.0	2247.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3470	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	2244.0
+31	Spectrogram 1	1	2271.0	2274.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1017	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	2271.0
+32	Spectrogram 1	1	2289.0	2292.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7018	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	2289.0
+33	Spectrogram 1	1	2463.0	2466.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1232	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	2463.0
+34	Spectrogram 1	1	2829.0	2832.0	0	12000.0	Wood Thrush	woothr	0.2704	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240830_183900.wav	2829.0

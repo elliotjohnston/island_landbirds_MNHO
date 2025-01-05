@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2793.0	2796.0	0	12000.0	Warbling Vireo	warvir	0.2148	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240620_195200.wav	2793.0
+2	Spectrogram 1	1	2871.0	2874.0	0	12000.0	Warbling Vireo	warvir	0.1255	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240620_195200.wav	2871.0
+3	Spectrogram 1	1	2889.0	2892.0	0	12000.0	Swainson's Thrush	swathr	0.2140	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240620_195200.wav	2889.0
+4	Spectrogram 1	1	2937.0	2940.0	0	12000.0	Hermit Thrush	herthr	0.2524	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240620_195200.wav	2937.0
+5	Spectrogram 1	1	2937.0	2940.0	0	12000.0	Swainson's Thrush	swathr	0.1642	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240620_195200.wav	2937.0
+6	Spectrogram 1	1	2952.0	2955.0	0	12000.0	Swainson's Thrush	swathr	0.2823	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240620_195200.wav	2952.0
+7	Spectrogram 1	1	2970.0	2973.0	0	12000.0	Swainson's Thrush	swathr	0.1127	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240620_195200.wav	2970.0
+8	Spectrogram 1	1	2982.0	2985.0	0	12000.0	Swainson's Thrush	swathr	0.1151	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240620_195200.wav	2982.0
+9	Spectrogram 1	1	2988.0	2991.0	0	12000.0	Swainson's Thrush	swathr	0.3631	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240620_195200.wav	2988.0
+10	Spectrogram 1	1	3054.0	3057.0	0	12000.0	Swainson's Thrush	swathr	0.1330	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240620_195200.wav	3054.0
+11	Spectrogram 1	1	3066.0	3069.0	0	12000.0	Warbling Vireo	warvir	0.1235	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240620_195200.wav	3066.0
+12	Spectrogram 1	1	3093.0	3096.0	0	12000.0	Warbling Vireo	warvir	0.1311	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240620_195200.wav	3093.0
+13	Spectrogram 1	1	3099.0	3102.0	0	12000.0	Swainson's Thrush	swathr	0.1579	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240620_195200.wav	3099.0
+14	Spectrogram 1	1	3105.0	3108.0	0	12000.0	Swainson's Thrush	swathr	0.1695	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240620_195200.wav	3105.0
+15	Spectrogram 1	1	3123.0	3126.0	0	12000.0	Hermit Thrush	herthr	0.1214	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240620_195200.wav	3123.0
+16	Spectrogram 1	1	3144.0	3147.0	0	12000.0	Swainson's Thrush	swathr	0.1328	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240620_195200.wav	3144.0
+17	Spectrogram 1	1	3264.0	3267.0	0	12000.0	Swainson's Thrush	swathr	0.1943	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240620_195200.wav	3264.0
+18	Spectrogram 1	1	3309.0	3312.0	0	12000.0	Scarlet Tanager	scatan	0.1546	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240620_195200.wav	3309.0
+19	Spectrogram 1	1	3318.0	3321.0	0	12000.0	Swainson's Thrush	swathr	0.1729	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240620_195200.wav	3318.0
+20	Spectrogram 1	1	3489.0	3492.0	0	12000.0	Olive-sided Flycatcher	olsfly	0.1660	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240620_195200.wav	3489.0
+21	Spectrogram 1	1	3510.0	3513.0	0	12000.0	Swainson's Thrush	swathr	0.1193	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240620_195200.wav	3510.0

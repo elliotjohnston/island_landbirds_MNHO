@@ -1,0 +1,32 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	852.0	855.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2245	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	852.0
+2	Spectrogram 1	1	870.0	873.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1198	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	870.0
+3	Spectrogram 1	1	873.0	876.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1112	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	873.0
+4	Spectrogram 1	1	1038.0	1041.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1042	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	1038.0
+5	Spectrogram 1	1	1044.0	1047.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1200	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	1044.0
+6	Spectrogram 1	1	1050.0	1053.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1296	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	1050.0
+7	Spectrogram 1	1	1065.0	1068.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1157	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	1065.0
+8	Spectrogram 1	1	1089.0	1092.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1735	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	1089.0
+9	Spectrogram 1	1	1323.0	1326.0	0	12000.0	Swainson's Thrush	swathr	0.1397	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	1323.0
+10	Spectrogram 1	1	1326.0	1329.0	0	12000.0	Swainson's Thrush	swathr	0.4021	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	1326.0
+11	Spectrogram 1	1	1329.0	1332.0	0	12000.0	Swainson's Thrush	swathr	0.2778	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	1329.0
+12	Spectrogram 1	1	1332.0	1335.0	0	12000.0	Swainson's Thrush	swathr	0.6822	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	1332.0
+13	Spectrogram 1	1	1335.0	1338.0	0	12000.0	Swainson's Thrush	swathr	0.3516	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	1335.0
+14	Spectrogram 1	1	1338.0	1341.0	0	12000.0	Swainson's Thrush	swathr	0.2170	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	1338.0
+15	Spectrogram 1	1	1341.0	1344.0	0	12000.0	Swainson's Thrush	swathr	0.7021	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	1341.0
+16	Spectrogram 1	1	1509.0	1512.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4138	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	1509.0
+17	Spectrogram 1	1	1533.0	1536.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3890	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	1533.0
+18	Spectrogram 1	1	1563.0	1566.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2902	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	1563.0
+19	Spectrogram 1	1	1602.0	1605.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2324	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	1602.0
+20	Spectrogram 1	1	1623.0	1626.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3430	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	1623.0
+21	Spectrogram 1	1	1698.0	1701.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4324	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	1698.0
+22	Spectrogram 1	1	1860.0	1863.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.7018	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	1860.0
+23	Spectrogram 1	1	2043.0	2046.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2684	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	2043.0
+24	Spectrogram 1	1	2082.0	2085.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6714	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	2082.0
+25	Spectrogram 1	1	2364.0	2367.0	0	12000.0	Swainson's Thrush	swathr	0.7991	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	2364.0
+26	Spectrogram 1	1	2367.0	2370.0	0	12000.0	Swainson's Thrush	swathr	0.8225	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	2367.0
+27	Spectrogram 1	1	2370.0	2373.0	0	12000.0	Swainson's Thrush	swathr	0.5205	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	2370.0
+28	Spectrogram 1	1	2946.0	2949.0	0	12000.0	Hermit Thrush	herthr	0.3624	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	2946.0
+29	Spectrogram 1	1	3189.0	3192.0	0	12000.0	Hermit Thrush	herthr	0.4248	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	3189.0
+30	Spectrogram 1	1	3195.0	3198.0	0	12000.0	Hermit Thrush	herthr	0.6625	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	3195.0
+31	Spectrogram 1	1	3570.0	3573.0	0	12000.0	Swainson's Thrush	swathr	0.2369	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240618_194800.wav	3570.0

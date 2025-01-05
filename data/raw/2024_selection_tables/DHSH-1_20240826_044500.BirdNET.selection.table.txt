@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1731.0	1734.0	0	12000.0	Nashville Warbler	naswar	0.1819	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_044500.wav	1731.0
+2	Spectrogram 1	1	1743.0	1746.0	0	12000.0	Nashville Warbler	naswar	0.1285	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_044500.wav	1743.0
+3	Spectrogram 1	1	2943.0	2946.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.1742	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_044500.wav	2943.0
+4	Spectrogram 1	1	3114.0	3117.0	0	12000.0	American Crow	amecro	0.1033	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_044500.wav	3114.0
+5	Spectrogram 1	1	3141.0	3144.0	0	12000.0	Black-and-white Warbler	bawwar	0.4634	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_044500.wav	3141.0
+6	Spectrogram 1	1	3162.0	3165.0	0	12000.0	White-crowned Sparrow	whcspa	0.4100	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_044500.wav	3162.0
+7	Spectrogram 1	1	3564.0	3567.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.2098	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_044500.wav	3564.0

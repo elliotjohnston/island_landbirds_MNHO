@@ -1,0 +1,235 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	0	3.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1277	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	0
+2	Spectrogram 1	1	12.0	15.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2558	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	12.0
+3	Spectrogram 1	1	21.0	24.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3620	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	21.0
+4	Spectrogram 1	1	30.0	33.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4434	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	30.0
+5	Spectrogram 1	1	33.0	36.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1579	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	33.0
+6	Spectrogram 1	1	39.0	42.0	0	12000.0	Dark-eyed Junco	daejun	0.1462	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	39.0
+7	Spectrogram 1	1	48.0	51.0	0	12000.0	Dark-eyed Junco	daejun	0.1836	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	48.0
+8	Spectrogram 1	1	57.0	60.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1915	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	57.0
+9	Spectrogram 1	1	60.0	63.0	0	12000.0	Dark-eyed Junco	daejun	0.2222	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	60.0
+10	Spectrogram 1	1	63.0	66.0	0	12000.0	Dark-eyed Junco	daejun	0.1266	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	63.0
+11	Spectrogram 1	1	78.0	81.0	0	12000.0	Dark-eyed Junco	daejun	0.2275	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	78.0
+12	Spectrogram 1	1	81.0	84.0	0	12000.0	Dark-eyed Junco	daejun	0.1186	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	81.0
+13	Spectrogram 1	1	87.0	90.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1249	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	87.0
+14	Spectrogram 1	1	90.0	93.0	0	12000.0	Dark-eyed Junco	daejun	0.6903	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	90.0
+15	Spectrogram 1	1	93.0	96.0	0	12000.0	Dark-eyed Junco	daejun	0.2084	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	93.0
+16	Spectrogram 1	1	96.0	99.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1516	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	96.0
+17	Spectrogram 1	1	99.0	102.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2275	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	99.0
+18	Spectrogram 1	1	102.0	105.0	0	12000.0	Dark-eyed Junco	daejun	0.2087	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	102.0
+19	Spectrogram 1	1	105.0	108.0	0	12000.0	Dark-eyed Junco	daejun	0.6114	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	105.0
+20	Spectrogram 1	1	111.0	114.0	0	12000.0	Dark-eyed Junco	daejun	0.6559	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	111.0
+21	Spectrogram 1	1	117.0	120.0	0	12000.0	Dark-eyed Junco	daejun	0.7840	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	117.0
+22	Spectrogram 1	1	120.0	123.0	0	12000.0	Dark-eyed Junco	daejun	0.5970	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	120.0
+23	Spectrogram 1	1	123.0	126.0	0	12000.0	Dark-eyed Junco	daejun	0.6423	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	123.0
+24	Spectrogram 1	1	126.0	129.0	0	12000.0	Dark-eyed Junco	daejun	0.7068	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	126.0
+25	Spectrogram 1	1	129.0	132.0	0	12000.0	Dark-eyed Junco	daejun	0.3780	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	129.0
+26	Spectrogram 1	1	132.0	135.0	0	12000.0	Dark-eyed Junco	daejun	0.1310	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	132.0
+27	Spectrogram 1	1	135.0	138.0	0	12000.0	Dark-eyed Junco	daejun	0.7523	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	135.0
+28	Spectrogram 1	1	138.0	141.0	0	12000.0	Dark-eyed Junco	daejun	0.4216	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	138.0
+29	Spectrogram 1	1	153.0	156.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2998	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	153.0
+30	Spectrogram 1	1	156.0	159.0	0	12000.0	Dark-eyed Junco	daejun	0.1419	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	156.0
+31	Spectrogram 1	1	159.0	162.0	0	12000.0	Dark-eyed Junco	daejun	0.1934	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	159.0
+32	Spectrogram 1	1	162.0	165.0	0	12000.0	Dark-eyed Junco	daejun	0.1819	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	162.0
+33	Spectrogram 1	1	165.0	168.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8157	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	165.0
+34	Spectrogram 1	1	168.0	171.0	0	12000.0	Dark-eyed Junco	daejun	0.3118	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	168.0
+35	Spectrogram 1	1	171.0	174.0	0	12000.0	Dark-eyed Junco	daejun	0.6458	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	171.0
+36	Spectrogram 1	1	174.0	177.0	0	12000.0	Dark-eyed Junco	daejun	0.6162	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	174.0
+37	Spectrogram 1	1	177.0	180.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1839	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	177.0
+38	Spectrogram 1	1	180.0	183.0	0	12000.0	Dark-eyed Junco	daejun	0.5225	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	180.0
+39	Spectrogram 1	1	183.0	186.0	0	12000.0	Dark-eyed Junco	daejun	0.2906	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	183.0
+40	Spectrogram 1	1	186.0	189.0	0	12000.0	Dark-eyed Junco	daejun	0.2265	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	186.0
+41	Spectrogram 1	1	189.0	192.0	0	12000.0	Dark-eyed Junco	daejun	0.1145	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	189.0
+42	Spectrogram 1	1	210.0	213.0	0	12000.0	Dark-eyed Junco	daejun	0.3605	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	210.0
+43	Spectrogram 1	1	216.0	219.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1754	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	216.0
+44	Spectrogram 1	1	216.0	219.0	0	12000.0	Dark-eyed Junco	daejun	0.1330	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	216.0
+45	Spectrogram 1	1	228.0	231.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5032	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	228.0
+46	Spectrogram 1	1	240.0	243.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6219	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	240.0
+47	Spectrogram 1	1	252.0	255.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1501	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	252.0
+48	Spectrogram 1	1	264.0	267.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6912	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	264.0
+49	Spectrogram 1	1	276.0	279.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5965	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	276.0
+50	Spectrogram 1	1	300.0	303.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9037	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	300.0
+51	Spectrogram 1	1	315.0	318.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8403	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	315.0
+52	Spectrogram 1	1	330.0	333.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6784	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	330.0
+53	Spectrogram 1	1	342.0	345.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2143	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	342.0
+54	Spectrogram 1	1	366.0	369.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5583	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	366.0
+55	Spectrogram 1	1	378.0	381.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5267	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	378.0
+56	Spectrogram 1	1	387.0	390.0	0	12000.0	Dark-eyed Junco	daejun	0.1682	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	387.0
+57	Spectrogram 1	1	390.0	393.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6139	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	390.0
+58	Spectrogram 1	1	408.0	411.0	0	12000.0	Dark-eyed Junco	daejun	0.1342	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	408.0
+59	Spectrogram 1	1	411.0	414.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1710	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	411.0
+60	Spectrogram 1	1	423.0	426.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5647	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	423.0
+61	Spectrogram 1	1	495.0	498.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6659	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	495.0
+62	Spectrogram 1	1	501.0	504.0	0	12000.0	Dark-eyed Junco	daejun	0.1364	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	501.0
+63	Spectrogram 1	1	519.0	522.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2758	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	519.0
+64	Spectrogram 1	1	531.0	534.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2207	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	531.0
+65	Spectrogram 1	1	555.0	558.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8265	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	555.0
+66	Spectrogram 1	1	570.0	573.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3767	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	570.0
+67	Spectrogram 1	1	582.0	585.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6864	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	582.0
+68	Spectrogram 1	1	594.0	597.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2205	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	594.0
+69	Spectrogram 1	1	618.0	621.0	0	12000.0	Dark-eyed Junco	daejun	0.4041	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	618.0
+70	Spectrogram 1	1	630.0	633.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2987	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	630.0
+71	Spectrogram 1	1	630.0	633.0	0	12000.0	Northern Parula	norpar	0.1022	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	630.0
+72	Spectrogram 1	1	633.0	636.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6398	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	633.0
+73	Spectrogram 1	1	645.0	648.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1734	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	645.0
+74	Spectrogram 1	1	660.0	663.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5016	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	660.0
+75	Spectrogram 1	1	672.0	675.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5919	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	672.0
+76	Spectrogram 1	1	702.0	705.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5950	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	702.0
+77	Spectrogram 1	1	705.0	708.0	0	12000.0	Dark-eyed Junco	daejun	0.1659	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	705.0
+78	Spectrogram 1	1	750.0	753.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2613	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	750.0
+79	Spectrogram 1	1	765.0	768.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7194	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	765.0
+80	Spectrogram 1	1	783.0	786.0	0	12000.0	Dark-eyed Junco	daejun	0.1177	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	783.0
+81	Spectrogram 1	1	795.0	798.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1423	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	795.0
+82	Spectrogram 1	1	831.0	834.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8439	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	831.0
+83	Spectrogram 1	1	843.0	846.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7522	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	843.0
+84	Spectrogram 1	1	846.0	849.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8478	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	846.0
+85	Spectrogram 1	1	864.0	867.0	0	12000.0	Dark-eyed Junco	daejun	0.1166	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	864.0
+86	Spectrogram 1	1	867.0	870.0	0	12000.0	Dark-eyed Junco	daejun	0.3999	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	867.0
+87	Spectrogram 1	1	885.0	888.0	0	12000.0	Dark-eyed Junco	daejun	0.1376	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	885.0
+88	Spectrogram 1	1	903.0	906.0	0	12000.0	Dark-eyed Junco	daejun	0.1009	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	903.0
+89	Spectrogram 1	1	909.0	912.0	0	12000.0	Dark-eyed Junco	daejun	0.4031	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	909.0
+90	Spectrogram 1	1	912.0	915.0	0	12000.0	Dark-eyed Junco	daejun	0.2600	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	912.0
+91	Spectrogram 1	1	915.0	918.0	0	12000.0	Dark-eyed Junco	daejun	0.4737	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	915.0
+92	Spectrogram 1	1	918.0	921.0	0	12000.0	Dark-eyed Junco	daejun	0.2538	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	918.0
+93	Spectrogram 1	1	921.0	924.0	0	12000.0	Dark-eyed Junco	daejun	0.2904	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	921.0
+94	Spectrogram 1	1	924.0	927.0	0	12000.0	Dark-eyed Junco	daejun	0.3643	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	924.0
+95	Spectrogram 1	1	927.0	930.0	0	12000.0	Dark-eyed Junco	daejun	0.2245	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	927.0
+96	Spectrogram 1	1	930.0	933.0	0	12000.0	Dark-eyed Junco	daejun	0.3428	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	930.0
+97	Spectrogram 1	1	933.0	936.0	0	12000.0	Dark-eyed Junco	daejun	0.2359	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	933.0
+98	Spectrogram 1	1	936.0	939.0	0	12000.0	Dark-eyed Junco	daejun	0.3457	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	936.0
+99	Spectrogram 1	1	939.0	942.0	0	12000.0	Dark-eyed Junco	daejun	0.2966	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	939.0
+100	Spectrogram 1	1	942.0	945.0	0	12000.0	Dark-eyed Junco	daejun	0.1716	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	942.0
+101	Spectrogram 1	1	951.0	954.0	0	12000.0	Dark-eyed Junco	daejun	0.2258	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	951.0
+102	Spectrogram 1	1	954.0	957.0	0	12000.0	Dark-eyed Junco	daejun	0.1089	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	954.0
+103	Spectrogram 1	1	972.0	975.0	0	12000.0	Dark-eyed Junco	daejun	0.2296	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	972.0
+104	Spectrogram 1	1	975.0	978.0	0	12000.0	Dark-eyed Junco	daejun	0.4948	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	975.0
+105	Spectrogram 1	1	978.0	981.0	0	12000.0	Dark-eyed Junco	daejun	0.7718	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	978.0
+106	Spectrogram 1	1	981.0	984.0	0	12000.0	Dark-eyed Junco	daejun	0.4297	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	981.0
+107	Spectrogram 1	1	984.0	987.0	0	12000.0	Dark-eyed Junco	daejun	0.1205	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	984.0
+108	Spectrogram 1	1	993.0	996.0	0	12000.0	Dark-eyed Junco	daejun	0.5509	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	993.0
+109	Spectrogram 1	1	999.0	1002.0	0	12000.0	Dark-eyed Junco	daejun	0.3333	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	999.0
+110	Spectrogram 1	1	1014.0	1017.0	0	12000.0	Dark-eyed Junco	daejun	0.1869	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1014.0
+111	Spectrogram 1	1	1020.0	1023.0	0	12000.0	Dark-eyed Junco	daejun	0.4058	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1020.0
+112	Spectrogram 1	1	1029.0	1032.0	0	12000.0	Dark-eyed Junco	daejun	0.5565	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1029.0
+113	Spectrogram 1	1	1035.0	1038.0	0	12000.0	Dark-eyed Junco	daejun	0.6418	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1035.0
+114	Spectrogram 1	1	1041.0	1044.0	0	12000.0	Dark-eyed Junco	daejun	0.4152	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1041.0
+115	Spectrogram 1	1	1044.0	1047.0	0	12000.0	Dark-eyed Junco	daejun	0.1261	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1044.0
+116	Spectrogram 1	1	1050.0	1053.0	0	12000.0	Dark-eyed Junco	daejun	0.3350	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1050.0
+117	Spectrogram 1	1	1068.0	1071.0	0	12000.0	Dark-eyed Junco	daejun	0.1108	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1068.0
+118	Spectrogram 1	1	1146.0	1149.0	0	12000.0	Dark-eyed Junco	daejun	0.1206	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1146.0
+119	Spectrogram 1	1	1167.0	1170.0	0	12000.0	Dark-eyed Junco	daejun	0.1450	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1167.0
+120	Spectrogram 1	1	1188.0	1191.0	0	12000.0	Dark-eyed Junco	daejun	0.1912	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1188.0
+121	Spectrogram 1	1	1194.0	1197.0	0	12000.0	Dark-eyed Junco	daejun	0.1885	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1194.0
+122	Spectrogram 1	1	1203.0	1206.0	0	12000.0	Dark-eyed Junco	daejun	0.2264	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1203.0
+123	Spectrogram 1	1	1209.0	1212.0	0	12000.0	Dark-eyed Junco	daejun	0.3316	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1209.0
+124	Spectrogram 1	1	1212.0	1215.0	0	12000.0	Dark-eyed Junco	daejun	0.4619	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1212.0
+125	Spectrogram 1	1	1221.0	1224.0	0	12000.0	Dark-eyed Junco	daejun	0.1734	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1221.0
+126	Spectrogram 1	1	1224.0	1227.0	0	12000.0	Dark-eyed Junco	daejun	0.1027	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1224.0
+127	Spectrogram 1	1	1230.0	1233.0	0	12000.0	Dark-eyed Junco	daejun	0.3347	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1230.0
+128	Spectrogram 1	1	1263.0	1266.0	0	12000.0	Dark-eyed Junco	daejun	0.3568	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1263.0
+129	Spectrogram 1	1	1266.0	1269.0	0	12000.0	Dark-eyed Junco	daejun	0.1062	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1266.0
+130	Spectrogram 1	1	1269.0	1272.0	0	12000.0	Dark-eyed Junco	daejun	0.4170	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1269.0
+131	Spectrogram 1	1	1290.0	1293.0	0	12000.0	Dark-eyed Junco	daejun	0.1116	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1290.0
+132	Spectrogram 1	1	1296.0	1299.0	0	12000.0	Dark-eyed Junco	daejun	0.1589	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1296.0
+133	Spectrogram 1	1	1299.0	1302.0	0	12000.0	Dark-eyed Junco	daejun	0.4070	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1299.0
+134	Spectrogram 1	1	1302.0	1305.0	0	12000.0	Dark-eyed Junco	daejun	0.5456	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1302.0
+135	Spectrogram 1	1	1302.0	1305.0	0	12000.0	Lincoln's Sparrow	linspa	0.1879	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1302.0
+136	Spectrogram 1	1	1305.0	1308.0	0	12000.0	Dark-eyed Junco	daejun	0.4923	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1305.0
+137	Spectrogram 1	1	1308.0	1311.0	0	12000.0	Dark-eyed Junco	daejun	0.1551	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1308.0
+138	Spectrogram 1	1	1314.0	1317.0	0	12000.0	Dark-eyed Junco	daejun	0.1095	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1314.0
+139	Spectrogram 1	1	1335.0	1338.0	0	12000.0	Cedar Waxwing	cedwax	0.1714	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1335.0
+140	Spectrogram 1	1	1350.0	1353.0	0	12000.0	Cedar Waxwing	cedwax	0.5996	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1350.0
+141	Spectrogram 1	1	1353.0	1356.0	0	12000.0	Cedar Waxwing	cedwax	0.1135	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1353.0
+142	Spectrogram 1	1	1386.0	1389.0	0	12000.0	Dark-eyed Junco	daejun	0.1552	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1386.0
+143	Spectrogram 1	1	1392.0	1395.0	0	12000.0	Dark-eyed Junco	daejun	0.3528	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1392.0
+144	Spectrogram 1	1	1395.0	1398.0	0	12000.0	Dark-eyed Junco	daejun	0.1381	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1395.0
+145	Spectrogram 1	1	1404.0	1407.0	0	12000.0	Dark-eyed Junco	daejun	0.2431	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1404.0
+146	Spectrogram 1	1	1410.0	1413.0	0	12000.0	Dark-eyed Junco	daejun	0.1261	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1410.0
+147	Spectrogram 1	1	1413.0	1416.0	0	12000.0	Dark-eyed Junco	daejun	0.1982	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1413.0
+148	Spectrogram 1	1	1416.0	1419.0	0	12000.0	Dark-eyed Junco	daejun	0.4572	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1416.0
+149	Spectrogram 1	1	1419.0	1422.0	0	12000.0	Dark-eyed Junco	daejun	0.1335	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1419.0
+150	Spectrogram 1	1	1422.0	1425.0	0	12000.0	Dark-eyed Junco	daejun	0.1152	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1422.0
+151	Spectrogram 1	1	1428.0	1431.0	0	12000.0	Dark-eyed Junco	daejun	0.1740	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1428.0
+152	Spectrogram 1	1	1434.0	1437.0	0	12000.0	Dark-eyed Junco	daejun	0.2966	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1434.0
+153	Spectrogram 1	1	1437.0	1440.0	0	12000.0	Dark-eyed Junco	daejun	0.1418	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1437.0
+154	Spectrogram 1	1	1440.0	1443.0	0	12000.0	Dark-eyed Junco	daejun	0.1457	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1440.0
+155	Spectrogram 1	1	1443.0	1446.0	0	12000.0	Dark-eyed Junco	daejun	0.1883	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1443.0
+156	Spectrogram 1	1	1446.0	1449.0	0	12000.0	Dark-eyed Junco	daejun	0.1179	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1446.0
+157	Spectrogram 1	1	1452.0	1455.0	0	12000.0	Dark-eyed Junco	daejun	0.3490	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1452.0
+158	Spectrogram 1	1	1455.0	1458.0	0	12000.0	Dark-eyed Junco	daejun	0.1544	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1455.0
+159	Spectrogram 1	1	1458.0	1461.0	0	12000.0	Dark-eyed Junco	daejun	0.2493	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1458.0
+160	Spectrogram 1	1	1470.0	1473.0	0	12000.0	Dark-eyed Junco	daejun	0.2206	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1470.0
+161	Spectrogram 1	1	1485.0	1488.0	0	12000.0	Dark-eyed Junco	daejun	0.2412	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1485.0
+162	Spectrogram 1	1	1488.0	1491.0	0	12000.0	Dark-eyed Junco	daejun	0.1020	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1488.0
+163	Spectrogram 1	1	1491.0	1494.0	0	12000.0	Dark-eyed Junco	daejun	0.1242	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1491.0
+164	Spectrogram 1	1	1527.0	1530.0	0	12000.0	Dark-eyed Junco	daejun	0.8010	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1527.0
+165	Spectrogram 1	1	1536.0	1539.0	0	12000.0	Dark-eyed Junco	daejun	0.2224	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1536.0
+166	Spectrogram 1	1	1542.0	1545.0	0	12000.0	Dark-eyed Junco	daejun	0.3669	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1542.0
+167	Spectrogram 1	1	1551.0	1554.0	0	12000.0	Dark-eyed Junco	daejun	0.1138	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1551.0
+168	Spectrogram 1	1	1578.0	1581.0	0	12000.0	Dark-eyed Junco	daejun	0.3360	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1578.0
+169	Spectrogram 1	1	1584.0	1587.0	0	12000.0	Dark-eyed Junco	daejun	0.2500	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1584.0
+170	Spectrogram 1	1	1587.0	1590.0	0	12000.0	Dark-eyed Junco	daejun	0.1054	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1587.0
+171	Spectrogram 1	1	1593.0	1596.0	0	12000.0	Dark-eyed Junco	daejun	0.2503	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1593.0
+172	Spectrogram 1	1	1602.0	1605.0	0	12000.0	Dark-eyed Junco	daejun	0.2221	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1602.0
+173	Spectrogram 1	1	1608.0	1611.0	0	12000.0	Dark-eyed Junco	daejun	0.3760	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1608.0
+174	Spectrogram 1	1	1611.0	1614.0	0	12000.0	Dark-eyed Junco	daejun	0.2281	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1611.0
+175	Spectrogram 1	1	1617.0	1620.0	0	12000.0	Dark-eyed Junco	daejun	0.1711	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1617.0
+176	Spectrogram 1	1	1620.0	1623.0	0	12000.0	Dark-eyed Junco	daejun	0.1321	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1620.0
+177	Spectrogram 1	1	1620.0	1623.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1059	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1620.0
+178	Spectrogram 1	1	1629.0	1632.0	0	12000.0	Dark-eyed Junco	daejun	0.2468	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1629.0
+179	Spectrogram 1	1	1632.0	1635.0	0	12000.0	Dark-eyed Junco	daejun	0.2805	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1632.0
+180	Spectrogram 1	1	1632.0	1635.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1757	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1632.0
+181	Spectrogram 1	1	1635.0	1638.0	0	12000.0	Dark-eyed Junco	daejun	0.6854	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1635.0
+182	Spectrogram 1	1	1638.0	1641.0	0	12000.0	Dark-eyed Junco	daejun	0.1178	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1638.0
+183	Spectrogram 1	1	1641.0	1644.0	0	12000.0	Dark-eyed Junco	daejun	0.3561	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1641.0
+184	Spectrogram 1	1	1644.0	1647.0	0	12000.0	Dark-eyed Junco	daejun	0.3304	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1644.0
+185	Spectrogram 1	1	1644.0	1647.0	0	12000.0	Blackburnian Warbler	bkbwar	0.2030	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1644.0
+186	Spectrogram 1	1	1647.0	1650.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1934	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1647.0
+187	Spectrogram 1	1	1650.0	1653.0	0	12000.0	Blackburnian Warbler	bkbwar	0.2132	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1650.0
+188	Spectrogram 1	1	1650.0	1653.0	0	12000.0	Dark-eyed Junco	daejun	0.1608	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1650.0
+189	Spectrogram 1	1	1650.0	1653.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1041	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1650.0
+190	Spectrogram 1	1	1653.0	1656.0	0	12000.0	Dark-eyed Junco	daejun	0.3302	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1653.0
+191	Spectrogram 1	1	1656.0	1659.0	0	12000.0	Dark-eyed Junco	daejun	0.1668	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1656.0
+192	Spectrogram 1	1	1659.0	1662.0	0	12000.0	Dark-eyed Junco	daejun	0.1022	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1659.0
+193	Spectrogram 1	1	1662.0	1665.0	0	12000.0	Dark-eyed Junco	daejun	0.2748	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1662.0
+194	Spectrogram 1	1	1671.0	1674.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1441	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1671.0
+195	Spectrogram 1	1	1671.0	1674.0	0	12000.0	Dark-eyed Junco	daejun	0.1075	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1671.0
+196	Spectrogram 1	1	1677.0	1680.0	0	12000.0	Dark-eyed Junco	daejun	0.1542	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1677.0
+197	Spectrogram 1	1	1686.0	1689.0	0	12000.0	Dark-eyed Junco	daejun	0.1408	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1686.0
+198	Spectrogram 1	1	1689.0	1692.0	0	12000.0	Dark-eyed Junco	daejun	0.3849	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1689.0
+199	Spectrogram 1	1	1701.0	1704.0	0	12000.0	Dark-eyed Junco	daejun	0.4756	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1701.0
+200	Spectrogram 1	1	1704.0	1707.0	0	12000.0	Dark-eyed Junco	daejun	0.1017	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1704.0
+201	Spectrogram 1	1	1713.0	1716.0	0	12000.0	Dark-eyed Junco	daejun	0.2288	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1713.0
+202	Spectrogram 1	1	1719.0	1722.0	0	12000.0	Dark-eyed Junco	daejun	0.1833	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1719.0
+203	Spectrogram 1	1	1722.0	1725.0	0	12000.0	Dark-eyed Junco	daejun	0.3462	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1722.0
+204	Spectrogram 1	1	1728.0	1731.0	0	12000.0	Dark-eyed Junco	daejun	0.1985	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1728.0
+205	Spectrogram 1	1	1734.0	1737.0	0	12000.0	Dark-eyed Junco	daejun	0.1174	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1734.0
+206	Spectrogram 1	1	1737.0	1740.0	0	12000.0	Dark-eyed Junco	daejun	0.5327	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1737.0
+207	Spectrogram 1	1	1740.0	1743.0	0	12000.0	Dark-eyed Junco	daejun	0.1993	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1740.0
+208	Spectrogram 1	1	1743.0	1746.0	0	12000.0	Dark-eyed Junco	daejun	0.2720	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1743.0
+209	Spectrogram 1	1	1746.0	1749.0	0	12000.0	Dark-eyed Junco	daejun	0.3469	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1746.0
+210	Spectrogram 1	1	1749.0	1752.0	0	12000.0	Dark-eyed Junco	daejun	0.1763	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1749.0
+211	Spectrogram 1	1	1752.0	1755.0	0	12000.0	Dark-eyed Junco	daejun	0.2836	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1752.0
+212	Spectrogram 1	1	1752.0	1755.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1245	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1752.0
+213	Spectrogram 1	1	1761.0	1764.0	0	12000.0	Dark-eyed Junco	daejun	0.1669	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1761.0
+214	Spectrogram 1	1	1770.0	1773.0	0	12000.0	Dark-eyed Junco	daejun	0.1897	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1770.0
+215	Spectrogram 1	1	1776.0	1779.0	0	12000.0	Dark-eyed Junco	daejun	0.1815	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1776.0
+216	Spectrogram 1	1	1782.0	1785.0	0	12000.0	Dark-eyed Junco	daejun	0.1363	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1782.0
+217	Spectrogram 1	1	1785.0	1788.0	0	12000.0	Dark-eyed Junco	daejun	0.3689	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1785.0
+218	Spectrogram 1	1	1788.0	1791.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1260	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1788.0
+219	Spectrogram 1	1	1824.0	1827.0	0	12000.0	Dark-eyed Junco	daejun	0.5870	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1824.0
+220	Spectrogram 1	1	1827.0	1830.0	0	12000.0	Dark-eyed Junco	daejun	0.3270	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1827.0
+221	Spectrogram 1	1	1830.0	1833.0	0	12000.0	Dark-eyed Junco	daejun	0.2277	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1830.0
+222	Spectrogram 1	1	1833.0	1836.0	0	12000.0	Dark-eyed Junco	daejun	0.3450	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1833.0
+223	Spectrogram 1	1	1836.0	1839.0	0	12000.0	Dark-eyed Junco	daejun	0.6693	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1836.0
+224	Spectrogram 1	1	1839.0	1842.0	0	12000.0	Dark-eyed Junco	daejun	0.7275	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1839.0
+225	Spectrogram 1	1	1842.0	1845.0	0	12000.0	Dark-eyed Junco	daejun	0.7036	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1842.0
+226	Spectrogram 1	1	1845.0	1848.0	0	12000.0	Dark-eyed Junco	daejun	0.7617	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1845.0
+227	Spectrogram 1	1	1848.0	1851.0	0	12000.0	Dark-eyed Junco	daejun	0.6617	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1848.0
+228	Spectrogram 1	1	1884.0	1887.0	0	12000.0	Dark-eyed Junco	daejun	0.1517	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1884.0
+229	Spectrogram 1	1	1917.0	1920.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2579	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1917.0
+230	Spectrogram 1	1	1920.0	1923.0	0	12000.0	Dark-eyed Junco	daejun	0.1446	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1920.0
+231	Spectrogram 1	1	1941.0	1944.0	0	12000.0	Dark-eyed Junco	daejun	0.1100	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1941.0
+232	Spectrogram 1	1	1947.0	1950.0	0	12000.0	Dark-eyed Junco	daejun	0.3259	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	1947.0
+233	Spectrogram 1	1	2427.0	2430.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1520	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	2427.0
+234	Spectrogram 1	1	2982.0	2985.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1100	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240630_045402.wav	2982.0

@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	126.0	129.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1503	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240818_185900.wav	126.0
+2	Spectrogram 1	1	300.0	303.0	0	12000.0	Brown Creeper	brncre	0.1406	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240818_185900.wav	300.0
+3	Spectrogram 1	1	312.0	315.0	0	12000.0	Brown Creeper	brncre	0.2090	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240818_185900.wav	312.0
+4	Spectrogram 1	1	312.0	315.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1034	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240818_185900.wav	312.0
+5	Spectrogram 1	1	435.0	438.0	0	12000.0	Brown Creeper	brncre	0.8122	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240818_185900.wav	435.0
+6	Spectrogram 1	1	438.0	441.0	0	12000.0	Brown Creeper	brncre	0.2976	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240818_185900.wav	438.0
+7	Spectrogram 1	1	459.0	462.0	0	12000.0	Brown Creeper	brncre	0.7814	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240818_185900.wav	459.0
+8	Spectrogram 1	1	558.0	561.0	0	12000.0	Evening Grosbeak	evegro	0.1073	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240818_185900.wav	558.0
+9	Spectrogram 1	1	561.0	564.0	0	12000.0	Evening Grosbeak	evegro	0.8478	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240818_185900.wav	561.0
+10	Spectrogram 1	1	579.0	582.0	0	12000.0	Evening Grosbeak	evegro	0.5647	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240818_185900.wav	579.0
+11	Spectrogram 1	1	582.0	585.0	0	12000.0	Evening Grosbeak	evegro	0.4779	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240818_185900.wav	582.0

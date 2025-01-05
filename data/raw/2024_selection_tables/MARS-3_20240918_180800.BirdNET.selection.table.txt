@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	750.0	753.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6384	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240918_180800.wav	750.0
+2	Spectrogram 1	1	795.0	798.0	0	12000.0	Dark-eyed Junco	daejun	0.2702	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240918_180800.wav	795.0
+3	Spectrogram 1	1	810.0	813.0	0	12000.0	Dark-eyed Junco	daejun	0.3049	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240918_180800.wav	810.0
+4	Spectrogram 1	1	816.0	819.0	0	12000.0	Dark-eyed Junco	daejun	0.1663	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240918_180800.wav	816.0
+5	Spectrogram 1	1	1647.0	1650.0	0	12000.0	Palm Warbler	palwar	0.4514	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240918_180800.wav	1647.0

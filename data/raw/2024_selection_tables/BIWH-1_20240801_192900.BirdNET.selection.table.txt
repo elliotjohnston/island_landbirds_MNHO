@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2772.0	2775.0	0	12000.0	Swainson's Thrush	swathr	0.6659	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240801_192900.wav	2772.0
+2	Spectrogram 1	1	3099.0	3102.0	0	12000.0	Swainson's Thrush	swathr	0.2945	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240801_192900.wav	3099.0
+3	Spectrogram 1	1	3114.0	3117.0	0	12000.0	Swainson's Thrush	swathr	0.6114	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240801_192900.wav	3114.0
+4	Spectrogram 1	1	3138.0	3141.0	0	12000.0	Swainson's Thrush	swathr	0.3406	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240801_192900.wav	3138.0

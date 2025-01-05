@@ -1,0 +1,287 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	0	3.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3946	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	0
+2	Spectrogram 1	1	3.0	6.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6270	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	3.0
+3	Spectrogram 1	1	63.0	66.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1173	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	63.0
+4	Spectrogram 1	1	66.0	69.0	0	12000.0	Magnolia Warbler	magwar	0.3463	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	66.0
+5	Spectrogram 1	1	69.0	72.0	0	12000.0	Northern Parula	norpar	0.1199	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	69.0
+6	Spectrogram 1	1	120.0	123.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1176	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	120.0
+7	Spectrogram 1	1	126.0	129.0	0	12000.0	Magnolia Warbler	magwar	0.1135	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	126.0
+8	Spectrogram 1	1	138.0	141.0	0	12000.0	Brown Creeper	brncre	0.3245	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	138.0
+9	Spectrogram 1	1	147.0	150.0	0	12000.0	Brown Creeper	brncre	0.3467	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	147.0
+10	Spectrogram 1	1	150.0	153.0	0	12000.0	Brown Creeper	brncre	0.6303	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	150.0
+11	Spectrogram 1	1	150.0	153.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1142	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	150.0
+12	Spectrogram 1	1	156.0	159.0	0	12000.0	Northern Parula	norpar	0.2378	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	156.0
+13	Spectrogram 1	1	162.0	165.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1039	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	162.0
+14	Spectrogram 1	1	162.0	165.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1019	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	162.0
+15	Spectrogram 1	1	165.0	168.0	0	12000.0	Brown Creeper	brncre	0.8276	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	165.0
+16	Spectrogram 1	1	165.0	168.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1360	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	165.0
+17	Spectrogram 1	1	171.0	174.0	0	12000.0	Brown Creeper	brncre	0.7884	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	171.0
+18	Spectrogram 1	1	177.0	180.0	0	12000.0	Brown Creeper	brncre	0.9698	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	177.0
+19	Spectrogram 1	1	180.0	183.0	0	12000.0	Brown Creeper	brncre	0.9013	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	180.0
+20	Spectrogram 1	1	186.0	189.0	0	12000.0	Brown Creeper	brncre	0.7186	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	186.0
+21	Spectrogram 1	1	189.0	192.0	0	12000.0	Northern Parula	norpar	0.2718	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	189.0
+22	Spectrogram 1	1	192.0	195.0	0	12000.0	Brown Creeper	brncre	0.5306	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	192.0
+23	Spectrogram 1	1	195.0	198.0	0	12000.0	Brown Creeper	brncre	0.6899	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	195.0
+24	Spectrogram 1	1	198.0	201.0	0	12000.0	Brown Creeper	brncre	0.6437	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	198.0
+25	Spectrogram 1	1	201.0	204.0	0	12000.0	Brown Creeper	brncre	0.3540	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	201.0
+26	Spectrogram 1	1	204.0	207.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4950	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	204.0
+27	Spectrogram 1	1	210.0	213.0	0	12000.0	Brown Creeper	brncre	0.4213	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	210.0
+28	Spectrogram 1	1	213.0	216.0	0	12000.0	Brown Creeper	brncre	0.6866	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	213.0
+29	Spectrogram 1	1	222.0	225.0	0	12000.0	Brown Creeper	brncre	0.2933	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	222.0
+30	Spectrogram 1	1	225.0	228.0	0	12000.0	Magnolia Warbler	magwar	0.4110	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	225.0
+31	Spectrogram 1	1	228.0	231.0	0	12000.0	Brown Creeper	brncre	0.1342	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	228.0
+32	Spectrogram 1	1	234.0	237.0	0	12000.0	Magnolia Warbler	magwar	0.1508	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	234.0
+33	Spectrogram 1	1	237.0	240.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2933	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	237.0
+34	Spectrogram 1	1	240.0	243.0	0	12000.0	Brown Creeper	brncre	0.8254	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	240.0
+35	Spectrogram 1	1	240.0	243.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1143	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	240.0
+36	Spectrogram 1	1	243.0	246.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1451	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	243.0
+37	Spectrogram 1	1	243.0	246.0	0	12000.0	Magnolia Warbler	magwar	0.1359	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	243.0
+38	Spectrogram 1	1	246.0	249.0	0	12000.0	Brown Creeper	brncre	0.1553	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	246.0
+39	Spectrogram 1	1	249.0	252.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5090	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	249.0
+40	Spectrogram 1	1	252.0	255.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3446	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	252.0
+41	Spectrogram 1	1	255.0	258.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1894	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	255.0
+42	Spectrogram 1	1	264.0	267.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5688	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	264.0
+43	Spectrogram 1	1	264.0	267.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1311	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	264.0
+44	Spectrogram 1	1	264.0	267.0	0	12000.0	Magnolia Warbler	magwar	0.1185	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	264.0
+45	Spectrogram 1	1	267.0	270.0	0	12000.0	Brown Creeper	brncre	0.5839	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	267.0
+46	Spectrogram 1	1	267.0	270.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1317	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	267.0
+47	Spectrogram 1	1	270.0	273.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1206	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	270.0
+48	Spectrogram 1	1	273.0	276.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7872	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	273.0
+49	Spectrogram 1	1	276.0	279.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1974	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	276.0
+50	Spectrogram 1	1	279.0	282.0	0	12000.0	Brown Creeper	brncre	0.2088	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	279.0
+51	Spectrogram 1	1	285.0	288.0	0	12000.0	Brown Creeper	brncre	0.2665	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	285.0
+52	Spectrogram 1	1	288.0	291.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1462	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	288.0
+53	Spectrogram 1	1	288.0	291.0	0	12000.0	Brown Creeper	brncre	0.1300	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	288.0
+54	Spectrogram 1	1	291.0	294.0	0	12000.0	Brown Creeper	brncre	0.2084	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	291.0
+55	Spectrogram 1	1	294.0	297.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1142	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	294.0
+56	Spectrogram 1	1	297.0	300.0	0	12000.0	Brown Creeper	brncre	0.3481	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	297.0
+57	Spectrogram 1	1	297.0	300.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1414	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	297.0
+58	Spectrogram 1	1	306.0	309.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2452	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	306.0
+59	Spectrogram 1	1	312.0	315.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8497	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	312.0
+60	Spectrogram 1	1	315.0	318.0	0	12000.0	Brown Creeper	brncre	0.3335	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	315.0
+61	Spectrogram 1	1	321.0	324.0	0	12000.0	Brown Creeper	brncre	0.1082	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	321.0
+62	Spectrogram 1	1	327.0	330.0	0	12000.0	Brown Creeper	brncre	0.5568	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	327.0
+63	Spectrogram 1	1	333.0	336.0	0	12000.0	Brown Creeper	brncre	0.7264	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	333.0
+64	Spectrogram 1	1	336.0	339.0	0	12000.0	Brown Creeper	brncre	0.5824	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	336.0
+65	Spectrogram 1	1	336.0	339.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3855	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	336.0
+66	Spectrogram 1	1	342.0	345.0	0	12000.0	Brown Creeper	brncre	0.3763	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	342.0
+67	Spectrogram 1	1	345.0	348.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8189	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	345.0
+68	Spectrogram 1	1	348.0	351.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9762	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	348.0
+69	Spectrogram 1	1	351.0	354.0	0	12000.0	Brown Creeper	brncre	0.5189	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	351.0
+70	Spectrogram 1	1	354.0	357.0	0	12000.0	Brown Creeper	brncre	0.3257	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	354.0
+71	Spectrogram 1	1	354.0	357.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3137	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	354.0
+72	Spectrogram 1	1	357.0	360.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4369	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	357.0
+73	Spectrogram 1	1	363.0	366.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3868	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	363.0
+74	Spectrogram 1	1	366.0	369.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2839	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	366.0
+75	Spectrogram 1	1	369.0	372.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7256	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	369.0
+76	Spectrogram 1	1	372.0	375.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1383	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	372.0
+77	Spectrogram 1	1	372.0	375.0	0	12000.0	Magnolia Warbler	magwar	0.1173	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	372.0
+78	Spectrogram 1	1	375.0	378.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1788	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	375.0
+79	Spectrogram 1	1	375.0	378.0	0	12000.0	Brown Creeper	brncre	0.1267	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	375.0
+80	Spectrogram 1	1	381.0	384.0	0	12000.0	Magnolia Warbler	magwar	0.5198	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	381.0
+81	Spectrogram 1	1	399.0	402.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8446	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	399.0
+82	Spectrogram 1	1	405.0	408.0	0	12000.0	Brown Creeper	brncre	0.2615	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	405.0
+83	Spectrogram 1	1	408.0	411.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9140	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	408.0
+84	Spectrogram 1	1	417.0	420.0	0	12000.0	Brown Creeper	brncre	0.4029	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	417.0
+85	Spectrogram 1	1	423.0	426.0	0	12000.0	Brown Creeper	brncre	0.3197	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	423.0
+86	Spectrogram 1	1	423.0	426.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2204	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	423.0
+87	Spectrogram 1	1	429.0	432.0	0	12000.0	Brown Creeper	brncre	0.2871	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	429.0
+88	Spectrogram 1	1	429.0	432.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1021	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	429.0
+89	Spectrogram 1	1	432.0	435.0	0	12000.0	Magnolia Warbler	magwar	0.4415	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	432.0
+90	Spectrogram 1	1	432.0	435.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2468	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	432.0
+91	Spectrogram 1	1	438.0	441.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5454	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	438.0
+92	Spectrogram 1	1	444.0	447.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1118	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	444.0
+93	Spectrogram 1	1	450.0	453.0	0	12000.0	Brown Creeper	brncre	0.2545	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	450.0
+94	Spectrogram 1	1	450.0	453.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1380	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	450.0
+95	Spectrogram 1	1	453.0	456.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7740	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	453.0
+96	Spectrogram 1	1	456.0	459.0	0	12000.0	Magnolia Warbler	magwar	0.1701	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	456.0
+97	Spectrogram 1	1	459.0	462.0	0	12000.0	Brown Creeper	brncre	0.3965	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	459.0
+98	Spectrogram 1	1	462.0	465.0	0	12000.0	Brown Creeper	brncre	0.1083	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	462.0
+99	Spectrogram 1	1	465.0	468.0	0	12000.0	Brown Creeper	brncre	0.7383	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	465.0
+100	Spectrogram 1	1	468.0	471.0	0	12000.0	Brown Creeper	brncre	0.6056	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	468.0
+101	Spectrogram 1	1	477.0	480.0	0	12000.0	Brown Creeper	brncre	0.3061	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	477.0
+102	Spectrogram 1	1	480.0	483.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4347	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	480.0
+103	Spectrogram 1	1	483.0	486.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3168	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	483.0
+104	Spectrogram 1	1	486.0	489.0	0	12000.0	Brown Creeper	brncre	0.3773	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	486.0
+105	Spectrogram 1	1	486.0	489.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1293	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	486.0
+106	Spectrogram 1	1	489.0	492.0	0	12000.0	Magnolia Warbler	magwar	0.3018	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	489.0
+107	Spectrogram 1	1	489.0	492.0	0	12000.0	Canada Warbler	canwar	0.1175	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	489.0
+108	Spectrogram 1	1	492.0	495.0	0	12000.0	Brown Creeper	brncre	0.4812	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	492.0
+109	Spectrogram 1	1	498.0	501.0	0	12000.0	Brown Creeper	brncre	0.8415	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	498.0
+110	Spectrogram 1	1	504.0	507.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5783	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	504.0
+111	Spectrogram 1	1	504.0	507.0	0	12000.0	Brown Creeper	brncre	0.1526	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	504.0
+112	Spectrogram 1	1	507.0	510.0	0	12000.0	Brown Creeper	brncre	0.9741	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	507.0
+113	Spectrogram 1	1	510.0	513.0	0	12000.0	Brown Creeper	brncre	0.5487	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	510.0
+114	Spectrogram 1	1	516.0	519.0	0	12000.0	Brown Creeper	brncre	0.6944	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	516.0
+115	Spectrogram 1	1	519.0	522.0	0	12000.0	Brown Creeper	brncre	0.9576	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	519.0
+116	Spectrogram 1	1	522.0	525.0	0	12000.0	Brown Creeper	brncre	0.6342	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	522.0
+117	Spectrogram 1	1	525.0	528.0	0	12000.0	Brown Creeper	brncre	0.1420	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	525.0
+118	Spectrogram 1	1	528.0	531.0	0	12000.0	Brown Creeper	brncre	0.9333	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	528.0
+119	Spectrogram 1	1	531.0	534.0	0	12000.0	Brown Creeper	brncre	0.9049	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	531.0
+120	Spectrogram 1	1	537.0	540.0	0	12000.0	Brown Creeper	brncre	0.5219	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	537.0
+121	Spectrogram 1	1	540.0	543.0	0	12000.0	Brown Creeper	brncre	0.4821	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	540.0
+122	Spectrogram 1	1	546.0	549.0	0	12000.0	Brown Creeper	brncre	0.1478	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	546.0
+123	Spectrogram 1	1	549.0	552.0	0	12000.0	Brown Creeper	brncre	0.4448	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	549.0
+124	Spectrogram 1	1	552.0	555.0	0	12000.0	Brown Creeper	brncre	0.9437	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	552.0
+125	Spectrogram 1	1	558.0	561.0	0	12000.0	Brown Creeper	brncre	0.7573	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	558.0
+126	Spectrogram 1	1	561.0	564.0	0	12000.0	Brown Creeper	brncre	0.7949	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	561.0
+127	Spectrogram 1	1	561.0	564.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1259	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	561.0
+128	Spectrogram 1	1	567.0	570.0	0	12000.0	Brown Creeper	brncre	0.5124	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	567.0
+129	Spectrogram 1	1	567.0	570.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1312	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	567.0
+130	Spectrogram 1	1	573.0	576.0	0	12000.0	Brown Creeper	brncre	0.3099	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	573.0
+131	Spectrogram 1	1	576.0	579.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5181	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	576.0
+132	Spectrogram 1	1	576.0	579.0	0	12000.0	Brown Creeper	brncre	0.3054	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	576.0
+133	Spectrogram 1	1	582.0	585.0	0	12000.0	Brown Creeper	brncre	0.8155	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	582.0
+134	Spectrogram 1	1	588.0	591.0	0	12000.0	Brown Creeper	brncre	0.5573	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	588.0
+135	Spectrogram 1	1	591.0	594.0	0	12000.0	Brown Creeper	brncre	0.9534	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	591.0
+136	Spectrogram 1	1	594.0	597.0	0	12000.0	Brown Creeper	brncre	0.2930	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	594.0
+137	Spectrogram 1	1	594.0	597.0	0	12000.0	Magnolia Warbler	magwar	0.1019	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	594.0
+138	Spectrogram 1	1	600.0	603.0	0	12000.0	Brown Creeper	brncre	0.9508	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	600.0
+139	Spectrogram 1	1	603.0	606.0	0	12000.0	Brown Creeper	brncre	0.1416	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	603.0
+140	Spectrogram 1	1	603.0	606.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1175	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	603.0
+141	Spectrogram 1	1	612.0	615.0	0	12000.0	Brown Creeper	brncre	0.8278	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	612.0
+142	Spectrogram 1	1	615.0	618.0	0	12000.0	Brown Creeper	brncre	0.7446	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	615.0
+143	Spectrogram 1	1	618.0	621.0	0	12000.0	Brown Creeper	brncre	0.8570	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	618.0
+144	Spectrogram 1	1	621.0	624.0	0	12000.0	Brown Creeper	brncre	0.4658	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	621.0
+145	Spectrogram 1	1	627.0	630.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1713	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	627.0
+146	Spectrogram 1	1	630.0	633.0	0	12000.0	Brown Creeper	brncre	0.6896	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	630.0
+147	Spectrogram 1	1	636.0	639.0	0	12000.0	Brown Creeper	brncre	0.1475	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	636.0
+148	Spectrogram 1	1	639.0	642.0	0	12000.0	Magnolia Warbler	magwar	0.2828	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	639.0
+149	Spectrogram 1	1	639.0	642.0	0	12000.0	Brown Creeper	brncre	0.2187	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	639.0
+150	Spectrogram 1	1	642.0	645.0	0	12000.0	Brown Creeper	brncre	0.8932	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	642.0
+151	Spectrogram 1	1	648.0	651.0	0	12000.0	Brown Creeper	brncre	0.4299	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	648.0
+152	Spectrogram 1	1	651.0	654.0	0	12000.0	Brown Creeper	brncre	0.7005	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	651.0
+153	Spectrogram 1	1	654.0	657.0	0	12000.0	Brown Creeper	brncre	0.5786	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	654.0
+154	Spectrogram 1	1	657.0	660.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2803	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	657.0
+155	Spectrogram 1	1	660.0	663.0	0	12000.0	Brown Creeper	brncre	0.9193	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	660.0
+156	Spectrogram 1	1	663.0	666.0	0	12000.0	Brown Creeper	brncre	0.7982	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	663.0
+157	Spectrogram 1	1	666.0	669.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1866	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	666.0
+158	Spectrogram 1	1	669.0	672.0	0	12000.0	Brown Creeper	brncre	0.8446	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	669.0
+159	Spectrogram 1	1	672.0	675.0	0	12000.0	Brown Creeper	brncre	0.1538	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	672.0
+160	Spectrogram 1	1	675.0	678.0	0	12000.0	Brown Creeper	brncre	0.1217	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	675.0
+161	Spectrogram 1	1	684.0	687.0	0	12000.0	Brown Creeper	brncre	0.1887	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	684.0
+162	Spectrogram 1	1	690.0	693.0	0	12000.0	Brown Creeper	brncre	0.6120	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	690.0
+163	Spectrogram 1	1	696.0	699.0	0	12000.0	Magnolia Warbler	magwar	0.1116	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	696.0
+164	Spectrogram 1	1	702.0	705.0	0	12000.0	Warbling Vireo	warvir	0.2303	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	702.0
+165	Spectrogram 1	1	705.0	708.0	0	12000.0	Brown Creeper	brncre	0.1704	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	705.0
+166	Spectrogram 1	1	708.0	711.0	0	12000.0	Brown Creeper	brncre	0.4915	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	708.0
+167	Spectrogram 1	1	708.0	711.0	0	12000.0	Ruby-crowned Kinglet	ruckin	0.2273	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	708.0
+168	Spectrogram 1	1	711.0	714.0	0	12000.0	Ruby-crowned Kinglet	ruckin	0.2447	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	711.0
+169	Spectrogram 1	1	714.0	717.0	0	12000.0	Brown Creeper	brncre	0.1115	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	714.0
+170	Spectrogram 1	1	729.0	732.0	0	12000.0	Brown Creeper	brncre	0.3511	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	729.0
+171	Spectrogram 1	1	732.0	735.0	0	12000.0	Brown Creeper	brncre	0.3131	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	732.0
+172	Spectrogram 1	1	735.0	738.0	0	12000.0	Brown Creeper	brncre	0.7326	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	735.0
+173	Spectrogram 1	1	741.0	744.0	0	12000.0	Brown Creeper	brncre	0.2640	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	741.0
+174	Spectrogram 1	1	741.0	744.0	0	12000.0	Magnolia Warbler	magwar	0.1883	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	741.0
+175	Spectrogram 1	1	747.0	750.0	0	12000.0	Brown Creeper	brncre	0.3294	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	747.0
+176	Spectrogram 1	1	750.0	753.0	0	12000.0	Brown Creeper	brncre	0.1821	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	750.0
+177	Spectrogram 1	1	753.0	756.0	0	12000.0	Brown Creeper	brncre	0.2481	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	753.0
+178	Spectrogram 1	1	756.0	759.0	0	12000.0	Brown Creeper	brncre	0.4587	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	756.0
+179	Spectrogram 1	1	759.0	762.0	0	12000.0	Brown Creeper	brncre	0.1137	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	759.0
+180	Spectrogram 1	1	762.0	765.0	0	12000.0	Magnolia Warbler	magwar	0.2826	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	762.0
+181	Spectrogram 1	1	762.0	765.0	0	12000.0	Olive-sided Flycatcher	olsfly	0.1116	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	762.0
+182	Spectrogram 1	1	789.0	792.0	0	12000.0	Magnolia Warbler	magwar	0.7843	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	789.0
+183	Spectrogram 1	1	816.0	819.0	0	12000.0	Magnolia Warbler	magwar	0.3052	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	816.0
+184	Spectrogram 1	1	864.0	867.0	0	12000.0	Magnolia Warbler	magwar	0.1525	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	864.0
+185	Spectrogram 1	1	870.0	873.0	0	12000.0	Magnolia Warbler	magwar	0.5682	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	870.0
+186	Spectrogram 1	1	879.0	882.0	0	12000.0	Magnolia Warbler	magwar	0.6476	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	879.0
+187	Spectrogram 1	1	888.0	891.0	0	12000.0	Magnolia Warbler	magwar	0.1459	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	888.0
+188	Spectrogram 1	1	888.0	891.0	0	12000.0	Canada Warbler	canwar	0.1216	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	888.0
+189	Spectrogram 1	1	900.0	903.0	0	12000.0	Magnolia Warbler	magwar	0.4974	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	900.0
+190	Spectrogram 1	1	903.0	906.0	0	12000.0	Purple Finch	purfin	0.1353	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	903.0
+191	Spectrogram 1	1	909.0	912.0	0	12000.0	Magnolia Warbler	magwar	0.1561	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	909.0
+192	Spectrogram 1	1	957.0	960.0	0	12000.0	Magnolia Warbler	magwar	0.6654	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	957.0
+193	Spectrogram 1	1	966.0	969.0	0	12000.0	Magnolia Warbler	magwar	0.1632	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	966.0
+194	Spectrogram 1	1	969.0	972.0	0	12000.0	Canada Warbler	canwar	0.2746	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	969.0
+195	Spectrogram 1	1	975.0	978.0	0	12000.0	Magnolia Warbler	magwar	0.6351	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	975.0
+196	Spectrogram 1	1	993.0	996.0	0	12000.0	Magnolia Warbler	magwar	0.4893	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	993.0
+197	Spectrogram 1	1	996.0	999.0	0	12000.0	Purple Finch	purfin	0.1359	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	996.0
+198	Spectrogram 1	1	999.0	1002.0	0	12000.0	Magnolia Warbler	magwar	0.3354	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	999.0
+199	Spectrogram 1	1	1002.0	1005.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1217	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1002.0
+200	Spectrogram 1	1	1014.0	1017.0	0	12000.0	Magnolia Warbler	magwar	0.2892	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1014.0
+201	Spectrogram 1	1	1014.0	1017.0	0	12000.0	Northern Parula	norpar	0.1442	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1014.0
+202	Spectrogram 1	1	1026.0	1029.0	0	12000.0	Northern Parula	norpar	0.2184	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1026.0
+203	Spectrogram 1	1	1041.0	1044.0	0	12000.0	Magnolia Warbler	magwar	0.2461	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1041.0
+204	Spectrogram 1	1	1047.0	1050.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4954	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1047.0
+205	Spectrogram 1	1	1050.0	1053.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1910	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1050.0
+206	Spectrogram 1	1	1053.0	1056.0	0	12000.0	Magnolia Warbler	magwar	0.4619	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1053.0
+207	Spectrogram 1	1	1053.0	1056.0	0	12000.0	Canada Warbler	canwar	0.1505	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1053.0
+208	Spectrogram 1	1	1089.0	1092.0	0	12000.0	Magnolia Warbler	magwar	0.2567	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1089.0
+209	Spectrogram 1	1	1092.0	1095.0	0	12000.0	Northern Parula	norpar	0.2049	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1092.0
+210	Spectrogram 1	1	1098.0	1101.0	0	12000.0	Brown Creeper	brncre	0.7470	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1098.0
+211	Spectrogram 1	1	1107.0	1110.0	0	12000.0	Northern Parula	norpar	0.3743	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1107.0
+212	Spectrogram 1	1	1107.0	1110.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1462	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1107.0
+213	Spectrogram 1	1	1122.0	1125.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4919	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1122.0
+214	Spectrogram 1	1	1122.0	1125.0	0	12000.0	Northern Parula	norpar	0.1090	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1122.0
+215	Spectrogram 1	1	1128.0	1131.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4600	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1128.0
+216	Spectrogram 1	1	1131.0	1134.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9480	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1131.0
+217	Spectrogram 1	1	1137.0	1140.0	0	12000.0	Northern Parula	norpar	0.2154	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1137.0
+218	Spectrogram 1	1	1140.0	1143.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9416	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1140.0
+219	Spectrogram 1	1	1146.0	1149.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5358	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1146.0
+220	Spectrogram 1	1	1149.0	1152.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6805	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1149.0
+221	Spectrogram 1	1	1149.0	1152.0	0	12000.0	Northern Parula	norpar	0.1117	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1149.0
+222	Spectrogram 1	1	1152.0	1155.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8558	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1152.0
+223	Spectrogram 1	1	1158.0	1161.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9646	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1158.0
+224	Spectrogram 1	1	1164.0	1167.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4641	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1164.0
+225	Spectrogram 1	1	1164.0	1167.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2867	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1164.0
+226	Spectrogram 1	1	1167.0	1170.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1335	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1167.0
+227	Spectrogram 1	1	1170.0	1173.0	0	12000.0	Blackburnian Warbler	bkbwar	0.2214	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1170.0
+228	Spectrogram 1	1	1170.0	1173.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2078	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1170.0
+229	Spectrogram 1	1	1173.0	1176.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6457	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1173.0
+230	Spectrogram 1	1	1188.0	1191.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4035	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1188.0
+231	Spectrogram 1	1	1197.0	1200.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8460	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1197.0
+232	Spectrogram 1	1	1206.0	1209.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3054	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1206.0
+233	Spectrogram 1	1	1212.0	1215.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7817	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1212.0
+234	Spectrogram 1	1	1215.0	1218.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4876	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1215.0
+235	Spectrogram 1	1	1221.0	1224.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4867	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1221.0
+236	Spectrogram 1	1	1230.0	1233.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3606	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1230.0
+237	Spectrogram 1	1	1239.0	1242.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9425	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1239.0
+238	Spectrogram 1	1	1239.0	1242.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1095	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1239.0
+239	Spectrogram 1	1	1248.0	1251.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7045	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1248.0
+240	Spectrogram 1	1	1257.0	1260.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6566	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1257.0
+241	Spectrogram 1	1	1260.0	1263.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1981	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1260.0
+242	Spectrogram 1	1	1260.0	1263.0	0	12000.0	Brown Creeper	brncre	0.1219	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1260.0
+243	Spectrogram 1	1	1266.0	1269.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9313	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1266.0
+244	Spectrogram 1	1	1269.0	1272.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1747	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1269.0
+245	Spectrogram 1	1	1272.0	1275.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8610	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1272.0
+246	Spectrogram 1	1	1275.0	1278.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3311	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1275.0
+247	Spectrogram 1	1	1278.0	1281.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3274	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1278.0
+248	Spectrogram 1	1	1281.0	1284.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1470	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1281.0
+249	Spectrogram 1	1	1305.0	1308.0	0	12000.0	Brown Creeper	brncre	0.1266	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1305.0
+250	Spectrogram 1	1	1308.0	1311.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7855	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1308.0
+251	Spectrogram 1	1	1314.0	1317.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8109	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1314.0
+252	Spectrogram 1	1	1317.0	1320.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1181	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1317.0
+253	Spectrogram 1	1	1347.0	1350.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5666	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1347.0
+254	Spectrogram 1	1	1356.0	1359.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1250	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1356.0
+255	Spectrogram 1	1	1362.0	1365.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3789	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1362.0
+256	Spectrogram 1	1	1386.0	1389.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2576	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1386.0
+257	Spectrogram 1	1	1386.0	1389.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1223	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1386.0
+258	Spectrogram 1	1	1461.0	1464.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2936	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1461.0
+259	Spectrogram 1	1	1542.0	1545.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3928	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1542.0
+260	Spectrogram 1	1	1545.0	1548.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1396	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	1545.0
+261	Spectrogram 1	1	2244.0	2247.0	0	12000.0	Brown Creeper	brncre	0.1392	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	2244.0
+262	Spectrogram 1	1	2310.0	2313.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1884	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	2310.0
+263	Spectrogram 1	1	2343.0	2346.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5585	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	2343.0
+264	Spectrogram 1	1	2817.0	2820.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5785	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	2817.0
+265	Spectrogram 1	1	2820.0	2823.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1125	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	2820.0
+266	Spectrogram 1	1	2823.0	2826.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4308	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	2823.0
+267	Spectrogram 1	1	2826.0	2829.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3869	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	2826.0
+268	Spectrogram 1	1	2841.0	2844.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3009	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	2841.0
+269	Spectrogram 1	1	2847.0	2850.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1501	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	2847.0
+270	Spectrogram 1	1	2853.0	2856.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3065	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	2853.0
+271	Spectrogram 1	1	2853.0	2856.0	0	12000.0	Boreal Chickadee	borchi2	0.1331	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	2853.0
+272	Spectrogram 1	1	2856.0	2859.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5660	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	2856.0
+273	Spectrogram 1	1	2859.0	2862.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8692	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	2859.0
+274	Spectrogram 1	1	2937.0	2940.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6713	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	2937.0
+275	Spectrogram 1	1	2940.0	2943.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2784	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	2940.0
+276	Spectrogram 1	1	2943.0	2946.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1035	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	2943.0
+277	Spectrogram 1	1	2949.0	2952.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2731	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	2949.0
+278	Spectrogram 1	1	2958.0	2961.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1449	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	2958.0
+279	Spectrogram 1	1	2961.0	2964.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6494	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	2961.0
+280	Spectrogram 1	1	2964.0	2967.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1781	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	2964.0
+281	Spectrogram 1	1	3162.0	3165.0	0	12000.0	Dark-eyed Junco	daejun	0.4017	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	3162.0
+282	Spectrogram 1	1	3165.0	3168.0	0	12000.0	Dark-eyed Junco	daejun	0.8316	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	3165.0
+283	Spectrogram 1	1	3216.0	3219.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2252	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	3216.0
+284	Spectrogram 1	1	3255.0	3258.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1512	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	3255.0
+285	Spectrogram 1	1	3558.0	3561.0	0	12000.0	Mourning Dove	moudov	0.2371	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	3558.0
+286	Spectrogram 1	1	3594.0	3597.0	0	12000.0	Brown Creeper	brncre	0.7692	D:/Island_Songbirds_2024/PENO-3/Data\PENO-3_20240528_045702.wav	3594.0

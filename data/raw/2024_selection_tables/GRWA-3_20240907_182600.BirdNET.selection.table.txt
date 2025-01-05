@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	552.0	555.0	0	12000.0	Evening Grosbeak	evegro	0.2950	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240907_182600.wav	552.0
+2	Spectrogram 1	1	1083.0	1086.0	0	12000.0	Common Yellowthroat	comyel	0.1408	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240907_182600.wav	1083.0
+3	Spectrogram 1	1	1425.0	1428.0	0	12000.0	Common Yellowthroat	comyel	0.1276	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240907_182600.wav	1425.0
+4	Spectrogram 1	1	2190.0	2193.0	0	12000.0	Black-capped Chickadee	bkcchi	0.2625	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240907_182600.wav	2190.0
+5	Spectrogram 1	1	2190.0	2193.0	0	12000.0	White-throated Sparrow	whtspa	0.1149	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240907_182600.wav	2190.0
+6	Spectrogram 1	1	2961.0	2964.0	0	12000.0	Evening Grosbeak	evegro	0.5438	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240907_182600.wav	2961.0
+7	Spectrogram 1	1	2970.0	2973.0	0	12000.0	Pine Grosbeak	pingro	0.3321	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240907_182600.wav	2970.0

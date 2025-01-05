@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	912.0	915.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.2355	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240816_190200.wav	912.0
+2	Spectrogram 1	1	1236.0	1239.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5855	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240816_190200.wav	1236.0
+3	Spectrogram 1	1	1284.0	1287.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4609	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240816_190200.wav	1284.0
+4	Spectrogram 1	1	1350.0	1353.0	0	12000.0	Nashville Warbler	naswar	0.1203	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240816_190200.wav	1350.0
+5	Spectrogram 1	1	1398.0	1401.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1297	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240816_190200.wav	1398.0
+6	Spectrogram 1	1	1407.0	1410.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7059	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240816_190200.wav	1407.0
+7	Spectrogram 1	1	1416.0	1419.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3776	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240816_190200.wav	1416.0
+8	Spectrogram 1	1	1443.0	1446.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4348	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240816_190200.wav	1443.0
+9	Spectrogram 1	1	1587.0	1590.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1272	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240816_190200.wav	1587.0
+10	Spectrogram 1	1	1605.0	1608.0	0	12000.0	Black-and-white Warbler	bawwar	0.3354	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240816_190200.wav	1605.0
+11	Spectrogram 1	1	1605.0	1608.0	0	12000.0	Brown Creeper	brncre	0.1713	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240816_190200.wav	1605.0
+12	Spectrogram 1	1	1953.0	1956.0	0	12000.0	Dark-eyed Junco	daejun	0.1137	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240816_190200.wav	1953.0
+13	Spectrogram 1	1	1959.0	1962.0	0	12000.0	Dark-eyed Junco	daejun	0.4106	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240816_190200.wav	1959.0
+14	Spectrogram 1	1	1971.0	1974.0	0	12000.0	Dark-eyed Junco	daejun	0.8146	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240816_190200.wav	1971.0
+15	Spectrogram 1	1	1974.0	1977.0	0	12000.0	Dark-eyed Junco	daejun	0.6756	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240816_190200.wav	1974.0
+16	Spectrogram 1	1	2253.0	2256.0	0	12000.0	Scarlet Tanager	scatan	0.1143	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240816_190200.wav	2253.0
+17	Spectrogram 1	1	2259.0	2262.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1034	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240816_190200.wav	2259.0

@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1485.0	1488.0	0	12000.0	Hermit Thrush	herthr	0.4273	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240809_042900.wav	1485.0
+2	Spectrogram 1	1	1497.0	1500.0	0	12000.0	Hermit Thrush	herthr	0.4205	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240809_042900.wav	1497.0
+3	Spectrogram 1	1	2592.0	2595.0	0	12000.0	American Crow	amecro	0.1892	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240809_042900.wav	2592.0
+4	Spectrogram 1	1	2607.0	2610.0	0	12000.0	American Crow	amecro	0.2998	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240809_042900.wav	2607.0
+5	Spectrogram 1	1	3057.0	3060.0	0	12000.0	American Crow	amecro	0.2554	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240809_042900.wav	3057.0
+6	Spectrogram 1	1	3117.0	3120.0	0	12000.0	American Crow	amecro	0.2060	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240809_042900.wav	3117.0
+7	Spectrogram 1	1	3183.0	3186.0	0	12000.0	Hermit Thrush	herthr	0.8209	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240809_042900.wav	3183.0
+8	Spectrogram 1	1	3192.0	3195.0	0	12000.0	Hermit Thrush	herthr	0.3165	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240809_042900.wav	3192.0
+9	Spectrogram 1	1	3195.0	3198.0	0	12000.0	Hermit Thrush	herthr	0.6592	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240809_042900.wav	3195.0
+10	Spectrogram 1	1	3201.0	3204.0	0	12000.0	Hermit Thrush	herthr	0.4439	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240809_042900.wav	3201.0
+11	Spectrogram 1	1	3369.0	3372.0	0	12000.0	Hermit Thrush	herthr	0.3443	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240809_042900.wav	3369.0
+12	Spectrogram 1	1	3378.0	3381.0	0	12000.0	Hermit Thrush	herthr	0.5251	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240809_042900.wav	3378.0
+13	Spectrogram 1	1	3384.0	3387.0	0	12000.0	Hermit Thrush	herthr	0.1332	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240809_042900.wav	3384.0
+14	Spectrogram 1	1	3459.0	3462.0	0	12000.0	Blue Jay	blujay	0.1321	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240809_042900.wav	3459.0
+15	Spectrogram 1	1	3468.0	3471.0	0	12000.0	Hermit Thrush	herthr	0.2644	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240809_042900.wav	3468.0
+16	Spectrogram 1	1	3483.0	3486.0	0	12000.0	Hermit Thrush	herthr	0.2925	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240809_042900.wav	3483.0

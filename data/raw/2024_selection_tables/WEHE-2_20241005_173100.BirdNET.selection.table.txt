@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	18.0	21.0	0	12000.0	Common Raven	comrav	0.2095	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241005_173100.wav	18.0
+2	Spectrogram 1	1	21.0	24.0	0	12000.0	Common Raven	comrav	0.7267	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241005_173100.wav	21.0
+3	Spectrogram 1	1	24.0	27.0	0	12000.0	Common Raven	comrav	0.2135	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241005_173100.wav	24.0
+4	Spectrogram 1	1	27.0	30.0	0	12000.0	Common Raven	comrav	0.8651	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241005_173100.wav	27.0
+5	Spectrogram 1	1	30.0	33.0	0	12000.0	Common Raven	comrav	0.8177	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241005_173100.wav	30.0
+6	Spectrogram 1	1	33.0	36.0	0	12000.0	Common Raven	comrav	0.8090	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241005_173100.wav	33.0
+7	Spectrogram 1	1	36.0	39.0	0	12000.0	Common Raven	comrav	0.6432	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241005_173100.wav	36.0
+8	Spectrogram 1	1	39.0	42.0	0	12000.0	Common Raven	comrav	0.7705	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241005_173100.wav	39.0
+9	Spectrogram 1	1	45.0	48.0	0	12000.0	Common Raven	comrav	0.5213	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241005_173100.wav	45.0
+10	Spectrogram 1	1	87.0	90.0	0	12000.0	Dark-eyed Junco	daejun	0.1274	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241005_173100.wav	87.0
+11	Spectrogram 1	1	348.0	351.0	0	12000.0	Common Raven	comrav	0.3488	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241005_173100.wav	348.0
+12	Spectrogram 1	1	351.0	354.0	0	12000.0	Common Raven	comrav	0.4887	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241005_173100.wav	351.0
+13	Spectrogram 1	1	357.0	360.0	0	12000.0	Common Raven	comrav	0.5826	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241005_173100.wav	357.0
+14	Spectrogram 1	1	399.0	402.0	0	12000.0	Common Raven	comrav	0.4515	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241005_173100.wav	399.0
+15	Spectrogram 1	1	684.0	687.0	0	12000.0	Palm Warbler	palwar	0.1695	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241005_173100.wav	684.0
+16	Spectrogram 1	1	942.0	945.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1493	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241005_173100.wav	942.0
+17	Spectrogram 1	1	1149.0	1152.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1157	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241005_173100.wav	1149.0
+18	Spectrogram 1	1	1149.0	1152.0	0	12000.0	Brown Creeper	brncre	0.1124	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241005_173100.wav	1149.0
+19	Spectrogram 1	1	1158.0	1161.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2667	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241005_173100.wav	1158.0
+20	Spectrogram 1	1	1164.0	1167.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2571	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241005_173100.wav	1164.0
+21	Spectrogram 1	1	1167.0	1170.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1119	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241005_173100.wav	1167.0
+22	Spectrogram 1	1	1170.0	1173.0	0	12000.0	Brown Creeper	brncre	0.3206	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241005_173100.wav	1170.0
+23	Spectrogram 1	1	1173.0	1176.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1815	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241005_173100.wav	1173.0
+24	Spectrogram 1	1	1179.0	1182.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1580	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241005_173100.wav	1179.0
+25	Spectrogram 1	1	1485.0	1488.0	0	12000.0	Canada Warbler	canwar	0.2619	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241005_173100.wav	1485.0
+26	Spectrogram 1	1	1506.0	1509.0	0	12000.0	Canada Warbler	canwar	0.1438	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20241005_173100.wav	1506.0

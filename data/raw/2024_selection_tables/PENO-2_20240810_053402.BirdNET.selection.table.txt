@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1938.0	1941.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1611	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240810_053402.wav	1938.0
+2	Spectrogram 1	1	1950.0	1953.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.3009	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240810_053402.wav	1950.0
+3	Spectrogram 1	1	1953.0	1956.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1356	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240810_053402.wav	1953.0
+4	Spectrogram 1	1	1959.0	1962.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1264	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240810_053402.wav	1959.0
+5	Spectrogram 1	1	2103.0	2106.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1722	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240810_053402.wav	2103.0
+6	Spectrogram 1	1	2796.0	2799.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1229	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240810_053402.wav	2796.0
+7	Spectrogram 1	1	3477.0	3480.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.2046	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240810_053402.wav	3477.0
+8	Spectrogram 1	1	3477.0	3480.0	0	12000.0	Pileated Woodpecker	pilwoo	0.1098	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240810_053402.wav	3477.0

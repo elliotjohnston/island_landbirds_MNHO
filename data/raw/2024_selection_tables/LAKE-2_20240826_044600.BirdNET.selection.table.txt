@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2904.0	2907.0	0	12000.0	Brown Creeper	brncre	0.1843	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_044600.wav	2904.0
+2	Spectrogram 1	1	2931.0	2934.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6991	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_044600.wav	2931.0
+3	Spectrogram 1	1	3027.0	3030.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1471	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_044600.wav	3027.0
+4	Spectrogram 1	1	3414.0	3417.0	0	12000.0	Common Raven	comrav	0.1021	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_044600.wav	3414.0
+5	Spectrogram 1	1	3420.0	3423.0	0	12000.0	Brown Creeper	brncre	0.1688	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_044600.wav	3420.0
+6	Spectrogram 1	1	3420.0	3423.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1452	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_044600.wav	3420.0
+7	Spectrogram 1	1	3423.0	3426.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5404	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_044600.wav	3423.0
+8	Spectrogram 1	1	3429.0	3432.0	0	12000.0	Common Raven	comrav	0.1193	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_044600.wav	3429.0
+9	Spectrogram 1	1	3486.0	3489.0	0	12000.0	Common Raven	comrav	0.4371	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_044600.wav	3486.0
+10	Spectrogram 1	1	3516.0	3519.0	0	12000.0	Common Raven	comrav	0.2107	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_044600.wav	3516.0
+11	Spectrogram 1	1	3561.0	3564.0	0	12000.0	Common Raven	comrav	0.1592	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240826_044600.wav	3561.0

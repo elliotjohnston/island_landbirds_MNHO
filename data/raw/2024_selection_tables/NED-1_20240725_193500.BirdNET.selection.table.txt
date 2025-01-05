@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	87.0	90.0	0	12000.0	Cedar Waxwing	cedwax	0.9268	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240725_193500.wav	87.0
+2	Spectrogram 1	1	90.0	93.0	0	12000.0	Cedar Waxwing	cedwax	0.2867	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240725_193500.wav	90.0
+3	Spectrogram 1	1	240.0	243.0	0	12000.0	Cedar Waxwing	cedwax	0.1040	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240725_193500.wav	240.0
+4	Spectrogram 1	1	249.0	252.0	0	12000.0	Cedar Waxwing	cedwax	0.1348	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240725_193500.wav	249.0
+5	Spectrogram 1	1	789.0	792.0	0	12000.0	Cedar Waxwing	cedwax	0.1561	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240725_193500.wav	789.0
+6	Spectrogram 1	1	3462.0	3465.0	0	12000.0	Hermit Thrush	herthr	0.1008	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240725_193500.wav	3462.0
+7	Spectrogram 1	1	3471.0	3474.0	0	12000.0	Swainson's Thrush	swathr	0.1274	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240725_193500.wav	3471.0
+8	Spectrogram 1	1	3504.0	3507.0	0	12000.0	Swainson's Thrush	swathr	0.1040	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240725_193500.wav	3504.0

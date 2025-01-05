@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	918.0	921.0	0	12000.0	American Crow	amecro	0.4296	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_184900.wav	918.0
+2	Spectrogram 1	1	921.0	924.0	0	12000.0	American Crow	amecro	0.1630	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_184900.wav	921.0
+3	Spectrogram 1	1	924.0	927.0	0	12000.0	American Crow	amecro	0.1989	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_184900.wav	924.0
+4	Spectrogram 1	1	930.0	933.0	0	12000.0	American Crow	amecro	0.1228	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_184900.wav	930.0
+5	Spectrogram 1	1	942.0	945.0	0	12000.0	American Crow	amecro	0.2777	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_184900.wav	942.0
+6	Spectrogram 1	1	960.0	963.0	0	12000.0	American Crow	amecro	0.2302	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_184900.wav	960.0
+7	Spectrogram 1	1	975.0	978.0	0	12000.0	American Crow	amecro	0.1034	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_184900.wav	975.0
+8	Spectrogram 1	1	978.0	981.0	0	12000.0	American Crow	amecro	0.1602	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_184900.wav	978.0
+9	Spectrogram 1	1	1014.0	1017.0	0	12000.0	American Crow	amecro	0.1109	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_184900.wav	1014.0
+10	Spectrogram 1	1	1032.0	1035.0	0	12000.0	American Crow	amecro	0.1299	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_184900.wav	1032.0
+11	Spectrogram 1	1	1047.0	1050.0	0	12000.0	American Crow	amecro	0.2097	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_184900.wav	1047.0
+12	Spectrogram 1	1	1053.0	1056.0	0	12000.0	American Crow	amecro	0.1330	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_184900.wav	1053.0
+13	Spectrogram 1	1	1056.0	1059.0	0	12000.0	American Crow	amecro	0.2000	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_184900.wav	1056.0
+14	Spectrogram 1	1	1062.0	1065.0	0	12000.0	American Crow	amecro	0.2437	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_184900.wav	1062.0
+15	Spectrogram 1	1	1065.0	1068.0	0	12000.0	Common Raven	comrav	0.1213	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_184900.wav	1065.0

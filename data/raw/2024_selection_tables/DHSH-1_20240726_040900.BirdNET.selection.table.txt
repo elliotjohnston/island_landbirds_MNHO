@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1491.0	1494.0	0	12000.0	Song Sparrow	sonspa	0.8637	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240726_040900.wav	1491.0
+2	Spectrogram 1	1	2253.0	2256.0	0	12000.0	American Redstart	amered	0.3039	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240726_040900.wav	2253.0
+3	Spectrogram 1	1	2253.0	2256.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1744	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240726_040900.wav	2253.0
+4	Spectrogram 1	1	2265.0	2268.0	0	12000.0	American Redstart	amered	0.1331	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240726_040900.wav	2265.0
+5	Spectrogram 1	1	2565.0	2568.0	0	12000.0	Song Sparrow	sonspa	0.2677	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240726_040900.wav	2565.0
+6	Spectrogram 1	1	2568.0	2571.0	0	12000.0	Song Sparrow	sonspa	0.1222	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240726_040900.wav	2568.0
+7	Spectrogram 1	1	2592.0	2595.0	0	12000.0	Song Sparrow	sonspa	0.1561	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240726_040900.wav	2592.0
+8	Spectrogram 1	1	2631.0	2634.0	0	12000.0	Song Sparrow	sonspa	0.2056	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240726_040900.wav	2631.0
+9	Spectrogram 1	1	2649.0	2652.0	0	12000.0	Song Sparrow	sonspa	0.1657	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240726_040900.wav	2649.0
+10	Spectrogram 1	1	2694.0	2697.0	0	12000.0	Song Sparrow	sonspa	0.1413	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240726_040900.wav	2694.0
+11	Spectrogram 1	1	2703.0	2706.0	0	12000.0	Song Sparrow	sonspa	0.1683	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240726_040900.wav	2703.0
+12	Spectrogram 1	1	2721.0	2724.0	0	12000.0	Song Sparrow	sonspa	0.1179	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240726_040900.wav	2721.0
+13	Spectrogram 1	1	3171.0	3174.0	0	12000.0	White-crowned Sparrow	whcspa	0.3198	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240726_040900.wav	3171.0
+14	Spectrogram 1	1	3522.0	3525.0	0	12000.0	Song Sparrow	sonspa	0.4318	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240726_040900.wav	3522.0
+15	Spectrogram 1	1	3525.0	3528.0	0	12000.0	Song Sparrow	sonspa	0.1200	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240726_040900.wav	3525.0
+16	Spectrogram 1	1	3555.0	3558.0	0	12000.0	Song Sparrow	sonspa	0.1086	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240726_040900.wav	3555.0
+17	Spectrogram 1	1	3567.0	3570.0	0	12000.0	Song Sparrow	sonspa	0.2030	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240726_040900.wav	3567.0
+18	Spectrogram 1	1	3579.0	3582.0	0	12000.0	Song Sparrow	sonspa	0.2998	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240726_040900.wav	3579.0
+19	Spectrogram 1	1	3591.0	3594.0	0	12000.0	Song Sparrow	sonspa	0.1438	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240726_040900.wav	3591.0

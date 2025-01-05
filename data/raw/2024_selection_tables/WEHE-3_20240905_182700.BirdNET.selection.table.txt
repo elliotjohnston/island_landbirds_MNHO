@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	978.0	981.0	0	12000.0	Northern Flicker	norfli	0.1184	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240905_182700.wav	978.0
+2	Spectrogram 1	1	981.0	984.0	0	12000.0	Pileated Woodpecker	pilwoo	0.2400	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240905_182700.wav	981.0
+3	Spectrogram 1	1	1515.0	1518.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8327	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240905_182700.wav	1515.0
+4	Spectrogram 1	1	1518.0	1521.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1142	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240905_182700.wav	1518.0
+5	Spectrogram 1	1	1527.0	1530.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3606	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240905_182700.wav	1527.0
+6	Spectrogram 1	1	1527.0	1530.0	0	12000.0	Brown Creeper	brncre	0.3290	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240905_182700.wav	1527.0
+7	Spectrogram 1	1	1530.0	1533.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5790	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240905_182700.wav	1530.0
+8	Spectrogram 1	1	1530.0	1533.0	0	12000.0	Brown Creeper	brncre	0.4455	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240905_182700.wav	1530.0
+9	Spectrogram 1	1	1563.0	1566.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1624	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240905_182700.wav	1563.0
+10	Spectrogram 1	1	1902.0	1905.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2125	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240905_182700.wav	1902.0

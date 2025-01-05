@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	693.0	696.0	0	12000.0	Magnolia Warbler	magwar	0.2367	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240518_192400.wav	693.0
+2	Spectrogram 1	1	693.0	696.0	0	12000.0	Nashville Warbler	naswar	0.2270	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240518_192400.wav	693.0
+3	Spectrogram 1	1	723.0	726.0	0	12000.0	Song Sparrow	sonspa	0.1278	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240518_192400.wav	723.0
+4	Spectrogram 1	1	1086.0	1089.0	0	12000.0	American Crow	amecro	0.3508	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240518_192400.wav	1086.0
+5	Spectrogram 1	1	1098.0	1101.0	0	12000.0	American Crow	amecro	0.1710	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240518_192400.wav	1098.0
+6	Spectrogram 1	1	1110.0	1113.0	0	12000.0	American Crow	amecro	0.5512	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240518_192400.wav	1110.0
+7	Spectrogram 1	1	1284.0	1287.0	0	12000.0	American Crow	amecro	0.2388	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240518_192400.wav	1284.0
+8	Spectrogram 1	1	1299.0	1302.0	0	12000.0	American Crow	amecro	0.1941	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240518_192400.wav	1299.0
+9	Spectrogram 1	1	1404.0	1407.0	0	12000.0	American Crow	amecro	0.1246	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240518_192400.wav	1404.0
+10	Spectrogram 1	1	1407.0	1410.0	0	12000.0	American Crow	amecro	0.2166	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240518_192400.wav	1407.0

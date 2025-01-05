@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	15.0	18.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2525	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240719_194000.wav	15.0
+2	Spectrogram 1	1	84.0	87.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2960	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240719_194000.wav	84.0
+3	Spectrogram 1	1	186.0	189.0	0	12000.0	Brown Creeper	brncre	0.3119	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240719_194000.wav	186.0
+4	Spectrogram 1	1	186.0	189.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1733	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240719_194000.wav	186.0
+5	Spectrogram 1	1	195.0	198.0	0	12000.0	Brown Creeper	brncre	0.6159	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240719_194000.wav	195.0
+6	Spectrogram 1	1	195.0	198.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1445	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240719_194000.wav	195.0
+7	Spectrogram 1	1	567.0	570.0	0	12000.0	Brown Creeper	brncre	0.1936	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240719_194000.wav	567.0
+8	Spectrogram 1	1	942.0	945.0	0	12000.0	Brown Creeper	brncre	0.2398	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240719_194000.wav	942.0
+9	Spectrogram 1	1	1392.0	1395.0	0	12000.0	Brown Creeper	brncre	0.4604	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240719_194000.wav	1392.0
+10	Spectrogram 1	1	1458.0	1461.0	0	12000.0	Winter Wren	winwre3	0.2644	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240719_194000.wav	1458.0
+11	Spectrogram 1	1	2700.0	2703.0	0	12000.0	Common Nighthawk	comnig	0.1937	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240719_194000.wav	2700.0

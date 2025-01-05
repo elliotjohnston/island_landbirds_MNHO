@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	456.0	459.0	0	12000.0	Brown Creeper	brncre	0.2735	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240719_194000.wav	456.0
+2	Spectrogram 1	1	459.0	462.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7839	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240719_194000.wav	459.0
+3	Spectrogram 1	1	510.0	513.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4515	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240719_194000.wav	510.0
+4	Spectrogram 1	1	528.0	531.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3828	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240719_194000.wav	528.0
+5	Spectrogram 1	1	666.0	669.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6131	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240719_194000.wav	666.0
+6	Spectrogram 1	1	672.0	675.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5931	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240719_194000.wav	672.0
+7	Spectrogram 1	1	684.0	687.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5842	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240719_194000.wav	684.0
+8	Spectrogram 1	1	699.0	702.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3248	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240719_194000.wav	699.0
+9	Spectrogram 1	1	1209.0	1212.0	0	12000.0	Savannah Sparrow	savspa	0.1471	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240719_194000.wav	1209.0
+10	Spectrogram 1	1	2454.0	2457.0	0	12000.0	Winter Wren	winwre3	0.8969	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240719_194000.wav	2454.0
+11	Spectrogram 1	1	2457.0	2460.0	0	12000.0	Winter Wren	winwre3	0.8050	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240719_194000.wav	2457.0
+12	Spectrogram 1	1	2460.0	2463.0	0	12000.0	Winter Wren	winwre3	0.9509	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240719_194000.wav	2460.0
+13	Spectrogram 1	1	2772.0	2775.0	0	12000.0	Common Nighthawk	comnig	0.1470	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240719_194000.wav	2772.0

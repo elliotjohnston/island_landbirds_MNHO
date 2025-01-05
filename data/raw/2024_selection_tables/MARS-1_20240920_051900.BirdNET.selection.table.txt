@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2250.0	2253.0	0	12000.0	American Crow	amecro	0.1369	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240920_051900.wav	2250.0
+2	Spectrogram 1	1	2298.0	2301.0	0	12000.0	American Crow	amecro	0.1127	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240920_051900.wav	2298.0
+3	Spectrogram 1	1	2301.0	2304.0	0	12000.0	American Crow	amecro	0.1406	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240920_051900.wav	2301.0
+4	Spectrogram 1	1	2427.0	2430.0	0	12000.0	Common Raven	comrav	0.1188	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240920_051900.wav	2427.0
+5	Spectrogram 1	1	2442.0	2445.0	0	12000.0	Common Raven	comrav	0.1141	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240920_051900.wav	2442.0
+6	Spectrogram 1	1	2556.0	2559.0	0	12000.0	Common Raven	comrav	0.1959	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240920_051900.wav	2556.0
+7	Spectrogram 1	1	2628.0	2631.0	0	12000.0	White-throated Sparrow	whtspa	0.1673	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240920_051900.wav	2628.0
+8	Spectrogram 1	1	2847.0	2850.0	0	12000.0	White-throated Sparrow	whtspa	0.2273	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240920_051900.wav	2847.0
+9	Spectrogram 1	1	2853.0	2856.0	0	12000.0	White-throated Sparrow	whtspa	0.1052	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240920_051900.wav	2853.0
+10	Spectrogram 1	1	2859.0	2862.0	0	12000.0	White-throated Sparrow	whtspa	0.3812	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240920_051900.wav	2859.0
+11	Spectrogram 1	1	3330.0	3333.0	0	12000.0	White-throated Sparrow	whtspa	0.2338	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240920_051900.wav	3330.0
+12	Spectrogram 1	1	3336.0	3339.0	0	12000.0	White-throated Sparrow	whtspa	0.5260	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240920_051900.wav	3336.0

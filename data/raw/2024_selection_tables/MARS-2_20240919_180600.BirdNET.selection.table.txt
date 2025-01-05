@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	252.0	255.0	0	12000.0	Dark-eyed Junco	daejun	0.7134	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240919_180600.wav	252.0
+2	Spectrogram 1	1	255.0	258.0	0	12000.0	Dark-eyed Junco	daejun	0.2421	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240919_180600.wav	255.0
+3	Spectrogram 1	1	261.0	264.0	0	12000.0	Dark-eyed Junco	daejun	0.2996	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240919_180600.wav	261.0
+4	Spectrogram 1	1	264.0	267.0	0	12000.0	Dark-eyed Junco	daejun	0.1809	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240919_180600.wav	264.0
+5	Spectrogram 1	1	273.0	276.0	0	12000.0	Dark-eyed Junco	daejun	0.3235	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240919_180600.wav	273.0
+6	Spectrogram 1	1	291.0	294.0	0	12000.0	Dark-eyed Junco	daejun	0.3909	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240919_180600.wav	291.0

@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	369.0	372.0	0	12000.0	Scarlet Tanager	scatan	0.1356	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241005_173300.wav	369.0
+2	Spectrogram 1	1	399.0	402.0	0	12000.0	Nashville Warbler	naswar	0.1221	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241005_173300.wav	399.0
+3	Spectrogram 1	1	459.0	462.0	0	12000.0	Hairy Woodpecker	haiwoo	0.1253	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241005_173300.wav	459.0
+4	Spectrogram 1	1	468.0	471.0	0	12000.0	Downy Woodpecker	dowwoo	0.2244	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241005_173300.wav	468.0
+5	Spectrogram 1	1	477.0	480.0	0	12000.0	Hairy Woodpecker	haiwoo	0.1458	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241005_173300.wav	477.0
+6	Spectrogram 1	1	480.0	483.0	0	12000.0	Hairy Woodpecker	haiwoo	0.1754	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241005_173300.wav	480.0
+7	Spectrogram 1	1	813.0	816.0	0	12000.0	Hairy Woodpecker	haiwoo	0.2612	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241005_173300.wav	813.0
+8	Spectrogram 1	1	837.0	840.0	0	12000.0	Downy Woodpecker	dowwoo	0.1788	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241005_173300.wav	837.0
+9	Spectrogram 1	1	837.0	840.0	0	12000.0	Hairy Woodpecker	haiwoo	0.1523	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241005_173300.wav	837.0
+10	Spectrogram 1	1	2181.0	2184.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.2194	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241005_173300.wav	2181.0
+11	Spectrogram 1	1	2562.0	2565.0	0	12000.0	Black-capped Chickadee	bkcchi	0.1095	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241005_173300.wav	2562.0
+12	Spectrogram 1	1	2691.0	2694.0	0	12000.0	Eastern Bluebird	easblu	0.1103	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241005_173300.wav	2691.0
+13	Spectrogram 1	1	3387.0	3390.0	0	12000.0	Eastern Bluebird	easblu	0.1239	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241005_173300.wav	3387.0
+14	Spectrogram 1	1	3435.0	3438.0	0	12000.0	Eastern Bluebird	easblu	0.1224	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241005_173300.wav	3435.0
+15	Spectrogram 1	1	3540.0	3543.0	0	12000.0	Eastern Bluebird	easblu	0.1326	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241005_173300.wav	3540.0

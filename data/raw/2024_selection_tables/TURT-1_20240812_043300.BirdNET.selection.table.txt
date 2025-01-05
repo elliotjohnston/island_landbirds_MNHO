@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2592.0	2595.0	0	12000.0	American Crow	amecro	0.1198	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240812_043300.wav	2592.0
+2	Spectrogram 1	1	2832.0	2835.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1689	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240812_043300.wav	2832.0
+3	Spectrogram 1	1	2919.0	2922.0	0	12000.0	Brown Creeper	brncre	0.1720	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240812_043300.wav	2919.0
+4	Spectrogram 1	1	2934.0	2937.0	0	12000.0	Brown Creeper	brncre	0.5176	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240812_043300.wav	2934.0
+5	Spectrogram 1	1	3027.0	3030.0	0	12000.0	Winter Wren	winwre3	0.1385	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240812_043300.wav	3027.0
+6	Spectrogram 1	1	3033.0	3036.0	0	12000.0	American Crow	amecro	0.1621	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240812_043300.wav	3033.0
+7	Spectrogram 1	1	3063.0	3066.0	0	12000.0	Brown Creeper	brncre	0.2431	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240812_043300.wav	3063.0
+8	Spectrogram 1	1	3108.0	3111.0	0	12000.0	Cedar Waxwing	cedwax	0.1064	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240812_043300.wav	3108.0
+9	Spectrogram 1	1	3135.0	3138.0	0	12000.0	American Crow	amecro	0.1582	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240812_043300.wav	3135.0
+10	Spectrogram 1	1	3153.0	3156.0	0	12000.0	American Crow	amecro	0.2361	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240812_043300.wav	3153.0
+11	Spectrogram 1	1	3180.0	3183.0	0	12000.0	American Crow	amecro	0.2709	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240812_043300.wav	3180.0
+12	Spectrogram 1	1	3213.0	3216.0	0	12000.0	American Crow	amecro	0.2312	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240812_043300.wav	3213.0
+13	Spectrogram 1	1	3219.0	3222.0	0	12000.0	American Crow	amecro	0.1944	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240812_043300.wav	3219.0
+14	Spectrogram 1	1	3219.0	3222.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1892	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240812_043300.wav	3219.0
+15	Spectrogram 1	1	3219.0	3222.0	0	12000.0	Brown Creeper	brncre	0.1192	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240812_043300.wav	3219.0
+16	Spectrogram 1	1	3222.0	3225.0	0	12000.0	American Crow	amecro	0.6484	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240812_043300.wav	3222.0
+17	Spectrogram 1	1	3231.0	3234.0	0	12000.0	American Crow	amecro	0.5644	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240812_043300.wav	3231.0
+18	Spectrogram 1	1	3234.0	3237.0	0	12000.0	American Crow	amecro	0.1072	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240812_043300.wav	3234.0
+19	Spectrogram 1	1	3366.0	3369.0	0	12000.0	Cedar Waxwing	cedwax	0.1655	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240812_043300.wav	3366.0
+20	Spectrogram 1	1	3519.0	3522.0	0	12000.0	American Crow	amecro	0.4137	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240812_043300.wav	3519.0

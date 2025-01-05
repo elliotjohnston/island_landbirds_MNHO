@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	168.0	171.0	0	12000.0	Common Raven	comrav	0.1070	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240906_183200.wav	168.0
+2	Spectrogram 1	1	186.0	189.0	0	12000.0	American Crow	amecro	0.1702	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240906_183200.wav	186.0
+3	Spectrogram 1	1	189.0	192.0	0	12000.0	American Crow	amecro	0.1121	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240906_183200.wav	189.0
+4	Spectrogram 1	1	204.0	207.0	0	12000.0	American Crow	amecro	0.1142	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240906_183200.wav	204.0
+5	Spectrogram 1	1	228.0	231.0	0	12000.0	Common Raven	comrav	0.1357	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240906_183200.wav	228.0
+6	Spectrogram 1	1	372.0	375.0	0	12000.0	American Crow	amecro	0.1148	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240906_183200.wav	372.0
+7	Spectrogram 1	1	378.0	381.0	0	12000.0	American Crow	amecro	0.1221	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240906_183200.wav	378.0
+8	Spectrogram 1	1	954.0	957.0	0	12000.0	Dark-eyed Junco	daejun	0.2958	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240906_183200.wav	954.0
+9	Spectrogram 1	1	960.0	963.0	0	12000.0	Evening Grosbeak	evegro	0.2650	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240906_183200.wav	960.0
+10	Spectrogram 1	1	1020.0	1023.0	0	12000.0	Northern Flicker	norfli	0.1343	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240906_183200.wav	1020.0
+11	Spectrogram 1	1	1119.0	1122.0	0	12000.0	Brown Creeper	brncre	0.1078	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240906_183200.wav	1119.0
+12	Spectrogram 1	1	1206.0	1209.0	0	12000.0	Brown Creeper	brncre	0.4178	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240906_183200.wav	1206.0
+13	Spectrogram 1	1	1242.0	1245.0	0	12000.0	Tufted Titmouse	tuftit	0.1783	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240906_183200.wav	1242.0
+14	Spectrogram 1	1	1266.0	1269.0	0	12000.0	Tufted Titmouse	tuftit	0.2433	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240906_183200.wav	1266.0
+15	Spectrogram 1	1	1335.0	1338.0	0	12000.0	Hairy Woodpecker	haiwoo	0.4279	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240906_183200.wav	1335.0
+16	Spectrogram 1	1	1470.0	1473.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1773	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240906_183200.wav	1470.0
+17	Spectrogram 1	1	1518.0	1521.0	0	12000.0	Brown Creeper	brncre	0.1163	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240906_183200.wav	1518.0
+18	Spectrogram 1	1	1701.0	1704.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1608	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240906_183200.wav	1701.0
+19	Spectrogram 1	1	1701.0	1704.0	0	12000.0	Brown Creeper	brncre	0.1125	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240906_183200.wav	1701.0

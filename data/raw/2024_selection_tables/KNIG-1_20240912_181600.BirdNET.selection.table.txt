@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	78.0	81.0	0	12000.0	American Crow	amecro	0.3167	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240912_181600.wav	78.0
+2	Spectrogram 1	1	81.0	84.0	0	12000.0	Common Raven	comrav	0.3068	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240912_181600.wav	81.0
+3	Spectrogram 1	1	90.0	93.0	0	12000.0	American Crow	amecro	0.5146	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240912_181600.wav	90.0
+4	Spectrogram 1	1	93.0	96.0	0	12000.0	American Crow	amecro	0.8539	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240912_181600.wav	93.0
+5	Spectrogram 1	1	99.0	102.0	0	12000.0	American Crow	amecro	0.8120	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240912_181600.wav	99.0
+6	Spectrogram 1	1	102.0	105.0	0	12000.0	American Crow	amecro	0.6373	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240912_181600.wav	102.0
+7	Spectrogram 1	1	240.0	243.0	0	12000.0	American Crow	amecro	0.5706	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240912_181600.wav	240.0
+8	Spectrogram 1	1	243.0	246.0	0	12000.0	American Crow	amecro	0.6212	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240912_181600.wav	243.0
+9	Spectrogram 1	1	246.0	249.0	0	12000.0	American Crow	amecro	0.7482	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240912_181600.wav	246.0
+10	Spectrogram 1	1	249.0	252.0	0	12000.0	American Crow	amecro	0.8709	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240912_181600.wav	249.0
+11	Spectrogram 1	1	252.0	255.0	0	12000.0	American Crow	amecro	0.7116	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240912_181600.wav	252.0
+12	Spectrogram 1	1	255.0	258.0	0	12000.0	American Crow	amecro	0.3898	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240912_181600.wav	255.0
+13	Spectrogram 1	1	273.0	276.0	0	12000.0	American Crow	amecro	0.3663	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240912_181600.wav	273.0
+14	Spectrogram 1	1	276.0	279.0	0	12000.0	American Crow	amecro	0.8429	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240912_181600.wav	276.0
+15	Spectrogram 1	1	279.0	282.0	0	12000.0	American Crow	amecro	0.2490	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240912_181600.wav	279.0
+16	Spectrogram 1	1	282.0	285.0	0	12000.0	American Crow	amecro	0.4945	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240912_181600.wav	282.0
+17	Spectrogram 1	1	285.0	288.0	0	12000.0	American Crow	amecro	0.7402	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240912_181600.wav	285.0

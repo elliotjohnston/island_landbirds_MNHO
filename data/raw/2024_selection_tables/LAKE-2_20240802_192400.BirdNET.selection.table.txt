@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	369.0	372.0	0	12000.0	Brown Creeper	brncre	0.1047	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240802_192400.wav	369.0
+2	Spectrogram 1	1	375.0	378.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1352	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240802_192400.wav	375.0
+3	Spectrogram 1	1	2160.0	2163.0	0	12000.0	Pine Grosbeak	pingro	0.1668	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240802_192400.wav	2160.0
+4	Spectrogram 1	1	2166.0	2169.0	0	12000.0	Blue-headed Vireo	buhvir	0.1289	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240802_192400.wav	2166.0

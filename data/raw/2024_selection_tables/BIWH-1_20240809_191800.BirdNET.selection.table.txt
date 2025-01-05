@@ -1,0 +1,3 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	810.0	813.0	0	12000.0	American Crow	amecro	0.1953	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240809_191800.wav	810.0
+2	Spectrogram 1	1	2442.0	2445.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.1904	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240809_191800.wav	2442.0

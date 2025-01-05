@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	312.0	315.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2652	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240528_193500.wav	312.0
+2	Spectrogram 1	1	312.0	315.0	0	12000.0	Northern Waterthrush	norwat	0.1249	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240528_193500.wav	312.0
+3	Spectrogram 1	1	315.0	318.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3758	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240528_193500.wav	315.0
+4	Spectrogram 1	1	2403.0	2406.0	0	12000.0	Great Crested Flycatcher	grcfly	0.3329	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240528_193500.wav	2403.0
+5	Spectrogram 1	1	2406.0	2409.0	0	12000.0	Swainson's Thrush	swathr	0.6505	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240528_193500.wav	2406.0
+6	Spectrogram 1	1	2412.0	2415.0	0	12000.0	Swainson's Thrush	swathr	0.3421	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240528_193500.wav	2412.0
+7	Spectrogram 1	1	2430.0	2433.0	0	12000.0	Swainson's Thrush	swathr	0.6509	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240528_193500.wav	2430.0
+8	Spectrogram 1	1	2436.0	2439.0	0	12000.0	Swainson's Thrush	swathr	0.7787	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240528_193500.wav	2436.0
+9	Spectrogram 1	1	2439.0	2442.0	0	12000.0	Swainson's Thrush	swathr	0.6493	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240528_193500.wav	2439.0
+10	Spectrogram 1	1	2445.0	2448.0	0	12000.0	Swainson's Thrush	swathr	0.5605	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240528_193500.wav	2445.0
+11	Spectrogram 1	1	2448.0	2451.0	0	12000.0	Swainson's Thrush	swathr	0.6383	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240528_193500.wav	2448.0
+12	Spectrogram 1	1	2451.0	2454.0	0	12000.0	Swainson's Thrush	swathr	0.1427	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240528_193500.wav	2451.0
+13	Spectrogram 1	1	2514.0	2517.0	0	12000.0	Swainson's Thrush	swathr	0.1347	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240528_193500.wav	2514.0
+14	Spectrogram 1	1	2517.0	2520.0	0	12000.0	Swainson's Thrush	swathr	0.1377	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240528_193500.wav	2517.0
+15	Spectrogram 1	1	2526.0	2529.0	0	12000.0	Swainson's Thrush	swathr	0.4462	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240528_193500.wav	2526.0
+16	Spectrogram 1	1	2529.0	2532.0	0	12000.0	Swainson's Thrush	swathr	0.1703	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240528_193500.wav	2529.0

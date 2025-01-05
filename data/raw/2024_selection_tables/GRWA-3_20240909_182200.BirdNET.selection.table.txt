@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	57.0	60.0	0	12000.0	American Crow	amecro	0.1022	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240909_182200.wav	57.0
+2	Spectrogram 1	1	60.0	63.0	0	12000.0	American Crow	amecro	0.1295	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240909_182200.wav	60.0
+3	Spectrogram 1	1	2007.0	2010.0	0	12000.0	American Crow	amecro	0.1093	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240909_182200.wav	2007.0

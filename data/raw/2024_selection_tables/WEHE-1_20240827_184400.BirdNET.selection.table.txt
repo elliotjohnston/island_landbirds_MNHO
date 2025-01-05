@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	6.0	9.0	0	12000.0	Common Raven	comrav	0.1503	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240827_184400.wav	6.0
+2	Spectrogram 1	1	21.0	24.0	0	12000.0	Common Raven	comrav	0.8674	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240827_184400.wav	21.0
+3	Spectrogram 1	1	555.0	558.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.1145	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240827_184400.wav	555.0
+4	Spectrogram 1	1	837.0	840.0	0	12000.0	Evening Grosbeak	evegro	0.4415	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240827_184400.wav	837.0
+5	Spectrogram 1	1	987.0	990.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2729	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240827_184400.wav	987.0
+6	Spectrogram 1	1	1239.0	1242.0	0	12000.0	Common Nighthawk	comnig	0.1267	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240827_184400.wav	1239.0
+7	Spectrogram 1	1	1476.0	1479.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2597	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240827_184400.wav	1476.0
+8	Spectrogram 1	1	1497.0	1500.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1337	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240827_184400.wav	1497.0
+9	Spectrogram 1	1	1500.0	1503.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2697	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240827_184400.wav	1500.0
+10	Spectrogram 1	1	1503.0	1506.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3267	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240827_184400.wav	1503.0
+11	Spectrogram 1	1	2607.0	2610.0	0	12000.0	Downy Woodpecker	dowwoo	0.1457	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240827_184400.wav	2607.0

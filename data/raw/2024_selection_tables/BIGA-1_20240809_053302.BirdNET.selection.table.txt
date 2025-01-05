@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	747.0	750.0	0	12000.0	Palm Warbler	palwar	0.3075	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_053302.wav	747.0
+2	Spectrogram 1	1	1326.0	1329.0	0	12000.0	Brown Creeper	brncre	0.1223	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_053302.wav	1326.0
+3	Spectrogram 1	1	1332.0	1335.0	0	12000.0	Cedar Waxwing	cedwax	0.1629	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_053302.wav	1332.0
+4	Spectrogram 1	1	1338.0	1341.0	0	12000.0	Cedar Waxwing	cedwax	0.3342	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_053302.wav	1338.0
+5	Spectrogram 1	1	1341.0	1344.0	0	12000.0	Cedar Waxwing	cedwax	0.3599	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_053302.wav	1341.0
+6	Spectrogram 1	1	1347.0	1350.0	0	12000.0	Cedar Waxwing	cedwax	0.9121	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_053302.wav	1347.0
+7	Spectrogram 1	1	1350.0	1353.0	0	12000.0	Cedar Waxwing	cedwax	0.3331	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_053302.wav	1350.0
+8	Spectrogram 1	1	1602.0	1605.0	0	12000.0	American Crow	amecro	0.1317	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_053302.wav	1602.0
+9	Spectrogram 1	1	1674.0	1677.0	0	12000.0	Brown Creeper	brncre	0.1562	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_053302.wav	1674.0
+10	Spectrogram 1	1	2553.0	2556.0	0	12000.0	American Crow	amecro	0.1761	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_053302.wav	2553.0
+11	Spectrogram 1	1	2559.0	2562.0	0	12000.0	American Crow	amecro	0.1310	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_053302.wav	2559.0
+12	Spectrogram 1	1	2718.0	2721.0	0	12000.0	Brown Creeper	brncre	0.1421	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_053302.wav	2718.0
+13	Spectrogram 1	1	2931.0	2934.0	0	12000.0	Cedar Waxwing	cedwax	0.4052	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_053302.wav	2931.0
+14	Spectrogram 1	1	2937.0	2940.0	0	12000.0	Cedar Waxwing	cedwax	0.8823	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_053302.wav	2937.0
+15	Spectrogram 1	1	2991.0	2994.0	0	12000.0	Cedar Waxwing	cedwax	0.8323	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_053302.wav	2991.0
+16	Spectrogram 1	1	3000.0	3003.0	0	12000.0	Cedar Waxwing	cedwax	0.5914	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_053302.wav	3000.0
+17	Spectrogram 1	1	3024.0	3027.0	0	12000.0	Cedar Waxwing	cedwax	0.6498	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_053302.wav	3024.0
+18	Spectrogram 1	1	3036.0	3039.0	0	12000.0	Cedar Waxwing	cedwax	0.8729	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_053302.wav	3036.0
+19	Spectrogram 1	1	3039.0	3042.0	0	12000.0	Cedar Waxwing	cedwax	0.1174	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_053302.wav	3039.0
+20	Spectrogram 1	1	3114.0	3117.0	0	12000.0	Cedar Waxwing	cedwax	0.4604	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_053302.wav	3114.0
+21	Spectrogram 1	1	3270.0	3273.0	0	12000.0	Cedar Waxwing	cedwax	0.1519	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_053302.wav	3270.0
+22	Spectrogram 1	1	3279.0	3282.0	0	12000.0	Cedar Waxwing	cedwax	0.1041	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_053302.wav	3279.0
+23	Spectrogram 1	1	3285.0	3288.0	0	12000.0	Cedar Waxwing	cedwax	0.1603	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_053302.wav	3285.0
+24	Spectrogram 1	1	3288.0	3291.0	0	12000.0	Cedar Waxwing	cedwax	0.6953	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240809_053302.wav	3288.0

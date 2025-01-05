@@ -1,0 +1,39 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	66.0	69.0	0	12000.0	Cape May Warbler	camwar	0.2646	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	66.0
+2	Spectrogram 1	1	66.0	69.0	0	12000.0	Brown Creeper	brncre	0.1282	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	66.0
+3	Spectrogram 1	1	66.0	69.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1210	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	66.0
+4	Spectrogram 1	1	105.0	108.0	0	12000.0	Brown Creeper	brncre	0.4015	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	105.0
+5	Spectrogram 1	1	105.0	108.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2703	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	105.0
+6	Spectrogram 1	1	108.0	111.0	0	12000.0	Cape May Warbler	camwar	0.3188	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	108.0
+7	Spectrogram 1	1	108.0	111.0	0	12000.0	Brown Creeper	brncre	0.1113	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	108.0
+8	Spectrogram 1	1	108.0	111.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1025	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	108.0
+9	Spectrogram 1	1	114.0	117.0	0	12000.0	Cape May Warbler	camwar	0.1446	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	114.0
+10	Spectrogram 1	1	114.0	117.0	0	12000.0	Brown Creeper	brncre	0.1125	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	114.0
+11	Spectrogram 1	1	114.0	117.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1061	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	114.0
+12	Spectrogram 1	1	117.0	120.0	0	12000.0	Brown Creeper	brncre	0.3016	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	117.0
+13	Spectrogram 1	1	189.0	192.0	0	12000.0	Brown Creeper	brncre	0.4524	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	189.0
+14	Spectrogram 1	1	189.0	192.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1695	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	189.0
+15	Spectrogram 1	1	198.0	201.0	0	12000.0	Brown Creeper	brncre	0.1796	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	198.0
+16	Spectrogram 1	1	222.0	225.0	0	12000.0	Brown Creeper	brncre	0.1086	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	222.0
+17	Spectrogram 1	1	237.0	240.0	0	12000.0	Brown Creeper	brncre	0.9108	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	237.0
+18	Spectrogram 1	1	267.0	270.0	0	12000.0	Cape May Warbler	camwar	0.2907	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	267.0
+19	Spectrogram 1	1	267.0	270.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1619	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	267.0
+20	Spectrogram 1	1	267.0	270.0	0	12000.0	Brown Creeper	brncre	0.1603	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	267.0
+21	Spectrogram 1	1	321.0	324.0	0	12000.0	Pine Siskin	pinsis	0.2552	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	321.0
+22	Spectrogram 1	1	390.0	393.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1297	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	390.0
+23	Spectrogram 1	1	432.0	435.0	0	12000.0	Blue Jay	blujay	0.1356	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	432.0
+24	Spectrogram 1	1	435.0	438.0	0	12000.0	Blue Jay	blujay	0.1296	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	435.0
+25	Spectrogram 1	1	798.0	801.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4641	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	798.0
+26	Spectrogram 1	1	894.0	897.0	0	12000.0	Brown Creeper	brncre	0.1490	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	894.0
+27	Spectrogram 1	1	996.0	999.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4840	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	996.0
+28	Spectrogram 1	1	1095.0	1098.0	0	12000.0	Brown Creeper	brncre	0.1023	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	1095.0
+29	Spectrogram 1	1	1107.0	1110.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9069	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	1107.0
+30	Spectrogram 1	1	1113.0	1116.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1014	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	1113.0
+31	Spectrogram 1	1	1128.0	1131.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1439	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	1128.0
+32	Spectrogram 1	1	1155.0	1158.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2568	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	1155.0
+33	Spectrogram 1	1	1158.0	1161.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1081	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	1158.0
+34	Spectrogram 1	1	1176.0	1179.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3130	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	1176.0
+35	Spectrogram 1	1	1227.0	1230.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2878	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	1227.0
+36	Spectrogram 1	1	1254.0	1257.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1044	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	1254.0
+37	Spectrogram 1	1	1611.0	1614.0	0	12000.0	Black-capped Chickadee	bkcchi	0.1365	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	1611.0
+38	Spectrogram 1	1	1635.0	1638.0	0	12000.0	Cedar Waxwing	cedwax	0.2656	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240912_181400.wav	1635.0

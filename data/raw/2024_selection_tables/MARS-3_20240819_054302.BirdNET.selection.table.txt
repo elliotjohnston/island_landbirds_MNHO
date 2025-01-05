@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1008.0	1011.0	0	12000.0	American Crow	amecro	0.1028	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240819_054302.wav	1008.0
+2	Spectrogram 1	1	1023.0	1026.0	0	12000.0	American Crow	amecro	0.2437	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240819_054302.wav	1023.0
+3	Spectrogram 1	1	1029.0	1032.0	0	12000.0	American Crow	amecro	0.1883	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240819_054302.wav	1029.0
+4	Spectrogram 1	1	1035.0	1038.0	0	12000.0	American Crow	amecro	0.3439	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240819_054302.wav	1035.0
+5	Spectrogram 1	1	1038.0	1041.0	0	12000.0	American Crow	amecro	0.4597	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240819_054302.wav	1038.0
+6	Spectrogram 1	1	1047.0	1050.0	0	12000.0	American Crow	amecro	0.2476	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240819_054302.wav	1047.0
+7	Spectrogram 1	1	1050.0	1053.0	0	12000.0	American Crow	amecro	0.1580	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240819_054302.wav	1050.0
+8	Spectrogram 1	1	1053.0	1056.0	0	12000.0	American Crow	amecro	0.3757	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240819_054302.wav	1053.0
+9	Spectrogram 1	1	1062.0	1065.0	0	12000.0	American Crow	amecro	0.4487	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240819_054302.wav	1062.0
+10	Spectrogram 1	1	1077.0	1080.0	0	12000.0	American Crow	amecro	0.2712	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240819_054302.wav	1077.0
+11	Spectrogram 1	1	1155.0	1158.0	0	12000.0	American Crow	amecro	0.2185	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240819_054302.wav	1155.0
+12	Spectrogram 1	1	2886.0	2889.0	0	12000.0	Northern Waterthrush	norwat	0.1097	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240819_054302.wav	2886.0
+13	Spectrogram 1	1	2889.0	2892.0	0	12000.0	Northern Waterthrush	norwat	0.2339	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240819_054302.wav	2889.0
+14	Spectrogram 1	1	2895.0	2898.0	0	12000.0	Northern Waterthrush	norwat	0.1985	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240819_054302.wav	2895.0
+15	Spectrogram 1	1	2904.0	2907.0	0	12000.0	Northern Waterthrush	norwat	0.2343	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240819_054302.wav	2904.0
+16	Spectrogram 1	1	2907.0	2910.0	0	12000.0	Northern Waterthrush	norwat	0.3221	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240819_054302.wav	2907.0

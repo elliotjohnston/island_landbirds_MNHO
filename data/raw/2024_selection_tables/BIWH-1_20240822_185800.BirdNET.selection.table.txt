@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	273.0	276.0	0	12000.0	American Crow	amecro	0.1504	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240822_185800.wav	273.0
+2	Spectrogram 1	1	1674.0	1677.0	0	12000.0	Dark-eyed Junco	daejun	0.7712	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240822_185800.wav	1674.0
+3	Spectrogram 1	1	1677.0	1680.0	0	12000.0	Dark-eyed Junco	daejun	0.5047	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240822_185800.wav	1677.0
+4	Spectrogram 1	1	1680.0	1683.0	0	12000.0	Dark-eyed Junco	daejun	0.3112	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240822_185800.wav	1680.0
+5	Spectrogram 1	1	1686.0	1689.0	0	12000.0	Dark-eyed Junco	daejun	0.7136	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240822_185800.wav	1686.0
+6	Spectrogram 1	1	1689.0	1692.0	0	12000.0	Dark-eyed Junco	daejun	0.6159	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240822_185800.wav	1689.0
+7	Spectrogram 1	1	1692.0	1695.0	0	12000.0	Dark-eyed Junco	daejun	0.6835	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240822_185800.wav	1692.0
+8	Spectrogram 1	1	1701.0	1704.0	0	12000.0	Dark-eyed Junco	daejun	0.2161	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240822_185800.wav	1701.0
+9	Spectrogram 1	1	1704.0	1707.0	0	12000.0	Dark-eyed Junco	daejun	0.1762	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240822_185800.wav	1704.0

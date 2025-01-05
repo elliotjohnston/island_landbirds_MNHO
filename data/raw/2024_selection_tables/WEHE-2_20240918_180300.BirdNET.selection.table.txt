@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	240.0	243.0	0	12000.0	Blackpoll Warbler	bkpwar	0.1613	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240918_180300.wav	240.0
+2	Spectrogram 1	1	243.0	246.0	0	12000.0	Canada Warbler	canwar	0.1425	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240918_180300.wav	243.0
+3	Spectrogram 1	1	549.0	552.0	0	12000.0	Dark-eyed Junco	daejun	0.1246	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240918_180300.wav	549.0
+4	Spectrogram 1	1	969.0	972.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9230	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240918_180300.wav	969.0
+5	Spectrogram 1	1	990.0	993.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6690	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240918_180300.wav	990.0
+6	Spectrogram 1	1	990.0	993.0	0	12000.0	Brown Creeper	brncre	0.2002	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240918_180300.wav	990.0
+7	Spectrogram 1	1	1002.0	1005.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5935	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240918_180300.wav	1002.0
+8	Spectrogram 1	1	1002.0	1005.0	0	12000.0	Brown Creeper	brncre	0.2681	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240918_180300.wav	1002.0
+9	Spectrogram 1	1	1110.0	1113.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2539	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240918_180300.wav	1110.0
+10	Spectrogram 1	1	1386.0	1389.0	0	12000.0	Black-capped Chickadee	bkcchi	0.1843	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240918_180300.wav	1386.0
+11	Spectrogram 1	1	1692.0	1695.0	0	12000.0	Hairy Woodpecker	haiwoo	0.8001	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240918_180300.wav	1692.0
+12	Spectrogram 1	1	1752.0	1755.0	0	12000.0	Hairy Woodpecker	haiwoo	0.9642	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240918_180300.wav	1752.0
+13	Spectrogram 1	1	1755.0	1758.0	0	12000.0	Hairy Woodpecker	haiwoo	0.9492	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240918_180300.wav	1755.0
+14	Spectrogram 1	1	1758.0	1761.0	0	12000.0	Hairy Woodpecker	haiwoo	0.9796	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240918_180300.wav	1758.0
+15	Spectrogram 1	1	1761.0	1764.0	0	12000.0	Hairy Woodpecker	haiwoo	0.9859	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240918_180300.wav	1761.0
+16	Spectrogram 1	1	1764.0	1767.0	0	12000.0	Hairy Woodpecker	haiwoo	0.9489	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240918_180300.wav	1764.0

@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2772.0	2775.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.1751	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240810_042900.wav	2772.0
+2	Spectrogram 1	1	2811.0	2814.0	0	12000.0	Common Raven	comrav	0.2473	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240810_042900.wav	2811.0
+3	Spectrogram 1	1	2814.0	2817.0	0	12000.0	American Crow	amecro	0.1784	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240810_042900.wav	2814.0
+4	Spectrogram 1	1	2823.0	2826.0	0	12000.0	American Crow	amecro	0.3091	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240810_042900.wav	2823.0
+5	Spectrogram 1	1	2883.0	2886.0	0	12000.0	American Crow	amecro	0.3132	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240810_042900.wav	2883.0
+6	Spectrogram 1	1	2907.0	2910.0	0	12000.0	American Crow	amecro	0.1272	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240810_042900.wav	2907.0
+7	Spectrogram 1	1	2913.0	2916.0	0	12000.0	American Crow	amecro	0.1490	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240810_042900.wav	2913.0
+8	Spectrogram 1	1	3354.0	3357.0	0	12000.0	Brown Creeper	brncre	0.2583	D:/Island_Songbirds_2024/PINK-1/Data\PINK-1_20240810_042900.wav	3354.0

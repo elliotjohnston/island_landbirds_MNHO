@@ -1,0 +1,43 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	321.0	324.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3254	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	321.0
+2	Spectrogram 1	1	324.0	327.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1996	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	324.0
+3	Spectrogram 1	1	459.0	462.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1299	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	459.0
+4	Spectrogram 1	1	1314.0	1317.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1361	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1314.0
+5	Spectrogram 1	1	1317.0	1320.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1999	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1317.0
+6	Spectrogram 1	1	1323.0	1326.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2133	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1323.0
+7	Spectrogram 1	1	1377.0	1380.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1042	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1377.0
+8	Spectrogram 1	1	1458.0	1461.0	0	12000.0	Swainson's Thrush	swathr	0.4215	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1458.0
+9	Spectrogram 1	1	1464.0	1467.0	0	12000.0	Swainson's Thrush	swathr	0.1374	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1464.0
+10	Spectrogram 1	1	1485.0	1488.0	0	12000.0	Swainson's Thrush	swathr	0.1040	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1485.0
+11	Spectrogram 1	1	1491.0	1494.0	0	12000.0	Swainson's Thrush	swathr	0.1286	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1491.0
+12	Spectrogram 1	1	1497.0	1500.0	0	12000.0	Swainson's Thrush	swathr	0.1104	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1497.0
+13	Spectrogram 1	1	1506.0	1509.0	0	12000.0	Swainson's Thrush	swathr	0.1074	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1506.0
+14	Spectrogram 1	1	1521.0	1524.0	0	12000.0	Swainson's Thrush	swathr	0.1754	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1521.0
+15	Spectrogram 1	1	1527.0	1530.0	0	12000.0	Swainson's Thrush	swathr	0.4655	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1527.0
+16	Spectrogram 1	1	1533.0	1536.0	0	12000.0	Swainson's Thrush	swathr	0.2035	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1533.0
+17	Spectrogram 1	1	1569.0	1572.0	0	12000.0	Swainson's Thrush	swathr	0.2248	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1569.0
+18	Spectrogram 1	1	1590.0	1593.0	0	12000.0	Swainson's Thrush	swathr	0.1046	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1590.0
+19	Spectrogram 1	1	1689.0	1692.0	0	12000.0	Brown Creeper	brncre	0.2300	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1689.0
+20	Spectrogram 1	1	1839.0	1842.0	0	12000.0	Brown Creeper	brncre	0.1072	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1839.0
+21	Spectrogram 1	1	1854.0	1857.0	0	12000.0	Brown Creeper	brncre	0.3773	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1854.0
+22	Spectrogram 1	1	1863.0	1866.0	0	12000.0	Brown Creeper	brncre	0.2642	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1863.0
+23	Spectrogram 1	1	1866.0	1869.0	0	12000.0	Brown Creeper	brncre	0.1980	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1866.0
+24	Spectrogram 1	1	1869.0	1872.0	0	12000.0	Brown Creeper	brncre	0.1844	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1869.0
+25	Spectrogram 1	1	1872.0	1875.0	0	12000.0	Brown Creeper	brncre	0.4602	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1872.0
+26	Spectrogram 1	1	1875.0	1878.0	0	12000.0	Brown Creeper	brncre	0.2418	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1875.0
+27	Spectrogram 1	1	1878.0	1881.0	0	12000.0	Brown Creeper	brncre	0.2400	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1878.0
+28	Spectrogram 1	1	1881.0	1884.0	0	12000.0	Brown Creeper	brncre	0.6720	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1881.0
+29	Spectrogram 1	1	1890.0	1893.0	0	12000.0	Brown Creeper	brncre	0.6459	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1890.0
+30	Spectrogram 1	1	1893.0	1896.0	0	12000.0	Brown Creeper	brncre	0.3252	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1893.0
+31	Spectrogram 1	1	1902.0	1905.0	0	12000.0	Brown Creeper	brncre	0.2459	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1902.0
+32	Spectrogram 1	1	1917.0	1920.0	0	12000.0	Brown Creeper	brncre	0.1506	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1917.0
+33	Spectrogram 1	1	1965.0	1968.0	0	12000.0	Brown Creeper	brncre	0.1765	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1965.0
+34	Spectrogram 1	1	1968.0	1971.0	0	12000.0	Brown Creeper	brncre	0.2162	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	1968.0
+35	Spectrogram 1	1	2361.0	2364.0	0	12000.0	Winter Wren	winwre3	0.9384	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	2361.0
+36	Spectrogram 1	1	2364.0	2367.0	0	12000.0	Winter Wren	winwre3	0.8473	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	2364.0
+37	Spectrogram 1	1	2379.0	2382.0	0	12000.0	Winter Wren	winwre3	0.8079	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	2379.0
+38	Spectrogram 1	1	2382.0	2385.0	0	12000.0	Winter Wren	winwre3	0.6109	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	2382.0
+39	Spectrogram 1	1	2382.0	2385.0	0	12000.0	Swainson's Thrush	swathr	0.1483	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	2382.0
+40	Spectrogram 1	1	2385.0	2388.0	0	12000.0	Winter Wren	winwre3	0.9023	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	2385.0
+41	Spectrogram 1	1	2586.0	2589.0	0	12000.0	Swainson's Thrush	swathr	0.1794	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	2586.0
+42	Spectrogram 1	1	2856.0	2859.0	0	12000.0	Swainson's Thrush	swathr	0.1064	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240720_193900.wav	2856.0

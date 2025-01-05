@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1683.0	1686.0	0	12000.0	Common Yellowthroat	comyel	0.1723	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_184500.wav	1683.0
+2	Spectrogram 1	1	1758.0	1761.0	0	12000.0	Wilson's Warbler	wlswar	0.1272	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_184500.wav	1758.0
+3	Spectrogram 1	1	1767.0	1770.0	0	12000.0	Downy Woodpecker	dowwoo	0.1178	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_184500.wav	1767.0
+4	Spectrogram 1	1	1845.0	1848.0	0	12000.0	Wilson's Warbler	wlswar	0.1182	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_184500.wav	1845.0
+5	Spectrogram 1	1	2121.0	2124.0	0	12000.0	Evening Grosbeak	evegro	0.1210	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_184500.wav	2121.0
+6	Spectrogram 1	1	2409.0	2412.0	0	12000.0	Wilson's Warbler	wlswar	0.1462	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_184500.wav	2409.0
+7	Spectrogram 1	1	2463.0	2466.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3230	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_184500.wav	2463.0
+8	Spectrogram 1	1	2466.0	2469.0	0	12000.0	Scarlet Tanager	scatan	0.1777	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240827_184500.wav	2466.0

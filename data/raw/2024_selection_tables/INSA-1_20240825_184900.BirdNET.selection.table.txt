@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	6.0	9.0	0	12000.0	Cedar Waxwing	cedwax	0.8032	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240825_184900.wav	6.0
+2	Spectrogram 1	1	2289.0	2292.0	0	12000.0	Yellow-billed Cuckoo	yebcuc	0.1539	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240825_184900.wav	2289.0
+3	Spectrogram 1	1	2352.0	2355.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1163	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240825_184900.wav	2352.0
+4	Spectrogram 1	1	2592.0	2595.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1234	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240825_184900.wav	2592.0
+5	Spectrogram 1	1	2916.0	2919.0	0	12000.0	Hermit Thrush	herthr	0.6283	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240825_184900.wav	2916.0
+6	Spectrogram 1	1	2919.0	2922.0	0	12000.0	Hermit Thrush	herthr	0.2003	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240825_184900.wav	2919.0
+7	Spectrogram 1	1	2922.0	2925.0	0	12000.0	Hermit Thrush	herthr	0.2816	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240825_184900.wav	2922.0
+8	Spectrogram 1	1	2925.0	2928.0	0	12000.0	Hermit Thrush	herthr	0.7846	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240825_184900.wav	2925.0
+9	Spectrogram 1	1	2928.0	2931.0	0	12000.0	Hermit Thrush	herthr	0.8320	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240825_184900.wav	2928.0
+10	Spectrogram 1	1	2940.0	2943.0	0	12000.0	Hermit Thrush	herthr	0.5403	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240825_184900.wav	2940.0
+11	Spectrogram 1	1	2943.0	2946.0	0	12000.0	Hermit Thrush	herthr	0.5612	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240825_184900.wav	2943.0
+12	Spectrogram 1	1	2946.0	2949.0	0	12000.0	Hermit Thrush	herthr	0.3572	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240825_184900.wav	2946.0

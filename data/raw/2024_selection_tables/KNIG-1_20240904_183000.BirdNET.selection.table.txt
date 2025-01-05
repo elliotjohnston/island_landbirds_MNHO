@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	354.0	357.0	0	12000.0	American Crow	amecro	0.1061	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240904_183000.wav	354.0
+2	Spectrogram 1	1	753.0	756.0	0	12000.0	American Crow	amecro	0.4461	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240904_183000.wav	753.0
+3	Spectrogram 1	1	756.0	759.0	0	12000.0	American Crow	amecro	0.7258	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240904_183000.wav	756.0
+4	Spectrogram 1	1	759.0	762.0	0	12000.0	American Crow	amecro	0.3351	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240904_183000.wav	759.0
+5	Spectrogram 1	1	762.0	765.0	0	12000.0	American Crow	amecro	0.8384	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240904_183000.wav	762.0
+6	Spectrogram 1	1	765.0	768.0	0	12000.0	American Crow	amecro	0.4093	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240904_183000.wav	765.0
+7	Spectrogram 1	1	846.0	849.0	0	12000.0	American Crow	amecro	0.6704	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240904_183000.wav	846.0
+8	Spectrogram 1	1	846.0	849.0	0	12000.0	Common Raven	comrav	0.1267	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240904_183000.wav	846.0
+9	Spectrogram 1	1	849.0	852.0	0	12000.0	Common Raven	comrav	0.1210	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240904_183000.wav	849.0
+10	Spectrogram 1	1	873.0	876.0	0	12000.0	American Crow	amecro	0.6959	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240904_183000.wav	873.0
+11	Spectrogram 1	1	918.0	921.0	0	12000.0	American Crow	amecro	0.1310	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240904_183000.wav	918.0
+12	Spectrogram 1	1	921.0	924.0	0	12000.0	American Crow	amecro	0.2974	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240904_183000.wav	921.0
+13	Spectrogram 1	1	924.0	927.0	0	12000.0	American Crow	amecro	0.2554	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240904_183000.wav	924.0
+14	Spectrogram 1	1	1251.0	1254.0	0	12000.0	Common Raven	comrav	0.4249	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240904_183000.wav	1251.0
+15	Spectrogram 1	1	1899.0	1902.0	0	12000.0	Dark-eyed Junco	daejun	0.3793	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240904_183000.wav	1899.0
+16	Spectrogram 1	1	2061.0	2064.0	0	12000.0	Common Raven	comrav	0.1133	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240904_183000.wav	2061.0
+17	Spectrogram 1	1	2901.0	2904.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1618	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240904_183000.wav	2901.0

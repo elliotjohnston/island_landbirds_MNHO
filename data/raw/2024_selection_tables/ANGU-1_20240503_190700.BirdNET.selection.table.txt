@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1191.0	1194.0	0	12000.0	Common Raven	comrav	0.1008	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240503_190700.wav	1191.0

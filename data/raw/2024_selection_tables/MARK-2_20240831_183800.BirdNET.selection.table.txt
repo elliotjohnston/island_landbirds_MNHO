@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	45.0	48.0	0	12000.0	Cedar Waxwing	cedwax	0.1009	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240831_183800.wav	45.0
+2	Spectrogram 1	1	318.0	321.0	0	12000.0	Cedar Waxwing	cedwax	0.2112	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240831_183800.wav	318.0
+3	Spectrogram 1	1	336.0	339.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1375	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240831_183800.wav	336.0
+4	Spectrogram 1	1	339.0	342.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1495	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240831_183800.wav	339.0
+5	Spectrogram 1	1	465.0	468.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1323	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240831_183800.wav	465.0
+6	Spectrogram 1	1	495.0	498.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1568	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240831_183800.wav	495.0
+7	Spectrogram 1	1	684.0	687.0	0	12000.0	Cedar Waxwing	cedwax	0.1483	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240831_183800.wav	684.0
+8	Spectrogram 1	1	699.0	702.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1509	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240831_183800.wav	699.0
+9	Spectrogram 1	1	762.0	765.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2428	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240831_183800.wav	762.0
+10	Spectrogram 1	1	909.0	912.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1053	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240831_183800.wav	909.0
+11	Spectrogram 1	1	978.0	981.0	0	12000.0	Cedar Waxwing	cedwax	0.3635	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240831_183800.wav	978.0
+12	Spectrogram 1	1	1107.0	1110.0	0	12000.0	Cedar Waxwing	cedwax	0.2251	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240831_183800.wav	1107.0
+13	Spectrogram 1	1	1119.0	1122.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1665	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240831_183800.wav	1119.0
+14	Spectrogram 1	1	2241.0	2244.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1576	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240831_183800.wav	2241.0
+15	Spectrogram 1	1	2310.0	2313.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4079	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240831_183800.wav	2310.0
+16	Spectrogram 1	1	2835.0	2838.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1897	D:/Island_Songbirds_2024/MARK-2/Data\MARK-2_20240831_183800.wav	2835.0

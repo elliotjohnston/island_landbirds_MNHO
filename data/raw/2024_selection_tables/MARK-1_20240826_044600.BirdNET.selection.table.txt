@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2163.0	2166.0	0	12000.0	White-throated Sparrow	whtspa	0.1501	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240826_044600.wav	2163.0
+2	Spectrogram 1	1	2184.0	2187.0	0	12000.0	White-throated Sparrow	whtspa	0.2347	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240826_044600.wav	2184.0
+3	Spectrogram 1	1	2568.0	2571.0	0	12000.0	White-throated Sparrow	whtspa	0.1897	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240826_044600.wav	2568.0
+4	Spectrogram 1	1	2802.0	2805.0	0	12000.0	Common Raven	comrav	0.3039	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240826_044600.wav	2802.0
+5	Spectrogram 1	1	2805.0	2808.0	0	12000.0	Common Raven	comrav	0.8768	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240826_044600.wav	2805.0
+6	Spectrogram 1	1	2808.0	2811.0	0	12000.0	Common Raven	comrav	0.3819	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240826_044600.wav	2808.0
+7	Spectrogram 1	1	2814.0	2817.0	0	12000.0	Common Raven	comrav	0.8721	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240826_044600.wav	2814.0
+8	Spectrogram 1	1	2820.0	2823.0	0	12000.0	Common Raven	comrav	0.6158	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240826_044600.wav	2820.0
+9	Spectrogram 1	1	2829.0	2832.0	0	12000.0	Common Raven	comrav	0.3578	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240826_044600.wav	2829.0
+10	Spectrogram 1	1	2832.0	2835.0	0	12000.0	Common Raven	comrav	0.2615	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240826_044600.wav	2832.0
+11	Spectrogram 1	1	2838.0	2841.0	0	12000.0	Common Raven	comrav	0.8569	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240826_044600.wav	2838.0
+12	Spectrogram 1	1	2958.0	2961.0	0	12000.0	Common Raven	comrav	0.5577	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240826_044600.wav	2958.0
+13	Spectrogram 1	1	2964.0	2967.0	0	12000.0	Common Raven	comrav	0.9124	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240826_044600.wav	2964.0
+14	Spectrogram 1	1	2988.0	2991.0	0	12000.0	Common Raven	comrav	0.5604	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240826_044600.wav	2988.0
+15	Spectrogram 1	1	2991.0	2994.0	0	12000.0	Common Raven	comrav	0.9623	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240826_044600.wav	2991.0
+16	Spectrogram 1	1	2994.0	2997.0	0	12000.0	Common Raven	comrav	0.7078	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240826_044600.wav	2994.0
+17	Spectrogram 1	1	3000.0	3003.0	0	12000.0	Common Raven	comrav	0.6864	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240826_044600.wav	3000.0
+18	Spectrogram 1	1	3003.0	3006.0	0	12000.0	Common Raven	comrav	0.3791	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240826_044600.wav	3003.0
+19	Spectrogram 1	1	3006.0	3009.0	0	12000.0	Common Raven	comrav	0.1815	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240826_044600.wav	3006.0
+20	Spectrogram 1	1	3009.0	3012.0	0	12000.0	Common Raven	comrav	0.2790	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240826_044600.wav	3009.0
+21	Spectrogram 1	1	3258.0	3261.0	0	12000.0	Brown Creeper	brncre	0.4158	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240826_044600.wav	3258.0
+22	Spectrogram 1	1	3279.0	3282.0	0	12000.0	Brown Creeper	brncre	0.1105	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240826_044600.wav	3279.0
+23	Spectrogram 1	1	3318.0	3321.0	0	12000.0	Common Raven	comrav	0.1314	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240826_044600.wav	3318.0
+24	Spectrogram 1	1	3393.0	3396.0	0	12000.0	Brown Creeper	brncre	0.1044	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240826_044600.wav	3393.0
+25	Spectrogram 1	1	3396.0	3399.0	0	12000.0	Brown Creeper	brncre	0.2947	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240826_044600.wav	3396.0

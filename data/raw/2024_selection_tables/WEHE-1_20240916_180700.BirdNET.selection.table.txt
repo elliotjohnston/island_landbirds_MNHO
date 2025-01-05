@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	531.0	534.0	0	12000.0	Brown Creeper	brncre	0.3429	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240916_180700.wav	531.0
+2	Spectrogram 1	1	882.0	885.0	0	12000.0	Downy Woodpecker	dowwoo	0.2866	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240916_180700.wav	882.0
+3	Spectrogram 1	1	1113.0	1116.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1063	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240916_180700.wav	1113.0
+4	Spectrogram 1	1	1164.0	1167.0	0	12000.0	Canada Warbler	canwar	0.7649	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240916_180700.wav	1164.0
+5	Spectrogram 1	1	1170.0	1173.0	0	12000.0	Canada Warbler	canwar	0.3693	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240916_180700.wav	1170.0
+6	Spectrogram 1	1	1173.0	1176.0	0	12000.0	Wilson's Warbler	wlswar	0.1850	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240916_180700.wav	1173.0
+7	Spectrogram 1	1	1176.0	1179.0	0	12000.0	Palm Warbler	palwar	0.3551	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240916_180700.wav	1176.0
+8	Spectrogram 1	1	1179.0	1182.0	0	12000.0	Palm Warbler	palwar	0.1874	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240916_180700.wav	1179.0
+9	Spectrogram 1	1	1182.0	1185.0	0	12000.0	Wilson's Warbler	wlswar	0.3081	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240916_180700.wav	1182.0
+10	Spectrogram 1	1	1182.0	1185.0	0	12000.0	Canada Warbler	canwar	0.2275	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240916_180700.wav	1182.0
+11	Spectrogram 1	1	1188.0	1191.0	0	12000.0	Wilson's Warbler	wlswar	0.1280	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240916_180700.wav	1188.0
+12	Spectrogram 1	1	1197.0	1200.0	0	12000.0	Palm Warbler	palwar	0.2961	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240916_180700.wav	1197.0
+13	Spectrogram 1	1	1218.0	1221.0	0	12000.0	Wilson's Warbler	wlswar	0.1941	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240916_180700.wav	1218.0
+14	Spectrogram 1	1	1263.0	1266.0	0	12000.0	Canada Warbler	canwar	0.1172	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240916_180700.wav	1263.0
+15	Spectrogram 1	1	1269.0	1272.0	0	12000.0	Canada Warbler	canwar	0.5449	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240916_180700.wav	1269.0
+16	Spectrogram 1	1	1362.0	1365.0	0	12000.0	Palm Warbler	palwar	0.5708	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240916_180700.wav	1362.0
+17	Spectrogram 1	1	1368.0	1371.0	0	12000.0	Palm Warbler	palwar	0.7231	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240916_180700.wav	1368.0
+18	Spectrogram 1	1	1371.0	1374.0	0	12000.0	Palm Warbler	palwar	0.3758	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240916_180700.wav	1371.0
+19	Spectrogram 1	1	1452.0	1455.0	0	12000.0	Nashville Warbler	naswar	0.1169	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240916_180700.wav	1452.0
+20	Spectrogram 1	1	1626.0	1629.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3173	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240916_180700.wav	1626.0

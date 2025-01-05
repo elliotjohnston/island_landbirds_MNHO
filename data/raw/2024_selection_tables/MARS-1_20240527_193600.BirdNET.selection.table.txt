@@ -1,0 +1,36 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	3.0	6.0	0	12000.0	Hermit Thrush	herthr	0.1686	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	3.0
+2	Spectrogram 1	1	15.0	18.0	0	12000.0	Hermit Thrush	herthr	0.6117	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	15.0
+3	Spectrogram 1	1	24.0	27.0	0	12000.0	Hermit Thrush	herthr	0.3166	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	24.0
+4	Spectrogram 1	1	39.0	42.0	0	12000.0	Hermit Thrush	herthr	0.1274	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	39.0
+5	Spectrogram 1	1	84.0	87.0	0	12000.0	Hermit Thrush	herthr	0.2482	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	84.0
+6	Spectrogram 1	1	93.0	96.0	0	12000.0	Hermit Thrush	herthr	0.3787	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	93.0
+7	Spectrogram 1	1	108.0	111.0	0	12000.0	Black-and-white Warbler	bawwar	0.7555	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	108.0
+8	Spectrogram 1	1	108.0	111.0	0	12000.0	Cape May Warbler	camwar	0.1139	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	108.0
+9	Spectrogram 1	1	123.0	126.0	0	12000.0	Hermit Thrush	herthr	0.2427	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	123.0
+10	Spectrogram 1	1	144.0	147.0	0	12000.0	Hermit Thrush	herthr	0.5999	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	144.0
+11	Spectrogram 1	1	150.0	153.0	0	12000.0	Hermit Thrush	herthr	0.3095	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	150.0
+12	Spectrogram 1	1	165.0	168.0	0	12000.0	Hermit Thrush	herthr	0.2107	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	165.0
+13	Spectrogram 1	1	243.0	246.0	0	12000.0	Hermit Thrush	herthr	0.1074	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	243.0
+14	Spectrogram 1	1	702.0	705.0	0	12000.0	Common Nighthawk	comnig	0.1519	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	702.0
+15	Spectrogram 1	1	708.0	711.0	0	12000.0	Common Nighthawk	comnig	0.1107	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	708.0
+16	Spectrogram 1	1	711.0	714.0	0	12000.0	Common Nighthawk	comnig	0.9698	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	711.0
+17	Spectrogram 1	1	1143.0	1146.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4775	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	1143.0
+18	Spectrogram 1	1	1149.0	1152.0	0	12000.0	Hermit Thrush	herthr	0.4662	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	1149.0
+19	Spectrogram 1	1	1152.0	1155.0	0	12000.0	Hermit Thrush	herthr	0.6951	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	1152.0
+20	Spectrogram 1	1	1155.0	1158.0	0	12000.0	Hermit Thrush	herthr	0.5392	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	1155.0
+21	Spectrogram 1	1	1158.0	1161.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1911	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	1158.0
+22	Spectrogram 1	1	1161.0	1164.0	0	12000.0	Hermit Thrush	herthr	0.6956	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	1161.0
+23	Spectrogram 1	1	1164.0	1167.0	0	12000.0	Hermit Thrush	herthr	0.7753	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	1164.0
+24	Spectrogram 1	1	1170.0	1173.0	0	12000.0	Hermit Thrush	herthr	0.2126	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	1170.0
+25	Spectrogram 1	1	1173.0	1176.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2823	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	1173.0
+26	Spectrogram 1	1	1173.0	1176.0	0	12000.0	Dark-eyed Junco	daejun	0.1753	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	1173.0
+27	Spectrogram 1	1	1191.0	1194.0	0	12000.0	Hermit Thrush	herthr	0.1510	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	1191.0
+28	Spectrogram 1	1	1224.0	1227.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1946	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	1224.0
+29	Spectrogram 1	1	1227.0	1230.0	0	12000.0	Hermit Thrush	herthr	0.2531	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	1227.0
+30	Spectrogram 1	1	1239.0	1242.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2906	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	1239.0
+31	Spectrogram 1	1	1251.0	1254.0	0	12000.0	Chestnut-sided Warbler	chswar	0.1487	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	1251.0
+32	Spectrogram 1	1	1254.0	1257.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3993	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	1254.0
+33	Spectrogram 1	1	1254.0	1257.0	0	12000.0	Dark-eyed Junco	daejun	0.1376	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	1254.0
+34	Spectrogram 1	1	1272.0	1275.0	0	12000.0	Hermit Thrush	herthr	0.8110	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	1272.0
+35	Spectrogram 1	1	1293.0	1296.0	0	12000.0	Hermit Thrush	herthr	0.3050	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240527_193600.wav	1293.0

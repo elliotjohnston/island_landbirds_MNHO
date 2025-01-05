@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1593.0	1596.0	0	12000.0	Scarlet Tanager	scatan	0.1656	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240809_043300.wav	1593.0
+2	Spectrogram 1	1	2121.0	2124.0	0	12000.0	Hermit Thrush	herthr	0.1597	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240809_043300.wav	2121.0
+3	Spectrogram 1	1	2124.0	2127.0	0	12000.0	Hermit Thrush	herthr	0.5543	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240809_043300.wav	2124.0
+4	Spectrogram 1	1	2127.0	2130.0	0	12000.0	Hermit Thrush	herthr	0.2438	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240809_043300.wav	2127.0
+5	Spectrogram 1	1	2130.0	2133.0	0	12000.0	Hermit Thrush	herthr	0.6537	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240809_043300.wav	2130.0
+6	Spectrogram 1	1	2145.0	2148.0	0	12000.0	Hermit Thrush	herthr	0.3728	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240809_043300.wav	2145.0
+7	Spectrogram 1	1	2157.0	2160.0	0	12000.0	Hermit Thrush	herthr	0.1311	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240809_043300.wav	2157.0
+8	Spectrogram 1	1	3132.0	3135.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5511	D:/Island_Songbirds_2024/PENO-2/Data\PENO-2_20240809_043300.wav	3132.0

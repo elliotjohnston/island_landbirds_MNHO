@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	300.0	303.0	0	12000.0	Eastern Bluebird	easblu	0.6085	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240822_185400.wav	300.0
+2	Spectrogram 1	1	357.0	360.0	0	12000.0	Eastern Bluebird	easblu	0.1654	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240822_185400.wav	357.0
+3	Spectrogram 1	1	462.0	465.0	0	12000.0	Cedar Waxwing	cedwax	0.2194	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240822_185400.wav	462.0
+4	Spectrogram 1	1	468.0	471.0	0	12000.0	Cedar Waxwing	cedwax	0.2742	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240822_185400.wav	468.0
+5	Spectrogram 1	1	471.0	474.0	0	12000.0	Cedar Waxwing	cedwax	0.7891	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240822_185400.wav	471.0
+6	Spectrogram 1	1	474.0	477.0	0	12000.0	Cedar Waxwing	cedwax	0.6876	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240822_185400.wav	474.0
+7	Spectrogram 1	1	1188.0	1191.0	0	12000.0	Savannah Sparrow	savspa	0.1013	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240822_185400.wav	1188.0
+8	Spectrogram 1	1	1620.0	1623.0	0	12000.0	Evening Grosbeak	evegro	0.1262	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240822_185400.wav	1620.0
+9	Spectrogram 1	1	2133.0	2136.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1466	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240822_185400.wav	2133.0
+10	Spectrogram 1	1	2757.0	2760.0	0	12000.0	Evening Grosbeak	evegro	0.1602	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240822_185400.wav	2757.0
+11	Spectrogram 1	1	2760.0	2763.0	0	12000.0	Evening Grosbeak	evegro	0.6668	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240822_185400.wav	2760.0
+12	Spectrogram 1	1	2931.0	2934.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.1002	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240822_185400.wav	2931.0

@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	39.0	42.0	0	12000.0	Ovenbird	ovenbi1	0.4516	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240623_195200.wav	39.0
+2	Spectrogram 1	1	579.0	582.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3182	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240623_195200.wav	579.0
+3	Spectrogram 1	1	630.0	633.0	0	12000.0	Ovenbird	ovenbi1	0.3558	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240623_195200.wav	630.0
+4	Spectrogram 1	1	834.0	837.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1126	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240623_195200.wav	834.0
+5	Spectrogram 1	1	1017.0	1020.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2492	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240623_195200.wav	1017.0
+6	Spectrogram 1	1	1068.0	1071.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3117	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240623_195200.wav	1068.0
+7	Spectrogram 1	1	1071.0	1074.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6110	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240623_195200.wav	1071.0
+8	Spectrogram 1	1	1128.0	1131.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9230	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240623_195200.wav	1128.0
+9	Spectrogram 1	1	1152.0	1155.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9075	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240623_195200.wav	1152.0
+10	Spectrogram 1	1	1176.0	1179.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3426	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240623_195200.wav	1176.0
+11	Spectrogram 1	1	1188.0	1191.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9819	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240623_195200.wav	1188.0
+12	Spectrogram 1	1	1191.0	1194.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7051	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240623_195200.wav	1191.0
+13	Spectrogram 1	1	1209.0	1212.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7980	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240623_195200.wav	1209.0
+14	Spectrogram 1	1	1221.0	1224.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8977	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240623_195200.wav	1221.0
+15	Spectrogram 1	1	1233.0	1236.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1554	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240623_195200.wav	1233.0
+16	Spectrogram 1	1	1233.0	1236.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.1435	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240623_195200.wav	1233.0
+17	Spectrogram 1	1	1236.0	1239.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5372	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240623_195200.wav	1236.0
+18	Spectrogram 1	1	1299.0	1302.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7004	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240623_195200.wav	1299.0
+19	Spectrogram 1	1	1317.0	1320.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8035	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240623_195200.wav	1317.0
+20	Spectrogram 1	1	1323.0	1326.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1454	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240623_195200.wav	1323.0
+21	Spectrogram 1	1	1362.0	1365.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8526	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240623_195200.wav	1362.0
+22	Spectrogram 1	1	1380.0	1383.0	0	12000.0	White-throated Sparrow	whtspa	0.1094	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240623_195200.wav	1380.0
+23	Spectrogram 1	1	1383.0	1386.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9161	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240623_195200.wav	1383.0
+24	Spectrogram 1	1	1587.0	1590.0	0	12000.0	Ovenbird	ovenbi1	0.1421	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240623_195200.wav	1587.0
+25	Spectrogram 1	1	2586.0	2589.0	0	12000.0	Hermit Thrush	herthr	0.6511	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240623_195200.wav	2586.0

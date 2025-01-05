@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	30.0	33.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1556	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240706_194800.wav	30.0
+2	Spectrogram 1	1	42.0	45.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1465	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240706_194800.wav	42.0
+3	Spectrogram 1	1	297.0	300.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1685	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240706_194800.wav	297.0
+4	Spectrogram 1	1	309.0	312.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1650	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240706_194800.wav	309.0
+5	Spectrogram 1	1	312.0	315.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1933	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240706_194800.wav	312.0
+6	Spectrogram 1	1	1281.0	1284.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2123	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240706_194800.wav	1281.0
+7	Spectrogram 1	1	1320.0	1323.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1791	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240706_194800.wav	1320.0
+8	Spectrogram 1	1	1617.0	1620.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1540	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240706_194800.wav	1617.0
+9	Spectrogram 1	1	1680.0	1683.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1225	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240706_194800.wav	1680.0
+10	Spectrogram 1	1	1710.0	1713.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1254	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240706_194800.wav	1710.0
+11	Spectrogram 1	1	1740.0	1743.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1549	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240706_194800.wav	1740.0
+12	Spectrogram 1	1	1794.0	1797.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1384	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240706_194800.wav	1794.0
+13	Spectrogram 1	1	1833.0	1836.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1477	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240706_194800.wav	1833.0

@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	96.0	99.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5151	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240725_193600.wav	96.0
+2	Spectrogram 1	1	777.0	780.0	0	12000.0	Cedar Waxwing	cedwax	0.1431	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240725_193600.wav	777.0
+3	Spectrogram 1	1	786.0	789.0	0	12000.0	Cedar Waxwing	cedwax	0.1107	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240725_193600.wav	786.0
+4	Spectrogram 1	1	1302.0	1305.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1102	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240725_193600.wav	1302.0
+5	Spectrogram 1	1	2718.0	2721.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.3741	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240725_193600.wav	2718.0
+6	Spectrogram 1	1	2811.0	2814.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1740	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240725_193600.wav	2811.0
+7	Spectrogram 1	1	3135.0	3138.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.2256	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240725_193600.wav	3135.0
+8	Spectrogram 1	1	3171.0	3174.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.2729	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240725_193600.wav	3171.0
+9	Spectrogram 1	1	3213.0	3216.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.2134	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240725_193600.wav	3213.0
+10	Spectrogram 1	1	3243.0	3246.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.2761	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240725_193600.wav	3243.0
+11	Spectrogram 1	1	3243.0	3246.0	0	12000.0	Swainson's Thrush	swathr	0.2136	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240725_193600.wav	3243.0
+12	Spectrogram 1	1	3297.0	3300.0	0	12000.0	Swainson's Thrush	swathr	0.1289	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240725_193600.wav	3297.0
+13	Spectrogram 1	1	3312.0	3315.0	0	12000.0	Swainson's Thrush	swathr	0.3110	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240725_193600.wav	3312.0
+14	Spectrogram 1	1	3327.0	3330.0	0	12000.0	Swainson's Thrush	swathr	0.3116	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240725_193600.wav	3327.0
+15	Spectrogram 1	1	3330.0	3333.0	0	12000.0	Swainson's Thrush	swathr	0.1981	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240725_193600.wav	3330.0
+16	Spectrogram 1	1	3333.0	3336.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1308	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240725_193600.wav	3333.0

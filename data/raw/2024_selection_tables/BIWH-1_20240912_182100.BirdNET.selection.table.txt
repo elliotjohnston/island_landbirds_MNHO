@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	378.0	381.0	0	12000.0	Pileated Woodpecker	pilwoo	0.1502	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240912_182100.wav	378.0
+2	Spectrogram 1	1	891.0	894.0	0	12000.0	American Crow	amecro	0.4144	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240912_182100.wav	891.0
+3	Spectrogram 1	1	894.0	897.0	0	12000.0	American Crow	amecro	0.4349	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240912_182100.wav	894.0
+4	Spectrogram 1	1	2772.0	2775.0	0	12000.0	Pileated Woodpecker	pilwoo	0.1192	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240912_182100.wav	2772.0
+5	Spectrogram 1	1	2808.0	2811.0	0	12000.0	Pileated Woodpecker	pilwoo	0.1173	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240912_182100.wav	2808.0
+6	Spectrogram 1	1	3021.0	3024.0	0	12000.0	Pileated Woodpecker	pilwoo	0.1658	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240912_182100.wav	3021.0
+7	Spectrogram 1	1	3090.0	3093.0	0	12000.0	Pileated Woodpecker	pilwoo	0.2386	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240912_182100.wav	3090.0
+8	Spectrogram 1	1	3204.0	3207.0	0	12000.0	Pileated Woodpecker	pilwoo	0.1322	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240912_182100.wav	3204.0
+9	Spectrogram 1	1	3258.0	3261.0	0	12000.0	Pileated Woodpecker	pilwoo	0.1220	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240912_182100.wav	3258.0
+10	Spectrogram 1	1	3372.0	3375.0	0	12000.0	Pileated Woodpecker	pilwoo	0.3055	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240912_182100.wav	3372.0

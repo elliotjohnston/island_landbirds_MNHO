@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1149.0	1152.0	0	12000.0	Evening Grosbeak	evegro	0.1980	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240818_043700.wav	1149.0
+2	Spectrogram 1	1	3183.0	3186.0	0	12000.0	Yellow-bellied Sapsucker	yebsap	0.2110	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240818_043700.wav	3183.0
+3	Spectrogram 1	1	3549.0	3552.0	0	12000.0	Dark-eyed Junco	daejun	0.2648	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240818_043700.wav	3549.0
+4	Spectrogram 1	1	3552.0	3555.0	0	12000.0	Dark-eyed Junco	daejun	0.1946	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240818_043700.wav	3552.0
+5	Spectrogram 1	1	3579.0	3582.0	0	12000.0	Dark-eyed Junco	daejun	0.2208	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240818_043700.wav	3579.0

@@ -1,0 +1,83 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	18.0	21.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2935	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	18.0
+2	Spectrogram 1	1	18.0	21.0	0	12000.0	Cape May Warbler	camwar	0.1046	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	18.0
+3	Spectrogram 1	1	21.0	24.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1208	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	21.0
+4	Spectrogram 1	1	24.0	27.0	0	12000.0	Brown Creeper	brncre	0.1459	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	24.0
+5	Spectrogram 1	1	24.0	27.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1377	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	24.0
+6	Spectrogram 1	1	27.0	30.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5477	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	27.0
+7	Spectrogram 1	1	27.0	30.0	0	12000.0	Brown Creeper	brncre	0.1835	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	27.0
+8	Spectrogram 1	1	30.0	33.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1359	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	30.0
+9	Spectrogram 1	1	30.0	33.0	0	12000.0	Brown Creeper	brncre	0.1229	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	30.0
+10	Spectrogram 1	1	39.0	42.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2072	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	39.0
+11	Spectrogram 1	1	39.0	42.0	0	12000.0	Brown Creeper	brncre	0.1308	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	39.0
+12	Spectrogram 1	1	39.0	42.0	0	12000.0	Cape May Warbler	camwar	0.1175	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	39.0
+13	Spectrogram 1	1	45.0	48.0	0	12000.0	Cape May Warbler	camwar	0.2107	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	45.0
+14	Spectrogram 1	1	51.0	54.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1526	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	51.0
+15	Spectrogram 1	1	54.0	57.0	0	12000.0	Cape May Warbler	camwar	0.1481	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	54.0
+16	Spectrogram 1	1	54.0	57.0	0	12000.0	Brown Creeper	brncre	0.1217	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	54.0
+17	Spectrogram 1	1	90.0	93.0	0	12000.0	Brown Creeper	brncre	0.3922	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	90.0
+18	Spectrogram 1	1	90.0	93.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2609	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	90.0
+19	Spectrogram 1	1	90.0	93.0	0	12000.0	Cape May Warbler	camwar	0.1367	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	90.0
+20	Spectrogram 1	1	93.0	96.0	0	12000.0	Cape May Warbler	camwar	0.2909	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	93.0
+21	Spectrogram 1	1	93.0	96.0	0	12000.0	Brown Creeper	brncre	0.1143	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	93.0
+22	Spectrogram 1	1	99.0	102.0	0	12000.0	Brown Creeper	brncre	0.1668	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	99.0
+23	Spectrogram 1	1	111.0	114.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1759	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	111.0
+24	Spectrogram 1	1	111.0	114.0	0	12000.0	Brown Creeper	brncre	0.1403	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	111.0
+25	Spectrogram 1	1	132.0	135.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1455	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	132.0
+26	Spectrogram 1	1	132.0	135.0	0	12000.0	Cape May Warbler	camwar	0.1052	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	132.0
+27	Spectrogram 1	1	138.0	141.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1360	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	138.0
+28	Spectrogram 1	1	141.0	144.0	0	12000.0	Cape May Warbler	camwar	0.1397	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	141.0
+29	Spectrogram 1	1	144.0	147.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3605	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	144.0
+30	Spectrogram 1	1	150.0	153.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1760	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	150.0
+31	Spectrogram 1	1	171.0	174.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3418	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	171.0
+32	Spectrogram 1	1	171.0	174.0	0	12000.0	Brown Creeper	brncre	0.1122	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	171.0
+33	Spectrogram 1	1	198.0	201.0	0	12000.0	Brown Creeper	brncre	0.1682	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	198.0
+34	Spectrogram 1	1	198.0	201.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1609	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	198.0
+35	Spectrogram 1	1	351.0	354.0	0	12000.0	Brown Creeper	brncre	0.1553	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	351.0
+36	Spectrogram 1	1	357.0	360.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1204	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	357.0
+37	Spectrogram 1	1	366.0	369.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2316	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	366.0
+38	Spectrogram 1	1	369.0	372.0	0	12000.0	Brown Creeper	brncre	0.1114	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	369.0
+39	Spectrogram 1	1	381.0	384.0	0	12000.0	Cape May Warbler	camwar	0.1611	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	381.0
+40	Spectrogram 1	1	381.0	384.0	0	12000.0	Brown Creeper	brncre	0.1443	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	381.0
+41	Spectrogram 1	1	381.0	384.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1076	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	381.0
+42	Spectrogram 1	1	417.0	420.0	0	12000.0	Cedar Waxwing	cedwax	0.1913	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	417.0
+43	Spectrogram 1	1	420.0	423.0	0	12000.0	Cedar Waxwing	cedwax	0.1028	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	420.0
+44	Spectrogram 1	1	570.0	573.0	0	12000.0	American Crow	amecro	0.1631	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	570.0
+45	Spectrogram 1	1	1248.0	1251.0	0	12000.0	Cedar Waxwing	cedwax	0.2467	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	1248.0
+46	Spectrogram 1	1	1266.0	1269.0	0	12000.0	Cedar Waxwing	cedwax	0.2523	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	1266.0
+47	Spectrogram 1	1	1365.0	1368.0	0	12000.0	Cedar Waxwing	cedwax	0.1267	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	1365.0
+48	Spectrogram 1	1	1851.0	1854.0	0	12000.0	Winter Wren	winwre3	0.1567	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	1851.0
+49	Spectrogram 1	1	2547.0	2550.0	0	12000.0	Hairy Woodpecker	haiwoo	0.1417	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	2547.0
+50	Spectrogram 1	1	2547.0	2550.0	0	12000.0	Downy Woodpecker	dowwoo	0.1143	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	2547.0
+51	Spectrogram 1	1	2646.0	2649.0	0	12000.0	Black-capped Chickadee	bkcchi	0.1370	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	2646.0
+52	Spectrogram 1	1	2655.0	2658.0	0	12000.0	Brown Creeper	brncre	0.1012	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	2655.0
+53	Spectrogram 1	1	3309.0	3312.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.1113	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3309.0
+54	Spectrogram 1	1	3312.0	3315.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9870	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3312.0
+55	Spectrogram 1	1	3315.0	3318.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9943	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3315.0
+56	Spectrogram 1	1	3318.0	3321.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.8928	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3318.0
+57	Spectrogram 1	1	3321.0	3324.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9656	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3321.0
+58	Spectrogram 1	1	3324.0	3327.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9901	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3324.0
+59	Spectrogram 1	1	3360.0	3363.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9600	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3360.0
+60	Spectrogram 1	1	3363.0	3366.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9959	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3363.0
+61	Spectrogram 1	1	3366.0	3369.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.4715	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3366.0
+62	Spectrogram 1	1	3369.0	3372.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9313	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3369.0
+63	Spectrogram 1	1	3372.0	3375.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9930	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3372.0
+64	Spectrogram 1	1	3378.0	3381.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9769	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3378.0
+65	Spectrogram 1	1	3381.0	3384.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9618	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3381.0
+66	Spectrogram 1	1	3384.0	3387.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.5585	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3384.0
+67	Spectrogram 1	1	3387.0	3390.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9869	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3387.0
+68	Spectrogram 1	1	3390.0	3393.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9891	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3390.0
+69	Spectrogram 1	1	3393.0	3396.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9071	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3393.0
+70	Spectrogram 1	1	3399.0	3402.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.8986	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3399.0
+71	Spectrogram 1	1	3402.0	3405.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9751	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3402.0
+72	Spectrogram 1	1	3486.0	3489.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9322	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3486.0
+73	Spectrogram 1	1	3489.0	3492.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9927	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3489.0
+74	Spectrogram 1	1	3495.0	3498.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9768	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3495.0
+75	Spectrogram 1	1	3498.0	3501.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9912	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3498.0
+76	Spectrogram 1	1	3504.0	3507.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.8874	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3504.0
+77	Spectrogram 1	1	3510.0	3513.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9759	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3510.0
+78	Spectrogram 1	1	3513.0	3516.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9665	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3513.0
+79	Spectrogram 1	1	3531.0	3534.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.7736	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3531.0
+80	Spectrogram 1	1	3534.0	3537.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9009	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3534.0
+81	Spectrogram 1	1	3543.0	3546.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9095	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3543.0
+82	Spectrogram 1	1	3564.0	3567.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9669	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240821_054102.wav	3564.0

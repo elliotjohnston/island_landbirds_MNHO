@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2031.0	2034.0	0	12000.0	Swainson's Thrush	swathr	0.1374	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240909_050300.wav	2031.0
+2	Spectrogram 1	1	2325.0	2328.0	0	12000.0	Common Yellowthroat	comyel	0.1091	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240909_050300.wav	2325.0
+3	Spectrogram 1	1	2415.0	2418.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1594	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240909_050300.wav	2415.0
+4	Spectrogram 1	1	2886.0	2889.0	0	12000.0	Cedar Waxwing	cedwax	0.4615	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240909_050300.wav	2886.0
+5	Spectrogram 1	1	3528.0	3531.0	0	12000.0	Dark-eyed Junco	daejun	0.1591	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240909_050300.wav	3528.0
+6	Spectrogram 1	1	3531.0	3534.0	0	12000.0	Dark-eyed Junco	daejun	0.4755	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240909_050300.wav	3531.0

@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	42.0	45.0	0	12000.0	Song Sparrow	sonspa	0.1375	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240626_194800.wav	42.0
+2	Spectrogram 1	1	45.0	48.0	0	12000.0	Boreal Chickadee	borchi2	0.2735	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240626_194800.wav	45.0
+3	Spectrogram 1	1	45.0	48.0	0	12000.0	Black-capped Chickadee	bkcchi	0.1987	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240626_194800.wav	45.0
+4	Spectrogram 1	1	168.0	171.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5444	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240626_194800.wav	168.0
+5	Spectrogram 1	1	168.0	171.0	0	12000.0	Blackburnian Warbler	bkbwar	0.2787	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240626_194800.wav	168.0
+6	Spectrogram 1	1	261.0	264.0	0	12000.0	Cedar Waxwing	cedwax	0.1583	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240626_194800.wav	261.0
+7	Spectrogram 1	1	276.0	279.0	0	12000.0	Song Sparrow	sonspa	0.2150	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240626_194800.wav	276.0
+8	Spectrogram 1	1	288.0	291.0	0	12000.0	Song Sparrow	sonspa	0.1017	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240626_194800.wav	288.0
+9	Spectrogram 1	1	564.0	567.0	0	12000.0	American Crow	amecro	0.1026	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240626_194800.wav	564.0
+10	Spectrogram 1	1	804.0	807.0	0	12000.0	Song Sparrow	sonspa	0.1064	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240626_194800.wav	804.0
+11	Spectrogram 1	1	1125.0	1128.0	0	12000.0	Song Sparrow	sonspa	0.1234	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240626_194800.wav	1125.0
+12	Spectrogram 1	1	1185.0	1188.0	0	12000.0	Winter Wren	winwre3	0.1088	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240626_194800.wav	1185.0

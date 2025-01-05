@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	990.0	993.0	0	12000.0	Dark-eyed Junco	daejun	0.1160	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240826_185000.wav	990.0
+2	Spectrogram 1	1	993.0	996.0	0	12000.0	Ruby-throated Hummingbird	rthhum	0.1294	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240826_185000.wav	993.0
+3	Spectrogram 1	1	1050.0	1053.0	0	12000.0	Dark-eyed Junco	daejun	0.1262	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240826_185000.wav	1050.0
+4	Spectrogram 1	1	1134.0	1137.0	0	12000.0	Dark-eyed Junco	daejun	0.1355	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240826_185000.wav	1134.0
+5	Spectrogram 1	1	1140.0	1143.0	0	12000.0	Dark-eyed Junco	daejun	0.2406	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240826_185000.wav	1140.0
+6	Spectrogram 1	1	1146.0	1149.0	0	12000.0	Dark-eyed Junco	daejun	0.2267	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240826_185000.wav	1146.0
+7	Spectrogram 1	1	1149.0	1152.0	0	12000.0	Chipping Sparrow	chispa	0.1260	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240826_185000.wav	1149.0
+8	Spectrogram 1	1	1152.0	1155.0	0	12000.0	Chipping Sparrow	chispa	0.1983	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240826_185000.wav	1152.0
+9	Spectrogram 1	1	1152.0	1155.0	0	12000.0	Dark-eyed Junco	daejun	0.1308	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240826_185000.wav	1152.0
+10	Spectrogram 1	1	1155.0	1158.0	0	12000.0	Dark-eyed Junco	daejun	0.1155	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240826_185000.wav	1155.0
+11	Spectrogram 1	1	1497.0	1500.0	0	12000.0	Dark-eyed Junco	daejun	0.1095	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240826_185000.wav	1497.0
+12	Spectrogram 1	1	1596.0	1599.0	0	12000.0	Dark-eyed Junco	daejun	0.1027	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240826_185000.wav	1596.0
+13	Spectrogram 1	1	1599.0	1602.0	0	12000.0	Dark-eyed Junco	daejun	0.2076	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240826_185000.wav	1599.0
+14	Spectrogram 1	1	1602.0	1605.0	0	12000.0	Dark-eyed Junco	daejun	0.1052	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240826_185000.wav	1602.0
+15	Spectrogram 1	1	1605.0	1608.0	0	12000.0	Dark-eyed Junco	daejun	0.1196	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240826_185000.wav	1605.0
+16	Spectrogram 1	1	1668.0	1671.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1698	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240826_185000.wav	1668.0
+17	Spectrogram 1	1	2316.0	2319.0	0	12000.0	Hermit Thrush	herthr	0.6837	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240826_185000.wav	2316.0
+18	Spectrogram 1	1	2322.0	2325.0	0	12000.0	Hermit Thrush	herthr	0.6105	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240826_185000.wav	2322.0
+19	Spectrogram 1	1	2325.0	2328.0	0	12000.0	Hermit Thrush	herthr	0.7628	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240826_185000.wav	2325.0
+20	Spectrogram 1	1	2331.0	2334.0	0	12000.0	Hermit Thrush	herthr	0.2071	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240826_185000.wav	2331.0
+21	Spectrogram 1	1	2337.0	2340.0	0	12000.0	Hermit Thrush	herthr	0.2717	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240826_185000.wav	2337.0
+22	Spectrogram 1	1	2340.0	2343.0	0	12000.0	Hermit Thrush	herthr	0.1770	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240826_185000.wav	2340.0
+23	Spectrogram 1	1	2349.0	2352.0	0	12000.0	Hermit Thrush	herthr	0.7118	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240826_185000.wav	2349.0
+24	Spectrogram 1	1	2433.0	2436.0	0	12000.0	Hermit Thrush	herthr	0.7436	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240826_185000.wav	2433.0

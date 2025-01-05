@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	111.0	114.0	0	12000.0	Downy Woodpecker	dowwoo	0.3860	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240811_191400.wav	111.0
+2	Spectrogram 1	1	201.0	204.0	0	12000.0	Cedar Waxwing	cedwax	0.1177	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240811_191400.wav	201.0
+3	Spectrogram 1	1	333.0	336.0	0	12000.0	Downy Woodpecker	dowwoo	0.1192	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240811_191400.wav	333.0
+4	Spectrogram 1	1	615.0	618.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.1371	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240811_191400.wav	615.0
+5	Spectrogram 1	1	1029.0	1032.0	0	12000.0	Black-capped Chickadee	bkcchi	0.1011	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240811_191400.wav	1029.0
+6	Spectrogram 1	1	1251.0	1254.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.2340	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240811_191400.wav	1251.0
+7	Spectrogram 1	1	1818.0	1821.0	0	12000.0	Nashville Warbler	naswar	0.1412	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240811_191400.wav	1818.0
+8	Spectrogram 1	1	1917.0	1920.0	0	12000.0	Nashville Warbler	naswar	0.1146	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240811_191400.wav	1917.0
+9	Spectrogram 1	1	1920.0	1923.0	0	12000.0	Magnolia Warbler	magwar	0.1489	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240811_191400.wav	1920.0
+10	Spectrogram 1	1	1920.0	1923.0	0	12000.0	Nashville Warbler	naswar	0.1342	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240811_191400.wav	1920.0
+11	Spectrogram 1	1	1947.0	1950.0	0	12000.0	Nashville Warbler	naswar	0.1396	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240811_191400.wav	1947.0
+12	Spectrogram 1	1	1950.0	1953.0	0	12000.0	Nashville Warbler	naswar	0.1139	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240811_191400.wav	1950.0
+13	Spectrogram 1	1	1956.0	1959.0	0	12000.0	Nashville Warbler	naswar	0.1280	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240811_191400.wav	1956.0

@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	3216.0	3219.0	0	12000.0	Cedar Waxwing	cedwax	0.1104	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_044200.wav	3216.0
+2	Spectrogram 1	1	3264.0	3267.0	0	12000.0	Brown Creeper	brncre	0.1056	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_044200.wav	3264.0
+3	Spectrogram 1	1	3294.0	3297.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4611	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_044200.wav	3294.0
+4	Spectrogram 1	1	3297.0	3300.0	0	12000.0	Brown Creeper	brncre	0.2601	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_044200.wav	3297.0
+5	Spectrogram 1	1	3297.0	3300.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1673	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_044200.wav	3297.0
+6	Spectrogram 1	1	3318.0	3321.0	0	12000.0	Cedar Waxwing	cedwax	0.2669	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_044200.wav	3318.0
+7	Spectrogram 1	1	3333.0	3336.0	0	12000.0	Cedar Waxwing	cedwax	0.1899	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_044200.wav	3333.0
+8	Spectrogram 1	1	3495.0	3498.0	0	12000.0	White-crowned Sparrow	whcspa	0.1202	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_044200.wav	3495.0
+9	Spectrogram 1	1	3501.0	3504.0	0	12000.0	White-crowned Sparrow	whcspa	0.1076	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_044200.wav	3501.0

@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	681.0	684.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1243	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240925_175300.wav	681.0
+2	Spectrogram 1	1	819.0	822.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2243	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240925_175300.wav	819.0
+3	Spectrogram 1	1	1023.0	1026.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1207	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240925_175300.wav	1023.0
+4	Spectrogram 1	1	1392.0	1395.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1726	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240925_175300.wav	1392.0
+5	Spectrogram 1	1	1404.0	1407.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5706	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240925_175300.wav	1404.0
+6	Spectrogram 1	1	1413.0	1416.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9433	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240925_175300.wav	1413.0
+7	Spectrogram 1	1	1467.0	1470.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6195	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240925_175300.wav	1467.0
+8	Spectrogram 1	1	1482.0	1485.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3304	D:/Island_Songbirds_2024/TURT-2/Data\TURT-2_20240925_175300.wav	1482.0

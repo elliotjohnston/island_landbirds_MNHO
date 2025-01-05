@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	129.0	132.0	0	12000.0	American Crow	amecro	0.4756	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240810_052802.wav	129.0
+2	Spectrogram 1	1	153.0	156.0	0	12000.0	American Crow	amecro	0.3355	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240810_052802.wav	153.0
+3	Spectrogram 1	1	195.0	198.0	0	12000.0	American Crow	amecro	0.1726	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240810_052802.wav	195.0
+4	Spectrogram 1	1	210.0	213.0	0	12000.0	American Crow	amecro	0.1606	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240810_052802.wav	210.0
+5	Spectrogram 1	1	339.0	342.0	0	12000.0	American Crow	amecro	0.3239	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240810_052802.wav	339.0
+6	Spectrogram 1	1	372.0	375.0	0	12000.0	American Crow	amecro	0.6225	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240810_052802.wav	372.0
+7	Spectrogram 1	1	375.0	378.0	0	12000.0	American Crow	amecro	0.4112	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240810_052802.wav	375.0
+8	Spectrogram 1	1	402.0	405.0	0	12000.0	American Crow	amecro	0.1074	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240810_052802.wav	402.0
+9	Spectrogram 1	1	408.0	411.0	0	12000.0	American Crow	amecro	0.4505	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240810_052802.wav	408.0
+10	Spectrogram 1	1	426.0	429.0	0	12000.0	American Crow	amecro	0.3881	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240810_052802.wav	426.0
+11	Spectrogram 1	1	492.0	495.0	0	12000.0	American Crow	amecro	0.9112	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240810_052802.wav	492.0
+12	Spectrogram 1	1	495.0	498.0	0	12000.0	American Crow	amecro	0.6029	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240810_052802.wav	495.0
+13	Spectrogram 1	1	525.0	528.0	0	12000.0	American Crow	amecro	0.5272	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240810_052802.wav	525.0
+14	Spectrogram 1	1	528.0	531.0	0	12000.0	American Crow	amecro	0.7001	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240810_052802.wav	528.0
+15	Spectrogram 1	1	576.0	579.0	0	12000.0	American Crow	amecro	0.4857	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240810_052802.wav	576.0
+16	Spectrogram 1	1	681.0	684.0	0	12000.0	American Crow	amecro	0.8999	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240810_052802.wav	681.0
+17	Spectrogram 1	1	699.0	702.0	0	12000.0	American Crow	amecro	0.7868	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240810_052802.wav	699.0
+18	Spectrogram 1	1	702.0	705.0	0	12000.0	American Crow	amecro	0.9580	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240810_052802.wav	702.0
+19	Spectrogram 1	1	705.0	708.0	0	12000.0	American Crow	amecro	0.5901	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240810_052802.wav	705.0
+20	Spectrogram 1	1	1782.0	1785.0	0	12000.0	White-crowned Sparrow	whcspa	0.2863	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240810_052802.wav	1782.0
+21	Spectrogram 1	1	2412.0	2415.0	0	12000.0	White-crowned Sparrow	whcspa	0.3138	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240810_052802.wav	2412.0
+22	Spectrogram 1	1	3327.0	3330.0	0	12000.0	White-crowned Sparrow	whcspa	0.1575	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240810_052802.wav	3327.0
+23	Spectrogram 1	1	3594.0	3597.0	0	12000.0	Common Yellowthroat	comyel	0.2888	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240810_052802.wav	3594.0
+24	Spectrogram 1	1	3594.0	3597.0	0	12000.0	Palm Warbler	palwar	0.1114	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240810_052802.wav	3594.0

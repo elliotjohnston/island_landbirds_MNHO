@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1989.0	1992.0	0	12000.0	Savannah Sparrow	savspa	0.1366	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240926_052100.wav	1989.0
+2	Spectrogram 1	1	3495.0	3498.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1265	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240926_052100.wav	3495.0
+3	Spectrogram 1	1	3498.0	3501.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1335	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240926_052100.wav	3498.0
+4	Spectrogram 1	1	3504.0	3507.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1213	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240926_052100.wav	3504.0

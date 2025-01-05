@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1035.0	1038.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2151	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240510_191500.wav	1035.0
+2	Spectrogram 1	1	1206.0	1209.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1413	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240510_191500.wav	1206.0
+3	Spectrogram 1	1	1212.0	1215.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7497	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240510_191500.wav	1212.0
+4	Spectrogram 1	1	2277.0	2280.0	0	12000.0	Winter Wren	winwre3	0.8400	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240510_191500.wav	2277.0
+5	Spectrogram 1	1	2280.0	2283.0	0	12000.0	Winter Wren	winwre3	0.7955	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240510_191500.wav	2280.0
+6	Spectrogram 1	1	2289.0	2292.0	0	12000.0	Winter Wren	winwre3	0.9345	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240510_191500.wav	2289.0
+7	Spectrogram 1	1	2292.0	2295.0	0	12000.0	Winter Wren	winwre3	0.9757	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240510_191500.wav	2292.0
+8	Spectrogram 1	1	2298.0	2301.0	0	12000.0	Winter Wren	winwre3	0.9786	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240510_191500.wav	2298.0
+9	Spectrogram 1	1	2301.0	2304.0	0	12000.0	Winter Wren	winwre3	0.8569	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240510_191500.wav	2301.0
+10	Spectrogram 1	1	2313.0	2316.0	0	12000.0	Winter Wren	winwre3	0.9868	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240510_191500.wav	2313.0
+11	Spectrogram 1	1	2316.0	2319.0	0	12000.0	Winter Wren	winwre3	0.8567	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240510_191500.wav	2316.0

@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	51.0	54.0	0	12000.0	Pileated Woodpecker	pilwoo	0.1128	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240503_190800.wav	51.0
+2	Spectrogram 1	1	1512.0	1515.0	0	12000.0	Palm Warbler	palwar	0.9313	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240503_190800.wav	1512.0
+3	Spectrogram 1	1	2535.0	2538.0	0	12000.0	Palm Warbler	palwar	0.3176	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240503_190800.wav	2535.0
+4	Spectrogram 1	1	2625.0	2628.0	0	12000.0	Palm Warbler	palwar	0.1122	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240503_190800.wav	2625.0
+5	Spectrogram 1	1	2682.0	2685.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1457	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240503_190800.wav	2682.0
+6	Spectrogram 1	1	2784.0	2787.0	0	12000.0	White-throated Sparrow	whtspa	0.2146	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240503_190800.wav	2784.0
+7	Spectrogram 1	1	2787.0	2790.0	0	12000.0	Brown Creeper	brncre	0.1807	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240503_190800.wav	2787.0
+8	Spectrogram 1	1	2787.0	2790.0	0	12000.0	White-throated Sparrow	whtspa	0.1734	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240503_190800.wav	2787.0
+9	Spectrogram 1	1	2793.0	2796.0	0	12000.0	White-throated Sparrow	whtspa	0.1682	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240503_190800.wav	2793.0
+10	Spectrogram 1	1	2796.0	2799.0	0	12000.0	White-throated Sparrow	whtspa	0.2865	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240503_190800.wav	2796.0
+11	Spectrogram 1	1	2811.0	2814.0	0	12000.0	White-throated Sparrow	whtspa	0.1367	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240503_190800.wav	2811.0
+12	Spectrogram 1	1	2838.0	2841.0	0	12000.0	Palm Warbler	palwar	0.5467	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240503_190800.wav	2838.0
+13	Spectrogram 1	1	2964.0	2967.0	0	12000.0	Palm Warbler	palwar	0.5410	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240503_190800.wav	2964.0
+14	Spectrogram 1	1	2964.0	2967.0	0	12000.0	Dark-eyed Junco	daejun	0.1267	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240503_190800.wav	2964.0

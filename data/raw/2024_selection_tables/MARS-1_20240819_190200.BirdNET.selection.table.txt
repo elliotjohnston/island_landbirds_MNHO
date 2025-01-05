@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1227.0	1230.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.1533	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240819_190200.wav	1227.0
+2	Spectrogram 1	1	1233.0	1236.0	0	12000.0	Yellow-throated Vireo	yetvir	0.1340	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240819_190200.wav	1233.0
+3	Spectrogram 1	1	2451.0	2454.0	0	12000.0	Hermit Thrush	herthr	0.3379	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240819_190200.wav	2451.0

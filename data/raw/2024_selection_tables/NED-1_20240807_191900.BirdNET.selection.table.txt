@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	60.0	63.0	0	12000.0	Cedar Waxwing	cedwax	0.1059	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240807_191900.wav	60.0
+2	Spectrogram 1	1	942.0	945.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1044	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240807_191900.wav	942.0
+3	Spectrogram 1	1	1146.0	1149.0	0	12000.0	Cedar Waxwing	cedwax	0.1960	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240807_191900.wav	1146.0
+4	Spectrogram 1	1	1170.0	1173.0	0	12000.0	Cedar Waxwing	cedwax	0.1162	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240807_191900.wav	1170.0
+5	Spectrogram 1	1	1413.0	1416.0	0	12000.0	Cedar Waxwing	cedwax	0.1520	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240807_191900.wav	1413.0
+6	Spectrogram 1	1	1476.0	1479.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2450	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240807_191900.wav	1476.0
+7	Spectrogram 1	1	1485.0	1488.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3090	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240807_191900.wav	1485.0
+8	Spectrogram 1	1	1497.0	1500.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5698	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240807_191900.wav	1497.0
+9	Spectrogram 1	1	2103.0	2106.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.1131	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240807_191900.wav	2103.0
+10	Spectrogram 1	1	2568.0	2571.0	0	12000.0	Swainson's Thrush	swathr	0.2653	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240807_191900.wav	2568.0
+11	Spectrogram 1	1	2574.0	2577.0	0	12000.0	Swainson's Thrush	swathr	0.1389	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240807_191900.wav	2574.0
+12	Spectrogram 1	1	2586.0	2589.0	0	12000.0	Swainson's Thrush	swathr	0.3197	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240807_191900.wav	2586.0
+13	Spectrogram 1	1	2589.0	2592.0	0	12000.0	Swainson's Thrush	swathr	0.1393	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240807_191900.wav	2589.0
+14	Spectrogram 1	1	2742.0	2745.0	0	12000.0	Swainson's Thrush	swathr	0.2831	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240807_191900.wav	2742.0
+15	Spectrogram 1	1	3045.0	3048.0	0	12000.0	Swainson's Thrush	swathr	0.1393	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240807_191900.wav	3045.0
+16	Spectrogram 1	1	3054.0	3057.0	0	12000.0	Swainson's Thrush	swathr	0.7622	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240807_191900.wav	3054.0
+17	Spectrogram 1	1	3057.0	3060.0	0	12000.0	Swainson's Thrush	swathr	0.8135	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240807_191900.wav	3057.0

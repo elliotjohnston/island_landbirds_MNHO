@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	351.0	354.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.1296	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240901_183600.wav	351.0
+2	Spectrogram 1	1	396.0	399.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4610	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240901_183600.wav	396.0
+3	Spectrogram 1	1	399.0	402.0	0	12000.0	Brown Creeper	brncre	0.1889	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240901_183600.wav	399.0
+4	Spectrogram 1	1	399.0	402.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1443	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240901_183600.wav	399.0
+5	Spectrogram 1	1	405.0	408.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7957	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240901_183600.wav	405.0
+6	Spectrogram 1	1	408.0	411.0	0	12000.0	Brown Creeper	brncre	0.4721	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240901_183600.wav	408.0
+7	Spectrogram 1	1	546.0	549.0	0	12000.0	Brown Creeper	brncre	0.1261	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240901_183600.wav	546.0

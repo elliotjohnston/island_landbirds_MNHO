@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	753.0	756.0	0	12000.0	Common Raven	comrav	0.1661	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240910_181900.wav	753.0
+2	Spectrogram 1	1	765.0	768.0	0	12000.0	Common Raven	comrav	0.1161	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240910_181900.wav	765.0
+3	Spectrogram 1	1	768.0	771.0	0	12000.0	Common Raven	comrav	0.1619	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240910_181900.wav	768.0
+4	Spectrogram 1	1	774.0	777.0	0	12000.0	Common Raven	comrav	0.7569	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240910_181900.wav	774.0
+5	Spectrogram 1	1	780.0	783.0	0	12000.0	Common Raven	comrav	0.4906	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240910_181900.wav	780.0
+6	Spectrogram 1	1	783.0	786.0	0	12000.0	Common Raven	comrav	0.1760	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240910_181900.wav	783.0
+7	Spectrogram 1	1	2028.0	2031.0	0	12000.0	Savannah Sparrow	savspa	0.1152	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240910_181900.wav	2028.0
+8	Spectrogram 1	1	2352.0	2355.0	0	12000.0	American Crow	amecro	0.5504	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240910_181900.wav	2352.0
+9	Spectrogram 1	1	2427.0	2430.0	0	12000.0	Dark-eyed Junco	daejun	0.1291	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240910_181900.wav	2427.0
+10	Spectrogram 1	1	2814.0	2817.0	0	12000.0	Dark-eyed Junco	daejun	0.1699	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240910_181900.wav	2814.0

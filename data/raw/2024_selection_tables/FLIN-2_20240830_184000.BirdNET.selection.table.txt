@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	24.0	27.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4860	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240830_184000.wav	24.0
+2	Spectrogram 1	1	78.0	81.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9432	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240830_184000.wav	78.0
+3	Spectrogram 1	1	96.0	99.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1264	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240830_184000.wav	96.0
+4	Spectrogram 1	1	126.0	129.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2278	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240830_184000.wav	126.0
+5	Spectrogram 1	1	177.0	180.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7695	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240830_184000.wav	177.0
+6	Spectrogram 1	1	186.0	189.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8792	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240830_184000.wav	186.0
+7	Spectrogram 1	1	219.0	222.0	0	12000.0	Savannah Sparrow	savspa	0.2984	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240830_184000.wav	219.0
+8	Spectrogram 1	1	750.0	753.0	0	12000.0	Common Raven	comrav	0.1072	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240830_184000.wav	750.0
+9	Spectrogram 1	1	756.0	759.0	0	12000.0	Common Raven	comrav	0.3061	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240830_184000.wav	756.0
+10	Spectrogram 1	1	759.0	762.0	0	12000.0	American Crow	amecro	0.1608	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240830_184000.wav	759.0
+11	Spectrogram 1	1	771.0	774.0	0	12000.0	Common Raven	comrav	0.5117	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240830_184000.wav	771.0
+12	Spectrogram 1	1	771.0	774.0	0	12000.0	American Crow	amecro	0.1203	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240830_184000.wav	771.0
+13	Spectrogram 1	1	780.0	783.0	0	12000.0	Common Raven	comrav	0.3333	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240830_184000.wav	780.0
+14	Spectrogram 1	1	780.0	783.0	0	12000.0	American Crow	amecro	0.1279	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240830_184000.wav	780.0

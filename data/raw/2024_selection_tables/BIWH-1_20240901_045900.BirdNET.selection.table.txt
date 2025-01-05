@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2994.0	2997.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1921	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240901_045900.wav	2994.0

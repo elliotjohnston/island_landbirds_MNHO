@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1428.0	1431.0	0	12000.0	American Crow	amecro	0.1111	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240904_182900.wav	1428.0
+2	Spectrogram 1	1	2136.0	2139.0	0	12000.0	Olive-sided Flycatcher	olsfly	0.7633	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240904_182900.wav	2136.0
+3	Spectrogram 1	1	2139.0	2142.0	0	12000.0	Olive-sided Flycatcher	olsfly	0.9509	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240904_182900.wav	2139.0
+4	Spectrogram 1	1	2154.0	2157.0	0	12000.0	Olive-sided Flycatcher	olsfly	0.7272	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240904_182900.wav	2154.0
+5	Spectrogram 1	1	2157.0	2160.0	0	12000.0	Olive-sided Flycatcher	olsfly	0.2586	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240904_182900.wav	2157.0
+6	Spectrogram 1	1	2160.0	2163.0	0	12000.0	Olive-sided Flycatcher	olsfly	0.9018	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240904_182900.wav	2160.0
+7	Spectrogram 1	1	2163.0	2166.0	0	12000.0	Olive-sided Flycatcher	olsfly	0.9733	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240904_182900.wav	2163.0
+8	Spectrogram 1	1	2166.0	2169.0	0	12000.0	Olive-sided Flycatcher	olsfly	0.7428	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240904_182900.wav	2166.0
+9	Spectrogram 1	1	2172.0	2175.0	0	12000.0	Olive-sided Flycatcher	olsfly	0.3092	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240904_182900.wav	2172.0
+10	Spectrogram 1	1	2175.0	2178.0	0	12000.0	Olive-sided Flycatcher	olsfly	0.2232	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240904_182900.wav	2175.0
+11	Spectrogram 1	1	2544.0	2547.0	0	12000.0	Northern Waterthrush	norwat	0.5739	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240904_182900.wav	2544.0
+12	Spectrogram 1	1	2550.0	2553.0	0	12000.0	Northern Waterthrush	norwat	0.7518	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240904_182900.wav	2550.0
+13	Spectrogram 1	1	3432.0	3435.0	0	12000.0	Tufted Titmouse	tuftit	0.2953	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240904_182900.wav	3432.0

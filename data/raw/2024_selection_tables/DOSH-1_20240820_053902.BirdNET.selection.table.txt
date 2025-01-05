@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1119.0	1122.0	0	12000.0	Dark-eyed Junco	daejun	0.3251	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240820_053902.wav	1119.0
+2	Spectrogram 1	1	1125.0	1128.0	0	12000.0	Dark-eyed Junco	daejun	0.3821	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240820_053902.wav	1125.0
+3	Spectrogram 1	1	1233.0	1236.0	0	12000.0	Brown Creeper	brncre	0.2558	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240820_053902.wav	1233.0
+4	Spectrogram 1	1	1242.0	1245.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1413	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240820_053902.wav	1242.0
+5	Spectrogram 1	1	1269.0	1272.0	0	12000.0	Brown Creeper	brncre	0.1095	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240820_053902.wav	1269.0
+6	Spectrogram 1	1	1332.0	1335.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5896	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240820_053902.wav	1332.0
+7	Spectrogram 1	1	1347.0	1350.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2466	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240820_053902.wav	1347.0
+8	Spectrogram 1	1	1410.0	1413.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2671	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240820_053902.wav	1410.0
+9	Spectrogram 1	1	1479.0	1482.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1115	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240820_053902.wav	1479.0
+10	Spectrogram 1	1	1860.0	1863.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3659	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240820_053902.wav	1860.0
+11	Spectrogram 1	1	1881.0	1884.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1514	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240820_053902.wav	1881.0
+12	Spectrogram 1	1	2073.0	2076.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5505	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240820_053902.wav	2073.0
+13	Spectrogram 1	1	2448.0	2451.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3128	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240820_053902.wav	2448.0
+14	Spectrogram 1	1	2448.0	2451.0	0	12000.0	Brown Creeper	brncre	0.2061	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240820_053902.wav	2448.0
+15	Spectrogram 1	1	2883.0	2886.0	0	12000.0	Brown Creeper	brncre	0.4931	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240820_053902.wav	2883.0
+16	Spectrogram 1	1	2883.0	2886.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2372	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240820_053902.wav	2883.0
+17	Spectrogram 1	1	2964.0	2967.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6402	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240820_053902.wav	2964.0
+18	Spectrogram 1	1	2967.0	2970.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7772	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240820_053902.wav	2967.0
+19	Spectrogram 1	1	2970.0	2973.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8116	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240820_053902.wav	2970.0
+20	Spectrogram 1	1	2970.0	2973.0	0	12000.0	Brown Creeper	brncre	0.1629	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240820_053902.wav	2970.0
+21	Spectrogram 1	1	2973.0	2976.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4968	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240820_053902.wav	2973.0
+22	Spectrogram 1	1	2973.0	2976.0	0	12000.0	Brown Creeper	brncre	0.3050	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240820_053902.wav	2973.0
+23	Spectrogram 1	1	3540.0	3543.0	0	12000.0	Brown Creeper	brncre	0.1157	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240820_053902.wav	3540.0
+24	Spectrogram 1	1	3549.0	3552.0	0	12000.0	Brown Creeper	brncre	0.2689	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240820_053902.wav	3549.0

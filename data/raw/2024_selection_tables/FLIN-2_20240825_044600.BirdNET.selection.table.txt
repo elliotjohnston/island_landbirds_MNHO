@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2160.0	2163.0	0	12000.0	Winter Wren	winwre3	0.5026	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_044600.wav	2160.0
+2	Spectrogram 1	1	2184.0	2187.0	0	12000.0	Winter Wren	winwre3	0.3632	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_044600.wav	2184.0
+3	Spectrogram 1	1	2232.0	2235.0	0	12000.0	Winter Wren	winwre3	0.1402	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_044600.wav	2232.0
+4	Spectrogram 1	1	2235.0	2238.0	0	12000.0	Winter Wren	winwre3	0.2307	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_044600.wav	2235.0
+5	Spectrogram 1	1	2250.0	2253.0	0	12000.0	Winter Wren	winwre3	0.7489	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_044600.wav	2250.0
+6	Spectrogram 1	1	2253.0	2256.0	0	12000.0	Winter Wren	winwre3	0.3577	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_044600.wav	2253.0
+7	Spectrogram 1	1	2265.0	2268.0	0	12000.0	Winter Wren	winwre3	0.5093	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_044600.wav	2265.0
+8	Spectrogram 1	1	2613.0	2616.0	0	12000.0	Winter Wren	winwre3	0.2171	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_044600.wav	2613.0
+9	Spectrogram 1	1	3303.0	3306.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.8162	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240825_044600.wav	3303.0

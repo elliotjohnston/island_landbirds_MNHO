@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	192.0	195.0	0	12000.0	Evening Grosbeak	evegro	0.3141	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240904_183100.wav	192.0
+2	Spectrogram 1	1	1923.0	1926.0	0	12000.0	Common Raven	comrav	0.3671	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240904_183100.wav	1923.0
+3	Spectrogram 1	1	1950.0	1953.0	0	12000.0	Common Raven	comrav	0.8998	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240904_183100.wav	1950.0
+4	Spectrogram 1	1	1953.0	1956.0	0	12000.0	Common Raven	comrav	0.7182	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240904_183100.wav	1953.0
+5	Spectrogram 1	1	2010.0	2013.0	0	12000.0	Common Raven	comrav	0.8779	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240904_183100.wav	2010.0
+6	Spectrogram 1	1	2013.0	2016.0	0	12000.0	Common Raven	comrav	0.7873	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240904_183100.wav	2013.0
+7	Spectrogram 1	1	2052.0	2055.0	0	12000.0	Common Raven	comrav	0.2126	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240904_183100.wav	2052.0
+8	Spectrogram 1	1	2067.0	2070.0	0	12000.0	Common Raven	comrav	0.5582	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240904_183100.wav	2067.0
+9	Spectrogram 1	1	2076.0	2079.0	0	12000.0	Common Raven	comrav	0.4682	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240904_183100.wav	2076.0
+10	Spectrogram 1	1	2082.0	2085.0	0	12000.0	Common Raven	comrav	0.1173	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240904_183100.wav	2082.0
+11	Spectrogram 1	1	2100.0	2103.0	0	12000.0	Common Raven	comrav	0.2722	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240904_183100.wav	2100.0
+12	Spectrogram 1	1	2106.0	2109.0	0	12000.0	Common Raven	comrav	0.1232	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240904_183100.wav	2106.0
+13	Spectrogram 1	1	2175.0	2178.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.1117	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240904_183100.wav	2175.0
+14	Spectrogram 1	1	2685.0	2688.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1061	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240904_183100.wav	2685.0
+15	Spectrogram 1	1	2688.0	2691.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2744	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240904_183100.wav	2688.0
+16	Spectrogram 1	1	2694.0	2697.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1508	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240904_183100.wav	2694.0
+17	Spectrogram 1	1	2781.0	2784.0	0	12000.0	Evening Grosbeak	evegro	0.1156	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240904_183100.wav	2781.0
+18	Spectrogram 1	1	2913.0	2916.0	0	12000.0	Swainson's Thrush	swathr	0.1481	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240904_183100.wav	2913.0
+19	Spectrogram 1	1	3066.0	3069.0	0	12000.0	White-throated Sparrow	whtspa	0.5083	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240904_183100.wav	3066.0
+20	Spectrogram 1	1	3267.0	3270.0	0	12000.0	Common Raven	comrav	0.1475	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240904_183100.wav	3267.0
+21	Spectrogram 1	1	3270.0	3273.0	0	12000.0	Common Raven	comrav	0.1492	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240904_183100.wav	3270.0
+22	Spectrogram 1	1	3279.0	3282.0	0	12000.0	Common Raven	comrav	0.5732	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240904_183100.wav	3279.0
+23	Spectrogram 1	1	3288.0	3291.0	0	12000.0	Common Raven	comrav	0.4036	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240904_183100.wav	3288.0

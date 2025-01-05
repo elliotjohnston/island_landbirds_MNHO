@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	15.0	18.0	0	12000.0	White-throated Sparrow	whtspa	0.3176	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240508_191400.wav	15.0
+2	Spectrogram 1	1	693.0	696.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2834	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240508_191400.wav	693.0
+3	Spectrogram 1	1	699.0	702.0	0	12000.0	Brown Creeper	brncre	0.2120	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240508_191400.wav	699.0
+4	Spectrogram 1	1	1128.0	1131.0	0	12000.0	White-throated Sparrow	whtspa	0.1027	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240508_191400.wav	1128.0
+5	Spectrogram 1	1	1131.0	1134.0	0	12000.0	White-throated Sparrow	whtspa	0.4307	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240508_191400.wav	1131.0

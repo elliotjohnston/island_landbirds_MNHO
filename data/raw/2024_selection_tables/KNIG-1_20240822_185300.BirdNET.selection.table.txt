@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	225.0	228.0	0	12000.0	Common Raven	comrav	0.1659	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240822_185300.wav	225.0
+2	Spectrogram 1	1	240.0	243.0	0	12000.0	Cedar Waxwing	cedwax	0.4959	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240822_185300.wav	240.0
+3	Spectrogram 1	1	264.0	267.0	0	12000.0	American Crow	amecro	0.1602	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240822_185300.wav	264.0
+4	Spectrogram 1	1	1674.0	1677.0	0	12000.0	Brown Creeper	brncre	0.1478	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240822_185300.wav	1674.0
+5	Spectrogram 1	1	1710.0	1713.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2159	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240822_185300.wav	1710.0
+6	Spectrogram 1	1	1713.0	1716.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1096	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240822_185300.wav	1713.0
+7	Spectrogram 1	1	1836.0	1839.0	0	12000.0	Brown Creeper	brncre	0.7976	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240822_185300.wav	1836.0
+8	Spectrogram 1	1	1842.0	1845.0	0	12000.0	Brown Creeper	brncre	0.6958	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240822_185300.wav	1842.0
+9	Spectrogram 1	1	1845.0	1848.0	0	12000.0	Brown Creeper	brncre	0.1620	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240822_185300.wav	1845.0
+10	Spectrogram 1	1	1848.0	1851.0	0	12000.0	Brown Creeper	brncre	0.4577	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240822_185300.wav	1848.0
+11	Spectrogram 1	1	1851.0	1854.0	0	12000.0	Brown Creeper	brncre	0.4856	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240822_185300.wav	1851.0
+12	Spectrogram 1	1	1854.0	1857.0	0	12000.0	Brown Creeper	brncre	0.8032	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240822_185300.wav	1854.0
+13	Spectrogram 1	1	2475.0	2478.0	0	12000.0	Common Raven	comrav	0.3737	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240822_185300.wav	2475.0
+14	Spectrogram 1	1	3090.0	3093.0	0	12000.0	Blue Jay	blujay	0.1004	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240822_185300.wav	3090.0
+15	Spectrogram 1	1	3099.0	3102.0	0	12000.0	Blue Jay	blujay	0.1630	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240822_185300.wav	3099.0
+16	Spectrogram 1	1	3294.0	3297.0	0	12000.0	Blue Jay	blujay	0.1139	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240822_185300.wav	3294.0

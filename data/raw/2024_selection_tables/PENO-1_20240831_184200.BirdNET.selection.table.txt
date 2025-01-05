@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	168.0	171.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6550	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240831_184200.wav	168.0
+2	Spectrogram 1	1	405.0	408.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1150	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240831_184200.wav	405.0
+3	Spectrogram 1	1	480.0	483.0	0	12000.0	American Goldfinch	amegfi	0.1146	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240831_184200.wav	480.0
+4	Spectrogram 1	1	609.0	612.0	0	12000.0	Eastern Bluebird	easblu	0.1138	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240831_184200.wav	609.0
+5	Spectrogram 1	1	669.0	672.0	0	12000.0	Pileated Woodpecker	pilwoo	0.4609	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240831_184200.wav	669.0
+6	Spectrogram 1	1	669.0	672.0	0	12000.0	Mourning Dove	moudov	0.4514	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240831_184200.wav	669.0
+7	Spectrogram 1	1	690.0	693.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1088	D:/Island_Songbirds_2024/PENO-1/Data\PENO-1_20240831_184200.wav	690.0

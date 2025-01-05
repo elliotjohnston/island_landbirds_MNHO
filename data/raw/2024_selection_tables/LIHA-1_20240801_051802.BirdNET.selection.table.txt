@@ -1,0 +1,48 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	135.0	138.0	0	12000.0	Great Crested Flycatcher	grcfly	0.8481	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	135.0
+2	Spectrogram 1	1	204.0	207.0	0	12000.0	White-winged Crossbill	whwcro	0.1172	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	204.0
+3	Spectrogram 1	1	243.0	246.0	0	12000.0	House Finch	houfin	0.1032	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	243.0
+4	Spectrogram 1	1	285.0	288.0	0	12000.0	White-throated Sparrow	whtspa	0.1309	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	285.0
+5	Spectrogram 1	1	309.0	312.0	0	12000.0	Great Crested Flycatcher	grcfly	0.1008	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	309.0
+6	Spectrogram 1	1	444.0	447.0	0	12000.0	American Crow	amecro	0.6238	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	444.0
+7	Spectrogram 1	1	447.0	450.0	0	12000.0	American Crow	amecro	0.5222	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	447.0
+8	Spectrogram 1	1	609.0	612.0	0	12000.0	White-throated Sparrow	whtspa	0.2478	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	609.0
+9	Spectrogram 1	1	639.0	642.0	0	12000.0	Great Crested Flycatcher	grcfly	0.6057	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	639.0
+10	Spectrogram 1	1	699.0	702.0	0	12000.0	Evening Grosbeak	evegro	0.3262	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	699.0
+11	Spectrogram 1	1	729.0	732.0	0	12000.0	Blue Jay	blujay	0.1589	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	729.0
+12	Spectrogram 1	1	744.0	747.0	0	12000.0	Blue Jay	blujay	0.2184	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	744.0
+13	Spectrogram 1	1	834.0	837.0	0	12000.0	American Crow	amecro	0.8050	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	834.0
+14	Spectrogram 1	1	837.0	840.0	0	12000.0	American Crow	amecro	0.5924	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	837.0
+15	Spectrogram 1	1	885.0	888.0	0	12000.0	White-throated Sparrow	whtspa	0.3281	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	885.0
+16	Spectrogram 1	1	894.0	897.0	0	12000.0	American Crow	amecro	0.6953	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	894.0
+17	Spectrogram 1	1	984.0	987.0	0	12000.0	Common Yellowthroat	comyel	0.1490	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	984.0
+18	Spectrogram 1	1	996.0	999.0	0	12000.0	American Crow	amecro	0.3719	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	996.0
+19	Spectrogram 1	1	1083.0	1086.0	0	12000.0	Great Crested Flycatcher	grcfly	0.4379	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	1083.0
+20	Spectrogram 1	1	1107.0	1110.0	0	12000.0	White-throated Sparrow	whtspa	0.2193	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	1107.0
+21	Spectrogram 1	1	1113.0	1116.0	0	12000.0	White-throated Sparrow	whtspa	0.1810	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	1113.0
+22	Spectrogram 1	1	1113.0	1116.0	0	12000.0	Brown Creeper	brncre	0.1021	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	1113.0
+23	Spectrogram 1	1	1188.0	1191.0	0	12000.0	White-throated Sparrow	whtspa	0.1577	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	1188.0
+24	Spectrogram 1	1	1209.0	1212.0	0	12000.0	Common Yellowthroat	comyel	0.2726	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	1209.0
+25	Spectrogram 1	1	1215.0	1218.0	0	12000.0	Common Yellowthroat	comyel	0.6978	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	1215.0
+26	Spectrogram 1	1	1797.0	1800.0	0	12000.0	American Crow	amecro	0.1301	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	1797.0
+27	Spectrogram 1	1	1899.0	1902.0	0	12000.0	American Crow	amecro	0.1523	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	1899.0
+28	Spectrogram 1	1	1938.0	1941.0	0	12000.0	American Crow	amecro	0.1093	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	1938.0
+29	Spectrogram 1	1	2007.0	2010.0	0	12000.0	American Crow	amecro	0.1119	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	2007.0
+30	Spectrogram 1	1	2010.0	2013.0	0	12000.0	American Crow	amecro	0.3815	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	2010.0
+31	Spectrogram 1	1	2040.0	2043.0	0	12000.0	American Crow	amecro	0.2263	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	2040.0
+32	Spectrogram 1	1	2061.0	2064.0	0	12000.0	American Crow	amecro	0.1740	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	2061.0
+33	Spectrogram 1	1	2064.0	2067.0	0	12000.0	American Crow	amecro	0.1516	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	2064.0
+34	Spectrogram 1	1	2085.0	2088.0	0	12000.0	American Crow	amecro	0.2716	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	2085.0
+35	Spectrogram 1	1	2091.0	2094.0	0	12000.0	American Crow	amecro	0.1251	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	2091.0
+36	Spectrogram 1	1	2355.0	2358.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9844	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	2355.0
+37	Spectrogram 1	1	2736.0	2739.0	0	12000.0	Pileated Woodpecker	pilwoo	0.3759	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	2736.0
+38	Spectrogram 1	1	2838.0	2841.0	0	12000.0	White-throated Sparrow	whtspa	0.1620	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	2838.0
+39	Spectrogram 1	1	2853.0	2856.0	0	12000.0	White-throated Sparrow	whtspa	0.1042	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	2853.0
+40	Spectrogram 1	1	2859.0	2862.0	0	12000.0	Brown Creeper	brncre	0.1011	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	2859.0
+41	Spectrogram 1	1	2955.0	2958.0	0	12000.0	Downy Woodpecker	dowwoo	0.1193	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	2955.0
+42	Spectrogram 1	1	3138.0	3141.0	0	12000.0	Winter Wren	winwre3	0.1345	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	3138.0
+43	Spectrogram 1	1	3318.0	3321.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.4170	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	3318.0
+44	Spectrogram 1	1	3321.0	3324.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9820	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	3321.0
+45	Spectrogram 1	1	3324.0	3327.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9550	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	3324.0
+46	Spectrogram 1	1	3327.0	3330.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9597	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	3327.0
+47	Spectrogram 1	1	3330.0	3333.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.8446	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240801_051802.wav	3330.0

@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	3096.0	3099.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4848	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240901_045600.wav	3096.0
+2	Spectrogram 1	1	3096.0	3099.0	0	12000.0	Brown Creeper	brncre	0.3593	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240901_045600.wav	3096.0
+3	Spectrogram 1	1	3180.0	3183.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2016	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240901_045600.wav	3180.0
+4	Spectrogram 1	1	3315.0	3318.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5820	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240901_045600.wav	3315.0
+5	Spectrogram 1	1	3378.0	3381.0	0	12000.0	American Crow	amecro	0.1384	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240901_045600.wav	3378.0
+6	Spectrogram 1	1	3381.0	3384.0	0	12000.0	American Crow	amecro	0.1834	D:/Island_Songbirds_2024/TURT-1/Data\TURT-1_20240901_045600.wav	3381.0

@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	594.0	597.0	0	12000.0	Common Raven	comrav	0.4131	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240504_190900.wav	594.0
+2	Spectrogram 1	1	777.0	780.0	0	12000.0	Song Sparrow	sonspa	0.3368	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240504_190900.wav	777.0
+3	Spectrogram 1	1	1635.0	1638.0	0	12000.0	Common Raven	comrav	0.1150	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240504_190900.wav	1635.0
+4	Spectrogram 1	1	2010.0	2013.0	0	12000.0	Common Raven	comrav	0.1702	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240504_190900.wav	2010.0
+5	Spectrogram 1	1	2358.0	2361.0	0	12000.0	Winter Wren	winwre3	0.4393	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240504_190900.wav	2358.0
+6	Spectrogram 1	1	3486.0	3489.0	0	12000.0	Common Raven	comrav	0.2748	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240504_190900.wav	3486.0

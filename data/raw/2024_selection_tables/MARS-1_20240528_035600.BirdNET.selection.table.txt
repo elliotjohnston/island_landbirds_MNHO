@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2889.0	2892.0	0	12000.0	Cedar Waxwing	cedwax	0.1731	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240528_035600.wav	2889.0
+2	Spectrogram 1	1	2952.0	2955.0	0	12000.0	White-winged Crossbill	whwcro	0.1510	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240528_035600.wav	2952.0
+3	Spectrogram 1	1	2979.0	2982.0	0	12000.0	White-throated Sparrow	whtspa	0.1947	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240528_035600.wav	2979.0
+4	Spectrogram 1	1	3129.0	3132.0	0	12000.0	White-throated Sparrow	whtspa	0.3242	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240528_035600.wav	3129.0
+5	Spectrogram 1	1	3129.0	3132.0	0	12000.0	Spruce Grouse	sprgro	0.2999	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240528_035600.wav	3129.0
+6	Spectrogram 1	1	3309.0	3312.0	0	12000.0	White-throated Sparrow	whtspa	0.2157	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240528_035600.wav	3309.0
+7	Spectrogram 1	1	3324.0	3327.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1290	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240528_035600.wav	3324.0
+8	Spectrogram 1	1	3402.0	3405.0	0	12000.0	Dark-eyed Junco	daejun	0.1220	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240528_035600.wav	3402.0
+9	Spectrogram 1	1	3435.0	3438.0	0	12000.0	Hermit Thrush	herthr	0.1304	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240528_035600.wav	3435.0
+10	Spectrogram 1	1	3456.0	3459.0	0	12000.0	Dark-eyed Junco	daejun	0.1070	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240528_035600.wav	3456.0
+11	Spectrogram 1	1	3504.0	3507.0	0	12000.0	Spruce Grouse	sprgro	0.2425	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240528_035600.wav	3504.0
+12	Spectrogram 1	1	3516.0	3519.0	0	12000.0	Spruce Grouse	sprgro	0.4925	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240528_035600.wav	3516.0
+13	Spectrogram 1	1	3516.0	3519.0	0	12000.0	White-throated Sparrow	whtspa	0.1251	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240528_035600.wav	3516.0
+14	Spectrogram 1	1	3525.0	3528.0	0	12000.0	White-throated Sparrow	whtspa	0.3873	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240528_035600.wav	3525.0
+15	Spectrogram 1	1	3525.0	3528.0	0	12000.0	Spruce Grouse	sprgro	0.1831	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240528_035600.wav	3525.0
+16	Spectrogram 1	1	3546.0	3549.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2060	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240528_035600.wav	3546.0
+17	Spectrogram 1	1	3546.0	3549.0	0	12000.0	Dark-eyed Junco	daejun	0.1351	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240528_035600.wav	3546.0
+18	Spectrogram 1	1	3549.0	3552.0	0	12000.0	White-throated Sparrow	whtspa	0.2811	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240528_035600.wav	3549.0
+19	Spectrogram 1	1	3579.0	3582.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1473	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240528_035600.wav	3579.0
+20	Spectrogram 1	1	3597.0	3600.0	0	12000.0	Dark-eyed Junco	daejun	0.1847	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240528_035600.wav	3597.0

@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	0	3.0	0	12000.0	Song Sparrow	sonspa	0.1305	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240626_195100.wav	0
+2	Spectrogram 1	1	30.0	33.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9416	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240626_195100.wav	30.0
+3	Spectrogram 1	1	1557.0	1560.0	0	12000.0	Song Sparrow	sonspa	0.5086	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240626_195100.wav	1557.0
+4	Spectrogram 1	1	1710.0	1713.0	0	12000.0	Song Sparrow	sonspa	0.3661	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240626_195100.wav	1710.0
+5	Spectrogram 1	1	1713.0	1716.0	0	12000.0	Song Sparrow	sonspa	0.6043	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240626_195100.wav	1713.0
+6	Spectrogram 1	1	2346.0	2349.0	0	12000.0	Swainson's Thrush	swathr	0.1794	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240626_195100.wav	2346.0
+7	Spectrogram 1	1	2382.0	2385.0	0	12000.0	Swainson's Thrush	swathr	0.3136	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240626_195100.wav	2382.0
+8	Spectrogram 1	1	2382.0	2385.0	0	12000.0	Hermit Thrush	herthr	0.2098	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240626_195100.wav	2382.0
+9	Spectrogram 1	1	2391.0	2394.0	0	12000.0	Swainson's Thrush	swathr	0.1168	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240626_195100.wav	2391.0
+10	Spectrogram 1	1	2400.0	2403.0	0	12000.0	Hermit Thrush	herthr	0.1511	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240626_195100.wav	2400.0
+11	Spectrogram 1	1	2400.0	2403.0	0	12000.0	Swainson's Thrush	swathr	0.1111	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240626_195100.wav	2400.0
+12	Spectrogram 1	1	2421.0	2424.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3388	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240626_195100.wav	2421.0

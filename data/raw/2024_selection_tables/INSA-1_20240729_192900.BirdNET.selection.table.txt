@@ -1,0 +1,42 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	84.0	87.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1201	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	84.0
+2	Spectrogram 1	1	105.0	108.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2945	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	105.0
+3	Spectrogram 1	1	123.0	126.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1171	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	123.0
+4	Spectrogram 1	1	129.0	132.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5252	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	129.0
+5	Spectrogram 1	1	162.0	165.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1007	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	162.0
+6	Spectrogram 1	1	198.0	201.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1716	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	198.0
+7	Spectrogram 1	1	315.0	318.0	0	12000.0	Black-capped Chickadee	bkcchi	0.2307	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	315.0
+8	Spectrogram 1	1	327.0	330.0	0	12000.0	Blackpoll Warbler	bkpwar	0.4174	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	327.0
+9	Spectrogram 1	1	369.0	372.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1202	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	369.0
+10	Spectrogram 1	1	381.0	384.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4111	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	381.0
+11	Spectrogram 1	1	393.0	396.0	0	12000.0	Blackpoll Warbler	bkpwar	0.2695	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	393.0
+12	Spectrogram 1	1	396.0	399.0	0	12000.0	Black-capped Chickadee	bkcchi	0.1112	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	396.0
+13	Spectrogram 1	1	402.0	405.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2130	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	402.0
+14	Spectrogram 1	1	405.0	408.0	0	12000.0	Black-capped Chickadee	bkcchi	0.3164	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	405.0
+15	Spectrogram 1	1	408.0	411.0	0	12000.0	Black-capped Chickadee	bkcchi	0.2641	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	408.0
+16	Spectrogram 1	1	411.0	414.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1047	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	411.0
+17	Spectrogram 1	1	417.0	420.0	0	12000.0	Black-capped Chickadee	bkcchi	0.7258	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	417.0
+18	Spectrogram 1	1	423.0	426.0	0	12000.0	Black-capped Chickadee	bkcchi	0.5516	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	423.0
+19	Spectrogram 1	1	426.0	429.0	0	12000.0	Black-capped Chickadee	bkcchi	0.8068	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	426.0
+20	Spectrogram 1	1	429.0	432.0	0	12000.0	Black-capped Chickadee	bkcchi	0.4011	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	429.0
+21	Spectrogram 1	1	432.0	435.0	0	12000.0	Black-capped Chickadee	bkcchi	0.9433	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	432.0
+22	Spectrogram 1	1	432.0	435.0	0	12000.0	Boreal Chickadee	borchi2	0.1085	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	432.0
+23	Spectrogram 1	1	435.0	438.0	0	12000.0	Black-capped Chickadee	bkcchi	0.3714	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	435.0
+24	Spectrogram 1	1	441.0	444.0	0	12000.0	Black-capped Chickadee	bkcchi	0.1375	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	441.0
+25	Spectrogram 1	1	447.0	450.0	0	12000.0	Black-capped Chickadee	bkcchi	0.2364	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	447.0
+26	Spectrogram 1	1	456.0	459.0	0	12000.0	Black-capped Chickadee	bkcchi	0.1546	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	456.0
+27	Spectrogram 1	1	456.0	459.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1264	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	456.0
+28	Spectrogram 1	1	597.0	600.0	0	12000.0	Common Raven	comrav	0.2539	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	597.0
+29	Spectrogram 1	1	1557.0	1560.0	0	12000.0	American Redstart	amered	0.1318	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	1557.0
+30	Spectrogram 1	1	1599.0	1602.0	0	12000.0	White-throated Sparrow	whtspa	0.1095	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	1599.0
+31	Spectrogram 1	1	1626.0	1629.0	0	12000.0	Cedar Waxwing	cedwax	0.1955	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	1626.0
+32	Spectrogram 1	1	1665.0	1668.0	0	12000.0	Cedar Waxwing	cedwax	0.4771	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	1665.0
+33	Spectrogram 1	1	1899.0	1902.0	0	12000.0	Cedar Waxwing	cedwax	0.5485	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	1899.0
+34	Spectrogram 1	1	1917.0	1920.0	0	12000.0	Cedar Waxwing	cedwax	0.1070	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	1917.0
+35	Spectrogram 1	1	1929.0	1932.0	0	12000.0	Cedar Waxwing	cedwax	0.1940	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	1929.0
+36	Spectrogram 1	1	1935.0	1938.0	0	12000.0	Cedar Waxwing	cedwax	0.5180	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	1935.0
+37	Spectrogram 1	1	1938.0	1941.0	0	12000.0	Cedar Waxwing	cedwax	0.7803	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	1938.0
+38	Spectrogram 1	1	1941.0	1944.0	0	12000.0	Cedar Waxwing	cedwax	0.4561	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	1941.0
+39	Spectrogram 1	1	1944.0	1947.0	0	12000.0	Cedar Waxwing	cedwax	0.8991	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	1944.0
+40	Spectrogram 1	1	1947.0	1950.0	0	12000.0	Cedar Waxwing	cedwax	0.8249	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	1947.0
+41	Spectrogram 1	1	1950.0	1953.0	0	12000.0	Cedar Waxwing	cedwax	0.2436	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240729_192900.wav	1950.0

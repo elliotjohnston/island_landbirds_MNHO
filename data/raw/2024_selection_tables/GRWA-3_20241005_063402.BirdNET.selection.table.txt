@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	231.0	234.0	0	12000.0	Brown Creeper	brncre	0.1282	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20241005_063402.wav	231.0
+2	Spectrogram 1	1	252.0	255.0	0	12000.0	Palm Warbler	palwar	0.1113	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20241005_063402.wav	252.0
+3	Spectrogram 1	1	576.0	579.0	0	12000.0	Cedar Waxwing	cedwax	0.2880	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20241005_063402.wav	576.0
+4	Spectrogram 1	1	849.0	852.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2226	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20241005_063402.wav	849.0
+5	Spectrogram 1	1	1329.0	1332.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4939	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20241005_063402.wav	1329.0
+6	Spectrogram 1	1	1641.0	1644.0	0	12000.0	American Crow	amecro	0.1130	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20241005_063402.wav	1641.0
+7	Spectrogram 1	1	1644.0	1647.0	0	12000.0	American Crow	amecro	0.1360	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20241005_063402.wav	1644.0
+8	Spectrogram 1	1	1788.0	1791.0	0	12000.0	Dark-eyed Junco	daejun	0.1596	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20241005_063402.wav	1788.0
+9	Spectrogram 1	1	1983.0	1986.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3774	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20241005_063402.wav	1983.0
+10	Spectrogram 1	1	1983.0	1986.0	0	12000.0	Brown Creeper	brncre	0.3466	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20241005_063402.wav	1983.0
+11	Spectrogram 1	1	1989.0	1992.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6686	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20241005_063402.wav	1989.0
+12	Spectrogram 1	1	1998.0	2001.0	0	12000.0	Tufted Titmouse	tuftit	0.4139	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20241005_063402.wav	1998.0
+13	Spectrogram 1	1	2022.0	2025.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1220	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20241005_063402.wav	2022.0
+14	Spectrogram 1	1	2061.0	2064.0	0	12000.0	Brown Creeper	brncre	0.1308	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20241005_063402.wav	2061.0
+15	Spectrogram 1	1	2619.0	2622.0	0	12000.0	American Crow	amecro	0.1247	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20241005_063402.wav	2619.0
+16	Spectrogram 1	1	2634.0	2637.0	0	12000.0	American Crow	amecro	0.1822	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20241005_063402.wav	2634.0
+17	Spectrogram 1	1	2661.0	2664.0	0	12000.0	American Crow	amecro	0.2669	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20241005_063402.wav	2661.0
+18	Spectrogram 1	1	2670.0	2673.0	0	12000.0	American Crow	amecro	0.2631	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20241005_063402.wav	2670.0
+19	Spectrogram 1	1	2721.0	2724.0	0	12000.0	American Crow	amecro	0.2703	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20241005_063402.wav	2721.0
+20	Spectrogram 1	1	3129.0	3132.0	0	12000.0	Common Raven	comrav	0.2628	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20241005_063402.wav	3129.0
+21	Spectrogram 1	1	3132.0	3135.0	0	12000.0	Common Raven	comrav	0.1714	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20241005_063402.wav	3132.0
+22	Spectrogram 1	1	3207.0	3210.0	0	12000.0	Common Raven	comrav	0.2352	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20241005_063402.wav	3207.0
+23	Spectrogram 1	1	3357.0	3360.0	0	12000.0	American Crow	amecro	0.2018	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20241005_063402.wav	3357.0

@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	747.0	750.0	0	12000.0	Pileated Woodpecker	pilwoo	0.1358	D:/Island_Songbirds_2024/BIGA-1/Data\BIGA-1_20240810_191700.wav	747.0

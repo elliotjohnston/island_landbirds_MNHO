@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1470.0	1473.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1607	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240901_055302.wav	1470.0
+2	Spectrogram 1	1	1677.0	1680.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1329	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240901_055302.wav	1677.0
+3	Spectrogram 1	1	1740.0	1743.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1135	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240901_055302.wav	1740.0
+4	Spectrogram 1	1	1743.0	1746.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1068	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240901_055302.wav	1743.0
+5	Spectrogram 1	1	1809.0	1812.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1359	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240901_055302.wav	1809.0
+6	Spectrogram 1	1	2742.0	2745.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.4488	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240901_055302.wav	2742.0

@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	258.0	261.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1005	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240811_191100.wav	258.0
+2	Spectrogram 1	1	288.0	291.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7099	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240811_191100.wav	288.0
+3	Spectrogram 1	1	324.0	327.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1995	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240811_191100.wav	324.0
+4	Spectrogram 1	1	333.0	336.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2164	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240811_191100.wav	333.0
+5	Spectrogram 1	1	381.0	384.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9100	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240811_191100.wav	381.0
+6	Spectrogram 1	1	387.0	390.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8564	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240811_191100.wav	387.0
+7	Spectrogram 1	1	402.0	405.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2780	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240811_191100.wav	402.0
+8	Spectrogram 1	1	459.0	462.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7287	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240811_191100.wav	459.0
+9	Spectrogram 1	1	480.0	483.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1281	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240811_191100.wav	480.0
+10	Spectrogram 1	1	750.0	753.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2320	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240811_191100.wav	750.0
+11	Spectrogram 1	1	762.0	765.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1810	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240811_191100.wav	762.0
+12	Spectrogram 1	1	987.0	990.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3608	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240811_191100.wav	987.0
+13	Spectrogram 1	1	1047.0	1050.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3091	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240811_191100.wav	1047.0

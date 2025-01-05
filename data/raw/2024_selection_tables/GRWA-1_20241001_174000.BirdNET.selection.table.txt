@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	9.0	12.0	0	12000.0	Eastern Bluebird	easblu	0.2735	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241001_174000.wav	9.0
+2	Spectrogram 1	1	123.0	126.0	0	12000.0	Pileated Woodpecker	pilwoo	0.4038	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241001_174000.wav	123.0
+3	Spectrogram 1	1	564.0	567.0	0	12000.0	Tufted Titmouse	tuftit	0.1558	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241001_174000.wav	564.0
+4	Spectrogram 1	1	576.0	579.0	0	12000.0	Tufted Titmouse	tuftit	0.1631	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241001_174000.wav	576.0
+5	Spectrogram 1	1	870.0	873.0	0	12000.0	American Crow	amecro	0.7702	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241001_174000.wav	870.0
+6	Spectrogram 1	1	873.0	876.0	0	12000.0	American Crow	amecro	0.8786	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241001_174000.wav	873.0
+7	Spectrogram 1	1	876.0	879.0	0	12000.0	American Crow	amecro	0.6999	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241001_174000.wav	876.0
+8	Spectrogram 1	1	882.0	885.0	0	12000.0	American Crow	amecro	0.8207	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241001_174000.wav	882.0
+9	Spectrogram 1	1	885.0	888.0	0	12000.0	American Crow	amecro	0.6751	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241001_174000.wav	885.0
+10	Spectrogram 1	1	894.0	897.0	0	12000.0	American Crow	amecro	0.2852	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241001_174000.wav	894.0
+11	Spectrogram 1	1	1500.0	1503.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2147	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241001_174000.wav	1500.0
+12	Spectrogram 1	1	1545.0	1548.0	0	12000.0	Tufted Titmouse	tuftit	0.1006	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241001_174000.wav	1545.0
+13	Spectrogram 1	1	1947.0	1950.0	0	12000.0	Eastern Bluebird	easblu	0.1297	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241001_174000.wav	1947.0
+14	Spectrogram 1	1	2385.0	2388.0	0	12000.0	Brown Creeper	brncre	0.1814	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241001_174000.wav	2385.0
+15	Spectrogram 1	1	2397.0	2400.0	0	12000.0	Brown Creeper	brncre	0.1753	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241001_174000.wav	2397.0
+16	Spectrogram 1	1	2478.0	2481.0	0	12000.0	Wood Thrush	woothr	0.1065	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20241001_174000.wav	2478.0

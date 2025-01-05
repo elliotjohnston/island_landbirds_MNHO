@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	831.0	834.0	0	12000.0	Mourning Dove	moudov	0.1179	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240927_174600.wav	831.0
+2	Spectrogram 1	1	1146.0	1149.0	0	12000.0	Brown Creeper	brncre	0.1732	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240927_174600.wav	1146.0
+3	Spectrogram 1	1	1173.0	1176.0	0	12000.0	Brown Creeper	brncre	0.1804	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240927_174600.wav	1173.0
+4	Spectrogram 1	1	1188.0	1191.0	0	12000.0	Brown Creeper	brncre	0.5534	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240927_174600.wav	1188.0
+5	Spectrogram 1	1	1188.0	1191.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1516	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240927_174600.wav	1188.0
+6	Spectrogram 1	1	1224.0	1227.0	0	12000.0	Brown Creeper	brncre	0.1023	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240927_174600.wav	1224.0
+7	Spectrogram 1	1	1302.0	1305.0	0	12000.0	Cedar Waxwing	cedwax	0.1066	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240927_174600.wav	1302.0
+8	Spectrogram 1	1	2436.0	2439.0	0	12000.0	Canada Warbler	canwar	0.1245	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240927_174600.wav	2436.0

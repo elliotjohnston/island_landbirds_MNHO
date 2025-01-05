@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	276.0	279.0	0	12000.0	Common Raven	comrav	0.1636	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240920_175900.wav	276.0
+2	Spectrogram 1	1	441.0	444.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2117	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240920_175900.wav	441.0
+3	Spectrogram 1	1	480.0	483.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2696	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240920_175900.wav	480.0
+4	Spectrogram 1	1	483.0	486.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1206	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240920_175900.wav	483.0
+5	Spectrogram 1	1	489.0	492.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2349	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240920_175900.wav	489.0
+6	Spectrogram 1	1	492.0	495.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4613	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240920_175900.wav	492.0
+7	Spectrogram 1	1	495.0	498.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2523	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240920_175900.wav	495.0
+8	Spectrogram 1	1	537.0	540.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8370	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240920_175900.wav	537.0
+9	Spectrogram 1	1	576.0	579.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4367	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240920_175900.wav	576.0
+10	Spectrogram 1	1	1488.0	1491.0	0	12000.0	Winter Wren	winwre3	0.7775	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240920_175900.wav	1488.0
+11	Spectrogram 1	1	1557.0	1560.0	0	12000.0	Winter Wren	winwre3	0.1309	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240920_175900.wav	1557.0
+12	Spectrogram 1	1	1560.0	1563.0	0	12000.0	Winter Wren	winwre3	0.8825	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240920_175900.wav	1560.0

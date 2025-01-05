@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	402.0	405.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1164	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240827_184500.wav	402.0
+2	Spectrogram 1	1	408.0	411.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4598	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240827_184500.wav	408.0
+3	Spectrogram 1	1	447.0	450.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1493	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240827_184500.wav	447.0
+4	Spectrogram 1	1	474.0	477.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1214	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240827_184500.wav	474.0
+5	Spectrogram 1	1	528.0	531.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1817	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240827_184500.wav	528.0
+6	Spectrogram 1	1	651.0	654.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6349	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240827_184500.wav	651.0
+7	Spectrogram 1	1	663.0	666.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6225	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240827_184500.wav	663.0
+8	Spectrogram 1	1	696.0	699.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3116	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240827_184500.wav	696.0
+9	Spectrogram 1	1	699.0	702.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3639	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240827_184500.wav	699.0
+10	Spectrogram 1	1	705.0	708.0	0	12000.0	Tufted Titmouse	tuftit	0.1841	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240827_184500.wav	705.0
+11	Spectrogram 1	1	705.0	708.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1815	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240827_184500.wav	705.0
+12	Spectrogram 1	1	762.0	765.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5916	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240827_184500.wav	762.0
+13	Spectrogram 1	1	774.0	777.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1277	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240827_184500.wav	774.0
+14	Spectrogram 1	1	861.0	864.0	0	12000.0	Downy Woodpecker	dowwoo	0.1501	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240827_184500.wav	861.0
+15	Spectrogram 1	1	3165.0	3168.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.1134	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240827_184500.wav	3165.0
+16	Spectrogram 1	1	3246.0	3249.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.1611	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240827_184500.wav	3246.0

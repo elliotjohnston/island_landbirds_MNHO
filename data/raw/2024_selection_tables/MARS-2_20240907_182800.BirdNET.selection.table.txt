@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1257.0	1260.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3201	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240907_182800.wav	1257.0
+2	Spectrogram 1	1	1290.0	1293.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7766	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240907_182800.wav	1290.0
+3	Spectrogram 1	1	1566.0	1569.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1499	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240907_182800.wav	1566.0
+4	Spectrogram 1	1	1590.0	1593.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2485	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240907_182800.wav	1590.0
+5	Spectrogram 1	1	1626.0	1629.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1285	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240907_182800.wav	1626.0
+6	Spectrogram 1	1	1791.0	1794.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1400	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240907_182800.wav	1791.0
+7	Spectrogram 1	1	1914.0	1917.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2030	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240907_182800.wav	1914.0
+8	Spectrogram 1	1	1947.0	1950.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8532	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240907_182800.wav	1947.0
+9	Spectrogram 1	1	3006.0	3009.0	0	12000.0	Swainson's Thrush	swathr	0.3961	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240907_182800.wav	3006.0
+10	Spectrogram 1	1	3009.0	3012.0	0	12000.0	Swainson's Thrush	swathr	0.2293	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240907_182800.wav	3009.0
+11	Spectrogram 1	1	3012.0	3015.0	0	12000.0	Swainson's Thrush	swathr	0.2333	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240907_182800.wav	3012.0
+12	Spectrogram 1	1	3099.0	3102.0	0	12000.0	Swainson's Thrush	swathr	0.2573	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240907_182800.wav	3099.0
+13	Spectrogram 1	1	3108.0	3111.0	0	12000.0	Swainson's Thrush	swathr	0.2929	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240907_182800.wav	3108.0

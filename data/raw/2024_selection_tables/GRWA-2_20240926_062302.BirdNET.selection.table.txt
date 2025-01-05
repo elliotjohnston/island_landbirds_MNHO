@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	687.0	690.0	0	12000.0	Cedar Waxwing	cedwax	0.3924	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240926_062302.wav	687.0
+2	Spectrogram 1	1	1269.0	1272.0	0	12000.0	American Crow	amecro	0.1054	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240926_062302.wav	1269.0
+3	Spectrogram 1	1	1302.0	1305.0	0	12000.0	American Crow	amecro	0.1015	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240926_062302.wav	1302.0

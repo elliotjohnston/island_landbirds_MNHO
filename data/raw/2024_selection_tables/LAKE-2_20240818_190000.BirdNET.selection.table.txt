@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	798.0	801.0	0	12000.0	Dark-eyed Junco	daejun	0.1003	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240818_190000.wav	798.0

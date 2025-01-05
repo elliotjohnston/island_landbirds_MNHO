@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2229.0	2232.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.3758	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240807_042300.wav	2229.0
+2	Spectrogram 1	1	2367.0	2370.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.1020	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240807_042300.wav	2367.0
+3	Spectrogram 1	1	2469.0	2472.0	0	12000.0	White-throated Sparrow	whtspa	0.2546	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240807_042300.wav	2469.0
+4	Spectrogram 1	1	2784.0	2787.0	0	12000.0	White-throated Sparrow	whtspa	0.2426	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240807_042300.wav	2784.0
+5	Spectrogram 1	1	2790.0	2793.0	0	12000.0	White-throated Sparrow	whtspa	0.1134	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240807_042300.wav	2790.0
+6	Spectrogram 1	1	2814.0	2817.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.2435	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240807_042300.wav	2814.0
+7	Spectrogram 1	1	2880.0	2883.0	0	12000.0	Evening Grosbeak	evegro	0.1019	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240807_042300.wav	2880.0
+8	Spectrogram 1	1	3084.0	3087.0	0	12000.0	Evening Grosbeak	evegro	0.1054	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240807_042300.wav	3084.0

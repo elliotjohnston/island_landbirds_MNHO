@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	336.0	339.0	0	12000.0	Black-and-white Warbler	bawwar	0.1284	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240915_181000.wav	336.0
+2	Spectrogram 1	1	411.0	414.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.8476	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240915_181000.wav	411.0
+3	Spectrogram 1	1	474.0	477.0	0	12000.0	American Crow	amecro	0.7084	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240915_181000.wav	474.0
+4	Spectrogram 1	1	477.0	480.0	0	12000.0	American Crow	amecro	0.9132	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240915_181000.wav	477.0
+5	Spectrogram 1	1	486.0	489.0	0	12000.0	American Crow	amecro	0.2938	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240915_181000.wav	486.0
+6	Spectrogram 1	1	489.0	492.0	0	12000.0	American Crow	amecro	0.2246	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240915_181000.wav	489.0
+7	Spectrogram 1	1	570.0	573.0	0	12000.0	American Crow	amecro	0.2625	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240915_181000.wav	570.0
+8	Spectrogram 1	1	864.0	867.0	0	12000.0	American Crow	amecro	0.9761	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240915_181000.wav	864.0
+9	Spectrogram 1	1	1230.0	1233.0	0	12000.0	White-crowned Sparrow	whcspa	0.1574	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240915_181000.wav	1230.0
+10	Spectrogram 1	1	1236.0	1239.0	0	12000.0	Song Sparrow	sonspa	0.1226	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240915_181000.wav	1236.0
+11	Spectrogram 1	1	1245.0	1248.0	0	12000.0	White-crowned Sparrow	whcspa	0.1781	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240915_181000.wav	1245.0
+12	Spectrogram 1	1	1254.0	1257.0	0	12000.0	Song Sparrow	sonspa	0.2774	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240915_181000.wav	1254.0
+13	Spectrogram 1	1	1263.0	1266.0	0	12000.0	Song Sparrow	sonspa	0.4703	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240915_181000.wav	1263.0
+14	Spectrogram 1	1	1353.0	1356.0	0	12000.0	White-crowned Sparrow	whcspa	0.2157	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240915_181000.wav	1353.0
+15	Spectrogram 1	1	1365.0	1368.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1125	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240915_181000.wav	1365.0
+16	Spectrogram 1	1	1371.0	1374.0	0	12000.0	White-crowned Sparrow	whcspa	0.2849	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240915_181000.wav	1371.0
+17	Spectrogram 1	1	1743.0	1746.0	0	12000.0	Winter Wren	winwre3	0.3162	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240915_181000.wav	1743.0
+18	Spectrogram 1	1	1743.0	1746.0	0	12000.0	Song Sparrow	sonspa	0.2056	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240915_181000.wav	1743.0
+19	Spectrogram 1	1	2169.0	2172.0	0	12000.0	White-crowned Sparrow	whcspa	0.2259	D:/Island_Songbirds_2024/LIHA-1/Data\LIHA-1_20240915_181000.wav	2169.0

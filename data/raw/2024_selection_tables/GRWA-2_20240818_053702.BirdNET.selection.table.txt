@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2115.0	2118.0	0	12000.0	White-throated Sparrow	whtspa	0.2221	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_053702.wav	2115.0
+2	Spectrogram 1	1	2250.0	2253.0	0	12000.0	White-throated Sparrow	whtspa	0.2767	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_053702.wav	2250.0
+3	Spectrogram 1	1	2736.0	2739.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1517	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_053702.wav	2736.0
+4	Spectrogram 1	1	2799.0	2802.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2873	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_053702.wav	2799.0
+5	Spectrogram 1	1	2799.0	2802.0	0	12000.0	Cape May Warbler	camwar	0.1264	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_053702.wav	2799.0
+6	Spectrogram 1	1	2802.0	2805.0	0	12000.0	Cape May Warbler	camwar	0.3891	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_053702.wav	2802.0
+7	Spectrogram 1	1	2802.0	2805.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1542	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_053702.wav	2802.0
+8	Spectrogram 1	1	2802.0	2805.0	0	12000.0	Brown Creeper	brncre	0.1110	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_053702.wav	2802.0
+9	Spectrogram 1	1	2856.0	2859.0	0	12000.0	Cedar Waxwing	cedwax	0.1075	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_053702.wav	2856.0
+10	Spectrogram 1	1	3270.0	3273.0	0	12000.0	Brown Creeper	brncre	0.1493	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_053702.wav	3270.0
+11	Spectrogram 1	1	3270.0	3273.0	0	12000.0	White-throated Sparrow	whtspa	0.1167	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240818_053702.wav	3270.0

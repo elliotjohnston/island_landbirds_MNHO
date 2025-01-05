@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	348.0	351.0	0	12000.0	Swainson's Thrush	swathr	0.1253	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240804_192000.wav	348.0
+2	Spectrogram 1	1	915.0	918.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4759	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240804_192000.wav	915.0
+3	Spectrogram 1	1	2019.0	2022.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.6608	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240804_192000.wav	2019.0
+4	Spectrogram 1	1	2565.0	2568.0	0	12000.0	Swainson's Thrush	swathr	0.1750	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240804_192000.wav	2565.0
+5	Spectrogram 1	1	2571.0	2574.0	0	12000.0	Swainson's Thrush	swathr	0.9153	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240804_192000.wav	2571.0
+6	Spectrogram 1	1	2574.0	2577.0	0	12000.0	Swainson's Thrush	swathr	0.4313	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240804_192000.wav	2574.0

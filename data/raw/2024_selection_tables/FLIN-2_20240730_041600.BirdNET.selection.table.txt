@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2358.0	2361.0	0	12000.0	Dark-eyed Junco	daejun	0.1796	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240730_041600.wav	2358.0
+2	Spectrogram 1	1	3192.0	3195.0	0	12000.0	Dark-eyed Junco	daejun	0.2994	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240730_041600.wav	3192.0
+3	Spectrogram 1	1	3198.0	3201.0	0	12000.0	Dark-eyed Junco	daejun	0.1451	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240730_041600.wav	3198.0
+4	Spectrogram 1	1	3216.0	3219.0	0	12000.0	Dark-eyed Junco	daejun	0.3518	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240730_041600.wav	3216.0
+5	Spectrogram 1	1	3222.0	3225.0	0	12000.0	Dark-eyed Junco	daejun	0.2406	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240730_041600.wav	3222.0
+6	Spectrogram 1	1	3333.0	3336.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1522	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240730_041600.wav	3333.0
+7	Spectrogram 1	1	3336.0	3339.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7770	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240730_041600.wav	3336.0
+8	Spectrogram 1	1	3339.0	3342.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1057	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240730_041600.wav	3339.0
+9	Spectrogram 1	1	3342.0	3345.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5780	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240730_041600.wav	3342.0
+10	Spectrogram 1	1	3342.0	3345.0	0	12000.0	Brown Creeper	brncre	0.4020	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240730_041600.wav	3342.0
+11	Spectrogram 1	1	3345.0	3348.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7780	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240730_041600.wav	3345.0
+12	Spectrogram 1	1	3348.0	3351.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4308	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240730_041600.wav	3348.0
+13	Spectrogram 1	1	3351.0	3354.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7433	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240730_041600.wav	3351.0
+14	Spectrogram 1	1	3354.0	3357.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1760	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240730_041600.wav	3354.0
+15	Spectrogram 1	1	3477.0	3480.0	0	12000.0	Dark-eyed Junco	daejun	0.1603	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240730_041600.wav	3477.0
+16	Spectrogram 1	1	3492.0	3495.0	0	12000.0	Dark-eyed Junco	daejun	0.5712	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240730_041600.wav	3492.0

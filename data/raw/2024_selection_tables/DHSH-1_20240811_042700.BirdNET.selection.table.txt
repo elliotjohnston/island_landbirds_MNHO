@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1827.0	1830.0	0	12000.0	Song Sparrow	sonspa	0.2430	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240811_042700.wav	1827.0
+2	Spectrogram 1	1	1944.0	1947.0	0	12000.0	Song Sparrow	sonspa	0.1264	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240811_042700.wav	1944.0
+3	Spectrogram 1	1	2310.0	2313.0	0	12000.0	Song Sparrow	sonspa	0.2111	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240811_042700.wav	2310.0
+4	Spectrogram 1	1	3396.0	3399.0	0	12000.0	American Crow	amecro	0.1861	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240811_042700.wav	3396.0
+5	Spectrogram 1	1	3402.0	3405.0	0	12000.0	American Crow	amecro	0.7134	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240811_042700.wav	3402.0
+6	Spectrogram 1	1	3417.0	3420.0	0	12000.0	American Crow	amecro	0.4997	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240811_042700.wav	3417.0
+7	Spectrogram 1	1	3438.0	3441.0	0	12000.0	American Crow	amecro	0.8267	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240811_042700.wav	3438.0
+8	Spectrogram 1	1	3441.0	3444.0	0	12000.0	American Crow	amecro	0.3959	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240811_042700.wav	3441.0
+9	Spectrogram 1	1	3528.0	3531.0	0	12000.0	Common Raven	comrav	0.2413	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240811_042700.wav	3528.0
+10	Spectrogram 1	1	3570.0	3573.0	0	12000.0	Common Raven	comrav	0.1986	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240811_042700.wav	3570.0

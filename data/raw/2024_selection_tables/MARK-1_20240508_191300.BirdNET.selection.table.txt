@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	339.0	342.0	0	12000.0	Brown Creeper	brncre	0.1274	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240508_191300.wav	339.0
+2	Spectrogram 1	1	363.0	366.0	0	12000.0	White-throated Sparrow	whtspa	0.2629	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240508_191300.wav	363.0
+3	Spectrogram 1	1	435.0	438.0	0	12000.0	Brown Creeper	brncre	0.1315	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240508_191300.wav	435.0
+4	Spectrogram 1	1	579.0	582.0	0	12000.0	White-throated Sparrow	whtspa	0.5593	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240508_191300.wav	579.0
+5	Spectrogram 1	1	585.0	588.0	0	12000.0	White-throated Sparrow	whtspa	0.2698	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240508_191300.wav	585.0
+6	Spectrogram 1	1	978.0	981.0	0	12000.0	White-throated Sparrow	whtspa	0.2590	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240508_191300.wav	978.0
+7	Spectrogram 1	1	981.0	984.0	0	12000.0	White-throated Sparrow	whtspa	0.1842	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240508_191300.wav	981.0
+8	Spectrogram 1	1	993.0	996.0	0	12000.0	White-throated Sparrow	whtspa	0.3650	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240508_191300.wav	993.0
+9	Spectrogram 1	1	999.0	1002.0	0	12000.0	White-throated Sparrow	whtspa	0.5371	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240508_191300.wav	999.0
+10	Spectrogram 1	1	1011.0	1014.0	0	12000.0	White-throated Sparrow	whtspa	0.1683	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240508_191300.wav	1011.0
+11	Spectrogram 1	1	1017.0	1020.0	0	12000.0	White-throated Sparrow	whtspa	0.1155	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240508_191300.wav	1017.0
+12	Spectrogram 1	1	1020.0	1023.0	0	12000.0	White-throated Sparrow	whtspa	0.2423	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240508_191300.wav	1020.0
+13	Spectrogram 1	1	1173.0	1176.0	0	12000.0	White-throated Sparrow	whtspa	0.2354	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240508_191300.wav	1173.0
+14	Spectrogram 1	1	1890.0	1893.0	0	12000.0	White-throated Sparrow	whtspa	0.1468	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240508_191300.wav	1890.0
+15	Spectrogram 1	1	1980.0	1983.0	0	12000.0	White-throated Sparrow	whtspa	0.2462	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240508_191300.wav	1980.0
+16	Spectrogram 1	1	2439.0	2442.0	0	12000.0	White-throated Sparrow	whtspa	0.5126	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240508_191300.wav	2439.0
+17	Spectrogram 1	1	2439.0	2442.0	0	12000.0	Spruce Grouse	sprgro	0.2050	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240508_191300.wav	2439.0
+18	Spectrogram 1	1	2442.0	2445.0	0	12000.0	White-throated Sparrow	whtspa	0.2721	D:/Island_Songbirds_2024/MARK-1/Data\MARK-1_20240508_191300.wav	2442.0

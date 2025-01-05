@@ -1,0 +1,157 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1665.0	1668.0	0	12000.0	Hermit Thrush	herthr	0.2985	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	1665.0
+2	Spectrogram 1	1	1851.0	1854.0	0	12000.0	Winter Wren	winwre3	0.1063	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	1851.0
+3	Spectrogram 1	1	1914.0	1917.0	0	12000.0	Winter Wren	winwre3	0.2504	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	1914.0
+4	Spectrogram 1	1	1929.0	1932.0	0	12000.0	Winter Wren	winwre3	0.6614	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	1929.0
+5	Spectrogram 1	1	1941.0	1944.0	0	12000.0	Winter Wren	winwre3	0.1030	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	1941.0
+6	Spectrogram 1	1	1959.0	1962.0	0	12000.0	Winter Wren	winwre3	0.9796	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	1959.0
+7	Spectrogram 1	1	1962.0	1965.0	0	12000.0	Winter Wren	winwre3	0.1940	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	1962.0
+8	Spectrogram 1	1	1977.0	1980.0	0	12000.0	Winter Wren	winwre3	0.3329	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	1977.0
+9	Spectrogram 1	1	2016.0	2019.0	0	12000.0	Winter Wren	winwre3	0.2120	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2016.0
+10	Spectrogram 1	1	2019.0	2022.0	0	12000.0	Winter Wren	winwre3	0.1536	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2019.0
+11	Spectrogram 1	1	2037.0	2040.0	0	12000.0	Winter Wren	winwre3	0.9425	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2037.0
+12	Spectrogram 1	1	2046.0	2049.0	0	12000.0	Winter Wren	winwre3	0.1027	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2046.0
+13	Spectrogram 1	1	2082.0	2085.0	0	12000.0	Winter Wren	winwre3	0.3118	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2082.0
+14	Spectrogram 1	1	2085.0	2088.0	0	12000.0	Dark-eyed Junco	daejun	0.6278	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2085.0
+15	Spectrogram 1	1	2094.0	2097.0	0	12000.0	Dark-eyed Junco	daejun	0.1901	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2094.0
+16	Spectrogram 1	1	2097.0	2100.0	0	12000.0	Dark-eyed Junco	daejun	0.6882	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2097.0
+17	Spectrogram 1	1	2100.0	2103.0	0	12000.0	Winter Wren	winwre3	0.1022	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2100.0
+18	Spectrogram 1	1	2109.0	2112.0	0	12000.0	Dark-eyed Junco	daejun	0.4986	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2109.0
+19	Spectrogram 1	1	2118.0	2121.0	0	12000.0	Dark-eyed Junco	daejun	0.2036	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2118.0
+20	Spectrogram 1	1	2121.0	2124.0	0	12000.0	Dark-eyed Junco	daejun	0.8219	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2121.0
+21	Spectrogram 1	1	2130.0	2133.0	0	12000.0	Dark-eyed Junco	daejun	0.6103	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2130.0
+22	Spectrogram 1	1	2136.0	2139.0	0	12000.0	Winter Wren	winwre3	0.3072	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2136.0
+23	Spectrogram 1	1	2139.0	2142.0	0	12000.0	Winter Wren	winwre3	0.4040	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2139.0
+24	Spectrogram 1	1	2142.0	2145.0	0	12000.0	Dark-eyed Junco	daejun	0.5511	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2142.0
+25	Spectrogram 1	1	2145.0	2148.0	0	12000.0	Dark-eyed Junco	daejun	0.8014	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2145.0
+26	Spectrogram 1	1	2157.0	2160.0	0	12000.0	Dark-eyed Junco	daejun	0.7231	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2157.0
+27	Spectrogram 1	1	2166.0	2169.0	0	12000.0	Dark-eyed Junco	daejun	0.5191	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2166.0
+28	Spectrogram 1	1	2181.0	2184.0	0	12000.0	Dark-eyed Junco	daejun	0.1346	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2181.0
+29	Spectrogram 1	1	2193.0	2196.0	0	12000.0	Dark-eyed Junco	daejun	0.1845	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2193.0
+30	Spectrogram 1	1	2199.0	2202.0	0	12000.0	Dark-eyed Junco	daejun	0.7682	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2199.0
+31	Spectrogram 1	1	2205.0	2208.0	0	12000.0	Dark-eyed Junco	daejun	0.4623	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2205.0
+32	Spectrogram 1	1	2211.0	2214.0	0	12000.0	Dark-eyed Junco	daejun	0.6566	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2211.0
+33	Spectrogram 1	1	2214.0	2217.0	0	12000.0	Dark-eyed Junco	daejun	0.3307	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2214.0
+34	Spectrogram 1	1	2217.0	2220.0	0	12000.0	Dark-eyed Junco	daejun	0.6775	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2217.0
+35	Spectrogram 1	1	2226.0	2229.0	0	12000.0	Dark-eyed Junco	daejun	0.6197	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2226.0
+36	Spectrogram 1	1	2229.0	2232.0	0	12000.0	Dark-eyed Junco	daejun	0.3584	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2229.0
+37	Spectrogram 1	1	2235.0	2238.0	0	12000.0	Dark-eyed Junco	daejun	0.4074	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2235.0
+38	Spectrogram 1	1	2247.0	2250.0	0	12000.0	Dark-eyed Junco	daejun	0.6500	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2247.0
+39	Spectrogram 1	1	2250.0	2253.0	0	12000.0	Winter Wren	winwre3	0.2018	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2250.0
+40	Spectrogram 1	1	2253.0	2256.0	0	12000.0	Dark-eyed Junco	daejun	0.3611	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2253.0
+41	Spectrogram 1	1	2265.0	2268.0	0	12000.0	Dark-eyed Junco	daejun	0.8041	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2265.0
+42	Spectrogram 1	1	2274.0	2277.0	0	12000.0	Dark-eyed Junco	daejun	0.2989	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2274.0
+43	Spectrogram 1	1	2280.0	2283.0	0	12000.0	Dark-eyed Junco	daejun	0.6995	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2280.0
+44	Spectrogram 1	1	2292.0	2295.0	0	12000.0	Dark-eyed Junco	daejun	0.3646	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2292.0
+45	Spectrogram 1	1	2307.0	2310.0	0	12000.0	Dark-eyed Junco	daejun	0.1368	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2307.0
+46	Spectrogram 1	1	2379.0	2382.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2185	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2379.0
+47	Spectrogram 1	1	2379.0	2382.0	0	12000.0	Winter Wren	winwre3	0.1114	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2379.0
+48	Spectrogram 1	1	2385.0	2388.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5993	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2385.0
+49	Spectrogram 1	1	2388.0	2391.0	0	12000.0	Winter Wren	winwre3	0.6026	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2388.0
+50	Spectrogram 1	1	2391.0	2394.0	0	12000.0	Winter Wren	winwre3	0.1009	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2391.0
+51	Spectrogram 1	1	2394.0	2397.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2968	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2394.0
+52	Spectrogram 1	1	2406.0	2409.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7580	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2406.0
+53	Spectrogram 1	1	2406.0	2409.0	0	12000.0	Brown Creeper	brncre	0.1351	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2406.0
+54	Spectrogram 1	1	2412.0	2415.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8200	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2412.0
+55	Spectrogram 1	1	2412.0	2415.0	0	12000.0	Brown Creeper	brncre	0.1223	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2412.0
+56	Spectrogram 1	1	2415.0	2418.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5422	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2415.0
+57	Spectrogram 1	1	2424.0	2427.0	0	12000.0	Brown Creeper	brncre	0.5046	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2424.0
+58	Spectrogram 1	1	2427.0	2430.0	0	12000.0	Golden-crowned Kinglet	gockin	0.9071	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2427.0
+59	Spectrogram 1	1	2430.0	2433.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4384	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2430.0
+60	Spectrogram 1	1	2430.0	2433.0	0	12000.0	Brown Creeper	brncre	0.1108	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2430.0
+61	Spectrogram 1	1	2430.0	2433.0	0	12000.0	Winter Wren	winwre3	0.1021	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2430.0
+62	Spectrogram 1	1	2433.0	2436.0	0	12000.0	Winter Wren	winwre3	0.1592	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2433.0
+63	Spectrogram 1	1	2439.0	2442.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8920	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2439.0
+64	Spectrogram 1	1	2445.0	2448.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2965	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2445.0
+65	Spectrogram 1	1	2448.0	2451.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5751	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2448.0
+66	Spectrogram 1	1	2454.0	2457.0	0	12000.0	Winter Wren	winwre3	0.3430	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2454.0
+67	Spectrogram 1	1	2457.0	2460.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8070	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2457.0
+68	Spectrogram 1	1	2460.0	2463.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2950	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2460.0
+69	Spectrogram 1	1	2463.0	2466.0	0	12000.0	Winter Wren	winwre3	0.1909	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2463.0
+70	Spectrogram 1	1	2466.0	2469.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5345	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2466.0
+71	Spectrogram 1	1	2475.0	2478.0	0	12000.0	Winter Wren	winwre3	0.1540	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2475.0
+72	Spectrogram 1	1	2478.0	2481.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4613	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2478.0
+73	Spectrogram 1	1	2490.0	2493.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1311	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2490.0
+74	Spectrogram 1	1	2505.0	2508.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5727	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2505.0
+75	Spectrogram 1	1	2505.0	2508.0	0	12000.0	Brown Creeper	brncre	0.1398	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2505.0
+76	Spectrogram 1	1	2520.0	2523.0	0	12000.0	Brown Creeper	brncre	0.2118	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2520.0
+77	Spectrogram 1	1	2544.0	2547.0	0	12000.0	Winter Wren	winwre3	0.1391	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2544.0
+78	Spectrogram 1	1	2547.0	2550.0	0	12000.0	Winter Wren	winwre3	0.1015	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2547.0
+79	Spectrogram 1	1	2553.0	2556.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1645	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2553.0
+80	Spectrogram 1	1	2556.0	2559.0	0	12000.0	Winter Wren	winwre3	0.2375	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2556.0
+81	Spectrogram 1	1	2565.0	2568.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9035	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2565.0
+82	Spectrogram 1	1	2604.0	2607.0	0	12000.0	Winter Wren	winwre3	0.2252	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2604.0
+83	Spectrogram 1	1	2607.0	2610.0	0	12000.0	Winter Wren	winwre3	0.6197	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2607.0
+84	Spectrogram 1	1	2610.0	2613.0	0	12000.0	Dark-eyed Junco	daejun	0.1189	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2610.0
+85	Spectrogram 1	1	2622.0	2625.0	0	12000.0	Winter Wren	winwre3	0.8913	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2622.0
+86	Spectrogram 1	1	2628.0	2631.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5100	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2628.0
+87	Spectrogram 1	1	2634.0	2637.0	0	12000.0	Winter Wren	winwre3	0.6653	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2634.0
+88	Spectrogram 1	1	2646.0	2649.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1836	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2646.0
+89	Spectrogram 1	1	2652.0	2655.0	0	12000.0	Winter Wren	winwre3	0.8471	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2652.0
+90	Spectrogram 1	1	2664.0	2667.0	0	12000.0	Winter Wren	winwre3	0.2427	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2664.0
+91	Spectrogram 1	1	2667.0	2670.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7621	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2667.0
+92	Spectrogram 1	1	2676.0	2679.0	0	12000.0	Winter Wren	winwre3	0.1116	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2676.0
+93	Spectrogram 1	1	2679.0	2682.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3853	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2679.0
+94	Spectrogram 1	1	2700.0	2703.0	0	12000.0	Winter Wren	winwre3	0.4067	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2700.0
+95	Spectrogram 1	1	2703.0	2706.0	0	12000.0	Winter Wren	winwre3	0.8303	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2703.0
+96	Spectrogram 1	1	2715.0	2718.0	0	12000.0	Winter Wren	winwre3	0.9842	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2715.0
+97	Spectrogram 1	1	2721.0	2724.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3992	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2721.0
+98	Spectrogram 1	1	2727.0	2730.0	0	12000.0	Winter Wren	winwre3	0.6175	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2727.0
+99	Spectrogram 1	1	2730.0	2733.0	0	12000.0	Winter Wren	winwre3	0.1119	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2730.0
+100	Spectrogram 1	1	2739.0	2742.0	0	12000.0	Winter Wren	winwre3	0.2658	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2739.0
+101	Spectrogram 1	1	2769.0	2772.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2027	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2769.0
+102	Spectrogram 1	1	2826.0	2829.0	0	12000.0	Winter Wren	winwre3	0.8246	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2826.0
+103	Spectrogram 1	1	2832.0	2835.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1510	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2832.0
+104	Spectrogram 1	1	2844.0	2847.0	0	12000.0	Winter Wren	winwre3	0.9907	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2844.0
+105	Spectrogram 1	1	2847.0	2850.0	0	12000.0	Winter Wren	winwre3	0.2483	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2847.0
+106	Spectrogram 1	1	2850.0	2853.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6891	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2850.0
+107	Spectrogram 1	1	2859.0	2862.0	0	12000.0	Winter Wren	winwre3	0.1200	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2859.0
+108	Spectrogram 1	1	2862.0	2865.0	0	12000.0	Winter Wren	winwre3	0.9858	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2862.0
+109	Spectrogram 1	1	2865.0	2868.0	0	12000.0	Winter Wren	winwre3	0.1184	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2865.0
+110	Spectrogram 1	1	2880.0	2883.0	0	12000.0	Winter Wren	winwre3	0.9656	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2880.0
+111	Spectrogram 1	1	2883.0	2886.0	0	12000.0	Winter Wren	winwre3	0.8238	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2883.0
+112	Spectrogram 1	1	2886.0	2889.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2315	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2886.0
+113	Spectrogram 1	1	2895.0	2898.0	0	12000.0	Winter Wren	winwre3	0.1472	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2895.0
+114	Spectrogram 1	1	2898.0	2901.0	0	12000.0	Winter Wren	winwre3	0.9897	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2898.0
+115	Spectrogram 1	1	2901.0	2904.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4434	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2901.0
+116	Spectrogram 1	1	2910.0	2913.0	0	12000.0	Winter Wren	winwre3	0.7483	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2910.0
+117	Spectrogram 1	1	2913.0	2916.0	0	12000.0	Winter Wren	winwre3	0.6540	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2913.0
+118	Spectrogram 1	1	2925.0	2928.0	0	12000.0	Winter Wren	winwre3	0.9531	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2925.0
+119	Spectrogram 1	1	2940.0	2943.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9055	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2940.0
+120	Spectrogram 1	1	2949.0	2952.0	0	12000.0	Winter Wren	winwre3	0.9635	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2949.0
+121	Spectrogram 1	1	2952.0	2955.0	0	12000.0	Winter Wren	winwre3	0.9363	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2952.0
+122	Spectrogram 1	1	2961.0	2964.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1200	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2961.0
+123	Spectrogram 1	1	2964.0	2967.0	0	12000.0	Winter Wren	winwre3	0.9038	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2964.0
+124	Spectrogram 1	1	2967.0	2970.0	0	12000.0	Winter Wren	winwre3	0.3384	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2967.0
+125	Spectrogram 1	1	2973.0	2976.0	0	12000.0	Winter Wren	winwre3	0.1178	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2973.0
+126	Spectrogram 1	1	2976.0	2979.0	0	12000.0	Winter Wren	winwre3	0.9052	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2976.0
+127	Spectrogram 1	1	2979.0	2982.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1213	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2979.0
+128	Spectrogram 1	1	2979.0	2982.0	0	12000.0	Winter Wren	winwre3	0.1162	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	2979.0
+129	Spectrogram 1	1	3000.0	3003.0	0	12000.0	Winter Wren	winwre3	0.9220	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	3000.0
+130	Spectrogram 1	1	3003.0	3006.0	0	12000.0	Winter Wren	winwre3	0.4996	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	3003.0
+131	Spectrogram 1	1	3015.0	3018.0	0	12000.0	Winter Wren	winwre3	0.1157	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	3015.0
+132	Spectrogram 1	1	3018.0	3021.0	0	12000.0	Winter Wren	winwre3	0.9383	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	3018.0
+133	Spectrogram 1	1	3141.0	3144.0	0	12000.0	American Crow	amecro	0.4263	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	3141.0
+134	Spectrogram 1	1	3144.0	3147.0	0	12000.0	American Crow	amecro	0.5669	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	3144.0
+135	Spectrogram 1	1	3153.0	3156.0	0	12000.0	American Crow	amecro	0.2402	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	3153.0
+136	Spectrogram 1	1	3156.0	3159.0	0	12000.0	American Crow	amecro	0.3226	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	3156.0
+137	Spectrogram 1	1	3159.0	3162.0	0	12000.0	American Crow	amecro	0.1362	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	3159.0
+138	Spectrogram 1	1	3162.0	3165.0	0	12000.0	American Crow	amecro	0.4185	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	3162.0
+139	Spectrogram 1	1	3165.0	3168.0	0	12000.0	American Crow	amecro	0.1526	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	3165.0
+140	Spectrogram 1	1	3171.0	3174.0	0	12000.0	American Crow	amecro	0.4515	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	3171.0
+141	Spectrogram 1	1	3177.0	3180.0	0	12000.0	American Crow	amecro	0.2081	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	3177.0
+142	Spectrogram 1	1	3180.0	3183.0	0	12000.0	American Crow	amecro	0.1141	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	3180.0
+143	Spectrogram 1	1	3183.0	3186.0	0	12000.0	American Crow	amecro	0.2163	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	3183.0
+144	Spectrogram 1	1	3219.0	3222.0	0	12000.0	Common Raven	comrav	0.3741	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	3219.0
+145	Spectrogram 1	1	3264.0	3267.0	0	12000.0	Cedar Waxwing	cedwax	0.8938	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	3264.0
+146	Spectrogram 1	1	3273.0	3276.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2789	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	3273.0
+147	Spectrogram 1	1	3288.0	3291.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2729	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	3288.0
+148	Spectrogram 1	1	3330.0	3333.0	0	12000.0	American Crow	amecro	0.1067	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	3330.0
+149	Spectrogram 1	1	3339.0	3342.0	0	12000.0	American Crow	amecro	0.2680	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	3339.0
+150	Spectrogram 1	1	3348.0	3351.0	0	12000.0	Brown Creeper	brncre	0.2206	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	3348.0
+151	Spectrogram 1	1	3375.0	3378.0	0	12000.0	American Crow	amecro	0.1120	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	3375.0
+152	Spectrogram 1	1	3378.0	3381.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1540	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	3378.0
+153	Spectrogram 1	1	3429.0	3432.0	0	12000.0	American Crow	amecro	0.2190	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	3429.0
+154	Spectrogram 1	1	3471.0	3474.0	0	12000.0	Winter Wren	winwre3	0.3992	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	3471.0
+155	Spectrogram 1	1	3474.0	3477.0	0	12000.0	Winter Wren	winwre3	0.1706	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	3474.0
+156	Spectrogram 1	1	3498.0	3501.0	0	12000.0	Winter Wren	winwre3	0.5445	D:/Island_Songbirds_2024/FLIN-1/Data\FLIN-1_20240726_041200.wav	3498.0

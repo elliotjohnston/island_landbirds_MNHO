@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	930.0	933.0	0	12000.0	American Crow	amecro	0.6384	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240505_190900.wav	930.0
+2	Spectrogram 1	1	954.0	957.0	0	12000.0	Song Sparrow	sonspa	0.6357	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240505_190900.wav	954.0
+3	Spectrogram 1	1	1458.0	1461.0	0	12000.0	Song Sparrow	sonspa	0.2612	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240505_190900.wav	1458.0
+4	Spectrogram 1	1	1461.0	1464.0	0	12000.0	Song Sparrow	sonspa	0.4432	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240505_190900.wav	1461.0

@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2460.0	2463.0	0	12000.0	Winter Wren	winwre3	0.1680	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240806_042100.wav	2460.0
+2	Spectrogram 1	1	3072.0	3075.0	0	12000.0	American Crow	amecro	0.1093	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240806_042100.wav	3072.0
+3	Spectrogram 1	1	3123.0	3126.0	0	12000.0	American Crow	amecro	0.1047	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240806_042100.wav	3123.0
+4	Spectrogram 1	1	3213.0	3216.0	0	12000.0	American Crow	amecro	0.1094	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240806_042100.wav	3213.0
+5	Spectrogram 1	1	3267.0	3270.0	0	12000.0	Cedar Waxwing	cedwax	0.1713	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240806_042100.wav	3267.0
+6	Spectrogram 1	1	3330.0	3333.0	0	12000.0	American Crow	amecro	0.2733	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240806_042100.wav	3330.0
+7	Spectrogram 1	1	3333.0	3336.0	0	12000.0	American Crow	amecro	0.3985	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240806_042100.wav	3333.0

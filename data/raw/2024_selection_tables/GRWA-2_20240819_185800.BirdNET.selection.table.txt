@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	309.0	312.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.2688	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240819_185800.wav	309.0
+2	Spectrogram 1	1	543.0	546.0	0	12000.0	White-throated Sparrow	whtspa	0.2827	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240819_185800.wav	543.0
+3	Spectrogram 1	1	546.0	549.0	0	12000.0	White-throated Sparrow	whtspa	0.3183	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240819_185800.wav	546.0
+4	Spectrogram 1	1	1110.0	1113.0	0	12000.0	White-throated Sparrow	whtspa	0.5731	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240819_185800.wav	1110.0
+5	Spectrogram 1	1	1113.0	1116.0	0	12000.0	White-throated Sparrow	whtspa	0.4202	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240819_185800.wav	1113.0

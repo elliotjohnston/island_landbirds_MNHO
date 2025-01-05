@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1851.0	1854.0	0	12000.0	Hermit Thrush	herthr	0.1703	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240730_042000.wav	1851.0
+2	Spectrogram 1	1	1881.0	1884.0	0	12000.0	Hermit Thrush	herthr	0.2745	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240730_042000.wav	1881.0
+3	Spectrogram 1	1	1899.0	1902.0	0	12000.0	Hermit Thrush	herthr	0.7275	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240730_042000.wav	1899.0
+4	Spectrogram 1	1	1929.0	1932.0	0	12000.0	Hermit Thrush	herthr	0.7314	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240730_042000.wav	1929.0
+5	Spectrogram 1	1	1941.0	1944.0	0	12000.0	Hermit Thrush	herthr	0.4586	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240730_042000.wav	1941.0
+6	Spectrogram 1	1	1953.0	1956.0	0	12000.0	Hermit Thrush	herthr	0.2333	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240730_042000.wav	1953.0
+7	Spectrogram 1	1	1965.0	1968.0	0	12000.0	Hermit Thrush	herthr	0.1235	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240730_042000.wav	1965.0
+8	Spectrogram 1	1	1977.0	1980.0	0	12000.0	Hermit Thrush	herthr	0.1864	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240730_042000.wav	1977.0
+9	Spectrogram 1	1	1986.0	1989.0	0	12000.0	Hermit Thrush	herthr	0.1975	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240730_042000.wav	1986.0
+10	Spectrogram 1	1	2034.0	2037.0	0	12000.0	Hermit Thrush	herthr	0.2391	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240730_042000.wav	2034.0
+11	Spectrogram 1	1	2040.0	2043.0	0	12000.0	Wood Thrush	woothr	0.1289	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240730_042000.wav	2040.0
+12	Spectrogram 1	1	2046.0	2049.0	0	12000.0	Hermit Thrush	herthr	0.1554	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240730_042000.wav	2046.0
+13	Spectrogram 1	1	2070.0	2073.0	0	12000.0	Hermit Thrush	herthr	0.1317	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240730_042000.wav	2070.0
+14	Spectrogram 1	1	2094.0	2097.0	0	12000.0	Hermit Thrush	herthr	0.2271	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240730_042000.wav	2094.0
+15	Spectrogram 1	1	2124.0	2127.0	0	12000.0	Hermit Thrush	herthr	0.4203	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240730_042000.wav	2124.0
+16	Spectrogram 1	1	2175.0	2178.0	0	12000.0	Hermit Thrush	herthr	0.2026	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240730_042000.wav	2175.0
+17	Spectrogram 1	1	2214.0	2217.0	0	12000.0	Wood Thrush	woothr	0.1142	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240730_042000.wav	2214.0
+18	Spectrogram 1	1	2796.0	2799.0	0	12000.0	Swainson's Thrush	swathr	0.1501	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240730_042000.wav	2796.0
+19	Spectrogram 1	1	2799.0	2802.0	0	12000.0	Swainson's Thrush	swathr	0.3135	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240730_042000.wav	2799.0
+20	Spectrogram 1	1	2823.0	2826.0	0	12000.0	Swainson's Thrush	swathr	0.1777	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240730_042000.wav	2823.0
+21	Spectrogram 1	1	3513.0	3516.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1208	D:/Island_Songbirds_2024/MARS-2/Data\MARS-2_20240730_042000.wav	3513.0

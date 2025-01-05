@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2763.0	2766.0	0	12000.0	American Crow	amecro	0.4954	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240829_044900.wav	2763.0
+2	Spectrogram 1	1	2766.0	2769.0	0	12000.0	American Crow	amecro	0.3511	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240829_044900.wav	2766.0
+3	Spectrogram 1	1	2895.0	2898.0	0	12000.0	American Crow	amecro	0.5812	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240829_044900.wav	2895.0
+4	Spectrogram 1	1	2898.0	2901.0	0	12000.0	American Crow	amecro	0.6227	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240829_044900.wav	2898.0
+5	Spectrogram 1	1	3315.0	3318.0	0	12000.0	Cape May Warbler	camwar	0.1451	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240829_044900.wav	3315.0
+6	Spectrogram 1	1	3429.0	3432.0	0	12000.0	Cedar Waxwing	cedwax	0.9808	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240829_044900.wav	3429.0
+7	Spectrogram 1	1	3432.0	3435.0	0	12000.0	Cedar Waxwing	cedwax	0.7786	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240829_044900.wav	3432.0
+8	Spectrogram 1	1	3435.0	3438.0	0	12000.0	Cedar Waxwing	cedwax	0.3206	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240829_044900.wav	3435.0
+9	Spectrogram 1	1	3438.0	3441.0	0	12000.0	Cedar Waxwing	cedwax	0.9888	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240829_044900.wav	3438.0
+10	Spectrogram 1	1	3441.0	3444.0	0	12000.0	Cedar Waxwing	cedwax	0.7952	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240829_044900.wav	3441.0
+11	Spectrogram 1	1	3468.0	3471.0	0	12000.0	White-crowned Sparrow	whcspa	0.1347	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240829_044900.wav	3468.0
+12	Spectrogram 1	1	3546.0	3549.0	0	12000.0	American Crow	amecro	0.3226	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240829_044900.wav	3546.0
+13	Spectrogram 1	1	3549.0	3552.0	0	12000.0	Black-capped Chickadee	bkcchi	0.3179	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240829_044900.wav	3549.0
+14	Spectrogram 1	1	3555.0	3558.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4126	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240829_044900.wav	3555.0
+15	Spectrogram 1	1	3561.0	3564.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2949	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240829_044900.wav	3561.0
+16	Spectrogram 1	1	3564.0	3567.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3776	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240829_044900.wav	3564.0
+17	Spectrogram 1	1	3567.0	3570.0	0	12000.0	American Crow	amecro	0.2701	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240829_044900.wav	3567.0
+18	Spectrogram 1	1	3579.0	3582.0	0	12000.0	Brown Creeper	brncre	0.2143	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240829_044900.wav	3579.0
+19	Spectrogram 1	1	3579.0	3582.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1471	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240829_044900.wav	3579.0
+20	Spectrogram 1	1	3591.0	3594.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1215	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240829_044900.wav	3591.0

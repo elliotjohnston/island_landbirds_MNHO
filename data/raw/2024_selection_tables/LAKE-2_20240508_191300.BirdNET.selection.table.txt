@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2304.0	2307.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1039	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240508_191300.wav	2304.0
+2	Spectrogram 1	1	2526.0	2529.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1308	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240508_191300.wav	2526.0
+3	Spectrogram 1	1	3384.0	3387.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1151	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240508_191300.wav	3384.0

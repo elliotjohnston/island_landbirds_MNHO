@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	207.0	210.0	0	12000.0	Brown Creeper	brncre	0.5593	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240730_192700.wav	207.0
+2	Spectrogram 1	1	213.0	216.0	0	12000.0	Brown Creeper	brncre	0.6322	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240730_192700.wav	213.0
+3	Spectrogram 1	1	219.0	222.0	0	12000.0	Brown Creeper	brncre	0.2830	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240730_192700.wav	219.0
+4	Spectrogram 1	1	273.0	276.0	0	12000.0	Brown Creeper	brncre	0.5112	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240730_192700.wav	273.0
+5	Spectrogram 1	1	306.0	309.0	0	12000.0	Brown Creeper	brncre	0.6172	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240730_192700.wav	306.0
+6	Spectrogram 1	1	318.0	321.0	0	12000.0	Brown Creeper	brncre	0.4831	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240730_192700.wav	318.0
+7	Spectrogram 1	1	372.0	375.0	0	12000.0	Brown Creeper	brncre	0.5299	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240730_192700.wav	372.0
+8	Spectrogram 1	1	390.0	393.0	0	12000.0	Brown Creeper	brncre	0.8147	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240730_192700.wav	390.0
+9	Spectrogram 1	1	396.0	399.0	0	12000.0	Brown Creeper	brncre	0.6396	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240730_192700.wav	396.0
+10	Spectrogram 1	1	1158.0	1161.0	0	12000.0	Winter Wren	winwre3	0.4044	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240730_192700.wav	1158.0

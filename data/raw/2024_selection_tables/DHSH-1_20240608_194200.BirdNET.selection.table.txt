@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	435.0	438.0	0	12000.0	Warbling Vireo	warvir	0.1839	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240608_194200.wav	435.0
+2	Spectrogram 1	1	708.0	711.0	0	12000.0	Philadelphia Vireo	phivir	0.1055	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240608_194200.wav	708.0
+3	Spectrogram 1	1	726.0	729.0	0	12000.0	Song Sparrow	sonspa	0.4908	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240608_194200.wav	726.0
+4	Spectrogram 1	1	729.0	732.0	0	12000.0	Song Sparrow	sonspa	0.4358	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240608_194200.wav	729.0
+5	Spectrogram 1	1	1653.0	1656.0	0	12000.0	Common Raven	comrav	0.1989	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240608_194200.wav	1653.0
+6	Spectrogram 1	1	1656.0	1659.0	0	12000.0	Common Raven	comrav	0.1428	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240608_194200.wav	1656.0
+7	Spectrogram 1	1	1674.0	1677.0	0	12000.0	Song Sparrow	sonspa	0.1114	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240608_194200.wav	1674.0
+8	Spectrogram 1	1	1740.0	1743.0	0	12000.0	Song Sparrow	sonspa	0.1847	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240608_194200.wav	1740.0
+9	Spectrogram 1	1	1749.0	1752.0	0	12000.0	Swainson's Thrush	swathr	0.5470	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240608_194200.wav	1749.0
+10	Spectrogram 1	1	1761.0	1764.0	0	12000.0	Swainson's Thrush	swathr	0.3533	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240608_194200.wav	1761.0
+11	Spectrogram 1	1	1767.0	1770.0	0	12000.0	Swainson's Thrush	swathr	0.2847	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240608_194200.wav	1767.0
+12	Spectrogram 1	1	1770.0	1773.0	0	12000.0	Swainson's Thrush	swathr	0.1475	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240608_194200.wav	1770.0
+13	Spectrogram 1	1	1776.0	1779.0	0	12000.0	Common Raven	comrav	0.1329	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240608_194200.wav	1776.0
+14	Spectrogram 1	1	1848.0	1851.0	0	12000.0	Swainson's Thrush	swathr	0.4948	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240608_194200.wav	1848.0
+15	Spectrogram 1	1	1935.0	1938.0	0	12000.0	Dark-eyed Junco	daejun	0.1693	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240608_194200.wav	1935.0

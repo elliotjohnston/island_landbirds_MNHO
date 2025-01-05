@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	666.0	669.0	0	12000.0	Common Raven	comrav	0.1733	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240824_184900.wav	666.0
+2	Spectrogram 1	1	2037.0	2040.0	0	12000.0	Common Raven	comrav	0.1093	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240824_184900.wav	2037.0
+3	Spectrogram 1	1	2064.0	2067.0	0	12000.0	Common Raven	comrav	0.1183	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240824_184900.wav	2064.0
+4	Spectrogram 1	1	2193.0	2196.0	0	12000.0	Dark-eyed Junco	daejun	0.1485	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240824_184900.wav	2193.0
+5	Spectrogram 1	1	2547.0	2550.0	0	12000.0	Pine Grosbeak	pingro	0.1720	D:/Island_Songbirds_2024/WEHE-2/Data\WEHE-2_20240824_184900.wav	2547.0

@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2589.0	2592.0	0	12000.0	Common Raven	comrav	0.1347	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240624_034900.wav	2589.0
+2	Spectrogram 1	1	2946.0	2949.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1008	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240624_034900.wav	2946.0
+3	Spectrogram 1	1	3042.0	3045.0	0	12000.0	White-throated Sparrow	whtspa	0.1035	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240624_034900.wav	3042.0
+4	Spectrogram 1	1	3111.0	3114.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2215	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240624_034900.wav	3111.0
+5	Spectrogram 1	1	3267.0	3270.0	0	12000.0	American Crow	amecro	0.1028	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240624_034900.wav	3267.0
+6	Spectrogram 1	1	3270.0	3273.0	0	12000.0	Common Raven	comrav	0.2345	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240624_034900.wav	3270.0
+7	Spectrogram 1	1	3285.0	3288.0	0	12000.0	Common Raven	comrav	0.1207	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240624_034900.wav	3285.0
+8	Spectrogram 1	1	3507.0	3510.0	0	12000.0	American Crow	amecro	0.1952	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240624_034900.wav	3507.0

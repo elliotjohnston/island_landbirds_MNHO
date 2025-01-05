@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	522.0	525.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1123	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240810_043200.wav	522.0
+2	Spectrogram 1	1	3081.0	3084.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4218	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240810_043200.wav	3081.0
+3	Spectrogram 1	1	3087.0	3090.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6853	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240810_043200.wav	3087.0
+4	Spectrogram 1	1	3096.0	3099.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2406	D:/Island_Songbirds_2024/MARS-3/Data\MARS-3_20240810_043200.wav	3096.0

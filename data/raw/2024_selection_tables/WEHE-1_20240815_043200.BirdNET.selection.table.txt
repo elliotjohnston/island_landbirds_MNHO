@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	705.0	708.0	0	12000.0	Evening Grosbeak	evegro	0.2211	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240815_043200.wav	705.0
+2	Spectrogram 1	1	708.0	711.0	0	12000.0	Evening Grosbeak	evegro	0.1529	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240815_043200.wav	708.0
+3	Spectrogram 1	1	2223.0	2226.0	0	12000.0	Dark-eyed Junco	daejun	0.1936	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240815_043200.wav	2223.0
+4	Spectrogram 1	1	2883.0	2886.0	0	12000.0	Common Raven	comrav	0.1033	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240815_043200.wav	2883.0
+5	Spectrogram 1	1	2934.0	2937.0	0	12000.0	Common Raven	comrav	0.5809	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240815_043200.wav	2934.0
+6	Spectrogram 1	1	2940.0	2943.0	0	12000.0	Common Raven	comrav	0.1273	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240815_043200.wav	2940.0
+7	Spectrogram 1	1	3108.0	3111.0	0	12000.0	American Crow	amecro	0.1092	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240815_043200.wav	3108.0
+8	Spectrogram 1	1	3132.0	3135.0	0	12000.0	American Crow	amecro	0.1237	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240815_043200.wav	3132.0
+9	Spectrogram 1	1	3153.0	3156.0	0	12000.0	Common Raven	comrav	0.1182	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240815_043200.wav	3153.0
+10	Spectrogram 1	1	3177.0	3180.0	0	12000.0	American Crow	amecro	0.1027	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240815_043200.wav	3177.0
+11	Spectrogram 1	1	3180.0	3183.0	0	12000.0	American Crow	amecro	0.1063	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240815_043200.wav	3180.0
+12	Spectrogram 1	1	3183.0	3186.0	0	12000.0	American Crow	amecro	0.3703	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240815_043200.wav	3183.0
+13	Spectrogram 1	1	3255.0	3258.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1692	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240815_043200.wav	3255.0
+14	Spectrogram 1	1	3264.0	3267.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2695	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240815_043200.wav	3264.0
+15	Spectrogram 1	1	3264.0	3267.0	0	12000.0	Black-and-white Warbler	bawwar	0.1108	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240815_043200.wav	3264.0
+16	Spectrogram 1	1	3315.0	3318.0	0	12000.0	Cedar Waxwing	cedwax	0.6468	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240815_043200.wav	3315.0
+17	Spectrogram 1	1	3318.0	3321.0	0	12000.0	Cedar Waxwing	cedwax	0.4996	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240815_043200.wav	3318.0
+18	Spectrogram 1	1	3321.0	3324.0	0	12000.0	Cedar Waxwing	cedwax	0.2309	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240815_043200.wav	3321.0
+19	Spectrogram 1	1	3324.0	3327.0	0	12000.0	Cedar Waxwing	cedwax	0.6318	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240815_043200.wav	3324.0
+20	Spectrogram 1	1	3327.0	3330.0	0	12000.0	Cedar Waxwing	cedwax	0.1018	D:/Island_Songbirds_2024/WEHE-1/Data\WEHE-1_20240815_043200.wav	3327.0

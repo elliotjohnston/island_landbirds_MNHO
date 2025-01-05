@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	264.0	267.0	0	12000.0	American Crow	amecro	0.2663	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240920_180400.wav	264.0
+2	Spectrogram 1	1	594.0	597.0	0	12000.0	American Crow	amecro	0.1242	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240920_180400.wav	594.0
+3	Spectrogram 1	1	597.0	600.0	0	12000.0	American Crow	amecro	0.2049	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240920_180400.wav	597.0
+4	Spectrogram 1	1	1101.0	1104.0	0	12000.0	American Crow	amecro	0.2776	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240920_180400.wav	1101.0
+5	Spectrogram 1	1	1104.0	1107.0	0	12000.0	American Crow	amecro	0.1688	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240920_180400.wav	1104.0
+6	Spectrogram 1	1	1110.0	1113.0	0	12000.0	American Crow	amecro	0.2147	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240920_180400.wav	1110.0
+7	Spectrogram 1	1	2175.0	2178.0	0	12000.0	American Crow	amecro	0.1954	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240920_180400.wav	2175.0
+8	Spectrogram 1	1	2178.0	2181.0	0	12000.0	American Crow	amecro	0.3315	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240920_180400.wav	2178.0
+9	Spectrogram 1	1	2181.0	2184.0	0	12000.0	American Crow	amecro	0.3612	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240920_180400.wav	2181.0
+10	Spectrogram 1	1	2184.0	2187.0	0	12000.0	American Crow	amecro	0.2459	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240920_180400.wav	2184.0
+11	Spectrogram 1	1	2187.0	2190.0	0	12000.0	American Crow	amecro	0.4216	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240920_180400.wav	2187.0
+12	Spectrogram 1	1	2193.0	2196.0	0	12000.0	American Crow	amecro	0.4779	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240920_180400.wav	2193.0
+13	Spectrogram 1	1	2196.0	2199.0	0	12000.0	American Crow	amecro	0.6165	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240920_180400.wav	2196.0
+14	Spectrogram 1	1	2235.0	2238.0	0	12000.0	Common Raven	comrav	0.1177	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240920_180400.wav	2235.0
+15	Spectrogram 1	1	2460.0	2463.0	0	12000.0	American Crow	amecro	0.1521	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240920_180400.wav	2460.0
+16	Spectrogram 1	1	2463.0	2466.0	0	12000.0	American Crow	amecro	0.1473	D:/Island_Songbirds_2024/MARS-1/Data\MARS-1_20240920_180400.wav	2463.0

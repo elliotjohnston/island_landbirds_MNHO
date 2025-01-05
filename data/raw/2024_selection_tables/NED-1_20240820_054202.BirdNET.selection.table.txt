@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	3.0	6.0	0	12000.0	Cedar Waxwing	cedwax	0.7736	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_054202.wav	3.0
+2	Spectrogram 1	1	54.0	57.0	0	12000.0	Cedar Waxwing	cedwax	0.1329	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_054202.wav	54.0
+3	Spectrogram 1	1	501.0	504.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.3979	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_054202.wav	501.0
+4	Spectrogram 1	1	504.0	507.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.9935	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_054202.wav	504.0
+5	Spectrogram 1	1	594.0	597.0	0	12000.0	Cedar Waxwing	cedwax	0.1754	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_054202.wav	594.0
+6	Spectrogram 1	1	687.0	690.0	0	12000.0	Pileated Woodpecker	pilwoo	0.5189	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_054202.wav	687.0
+7	Spectrogram 1	1	1389.0	1392.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3156	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_054202.wav	1389.0
+8	Spectrogram 1	1	1389.0	1392.0	0	12000.0	Brown Creeper	brncre	0.1401	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_054202.wav	1389.0
+9	Spectrogram 1	1	1398.0	1401.0	0	12000.0	Cedar Waxwing	cedwax	0.6011	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_054202.wav	1398.0
+10	Spectrogram 1	1	1401.0	1404.0	0	12000.0	Cedar Waxwing	cedwax	0.5458	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_054202.wav	1401.0
+11	Spectrogram 1	1	1407.0	1410.0	0	12000.0	Cedar Waxwing	cedwax	0.5742	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_054202.wav	1407.0
+12	Spectrogram 1	1	1410.0	1413.0	0	12000.0	Cedar Waxwing	cedwax	0.4231	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_054202.wav	1410.0
+13	Spectrogram 1	1	1416.0	1419.0	0	12000.0	Cedar Waxwing	cedwax	0.7990	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_054202.wav	1416.0
+14	Spectrogram 1	1	1434.0	1437.0	0	12000.0	American Crow	amecro	0.2072	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_054202.wav	1434.0
+15	Spectrogram 1	1	1464.0	1467.0	0	12000.0	Cedar Waxwing	cedwax	0.8448	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_054202.wav	1464.0
+16	Spectrogram 1	1	1467.0	1470.0	0	12000.0	Cedar Waxwing	cedwax	0.9371	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_054202.wav	1467.0
+17	Spectrogram 1	1	1695.0	1698.0	0	12000.0	American Crow	amecro	0.4451	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_054202.wav	1695.0
+18	Spectrogram 1	1	2601.0	2604.0	0	12000.0	American Crow	amecro	0.1103	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_054202.wav	2601.0
+19	Spectrogram 1	1	2604.0	2607.0	0	12000.0	American Crow	amecro	0.1694	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_054202.wav	2604.0
+20	Spectrogram 1	1	2607.0	2610.0	0	12000.0	American Crow	amecro	0.4581	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_054202.wav	2607.0
+21	Spectrogram 1	1	3528.0	3531.0	0	12000.0	Pileated Woodpecker	pilwoo	0.1436	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240820_054202.wav	3528.0

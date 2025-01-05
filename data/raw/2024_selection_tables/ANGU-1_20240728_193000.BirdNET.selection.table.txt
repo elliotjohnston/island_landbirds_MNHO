@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	39.0	42.0	0	12000.0	Brown Creeper	brncre	0.1075	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240728_193000.wav	39.0
+2	Spectrogram 1	1	285.0	288.0	0	12000.0	Yellow-bellied Flycatcher	yebfly	0.1355	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240728_193000.wav	285.0
+3	Spectrogram 1	1	456.0	459.0	0	12000.0	Cedar Waxwing	cedwax	0.3190	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240728_193000.wav	456.0
+4	Spectrogram 1	1	459.0	462.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3116	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240728_193000.wav	459.0
+5	Spectrogram 1	1	2187.0	2190.0	0	12000.0	Swainson's Thrush	swathr	0.8218	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240728_193000.wav	2187.0
+6	Spectrogram 1	1	2190.0	2193.0	0	12000.0	Swainson's Thrush	swathr	0.2260	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240728_193000.wav	2190.0

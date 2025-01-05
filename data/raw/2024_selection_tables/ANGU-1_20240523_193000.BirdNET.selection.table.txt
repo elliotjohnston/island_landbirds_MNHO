@@ -1,0 +1,104 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	72.0	75.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2740	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	72.0
+2	Spectrogram 1	1	195.0	198.0	0	12000.0	Swainson's Thrush	swathr	0.1182	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	195.0
+3	Spectrogram 1	1	255.0	258.0	0	12000.0	American Crow	amecro	0.5203	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	255.0
+4	Spectrogram 1	1	462.0	465.0	0	12000.0	American Crow	amecro	0.1221	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	462.0
+5	Spectrogram 1	1	510.0	513.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.1134	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	510.0
+6	Spectrogram 1	1	519.0	522.0	0	12000.0	American Crow	amecro	0.1832	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	519.0
+7	Spectrogram 1	1	585.0	588.0	0	12000.0	American Crow	amecro	0.1489	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	585.0
+8	Spectrogram 1	1	588.0	591.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.1086	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	588.0
+9	Spectrogram 1	1	594.0	597.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.4415	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	594.0
+10	Spectrogram 1	1	600.0	603.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.2648	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	600.0
+11	Spectrogram 1	1	609.0	612.0	0	12000.0	American Crow	amecro	0.1293	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	609.0
+12	Spectrogram 1	1	621.0	624.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.1032	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	621.0
+13	Spectrogram 1	1	627.0	630.0	0	12000.0	American Crow	amecro	0.1502	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	627.0
+14	Spectrogram 1	1	636.0	639.0	0	12000.0	American Crow	amecro	0.1731	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	636.0
+15	Spectrogram 1	1	663.0	666.0	0	12000.0	American Crow	amecro	0.1572	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	663.0
+16	Spectrogram 1	1	675.0	678.0	0	12000.0	American Crow	amecro	0.1315	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	675.0
+17	Spectrogram 1	1	687.0	690.0	0	12000.0	Brown Creeper	brncre	0.3337	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	687.0
+18	Spectrogram 1	1	690.0	693.0	0	12000.0	American Crow	amecro	0.1917	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	690.0
+19	Spectrogram 1	1	696.0	699.0	0	12000.0	American Crow	amecro	0.1819	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	696.0
+20	Spectrogram 1	1	699.0	702.0	0	12000.0	American Crow	amecro	0.1461	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	699.0
+21	Spectrogram 1	1	705.0	708.0	0	12000.0	American Crow	amecro	0.3985	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	705.0
+22	Spectrogram 1	1	714.0	717.0	0	12000.0	American Crow	amecro	0.1500	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	714.0
+23	Spectrogram 1	1	720.0	723.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4067	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	720.0
+24	Spectrogram 1	1	723.0	726.0	0	12000.0	American Crow	amecro	0.3397	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	723.0
+25	Spectrogram 1	1	729.0	732.0	0	12000.0	American Crow	amecro	0.2225	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	729.0
+26	Spectrogram 1	1	741.0	744.0	0	12000.0	American Crow	amecro	0.2126	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	741.0
+27	Spectrogram 1	1	753.0	756.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2769	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	753.0
+28	Spectrogram 1	1	753.0	756.0	0	12000.0	Northern Parula	norpar	0.1159	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	753.0
+29	Spectrogram 1	1	756.0	759.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8779	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	756.0
+30	Spectrogram 1	1	765.0	768.0	0	12000.0	American Crow	amecro	0.4633	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	765.0
+31	Spectrogram 1	1	777.0	780.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5403	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	777.0
+32	Spectrogram 1	1	780.0	783.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8276	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	780.0
+33	Spectrogram 1	1	786.0	789.0	0	12000.0	American Crow	amecro	0.9788	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	786.0
+34	Spectrogram 1	1	798.0	801.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8275	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	798.0
+35	Spectrogram 1	1	831.0	834.0	0	12000.0	American Crow	amecro	0.1023	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	831.0
+36	Spectrogram 1	1	837.0	840.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3729	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	837.0
+37	Spectrogram 1	1	1032.0	1035.0	0	12000.0	American Crow	amecro	0.4845	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1032.0
+38	Spectrogram 1	1	1035.0	1038.0	0	12000.0	American Crow	amecro	0.4103	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1035.0
+39	Spectrogram 1	1	1035.0	1038.0	0	12000.0	Common Raven	comrav	0.2027	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1035.0
+40	Spectrogram 1	1	1050.0	1053.0	0	12000.0	American Crow	amecro	0.7959	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1050.0
+41	Spectrogram 1	1	1065.0	1068.0	0	12000.0	American Crow	amecro	0.8434	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1065.0
+42	Spectrogram 1	1	1074.0	1077.0	0	12000.0	Swainson's Thrush	swathr	0.2674	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1074.0
+43	Spectrogram 1	1	1080.0	1083.0	0	12000.0	American Crow	amecro	0.7842	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1080.0
+44	Spectrogram 1	1	1086.0	1089.0	0	12000.0	Great Crested Flycatcher	grcfly	0.5760	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1086.0
+45	Spectrogram 1	1	1089.0	1092.0	0	12000.0	American Crow	amecro	0.7258	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1089.0
+46	Spectrogram 1	1	1089.0	1092.0	0	12000.0	Common Raven	comrav	0.1439	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1089.0
+47	Spectrogram 1	1	1092.0	1095.0	0	12000.0	American Crow	amecro	0.2441	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1092.0
+48	Spectrogram 1	1	1092.0	1095.0	0	12000.0	Swainson's Thrush	swathr	0.1110	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1092.0
+49	Spectrogram 1	1	1101.0	1104.0	0	12000.0	Swainson's Thrush	swathr	0.2162	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1101.0
+50	Spectrogram 1	1	1107.0	1110.0	0	12000.0	Swainson's Thrush	swathr	0.5814	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1107.0
+51	Spectrogram 1	1	1110.0	1113.0	0	12000.0	Swainson's Thrush	swathr	0.3456	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1110.0
+52	Spectrogram 1	1	1113.0	1116.0	0	12000.0	American Crow	amecro	0.5818	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1113.0
+53	Spectrogram 1	1	1116.0	1119.0	0	12000.0	Swainson's Thrush	swathr	0.3767	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1116.0
+54	Spectrogram 1	1	1116.0	1119.0	0	12000.0	American Crow	amecro	0.1454	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1116.0
+55	Spectrogram 1	1	1128.0	1131.0	0	12000.0	American Crow	amecro	0.5844	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1128.0
+56	Spectrogram 1	1	1140.0	1143.0	0	12000.0	American Crow	amecro	0.4498	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1140.0
+57	Spectrogram 1	1	1143.0	1146.0	0	12000.0	American Crow	amecro	0.5606	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1143.0
+58	Spectrogram 1	1	1155.0	1158.0	0	12000.0	American Crow	amecro	0.7580	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1155.0
+59	Spectrogram 1	1	1158.0	1161.0	0	12000.0	American Crow	amecro	0.5506	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1158.0
+60	Spectrogram 1	1	1158.0	1161.0	0	12000.0	Common Raven	comrav	0.1101	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1158.0
+61	Spectrogram 1	1	1170.0	1173.0	0	12000.0	American Crow	amecro	0.6658	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1170.0
+62	Spectrogram 1	1	1170.0	1173.0	0	12000.0	Common Raven	comrav	0.1603	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1170.0
+63	Spectrogram 1	1	1173.0	1176.0	0	12000.0	American Crow	amecro	0.1485	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1173.0
+64	Spectrogram 1	1	1188.0	1191.0	0	12000.0	American Crow	amecro	0.6960	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1188.0
+65	Spectrogram 1	1	1191.0	1194.0	0	12000.0	Common Raven	comrav	0.4488	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1191.0
+66	Spectrogram 1	1	1191.0	1194.0	0	12000.0	American Crow	amecro	0.3451	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1191.0
+67	Spectrogram 1	1	1203.0	1206.0	0	12000.0	Eastern Wood-Pewee	eawpew	0.1017	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1203.0
+68	Spectrogram 1	1	1215.0	1218.0	0	12000.0	American Crow	amecro	0.4846	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1215.0
+69	Spectrogram 1	1	1218.0	1221.0	0	12000.0	American Crow	amecro	0.3342	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1218.0
+70	Spectrogram 1	1	1218.0	1221.0	0	12000.0	Common Raven	comrav	0.1152	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1218.0
+71	Spectrogram 1	1	1233.0	1236.0	0	12000.0	American Crow	amecro	0.5752	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1233.0
+72	Spectrogram 1	1	1269.0	1272.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1298	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1269.0
+73	Spectrogram 1	1	1293.0	1296.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8927	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1293.0
+74	Spectrogram 1	1	1305.0	1308.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7541	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1305.0
+75	Spectrogram 1	1	1320.0	1323.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2580	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1320.0
+76	Spectrogram 1	1	1320.0	1323.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.2009	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1320.0
+77	Spectrogram 1	1	1335.0	1338.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9132	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1335.0
+78	Spectrogram 1	1	1353.0	1356.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9335	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1353.0
+79	Spectrogram 1	1	1683.0	1686.0	0	12000.0	Swainson's Thrush	swathr	0.1503	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1683.0
+80	Spectrogram 1	1	1698.0	1701.0	0	12000.0	Swainson's Thrush	swathr	0.1552	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1698.0
+81	Spectrogram 1	1	1737.0	1740.0	0	12000.0	Swainson's Thrush	swathr	0.1953	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1737.0
+82	Spectrogram 1	1	1746.0	1749.0	0	12000.0	Swainson's Thrush	swathr	0.2850	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1746.0
+83	Spectrogram 1	1	1767.0	1770.0	0	12000.0	Swainson's Thrush	swathr	0.4103	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	1767.0
+84	Spectrogram 1	1	2523.0	2526.0	0	12000.0	American Crow	amecro	0.2534	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	2523.0
+85	Spectrogram 1	1	2526.0	2529.0	0	12000.0	American Crow	amecro	0.5565	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	2526.0
+86	Spectrogram 1	1	2835.0	2838.0	0	12000.0	Swainson's Thrush	swathr	0.9558	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	2835.0
+87	Spectrogram 1	1	2838.0	2841.0	0	12000.0	Swainson's Thrush	swathr	0.1630	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	2838.0
+88	Spectrogram 1	1	2841.0	2844.0	0	12000.0	Swainson's Thrush	swathr	0.9076	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	2841.0
+89	Spectrogram 1	1	2844.0	2847.0	0	12000.0	Swainson's Thrush	swathr	0.8113	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	2844.0
+90	Spectrogram 1	1	2847.0	2850.0	0	12000.0	Swainson's Thrush	swathr	0.8769	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	2847.0
+91	Spectrogram 1	1	2850.0	2853.0	0	12000.0	Swainson's Thrush	swathr	0.9575	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	2850.0
+92	Spectrogram 1	1	2853.0	2856.0	0	12000.0	Swainson's Thrush	swathr	0.4216	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	2853.0
+93	Spectrogram 1	1	2856.0	2859.0	0	12000.0	Swainson's Thrush	swathr	0.9718	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	2856.0
+94	Spectrogram 1	1	2859.0	2862.0	0	12000.0	Swainson's Thrush	swathr	0.8865	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	2859.0
+95	Spectrogram 1	1	2862.0	2865.0	0	12000.0	Swainson's Thrush	swathr	0.4754	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	2862.0
+96	Spectrogram 1	1	2865.0	2868.0	0	12000.0	Swainson's Thrush	swathr	0.8647	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	2865.0
+97	Spectrogram 1	1	2868.0	2871.0	0	12000.0	Swainson's Thrush	swathr	0.9542	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	2868.0
+98	Spectrogram 1	1	2871.0	2874.0	0	12000.0	Swainson's Thrush	swathr	0.8721	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	2871.0
+99	Spectrogram 1	1	2874.0	2877.0	0	12000.0	Swainson's Thrush	swathr	0.2406	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	2874.0
+100	Spectrogram 1	1	2877.0	2880.0	0	12000.0	Swainson's Thrush	swathr	0.7576	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	2877.0
+101	Spectrogram 1	1	2880.0	2883.0	0	12000.0	Swainson's Thrush	swathr	0.5652	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	2880.0
+102	Spectrogram 1	1	2886.0	2889.0	0	12000.0	Swainson's Thrush	swathr	0.2097	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	2886.0
+103	Spectrogram 1	1	2892.0	2895.0	0	12000.0	Swainson's Thrush	swathr	0.1164	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240523_193000.wav	2892.0

@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1320.0	1323.0	0	12000.0	White-winged Crossbill	whwcro	0.1192	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240823_185200.wav	1320.0
+2	Spectrogram 1	1	1467.0	1470.0	0	12000.0	Red Crossbill	redcro	0.3569	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240823_185200.wav	1467.0
+3	Spectrogram 1	1	1467.0	1470.0	0	12000.0	Winter Wren	winwre3	0.1582	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240823_185200.wav	1467.0
+4	Spectrogram 1	1	1467.0	1470.0	0	12000.0	White-winged Crossbill	whwcro	0.1354	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240823_185200.wav	1467.0
+5	Spectrogram 1	1	1503.0	1506.0	0	12000.0	Yellow-bellied Sapsucker	yebsap	0.1286	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240823_185200.wav	1503.0
+6	Spectrogram 1	1	1503.0	1506.0	0	12000.0	Hairy Woodpecker	haiwoo	0.1075	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240823_185200.wav	1503.0
+7	Spectrogram 1	1	1689.0	1692.0	0	12000.0	Yellow-bellied Sapsucker	yebsap	0.1048	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240823_185200.wav	1689.0
+8	Spectrogram 1	1	2145.0	2148.0	0	12000.0	White-throated Sparrow	whtspa	0.2409	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240823_185200.wav	2145.0
+9	Spectrogram 1	1	2148.0	2151.0	0	12000.0	White-throated Sparrow	whtspa	0.9533	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240823_185200.wav	2148.0
+10	Spectrogram 1	1	2151.0	2154.0	0	12000.0	White-throated Sparrow	whtspa	0.9029	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240823_185200.wav	2151.0
+11	Spectrogram 1	1	2451.0	2454.0	0	12000.0	Yellow-bellied Sapsucker	yebsap	0.1902	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240823_185200.wav	2451.0
+12	Spectrogram 1	1	3327.0	3330.0	0	12000.0	Hairy Woodpecker	haiwoo	0.1014	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240823_185200.wav	3327.0

@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1584.0	1587.0	0	12000.0	Dark-eyed Junco	daejun	0.2327	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240813_191200.wav	1584.0
+2	Spectrogram 1	1	1947.0	1950.0	0	12000.0	White-throated Sparrow	whtspa	0.2374	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240813_191200.wav	1947.0
+3	Spectrogram 1	1	2088.0	2091.0	0	12000.0	Dark-eyed Junco	daejun	0.1238	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240813_191200.wav	2088.0
+4	Spectrogram 1	1	2310.0	2313.0	0	12000.0	Dark-eyed Junco	daejun	0.1381	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240813_191200.wav	2310.0
+5	Spectrogram 1	1	2340.0	2343.0	0	12000.0	Dark-eyed Junco	daejun	0.3792	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240813_191200.wav	2340.0
+6	Spectrogram 1	1	2577.0	2580.0	0	12000.0	Dark-eyed Junco	daejun	0.1844	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240813_191200.wav	2577.0
+7	Spectrogram 1	1	2700.0	2703.0	0	12000.0	Dark-eyed Junco	daejun	0.2157	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240813_191200.wav	2700.0

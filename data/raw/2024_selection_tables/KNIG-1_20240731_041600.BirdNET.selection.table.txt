@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1782.0	1785.0	0	12000.0	Hermit Thrush	herthr	0.1466	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240731_041600.wav	1782.0
+2	Spectrogram 1	1	1830.0	1833.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.1829	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240731_041600.wav	1830.0
+3	Spectrogram 1	1	3054.0	3057.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2810	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240731_041600.wav	3054.0
+4	Spectrogram 1	1	3063.0	3066.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2167	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240731_041600.wav	3063.0
+5	Spectrogram 1	1	3249.0	3252.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.8426	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240731_041600.wav	3249.0
+6	Spectrogram 1	1	3252.0	3255.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.6612	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240731_041600.wav	3252.0
+7	Spectrogram 1	1	3258.0	3261.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.5017	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240731_041600.wav	3258.0

@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	504.0	507.0	0	12000.0	American Crow	amecro	0.1215	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240901_183700.wav	504.0
+2	Spectrogram 1	1	2028.0	2031.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1601	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240901_183700.wav	2028.0
+3	Spectrogram 1	1	2037.0	2040.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2276	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240901_183700.wav	2037.0

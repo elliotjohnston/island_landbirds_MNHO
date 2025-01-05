@@ -1,0 +1,58 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	84.0	87.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3795	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	84.0
+2	Spectrogram 1	1	135.0	138.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2204	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	135.0
+3	Spectrogram 1	1	150.0	153.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3800	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	150.0
+4	Spectrogram 1	1	177.0	180.0	0	12000.0	Golden-crowned Kinglet	gockin	0.8369	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	177.0
+5	Spectrogram 1	1	240.0	243.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1081	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	240.0
+6	Spectrogram 1	1	390.0	393.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1097	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	390.0
+7	Spectrogram 1	1	666.0	669.0	0	12000.0	Dark-eyed Junco	daejun	0.1305	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	666.0
+8	Spectrogram 1	1	711.0	714.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1641	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	711.0
+9	Spectrogram 1	1	717.0	720.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3648	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	717.0
+10	Spectrogram 1	1	747.0	750.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1365	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	747.0
+11	Spectrogram 1	1	906.0	909.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1552	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	906.0
+12	Spectrogram 1	1	909.0	912.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6562	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	909.0
+13	Spectrogram 1	1	918.0	921.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3917	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	918.0
+14	Spectrogram 1	1	918.0	921.0	0	12000.0	Blackburnian Warbler	bkbwar	0.1233	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	918.0
+15	Spectrogram 1	1	936.0	939.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2122	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	936.0
+16	Spectrogram 1	1	957.0	960.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7082	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	957.0
+17	Spectrogram 1	1	957.0	960.0	0	12000.0	Brown Creeper	brncre	0.1337	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	957.0
+18	Spectrogram 1	1	972.0	975.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4083	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	972.0
+19	Spectrogram 1	1	984.0	987.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4325	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	984.0
+20	Spectrogram 1	1	987.0	990.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1988	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	987.0
+21	Spectrogram 1	1	1068.0	1071.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1039	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	1068.0
+22	Spectrogram 1	1	1083.0	1086.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1730	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	1083.0
+23	Spectrogram 1	1	1101.0	1104.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1365	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	1101.0
+24	Spectrogram 1	1	1368.0	1371.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1120	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	1368.0
+25	Spectrogram 1	1	1395.0	1398.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1260	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	1395.0
+26	Spectrogram 1	1	1578.0	1581.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3220	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	1578.0
+27	Spectrogram 1	1	1635.0	1638.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1808	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	1635.0
+28	Spectrogram 1	1	1692.0	1695.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2744	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	1692.0
+29	Spectrogram 1	1	1701.0	1704.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1317	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	1701.0
+30	Spectrogram 1	1	1740.0	1743.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1645	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	1740.0
+31	Spectrogram 1	1	1758.0	1761.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1246	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	1758.0
+32	Spectrogram 1	1	1791.0	1794.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3034	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	1791.0
+33	Spectrogram 1	1	1818.0	1821.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1842	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	1818.0
+34	Spectrogram 1	1	1833.0	1836.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1081	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	1833.0
+35	Spectrogram 1	1	1869.0	1872.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1432	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	1869.0
+36	Spectrogram 1	1	1881.0	1884.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1591	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	1881.0
+37	Spectrogram 1	1	1893.0	1896.0	0	12000.0	Swainson's Thrush	swathr	0.7532	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	1893.0
+38	Spectrogram 1	1	1908.0	1911.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1016	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	1908.0
+39	Spectrogram 1	1	1923.0	1926.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1537	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	1923.0
+40	Spectrogram 1	1	1935.0	1938.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3650	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	1935.0
+41	Spectrogram 1	1	1959.0	1962.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3798	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	1959.0
+42	Spectrogram 1	1	1971.0	1974.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1087	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	1971.0
+43	Spectrogram 1	1	1983.0	1986.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6702	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	1983.0
+44	Spectrogram 1	1	1998.0	2001.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2733	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	1998.0
+45	Spectrogram 1	1	2007.0	2010.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1949	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	2007.0
+46	Spectrogram 1	1	2019.0	2022.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2868	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	2019.0
+47	Spectrogram 1	1	2286.0	2289.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3678	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	2286.0
+48	Spectrogram 1	1	2301.0	2304.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3328	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	2301.0
+49	Spectrogram 1	1	2337.0	2340.0	0	12000.0	Winter Wren	winwre3	0.1200	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	2337.0
+50	Spectrogram 1	1	2355.0	2358.0	0	12000.0	Winter Wren	winwre3	0.3696	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	2355.0
+51	Spectrogram 1	1	2451.0	2454.0	0	12000.0	Swainson's Thrush	swathr	0.3077	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	2451.0
+52	Spectrogram 1	1	2451.0	2454.0	0	12000.0	Olive-sided Flycatcher	olsfly	0.1166	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	2451.0
+53	Spectrogram 1	1	2472.0	2475.0	0	12000.0	Swainson's Thrush	swathr	0.2100	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	2472.0
+54	Spectrogram 1	1	2481.0	2484.0	0	12000.0	Swainson's Thrush	swathr	0.2712	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	2481.0
+55	Spectrogram 1	1	2766.0	2769.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9431	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	2766.0
+56	Spectrogram 1	1	2865.0	2868.0	0	12000.0	Swainson's Thrush	swathr	0.2509	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	2865.0
+57	Spectrogram 1	1	2886.0	2889.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6555	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240526_193200.wav	2886.0

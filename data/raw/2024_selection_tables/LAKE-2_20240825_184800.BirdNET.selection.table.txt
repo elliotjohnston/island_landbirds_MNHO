@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	798.0	801.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4492	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240825_184800.wav	798.0
+2	Spectrogram 1	1	2022.0	2025.0	0	12000.0	Red Crossbill	redcro	0.2299	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240825_184800.wav	2022.0
+3	Spectrogram 1	1	2022.0	2025.0	0	12000.0	White-winged Crossbill	whwcro	0.1735	D:/Island_Songbirds_2024/LAKE-2/Data\LAKE-2_20240825_184800.wav	2022.0

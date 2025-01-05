@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	93.0	96.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1052	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240819_185900.wav	93.0
+2	Spectrogram 1	1	111.0	114.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1260	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240819_185900.wav	111.0
+3	Spectrogram 1	1	387.0	390.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1867	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240819_185900.wav	387.0
+4	Spectrogram 1	1	675.0	678.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1557	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240819_185900.wav	675.0
+5	Spectrogram 1	1	690.0	693.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3936	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240819_185900.wav	690.0
+6	Spectrogram 1	1	690.0	693.0	0	12000.0	Brown Creeper	brncre	0.1443	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240819_185900.wav	690.0
+7	Spectrogram 1	1	699.0	702.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3791	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240819_185900.wav	699.0
+8	Spectrogram 1	1	702.0	705.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6092	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240819_185900.wav	702.0
+9	Spectrogram 1	1	702.0	705.0	0	12000.0	Brown Creeper	brncre	0.2359	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240819_185900.wav	702.0
+10	Spectrogram 1	1	705.0	708.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6173	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240819_185900.wav	705.0
+11	Spectrogram 1	1	705.0	708.0	0	12000.0	Brown Creeper	brncre	0.3260	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240819_185900.wav	705.0
+12	Spectrogram 1	1	717.0	720.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7180	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240819_185900.wav	717.0
+13	Spectrogram 1	1	720.0	723.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5361	D:/Island_Songbirds_2024/GRWA-3/Data\GRWA-3_20240819_185900.wav	720.0

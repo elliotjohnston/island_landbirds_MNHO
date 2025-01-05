@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	45.0	48.0	0	12000.0	Brown Creeper	brncre	0.1517	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240811_053002.wav	45.0
+2	Spectrogram 1	1	51.0	54.0	0	12000.0	Brown Creeper	brncre	0.6766	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240811_053002.wav	51.0
+3	Spectrogram 1	1	78.0	81.0	0	12000.0	Brown Creeper	brncre	0.5223	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240811_053002.wav	78.0
+4	Spectrogram 1	1	525.0	528.0	0	12000.0	Cedar Waxwing	cedwax	0.2911	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240811_053002.wav	525.0
+5	Spectrogram 1	1	528.0	531.0	0	12000.0	Cedar Waxwing	cedwax	0.1407	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240811_053002.wav	528.0
+6	Spectrogram 1	1	1281.0	1284.0	0	12000.0	Brown Creeper	brncre	0.1697	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240811_053002.wav	1281.0
+7	Spectrogram 1	1	2031.0	2034.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.8907	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240811_053002.wav	2031.0
+8	Spectrogram 1	1	2034.0	2037.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.3281	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240811_053002.wav	2034.0
+9	Spectrogram 1	1	2040.0	2043.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.5185	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240811_053002.wav	2040.0
+10	Spectrogram 1	1	2289.0	2292.0	0	12000.0	Cedar Waxwing	cedwax	0.3064	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240811_053002.wav	2289.0
+11	Spectrogram 1	1	2292.0	2295.0	0	12000.0	Cedar Waxwing	cedwax	0.1562	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240811_053002.wav	2292.0
+12	Spectrogram 1	1	2349.0	2352.0	0	12000.0	Red-breasted Nuthatch	rebnut	0.8288	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240811_053002.wav	2349.0
+13	Spectrogram 1	1	2424.0	2427.0	0	12000.0	American Crow	amecro	0.2240	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240811_053002.wav	2424.0
+14	Spectrogram 1	1	3327.0	3330.0	0	12000.0	Cedar Waxwing	cedwax	0.1411	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240811_053002.wav	3327.0
+15	Spectrogram 1	1	3330.0	3333.0	0	12000.0	Cedar Waxwing	cedwax	0.3095	D:/Island_Songbirds_2024/FLIN-2/Data\FLIN-2_20240811_053002.wav	3330.0

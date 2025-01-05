@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	240.0	243.0	0	12000.0	Brown Creeper	brncre	0.1091	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240902_060002.wav	240.0
+2	Spectrogram 1	1	246.0	249.0	0	12000.0	Brown Creeper	brncre	0.2507	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240902_060002.wav	246.0
+3	Spectrogram 1	1	1227.0	1230.0	0	12000.0	American Crow	amecro	0.1087	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240902_060002.wav	1227.0
+4	Spectrogram 1	1	1230.0	1233.0	0	12000.0	American Crow	amecro	0.4878	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240902_060002.wav	1230.0
+5	Spectrogram 1	1	1248.0	1251.0	0	12000.0	American Crow	amecro	0.1256	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240902_060002.wav	1248.0
+6	Spectrogram 1	1	1275.0	1278.0	0	12000.0	American Crow	amecro	0.2803	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240902_060002.wav	1275.0
+7	Spectrogram 1	1	1287.0	1290.0	0	12000.0	American Crow	amecro	0.6744	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240902_060002.wav	1287.0
+8	Spectrogram 1	1	1299.0	1302.0	0	12000.0	American Crow	amecro	0.4337	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240902_060002.wav	1299.0
+9	Spectrogram 1	1	1323.0	1326.0	0	12000.0	American Crow	amecro	0.1723	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240902_060002.wav	1323.0
+10	Spectrogram 1	1	1422.0	1425.0	0	12000.0	American Crow	amecro	0.1793	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240902_060002.wav	1422.0
+11	Spectrogram 1	1	1545.0	1548.0	0	12000.0	American Crow	amecro	0.7131	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240902_060002.wav	1545.0
+12	Spectrogram 1	1	1554.0	1557.0	0	12000.0	American Crow	amecro	0.1155	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240902_060002.wav	1554.0
+13	Spectrogram 1	1	2004.0	2007.0	0	12000.0	Common Raven	comrav	0.1024	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240902_060002.wav	2004.0
+14	Spectrogram 1	1	2019.0	2022.0	0	12000.0	American Crow	amecro	0.1283	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240902_060002.wav	2019.0
+15	Spectrogram 1	1	2142.0	2145.0	0	12000.0	Cedar Waxwing	cedwax	0.2332	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240902_060002.wav	2142.0
+16	Spectrogram 1	1	2196.0	2199.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3987	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240902_060002.wav	2196.0
+17	Spectrogram 1	1	2325.0	2328.0	0	12000.0	American Crow	amecro	0.1926	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240902_060002.wav	2325.0
+18	Spectrogram 1	1	2400.0	2403.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1207	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240902_060002.wav	2400.0
+19	Spectrogram 1	1	2487.0	2490.0	0	12000.0	American Crow	amecro	0.3392	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240902_060002.wav	2487.0
+20	Spectrogram 1	1	2502.0	2505.0	0	12000.0	American Crow	amecro	0.1680	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240902_060002.wav	2502.0
+21	Spectrogram 1	1	2991.0	2994.0	0	12000.0	Common Raven	comrav	0.6920	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240902_060002.wav	2991.0
+22	Spectrogram 1	1	2994.0	2997.0	0	12000.0	American Crow	amecro	0.1140	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240902_060002.wav	2994.0
+23	Spectrogram 1	1	3075.0	3078.0	0	12000.0	American Crow	amecro	0.2789	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240902_060002.wav	3075.0
+24	Spectrogram 1	1	3159.0	3162.0	0	12000.0	Common Raven	comrav	0.2718	D:/Island_Songbirds_2024/BIWH-1/Data\BIWH-1_20240902_060002.wav	3159.0

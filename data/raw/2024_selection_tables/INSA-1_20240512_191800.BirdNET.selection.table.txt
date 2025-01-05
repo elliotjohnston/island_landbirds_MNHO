@@ -1,0 +1,31 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	63.0	66.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7693	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	63.0
+2	Spectrogram 1	1	150.0	153.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9807	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	150.0
+3	Spectrogram 1	1	201.0	204.0	0	12000.0	Black-throated Green Warbler	btnwar	0.9373	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	201.0
+4	Spectrogram 1	1	303.0	306.0	0	12000.0	Black-throated Green Warbler	btnwar	0.7315	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	303.0
+5	Spectrogram 1	1	450.0	453.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1307	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	450.0
+6	Spectrogram 1	1	900.0	903.0	0	12000.0	Black-throated Green Warbler	btnwar	0.5570	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	900.0
+7	Spectrogram 1	1	1290.0	1293.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5156	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	1290.0
+8	Spectrogram 1	1	1293.0	1296.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4734	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	1293.0
+9	Spectrogram 1	1	1296.0	1299.0	0	12000.0	Golden-crowned Kinglet	gockin	0.7993	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	1296.0
+10	Spectrogram 1	1	1296.0	1299.0	0	12000.0	Brown Creeper	brncre	0.1281	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	1296.0
+11	Spectrogram 1	1	1302.0	1305.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6741	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	1302.0
+12	Spectrogram 1	1	1305.0	1308.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4521	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	1305.0
+13	Spectrogram 1	1	1308.0	1311.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1563	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	1308.0
+14	Spectrogram 1	1	1311.0	1314.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4459	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	1311.0
+15	Spectrogram 1	1	1314.0	1317.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2712	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	1314.0
+16	Spectrogram 1	1	1317.0	1320.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5597	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	1317.0
+17	Spectrogram 1	1	1320.0	1323.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2783	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	1320.0
+18	Spectrogram 1	1	1323.0	1326.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6950	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	1323.0
+19	Spectrogram 1	1	1326.0	1329.0	0	12000.0	Brown Creeper	brncre	0.1536	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	1326.0
+20	Spectrogram 1	1	1338.0	1341.0	0	12000.0	Black-throated Green Warbler	btnwar	0.3995	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	1338.0
+21	Spectrogram 1	1	1365.0	1368.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4913	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	1365.0
+22	Spectrogram 1	1	1368.0	1371.0	0	12000.0	Black-throated Green Warbler	btnwar	0.6406	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	1368.0
+23	Spectrogram 1	1	1371.0	1374.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4717	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	1371.0
+24	Spectrogram 1	1	1374.0	1377.0	0	12000.0	Common Raven	comrav	0.2583	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	1374.0
+25	Spectrogram 1	1	1389.0	1392.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2210	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	1389.0
+26	Spectrogram 1	1	1422.0	1425.0	0	12000.0	Black-throated Green Warbler	btnwar	0.2922	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	1422.0
+27	Spectrogram 1	1	1422.0	1425.0	0	12000.0	Brown Creeper	brncre	0.2114	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	1422.0
+28	Spectrogram 1	1	1713.0	1716.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1657	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	1713.0
+29	Spectrogram 1	1	1743.0	1746.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1624	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	1743.0
+30	Spectrogram 1	1	2352.0	2355.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1620	D:/Island_Songbirds_2024/INSA-1/Data\INSA-1_20240512_191800.wav	2352.0

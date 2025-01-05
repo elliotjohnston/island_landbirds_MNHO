@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2682.0	2685.0	0	12000.0	Black-backed Woodpecker	bkbwoo	0.1260	D:/Island_Songbirds_2024/DOSH-1/Data\DOSH-1_20240810_052702.wav	2682.0

@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	150.0	153.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1578	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240503_190600.wav	150.0
+2	Spectrogram 1	1	378.0	381.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2577	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240503_190600.wav	378.0
+3	Spectrogram 1	1	387.0	390.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1017	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240503_190600.wav	387.0
+4	Spectrogram 1	1	390.0	393.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3028	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240503_190600.wav	390.0
+5	Spectrogram 1	1	399.0	402.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2321	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240503_190600.wav	399.0
+6	Spectrogram 1	1	405.0	408.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4524	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240503_190600.wav	405.0
+7	Spectrogram 1	1	411.0	414.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2336	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240503_190600.wav	411.0
+8	Spectrogram 1	1	420.0	423.0	0	12000.0	Least Flycatcher	leafly	0.1583	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240503_190600.wav	420.0
+9	Spectrogram 1	1	423.0	426.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1486	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240503_190600.wav	423.0
+10	Spectrogram 1	1	441.0	444.0	0	12000.0	Least Flycatcher	leafly	0.1397	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240503_190600.wav	441.0
+11	Spectrogram 1	1	447.0	450.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2025	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240503_190600.wav	447.0
+12	Spectrogram 1	1	450.0	453.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1148	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240503_190600.wav	450.0
+13	Spectrogram 1	1	804.0	807.0	0	12000.0	Pine Warbler	pinwar	0.2610	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240503_190600.wav	804.0
+14	Spectrogram 1	1	807.0	810.0	0	12000.0	Winter Wren	winwre3	0.1126	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240503_190600.wav	807.0
+15	Spectrogram 1	1	1983.0	1986.0	0	12000.0	Mourning Dove	moudov	0.3816	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240503_190600.wav	1983.0
+16	Spectrogram 1	1	2589.0	2592.0	0	12000.0	Winter Wren	winwre3	0.4037	D:/Island_Songbirds_2024/WEHE-3/Data\WEHE-3_20240503_190600.wav	2589.0

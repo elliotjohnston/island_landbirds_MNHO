@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2487.0	2490.0	0	12000.0	Common Nighthawk	comnig	0.8787	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240527_193400.wav	2487.0
+2	Spectrogram 1	1	2490.0	2493.0	0	12000.0	Common Nighthawk	comnig	0.8751	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240527_193400.wav	2490.0
+3	Spectrogram 1	1	2493.0	2496.0	0	12000.0	Common Nighthawk	comnig	0.9403	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240527_193400.wav	2493.0
+4	Spectrogram 1	1	2502.0	2505.0	0	12000.0	White-throated Sparrow	whtspa	0.1255	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240527_193400.wav	2502.0
+5	Spectrogram 1	1	2517.0	2520.0	0	12000.0	White-throated Sparrow	whtspa	0.3003	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240527_193400.wav	2517.0
+6	Spectrogram 1	1	2520.0	2523.0	0	12000.0	White-throated Sparrow	whtspa	0.1702	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240527_193400.wav	2520.0
+7	Spectrogram 1	1	2532.0	2535.0	0	12000.0	White-throated Sparrow	whtspa	0.6382	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240527_193400.wav	2532.0
+8	Spectrogram 1	1	2748.0	2751.0	0	12000.0	Common Yellowthroat	comyel	0.1298	D:/Island_Songbirds_2024/GRWA-2/Data\GRWA-2_20240527_193400.wav	2748.0

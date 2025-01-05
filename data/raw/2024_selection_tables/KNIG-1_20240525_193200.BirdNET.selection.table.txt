@@ -1,0 +1,45 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1014.0	1017.0	0	12000.0	Common Grackle	comgra	0.1201	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	1014.0
+2	Spectrogram 1	1	1125.0	1128.0	0	12000.0	American Crow	amecro	0.1606	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	1125.0
+3	Spectrogram 1	1	1137.0	1140.0	0	12000.0	American Crow	amecro	0.1831	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	1137.0
+4	Spectrogram 1	1	1140.0	1143.0	0	12000.0	American Crow	amecro	0.1731	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	1140.0
+5	Spectrogram 1	1	1149.0	1152.0	0	12000.0	Common Raven	comrav	0.3331	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	1149.0
+6	Spectrogram 1	1	1212.0	1215.0	0	12000.0	Common Grackle	comgra	0.2304	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	1212.0
+7	Spectrogram 1	1	1626.0	1629.0	0	12000.0	American Crow	amecro	0.6479	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	1626.0
+8	Spectrogram 1	1	1629.0	1632.0	0	12000.0	American Crow	amecro	0.8682	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	1629.0
+9	Spectrogram 1	1	1638.0	1641.0	0	12000.0	American Crow	amecro	0.3733	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	1638.0
+10	Spectrogram 1	1	1641.0	1644.0	0	12000.0	American Crow	amecro	0.2335	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	1641.0
+11	Spectrogram 1	1	1647.0	1650.0	0	12000.0	American Crow	amecro	0.6922	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	1647.0
+12	Spectrogram 1	1	1869.0	1872.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3886	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	1869.0
+13	Spectrogram 1	1	1893.0	1896.0	0	12000.0	American Crow	amecro	0.2996	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	1893.0
+14	Spectrogram 1	1	1896.0	1899.0	0	12000.0	American Crow	amecro	0.2083	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	1896.0
+15	Spectrogram 1	1	1899.0	1902.0	0	12000.0	American Crow	amecro	0.7113	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	1899.0
+16	Spectrogram 1	1	1911.0	1914.0	0	12000.0	American Crow	amecro	0.4755	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	1911.0
+17	Spectrogram 1	1	1926.0	1929.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1302	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	1926.0
+18	Spectrogram 1	1	1944.0	1947.0	0	12000.0	American Crow	amecro	0.7577	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	1944.0
+19	Spectrogram 1	1	1953.0	1956.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2353	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	1953.0
+20	Spectrogram 1	1	1962.0	1965.0	0	12000.0	American Crow	amecro	0.4764	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	1962.0
+21	Spectrogram 1	1	1965.0	1968.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1973	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	1965.0
+22	Spectrogram 1	1	2010.0	2013.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3283	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	2010.0
+23	Spectrogram 1	1	2031.0	2034.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1010	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	2031.0
+24	Spectrogram 1	1	2049.0	2052.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1254	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	2049.0
+25	Spectrogram 1	1	2067.0	2070.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2031	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	2067.0
+26	Spectrogram 1	1	2085.0	2088.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4158	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	2085.0
+27	Spectrogram 1	1	2103.0	2106.0	0	12000.0	Hermit Thrush	herthr	0.3397	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	2103.0
+28	Spectrogram 1	1	2109.0	2112.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1246	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	2109.0
+29	Spectrogram 1	1	2115.0	2118.0	0	12000.0	Swainson's Thrush	swathr	0.1416	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	2115.0
+30	Spectrogram 1	1	2136.0	2139.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.6135	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	2136.0
+31	Spectrogram 1	1	2160.0	2163.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1497	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	2160.0
+32	Spectrogram 1	1	2178.0	2181.0	0	12000.0	Hermit Thrush	herthr	0.1336	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	2178.0
+33	Spectrogram 1	1	2181.0	2184.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2572	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	2181.0
+34	Spectrogram 1	1	2199.0	2202.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1120	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	2199.0
+35	Spectrogram 1	1	2217.0	2220.0	0	12000.0	Black-throated Green Warbler	btnwar	0.4491	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	2217.0
+36	Spectrogram 1	1	2220.0	2223.0	0	12000.0	Hermit Thrush	herthr	0.1655	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	2220.0
+37	Spectrogram 1	1	2226.0	2229.0	0	12000.0	Black-throated Blue Warbler	btbwar	0.3252	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	2226.0
+38	Spectrogram 1	1	2226.0	2229.0	0	12000.0	Black-throated Green Warbler	btnwar	0.1715	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	2226.0
+39	Spectrogram 1	1	2256.0	2259.0	0	12000.0	Black-throated Green Warbler	btnwar	0.8446	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	2256.0
+40	Spectrogram 1	1	2259.0	2262.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3920	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	2259.0
+41	Spectrogram 1	1	2376.0	2379.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2337	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	2376.0
+42	Spectrogram 1	1	2439.0	2442.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1570	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	2439.0
+43	Spectrogram 1	1	2457.0	2460.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2055	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	2457.0
+44	Spectrogram 1	1	2478.0	2481.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1430	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240525_193200.wav	2478.0

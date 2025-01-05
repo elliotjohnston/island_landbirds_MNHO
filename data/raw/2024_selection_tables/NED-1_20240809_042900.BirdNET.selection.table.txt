@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	2574.0	2577.0	0	12000.0	American Crow	amecro	0.1459	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240809_042900.wav	2574.0
+2	Spectrogram 1	1	2583.0	2586.0	0	12000.0	American Crow	amecro	0.1449	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240809_042900.wav	2583.0
+3	Spectrogram 1	1	2655.0	2658.0	0	12000.0	American Crow	amecro	0.1720	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240809_042900.wav	2655.0
+4	Spectrogram 1	1	2658.0	2661.0	0	12000.0	American Crow	amecro	0.1379	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240809_042900.wav	2658.0
+5	Spectrogram 1	1	3429.0	3432.0	0	12000.0	Pileated Woodpecker	pilwoo	0.1445	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240809_042900.wav	3429.0
+6	Spectrogram 1	1	3468.0	3471.0	0	12000.0	Pileated Woodpecker	pilwoo	0.1319	D:/Island_Songbirds_2024/NED-1/Data\NED-1_20240809_042900.wav	3468.0

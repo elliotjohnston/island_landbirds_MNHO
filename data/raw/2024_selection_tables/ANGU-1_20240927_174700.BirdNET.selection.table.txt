@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	0	3.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6808	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240927_174700.wav	0
+2	Spectrogram 1	1	6.0	9.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5325	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240927_174700.wav	6.0
+3	Spectrogram 1	1	9.0	12.0	0	12000.0	Golden-crowned Kinglet	gockin	0.4041	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240927_174700.wav	9.0
+4	Spectrogram 1	1	18.0	21.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2655	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240927_174700.wav	18.0
+5	Spectrogram 1	1	21.0	24.0	0	12000.0	Golden-crowned Kinglet	gockin	0.5021	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240927_174700.wav	21.0
+6	Spectrogram 1	1	30.0	33.0	0	12000.0	Golden-crowned Kinglet	gockin	0.6668	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240927_174700.wav	30.0
+7	Spectrogram 1	1	33.0	36.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3034	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240927_174700.wav	33.0
+8	Spectrogram 1	1	36.0	39.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1316	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240927_174700.wav	36.0
+9	Spectrogram 1	1	36.0	39.0	0	12000.0	Bay-breasted Warbler	babwar	0.1130	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240927_174700.wav	36.0
+10	Spectrogram 1	1	42.0	45.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1678	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240927_174700.wav	42.0
+11	Spectrogram 1	1	51.0	54.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1154	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240927_174700.wav	51.0
+12	Spectrogram 1	1	798.0	801.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3835	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240927_174700.wav	798.0
+13	Spectrogram 1	1	810.0	813.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1313	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240927_174700.wav	810.0
+14	Spectrogram 1	1	822.0	825.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1804	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240927_174700.wav	822.0
+15	Spectrogram 1	1	1242.0	1245.0	0	12000.0	Golden-crowned Kinglet	gockin	0.1409	D:/Island_Songbirds_2024/ANGU-1/Data\ANGU-1_20240927_174700.wav	1242.0

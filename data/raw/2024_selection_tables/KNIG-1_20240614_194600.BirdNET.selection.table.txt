@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	75.0	78.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.1597	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240614_194600.wav	75.0
+2	Spectrogram 1	1	381.0	384.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2549	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240614_194600.wav	381.0
+3	Spectrogram 1	1	669.0	672.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2669	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240614_194600.wav	669.0
+4	Spectrogram 1	1	732.0	735.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.3159	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240614_194600.wav	732.0
+5	Spectrogram 1	1	762.0	765.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4830	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240614_194600.wav	762.0
+6	Spectrogram 1	1	885.0	888.0	0	12000.0	Golden-crowned Kinglet	gockin	0.3706	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240614_194600.wav	885.0
+7	Spectrogram 1	1	906.0	909.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.4016	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240614_194600.wav	906.0
+8	Spectrogram 1	1	1635.0	1638.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.5871	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240614_194600.wav	1635.0
+9	Spectrogram 1	1	1707.0	1710.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.9315	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240614_194600.wav	1707.0
+10	Spectrogram 1	1	1818.0	1821.0	0	12000.0	Yellow-rumped Warbler	yerwar	0.2842	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240614_194600.wav	1818.0
+11	Spectrogram 1	1	1833.0	1836.0	0	12000.0	Swainson's Thrush	swathr	0.1477	D:/Island_Songbirds_2024/KNIG-1/Data\KNIG-1_20240614_194600.wav	1833.0

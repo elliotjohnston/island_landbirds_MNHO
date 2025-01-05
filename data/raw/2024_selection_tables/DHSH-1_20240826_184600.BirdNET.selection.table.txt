@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	876.0	879.0	0	12000.0	Common Raven	comrav	0.1641	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_184600.wav	876.0
+2	Spectrogram 1	1	1353.0	1356.0	0	12000.0	American Redstart	amered	0.1939	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_184600.wav	1353.0
+3	Spectrogram 1	1	1356.0	1359.0	0	12000.0	American Redstart	amered	0.4596	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_184600.wav	1356.0
+4	Spectrogram 1	1	1368.0	1371.0	0	12000.0	Swamp Sparrow	swaspa	0.1505	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_184600.wav	1368.0
+5	Spectrogram 1	1	1389.0	1392.0	0	12000.0	Swamp Sparrow	swaspa	0.3079	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_184600.wav	1389.0
+6	Spectrogram 1	1	1401.0	1404.0	0	12000.0	Swamp Sparrow	swaspa	0.1978	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_184600.wav	1401.0
+7	Spectrogram 1	1	1410.0	1413.0	0	12000.0	Swamp Sparrow	swaspa	0.5600	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_184600.wav	1410.0
+8	Spectrogram 1	1	1425.0	1428.0	0	12000.0	Swamp Sparrow	swaspa	0.1068	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_184600.wav	1425.0
+9	Spectrogram 1	1	1506.0	1509.0	0	12000.0	American Redstart	amered	0.1208	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_184600.wav	1506.0
+10	Spectrogram 1	1	2133.0	2136.0	0	12000.0	Palm Warbler	palwar	0.2681	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_184600.wav	2133.0
+11	Spectrogram 1	1	2139.0	2142.0	0	12000.0	Palm Warbler	palwar	0.1077	D:/Island_Songbirds_2024/DHSH-1/Data\DHSH-1_20240826_184600.wav	2139.0

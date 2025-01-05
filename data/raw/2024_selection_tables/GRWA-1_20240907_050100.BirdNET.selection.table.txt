@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	264.0	267.0	0	12000.0	Tufted Titmouse	tuftit	0.1292	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240907_050100.wav	264.0
+2	Spectrogram 1	1	840.0	843.0	0	12000.0	Great Crested Flycatcher	grcfly	0.1701	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240907_050100.wav	840.0
+3	Spectrogram 1	1	1404.0	1407.0	0	12000.0	Blue Jay	blujay	0.2366	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240907_050100.wav	1404.0
+4	Spectrogram 1	1	1407.0	1410.0	0	12000.0	Blue Jay	blujay	0.1278	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240907_050100.wav	1407.0
+5	Spectrogram 1	1	3126.0	3129.0	0	12000.0	American Crow	amecro	0.6780	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240907_050100.wav	3126.0
+6	Spectrogram 1	1	3141.0	3144.0	0	12000.0	American Crow	amecro	0.1115	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240907_050100.wav	3141.0
+7	Spectrogram 1	1	3150.0	3153.0	0	12000.0	American Crow	amecro	0.2060	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240907_050100.wav	3150.0
+8	Spectrogram 1	1	3348.0	3351.0	0	12000.0	Golden-crowned Kinglet	gockin	0.2280	D:/Island_Songbirds_2024/GRWA-1/Data\GRWA-1_20240907_050100.wav	3348.0
